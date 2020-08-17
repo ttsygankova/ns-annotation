@@ -7,3 +7,14 @@ In low-resource natural language processing (NLP), the key problem is a lack of 
 
 ## Reproducing the results
 
+### Data
+Manually annotated documents, obtained from both non-speaker (NS) and fluent speaker (FS) annotators as a result of the experiment described in the paper are provided in the 'data/' folder, for each of the three languages ised (Indonesian, Russian, Hindi). The 'NS-not-empty' directory only contains pre-processed documents that have annotations in them, while the 'NS' and 'FS' directories may contain documents that annotators were unable to find any annotations in, and hence, are more representitive of the experimental results. 
+
+All annotated documents are stored in JSON format, using the Text Annotation class of [CogComp-NLPy](https://github.com/CogComp/cogcomp-nlpy). To install:
+```
+pip install cython
+pip install ccg_nlpy
+```
+
+### Training NER models using AllenNLP
+
