@@ -23,6 +23,6 @@ We train NER models using the AllenNLP library, and datareaders from the CogComp
 ```
 ./allennlp/run_sample.sh
 ```
-Update the script directly to mainly: 
+Update the script directly to: 
 1. Change train, dev, test paths
 2. Change the random seed used in training
