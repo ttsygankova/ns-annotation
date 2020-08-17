@@ -32,7 +32,7 @@ In order to run the sample script for model training, navigate to the `allennlp`
 ```
 ./run_sample.sh
 ```
-Update the script directly to: 
+Update the `run_sample.sh` script directly to: 
 1. Change train, dev, test paths
 2. Change the random seed used in training
 
