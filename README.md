@@ -20,8 +20,8 @@ The `dev` and `test` sets for each use annotated data from [LORELEI Language Pac
 
 ### Training NER models using [AllenNLP](https://github.com/allenai/allennlp)
 We train NER models using the AllenNLP library, and datareaders from the CogComp `ccg` package to be compatible with the data format. Run the sample script for model training using the following command:
-'''
+```
 ./allennlp/run_sample.sh
-'''
+```
 Update the script directly to expand training to other languages or data paths.
 
