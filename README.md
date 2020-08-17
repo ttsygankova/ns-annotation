@@ -8,7 +8,7 @@ In low-resource natural language processing (NLP), the key problem is a lack of 
 ## Reproducing paper results
 
 ### Data
-Manually annotated documents, obtained from both non-speaker (NS) and fluent speaker (FS) annotators as a result of the experiment described in the paper are provided in the 'data/' folder, for each of the three languages ised (Indonesian, Russian, Hindi). The 'NS-not-empty' directory only contains pre-processed documents that have annotations in them, while the 'NS' and 'FS' directories may contain documents that annotators were unable to find any annotations in, and hence, are more representitive of the experimental results. 
+Manually annotated documents obtained from non-speaker (NS) and fluent speaker (FS) annotators through the experiment described in the paper, are provided in the `data/` folder, for each of the three languages ised (Indonesian, Russian, Hindi). The `NS-not-empty` directory only contains pre-processed documents that have annotations in them, while the `NS` and `FS` directories may contain documents that annotators were unable to find any annotations in, and hence, are more representitive of the experimental results. 
 
 All annotated documents are stored in JSON format, using the Text Annotation class of [CogComp-NLPy](https://github.com/CogComp/cogcomp-nlpy). To install:
 ```
@@ -16,10 +16,10 @@ pip install cython
 pip install ccg_nlpy
 ```
 
-The 'dev' and 'test' sets for each use annotated data from [LORELEI Language Packs](https://www.aclweb.org/anthology/L16-1521/), based on a manual split by the authors. 
+The `dev` and `test` sets for each use annotated data from [LORELEI Language Packs](https://www.aclweb.org/anthology/L16-1521/), based on a manual split by the authors. 
 
 ### Training NER models using [AllenNLP](https://github.com/allenai/allennlp)
-We train NER models using the AllenNLP library, and datareaders from the CogComp 'ccg' package to be compatible with the data format. Run the sample script for model training using the following command:
+We train NER models using the AllenNLP library, and datareaders from the CogComp `ccg` package to be compatible with the data format. Run the sample script for model training using the following command:
 '''
 ./allennlp/run_sample.sh
 '''
