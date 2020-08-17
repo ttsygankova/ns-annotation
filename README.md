@@ -36,4 +36,4 @@ Update the script directly to:
 1. Change train, dev, test paths
 2. Change the random seed used in training
 
-This code assumes you will be training with a GPU. To train without a GPU, edit `configs/ner-mbert.jsonnet` to change "cuda_device" from 0 to -1.
+This code assumes you will be training with a GPU - to train without one, edit `configs/ner-mbert.jsonnet` to change "cuda_device" from 0 to -1.
