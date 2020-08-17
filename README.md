@@ -19,9 +19,10 @@ pip install ccg_nlpy
 The `dev` and `test` sets for each use annotated data from [LORELEI Language Packs](https://www.aclweb.org/anthology/L16-1521/), based on a manual split by the authors. 
 
 ### Training NER models using [AllenNLP](https://github.com/allenai/allennlp)
-We train NER models using the AllenNLP library, and datareaders from the CogComp `ccg` package to be compatible with the data format. Run the sample script for model training using the following command:
+We train NER models using the AllenNLP library, and datareaders from the CogComp `ccg` package to be compatible with the Text Annotation data format. Run the sample script for model training using the following command:
 ```
 ./allennlp/run_sample.sh
 ```
-Update the script directly to expand training to other languages or data paths.
-
+Update the script directly to mainly: 
+1. Change train, dev, test paths
+2. Change the random seed used in training
