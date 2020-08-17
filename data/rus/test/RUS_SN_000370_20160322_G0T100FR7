@@ -1,0 +1,236 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160322_G0T100FR7",
+  "text": "RT @Kisakatami: Эрдоган: Борьба с терроризмом важнее демократии https://t.co/flgM3ktzHg #Гитлер #Турция #демократия #терроризм",
+  "tokens": [
+    "RT",
+    "@Kisakatami:",
+    "Эрдоган",
+    ":",
+    "Борьба",
+    "с",
+    "терроризмом",
+    "важнее",
+    "демократии",
+    "https://t.co/flgM3ktzHg",
+    "#Гитлер",
+    "#Турция",
+    "#демократия",
+    "#терроризм"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@Kisakatami:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Эрдоган",
+      "startCharOffset": 16,
+      "endCharOffset": 23
+    },
+    {
+      "form": ":",
+      "startCharOffset": 23,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Борьба",
+      "startCharOffset": 25,
+      "endCharOffset": 31
+    },
+    {
+      "form": "с",
+      "startCharOffset": 32,
+      "endCharOffset": 33
+    },
+    {
+      "form": "терроризмом",
+      "startCharOffset": 34,
+      "endCharOffset": 45
+    },
+    {
+      "form": "важнее",
+      "startCharOffset": 46,
+      "endCharOffset": 52
+    },
+    {
+      "form": "демократии",
+      "startCharOffset": 53,
+      "endCharOffset": 63
+    },
+    {
+      "form": "https://t.co/flgM3ktzHg",
+      "startCharOffset": 64,
+      "endCharOffset": 87
+    },
+    {
+      "form": "#Гитлер",
+      "startCharOffset": 88,
+      "endCharOffset": 95
+    },
+    {
+      "form": "#Турция",
+      "startCharOffset": 96,
+      "endCharOffset": 103
+    },
+    {
+      "form": "#демократия",
+      "startCharOffset": 104,
+      "endCharOffset": 115
+    },
+    {
+      "form": "#терроризм",
+      "startCharOffset": 116,
+      "endCharOffset": 126
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

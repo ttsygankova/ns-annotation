@@ -1,0 +1,597 @@
+{
+  "corpusId": "",
+  "id": "doc211_IND_SN_000370_20170217_H0T10EUF5",
+  "text": "setiawan_cink [1] Hai, Mas Setiawan. Apabila kartu fisik rusak dan masih aktif, silakan kunjungi GraPARI terdekat dengan membawa SIM card T…",
+  "tokens": [
+    "setiawan_cink",
+    "[",
+    "1",
+    "]",
+    "Hai",
+    ",",
+    "Mas",
+    "Setiawan",
+    ".",
+    "Apabila",
+    "kartu",
+    "fisik",
+    "rusak",
+    "dan",
+    "masih",
+    "aktif",
+    ",",
+    "silakan",
+    "kunjungi",
+    "GraPARI",
+    "terdekat",
+    "dengan",
+    "membawa",
+    "SIM",
+    "card",
+    "T",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "setiawan_cink",
+      "startCharOffset": 0,
+      "endCharOffset": 13
+    },
+    {
+      "form": "[",
+      "startCharOffset": 14,
+      "endCharOffset": 15
+    },
+    {
+      "form": "1",
+      "startCharOffset": 15,
+      "endCharOffset": 16
+    },
+    {
+      "form": "]",
+      "startCharOffset": 16,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Hai",
+      "startCharOffset": 18,
+      "endCharOffset": 21
+    },
+    {
+      "form": ",",
+      "startCharOffset": 21,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Mas",
+      "startCharOffset": 23,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Setiawan",
+      "startCharOffset": 27,
+      "endCharOffset": 35
+    },
+    {
+      "form": ".",
+      "startCharOffset": 35,
+      "endCharOffset": 36
+    },
+    {
+      "form": "Apabila",
+      "startCharOffset": 37,
+      "endCharOffset": 44
+    },
+    {
+      "form": "kartu",
+      "startCharOffset": 45,
+      "endCharOffset": 50
+    },
+    {
+      "form": "fisik",
+      "startCharOffset": 51,
+      "endCharOffset": 56
+    },
+    {
+      "form": "rusak",
+      "startCharOffset": 57,
+      "endCharOffset": 62
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 63,
+      "endCharOffset": 66
+    },
+    {
+      "form": "masih",
+      "startCharOffset": 67,
+      "endCharOffset": 72
+    },
+    {
+      "form": "aktif",
+      "startCharOffset": 73,
+      "endCharOffset": 78
+    },
+    {
+      "form": ",",
+      "startCharOffset": 78,
+      "endCharOffset": 79
+    },
+    {
+      "form": "silakan",
+      "startCharOffset": 80,
+      "endCharOffset": 87
+    },
+    {
+      "form": "kunjungi",
+      "startCharOffset": 88,
+      "endCharOffset": 96
+    },
+    {
+      "form": "GraPARI",
+      "startCharOffset": 97,
+      "endCharOffset": 104
+    },
+    {
+      "form": "terdekat",
+      "startCharOffset": 105,
+      "endCharOffset": 113
+    },
+    {
+      "form": "dengan",
+      "startCharOffset": 114,
+      "endCharOffset": 120
+    },
+    {
+      "form": "membawa",
+      "startCharOffset": 121,
+      "endCharOffset": 128
+    },
+    {
+      "form": "SIM",
+      "startCharOffset": 129,
+      "endCharOffset": 132
+    },
+    {
+      "form": "card",
+      "startCharOffset": 133,
+      "endCharOffset": 137
+    },
+    {
+      "form": "T",
+      "startCharOffset": 138,
+      "endCharOffset": 139
+    },
+    {
+      "form": "…",
+      "startCharOffset": 139,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      27
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "setiawan_cink",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "[",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "1",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "]",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Hai",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Mas",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Setiawan",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Apabila",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "kartu",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "fisik",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "rusak",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "masih",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "aktif",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "silakan",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "kunjungi",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "GraPARI",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "terdekat",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "dengan",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "membawa",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "SIM",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "card",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "T",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

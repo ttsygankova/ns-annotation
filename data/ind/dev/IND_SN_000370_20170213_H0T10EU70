@@ -1,0 +1,388 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170213_H0T10EU70",
+  "text": "Bantuan yg diserahkan Menteri Sosial di Songan. Sila ikut awasi distribusi dan pemanfaatannya. #longsor https://t.co/OnXmZpmmOm",
+  "tokens": [
+    "Bantuan",
+    "yg",
+    "diserahkan",
+    "Menteri",
+    "Sosial",
+    "di",
+    "Songan",
+    ".",
+    "Sila",
+    "ikut",
+    "awasi",
+    "distribusi",
+    "dan",
+    "pemanfaatannya",
+    ".",
+    "#longsor",
+    "https://t.co/OnXmZpmmOm"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Bantuan",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "yg",
+      "startCharOffset": 8,
+      "endCharOffset": 10
+    },
+    {
+      "form": "diserahkan",
+      "startCharOffset": 11,
+      "endCharOffset": 21
+    },
+    {
+      "form": "Menteri",
+      "startCharOffset": 22,
+      "endCharOffset": 29
+    },
+    {
+      "form": "Sosial",
+      "startCharOffset": 30,
+      "endCharOffset": 36
+    },
+    {
+      "form": "di",
+      "startCharOffset": 37,
+      "endCharOffset": 39
+    },
+    {
+      "form": "Songan",
+      "startCharOffset": 40,
+      "endCharOffset": 46
+    },
+    {
+      "form": ".",
+      "startCharOffset": 46,
+      "endCharOffset": 47
+    },
+    {
+      "form": "Sila",
+      "startCharOffset": 48,
+      "endCharOffset": 52
+    },
+    {
+      "form": "ikut",
+      "startCharOffset": 53,
+      "endCharOffset": 57
+    },
+    {
+      "form": "awasi",
+      "startCharOffset": 58,
+      "endCharOffset": 63
+    },
+    {
+      "form": "distribusi",
+      "startCharOffset": 64,
+      "endCharOffset": 74
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 75,
+      "endCharOffset": 78
+    },
+    {
+      "form": "pemanfaatannya",
+      "startCharOffset": 79,
+      "endCharOffset": 93
+    },
+    {
+      "form": ".",
+      "startCharOffset": 93,
+      "endCharOffset": 94
+    },
+    {
+      "form": "#longsor",
+      "startCharOffset": 95,
+      "endCharOffset": 103
+    },
+    {
+      "form": "https://t.co/OnXmZpmmOm",
+      "startCharOffset": 104,
+      "endCharOffset": 127
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Bantuan",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "yg",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "diserahkan",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Menteri",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Sosial",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Songan",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Sila",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "ikut",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "awasi",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "distribusi",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "pemanfaatannya",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "#longsor",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "https://t.co/OnXmZpmmOm",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

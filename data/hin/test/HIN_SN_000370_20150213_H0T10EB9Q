@@ -1,0 +1,236 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150213_H0T10EB9Q",
+  "text": "मांझी के ड्रामे के पीछे मोदी का हाथः नीतीश- Navbharattimes http://t.co/dsN67IyirQ via @NavbharatTimes",
+  "tokens": [
+    "मांझी",
+    "के",
+    "ड्रामे",
+    "के",
+    "पीछे",
+    "मोदी",
+    "का",
+    "हाथः",
+    "नीतीश",
+    "-",
+    "Navbharattimes",
+    "http://t.co/dsN67IyirQ",
+    "via",
+    "@NavbharatTimes"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "मांझी",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "के",
+      "startCharOffset": 6,
+      "endCharOffset": 8
+    },
+    {
+      "form": "ड्रामे",
+      "startCharOffset": 9,
+      "endCharOffset": 15
+    },
+    {
+      "form": "के",
+      "startCharOffset": 16,
+      "endCharOffset": 18
+    },
+    {
+      "form": "पीछे",
+      "startCharOffset": 19,
+      "endCharOffset": 23
+    },
+    {
+      "form": "मोदी",
+      "startCharOffset": 24,
+      "endCharOffset": 28
+    },
+    {
+      "form": "का",
+      "startCharOffset": 29,
+      "endCharOffset": 31
+    },
+    {
+      "form": "हाथः",
+      "startCharOffset": 32,
+      "endCharOffset": 36
+    },
+    {
+      "form": "नीतीश",
+      "startCharOffset": 37,
+      "endCharOffset": 42
+    },
+    {
+      "form": "-",
+      "startCharOffset": 42,
+      "endCharOffset": 43
+    },
+    {
+      "form": "Navbharattimes",
+      "startCharOffset": 44,
+      "endCharOffset": 58
+    },
+    {
+      "form": "http://t.co/dsN67IyirQ",
+      "startCharOffset": 59,
+      "endCharOffset": 81
+    },
+    {
+      "form": "via",
+      "startCharOffset": 82,
+      "endCharOffset": 85
+    },
+    {
+      "form": "@NavbharatTimes",
+      "startCharOffset": 86,
+      "endCharOffset": 101
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

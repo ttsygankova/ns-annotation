@@ -1,0 +1,230 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100GXC",
+  "text": "RT @_lil_debbie_: Ретвит про вред алкоголя, чувствую, как скатываюсь к трезвой жизни https://t.co/1rZrkQGrB7",
+  "tokens": [
+    "RT",
+    "@_lil_debbie_:",
+    "Ретвит",
+    "про",
+    "вред",
+    "алкоголя",
+    ",",
+    "чувствую",
+    ",",
+    "как",
+    "скатываюсь",
+    "к",
+    "трезвой",
+    "жизни",
+    "https://t.co/1rZrkQGrB7"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@_lil_debbie_:",
+      "startCharOffset": 3,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Ретвит",
+      "startCharOffset": 18,
+      "endCharOffset": 24
+    },
+    {
+      "form": "про",
+      "startCharOffset": 25,
+      "endCharOffset": 28
+    },
+    {
+      "form": "вред",
+      "startCharOffset": 29,
+      "endCharOffset": 33
+    },
+    {
+      "form": "алкоголя",
+      "startCharOffset": 34,
+      "endCharOffset": 42
+    },
+    {
+      "form": ",",
+      "startCharOffset": 42,
+      "endCharOffset": 43
+    },
+    {
+      "form": "чувствую",
+      "startCharOffset": 44,
+      "endCharOffset": 52
+    },
+    {
+      "form": ",",
+      "startCharOffset": 52,
+      "endCharOffset": 53
+    },
+    {
+      "form": "как",
+      "startCharOffset": 54,
+      "endCharOffset": 57
+    },
+    {
+      "form": "скатываюсь",
+      "startCharOffset": 58,
+      "endCharOffset": 68
+    },
+    {
+      "form": "к",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "трезвой",
+      "startCharOffset": 71,
+      "endCharOffset": 78
+    },
+    {
+      "form": "жизни",
+      "startCharOffset": 79,
+      "endCharOffset": 84
+    },
+    {
+      "form": "https://t.co/1rZrkQGrB7",
+      "startCharOffset": 85,
+      "endCharOffset": 108
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

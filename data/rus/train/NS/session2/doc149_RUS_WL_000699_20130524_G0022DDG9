@@ -1,0 +1,2021 @@
+{
+  "corpusId": "",
+  "id": "doc149_RUS_WL_000699_20130524_G0022DDG9",
+  "text": "Землетрясение в Охотском море.  Землетрясение магнитудой 8.2 балла произошло утром 24 мая в Охотском море. Эпицентр землетрясения находился на глубине 600 км. под толщей воды. Угроза цунами была велика, в связи с чем МЧС была объявлена эвакуация у берегов Сахалина и Курильских островов. Жителям было предложено подняться на возвышенности. Худшего варианта развития событий не произошло. Подземные толчки затихли. Угрозы с моря не ожидается. Разрушений и пострадавших нет. В Геофизической службе РАН объяснили, что произошло смещение пластов на 50 микрон в вертикальном направлении. Остаточные явления землетрясения \"прокатились\" по многим городам России. В Москве, Санкт-Петербурге и Туле отдельные здания подверглись значительной вибрации, в связи с чем была проведена предупреждающая эвакуация людей. Повторное землетрясение в Охотском море магнитудой 6.8 баллов произошло вечером. Толчки на поверхности земли отсутствовали. Сейсмоприборы ухудшения ситуации не фиксируют.",
+  "tokens": [
+    "Землетрясение",
+    "в",
+    "Охотском",
+    "море",
+    ".",
+    "Землетрясение",
+    "магнитудой",
+    "8.2",
+    "балла",
+    "произошло",
+    "утром",
+    "24",
+    "мая",
+    "в",
+    "Охотском",
+    "море",
+    ".",
+    "Эпицентр",
+    "землетрясения",
+    "находился",
+    "на",
+    "глубине",
+    "600",
+    "км",
+    ".",
+    "под",
+    "толщей",
+    "воды",
+    ".",
+    "Угроза",
+    "цунами",
+    "была",
+    "велика",
+    ",",
+    "в",
+    "связи",
+    "с",
+    "чем",
+    "МЧС",
+    "была",
+    "объявлена",
+    "эвакуация",
+    "у",
+    "берегов",
+    "Сахалина",
+    "и",
+    "Курильских",
+    "островов",
+    ".",
+    "Жителям",
+    "было",
+    "предложено",
+    "подняться",
+    "на",
+    "возвышенности",
+    ".",
+    "Худшего",
+    "варианта",
+    "развития",
+    "событий",
+    "не",
+    "произошло",
+    ".",
+    "Подземные",
+    "толчки",
+    "затихли",
+    ".",
+    "Угрозы",
+    "с",
+    "моря",
+    "не",
+    "ожидается",
+    ".",
+    "Разрушений",
+    "и",
+    "пострадавших",
+    "нет",
+    ".",
+    "В",
+    "Геофизической",
+    "службе",
+    "РАН",
+    "объяснили",
+    ",",
+    "что",
+    "произошло",
+    "смещение",
+    "пластов",
+    "на",
+    "50",
+    "микрон",
+    "в",
+    "вертикальном",
+    "направлении",
+    ".",
+    "Остаточные",
+    "явления",
+    "землетрясения",
+    "\"",
+    "прокатились",
+    "\"",
+    "по",
+    "многим",
+    "городам",
+    "России",
+    ".",
+    "В",
+    "Москве",
+    ",",
+    "Санкт-Петербурге",
+    "и",
+    "Туле",
+    "отдельные",
+    "здания",
+    "подверглись",
+    "значительной",
+    "вибрации",
+    ",",
+    "в",
+    "связи",
+    "с",
+    "чем",
+    "была",
+    "проведена",
+    "предупреждающая",
+    "эвакуация",
+    "людей",
+    ".",
+    "Повторное",
+    "землетрясение",
+    "в",
+    "Охотском",
+    "море",
+    "магнитудой",
+    "6.8",
+    "баллов",
+    "произошло",
+    "вечером",
+    ".",
+    "Толчки",
+    "на",
+    "поверхности",
+    "земли",
+    "отсутствовали",
+    ".",
+    "Сейсмоприборы",
+    "ухудшения",
+    "ситуации",
+    "не",
+    "фиксируют",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Землетрясение",
+      "startCharOffset": 0,
+      "endCharOffset": 13
+    },
+    {
+      "form": "в",
+      "startCharOffset": 14,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Охотском",
+      "startCharOffset": 16,
+      "endCharOffset": 24
+    },
+    {
+      "form": "море",
+      "startCharOffset": 25,
+      "endCharOffset": 29
+    },
+    {
+      "form": ".",
+      "startCharOffset": 29,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Землетрясение",
+      "startCharOffset": 32,
+      "endCharOffset": 45
+    },
+    {
+      "form": "магнитудой",
+      "startCharOffset": 46,
+      "endCharOffset": 56
+    },
+    {
+      "form": "8.2",
+      "startCharOffset": 57,
+      "endCharOffset": 60
+    },
+    {
+      "form": "балла",
+      "startCharOffset": 61,
+      "endCharOffset": 66
+    },
+    {
+      "form": "произошло",
+      "startCharOffset": 67,
+      "endCharOffset": 76
+    },
+    {
+      "form": "утром",
+      "startCharOffset": 77,
+      "endCharOffset": 82
+    },
+    {
+      "form": "24",
+      "startCharOffset": 83,
+      "endCharOffset": 85
+    },
+    {
+      "form": "мая",
+      "startCharOffset": 86,
+      "endCharOffset": 89
+    },
+    {
+      "form": "в",
+      "startCharOffset": 90,
+      "endCharOffset": 91
+    },
+    {
+      "form": "Охотском",
+      "startCharOffset": 92,
+      "endCharOffset": 100
+    },
+    {
+      "form": "море",
+      "startCharOffset": 101,
+      "endCharOffset": 105
+    },
+    {
+      "form": ".",
+      "startCharOffset": 105,
+      "endCharOffset": 106
+    },
+    {
+      "form": "Эпицентр",
+      "startCharOffset": 107,
+      "endCharOffset": 115
+    },
+    {
+      "form": "землетрясения",
+      "startCharOffset": 116,
+      "endCharOffset": 129
+    },
+    {
+      "form": "находился",
+      "startCharOffset": 130,
+      "endCharOffset": 139
+    },
+    {
+      "form": "на",
+      "startCharOffset": 140,
+      "endCharOffset": 142
+    },
+    {
+      "form": "глубине",
+      "startCharOffset": 143,
+      "endCharOffset": 150
+    },
+    {
+      "form": "600",
+      "startCharOffset": 151,
+      "endCharOffset": 154
+    },
+    {
+      "form": "км",
+      "startCharOffset": 155,
+      "endCharOffset": 157
+    },
+    {
+      "form": ".",
+      "startCharOffset": 157,
+      "endCharOffset": 158
+    },
+    {
+      "form": "под",
+      "startCharOffset": 159,
+      "endCharOffset": 162
+    },
+    {
+      "form": "толщей",
+      "startCharOffset": 163,
+      "endCharOffset": 169
+    },
+    {
+      "form": "воды",
+      "startCharOffset": 170,
+      "endCharOffset": 174
+    },
+    {
+      "form": ".",
+      "startCharOffset": 174,
+      "endCharOffset": 175
+    },
+    {
+      "form": "Угроза",
+      "startCharOffset": 176,
+      "endCharOffset": 182
+    },
+    {
+      "form": "цунами",
+      "startCharOffset": 183,
+      "endCharOffset": 189
+    },
+    {
+      "form": "была",
+      "startCharOffset": 190,
+      "endCharOffset": 194
+    },
+    {
+      "form": "велика",
+      "startCharOffset": 195,
+      "endCharOffset": 201
+    },
+    {
+      "form": ",",
+      "startCharOffset": 201,
+      "endCharOffset": 202
+    },
+    {
+      "form": "в",
+      "startCharOffset": 203,
+      "endCharOffset": 204
+    },
+    {
+      "form": "связи",
+      "startCharOffset": 205,
+      "endCharOffset": 210
+    },
+    {
+      "form": "с",
+      "startCharOffset": 211,
+      "endCharOffset": 212
+    },
+    {
+      "form": "чем",
+      "startCharOffset": 213,
+      "endCharOffset": 216
+    },
+    {
+      "form": "МЧС",
+      "startCharOffset": 217,
+      "endCharOffset": 220
+    },
+    {
+      "form": "была",
+      "startCharOffset": 221,
+      "endCharOffset": 225
+    },
+    {
+      "form": "объявлена",
+      "startCharOffset": 226,
+      "endCharOffset": 235
+    },
+    {
+      "form": "эвакуация",
+      "startCharOffset": 236,
+      "endCharOffset": 245
+    },
+    {
+      "form": "у",
+      "startCharOffset": 246,
+      "endCharOffset": 247
+    },
+    {
+      "form": "берегов",
+      "startCharOffset": 248,
+      "endCharOffset": 255
+    },
+    {
+      "form": "Сахалина",
+      "startCharOffset": 256,
+      "endCharOffset": 264
+    },
+    {
+      "form": "и",
+      "startCharOffset": 265,
+      "endCharOffset": 266
+    },
+    {
+      "form": "Курильских",
+      "startCharOffset": 267,
+      "endCharOffset": 277
+    },
+    {
+      "form": "островов",
+      "startCharOffset": 278,
+      "endCharOffset": 286
+    },
+    {
+      "form": ".",
+      "startCharOffset": 286,
+      "endCharOffset": 287
+    },
+    {
+      "form": "Жителям",
+      "startCharOffset": 288,
+      "endCharOffset": 295
+    },
+    {
+      "form": "было",
+      "startCharOffset": 296,
+      "endCharOffset": 300
+    },
+    {
+      "form": "предложено",
+      "startCharOffset": 301,
+      "endCharOffset": 311
+    },
+    {
+      "form": "подняться",
+      "startCharOffset": 312,
+      "endCharOffset": 321
+    },
+    {
+      "form": "на",
+      "startCharOffset": 322,
+      "endCharOffset": 324
+    },
+    {
+      "form": "возвышенности",
+      "startCharOffset": 325,
+      "endCharOffset": 338
+    },
+    {
+      "form": ".",
+      "startCharOffset": 338,
+      "endCharOffset": 339
+    },
+    {
+      "form": "Худшего",
+      "startCharOffset": 340,
+      "endCharOffset": 347
+    },
+    {
+      "form": "варианта",
+      "startCharOffset": 348,
+      "endCharOffset": 356
+    },
+    {
+      "form": "развития",
+      "startCharOffset": 357,
+      "endCharOffset": 365
+    },
+    {
+      "form": "событий",
+      "startCharOffset": 366,
+      "endCharOffset": 373
+    },
+    {
+      "form": "не",
+      "startCharOffset": 374,
+      "endCharOffset": 376
+    },
+    {
+      "form": "произошло",
+      "startCharOffset": 377,
+      "endCharOffset": 386
+    },
+    {
+      "form": ".",
+      "startCharOffset": 386,
+      "endCharOffset": 387
+    },
+    {
+      "form": "Подземные",
+      "startCharOffset": 388,
+      "endCharOffset": 397
+    },
+    {
+      "form": "толчки",
+      "startCharOffset": 398,
+      "endCharOffset": 404
+    },
+    {
+      "form": "затихли",
+      "startCharOffset": 405,
+      "endCharOffset": 412
+    },
+    {
+      "form": ".",
+      "startCharOffset": 412,
+      "endCharOffset": 413
+    },
+    {
+      "form": "Угрозы",
+      "startCharOffset": 414,
+      "endCharOffset": 420
+    },
+    {
+      "form": "с",
+      "startCharOffset": 421,
+      "endCharOffset": 422
+    },
+    {
+      "form": "моря",
+      "startCharOffset": 423,
+      "endCharOffset": 427
+    },
+    {
+      "form": "не",
+      "startCharOffset": 428,
+      "endCharOffset": 430
+    },
+    {
+      "form": "ожидается",
+      "startCharOffset": 431,
+      "endCharOffset": 440
+    },
+    {
+      "form": ".",
+      "startCharOffset": 440,
+      "endCharOffset": 441
+    },
+    {
+      "form": "Разрушений",
+      "startCharOffset": 442,
+      "endCharOffset": 452
+    },
+    {
+      "form": "и",
+      "startCharOffset": 453,
+      "endCharOffset": 454
+    },
+    {
+      "form": "пострадавших",
+      "startCharOffset": 455,
+      "endCharOffset": 467
+    },
+    {
+      "form": "нет",
+      "startCharOffset": 468,
+      "endCharOffset": 471
+    },
+    {
+      "form": ".",
+      "startCharOffset": 471,
+      "endCharOffset": 472
+    },
+    {
+      "form": "В",
+      "startCharOffset": 473,
+      "endCharOffset": 474
+    },
+    {
+      "form": "Геофизической",
+      "startCharOffset": 475,
+      "endCharOffset": 488
+    },
+    {
+      "form": "службе",
+      "startCharOffset": 489,
+      "endCharOffset": 495
+    },
+    {
+      "form": "РАН",
+      "startCharOffset": 496,
+      "endCharOffset": 499
+    },
+    {
+      "form": "объяснили",
+      "startCharOffset": 500,
+      "endCharOffset": 509
+    },
+    {
+      "form": ",",
+      "startCharOffset": 509,
+      "endCharOffset": 510
+    },
+    {
+      "form": "что",
+      "startCharOffset": 511,
+      "endCharOffset": 514
+    },
+    {
+      "form": "произошло",
+      "startCharOffset": 515,
+      "endCharOffset": 524
+    },
+    {
+      "form": "смещение",
+      "startCharOffset": 525,
+      "endCharOffset": 533
+    },
+    {
+      "form": "пластов",
+      "startCharOffset": 534,
+      "endCharOffset": 541
+    },
+    {
+      "form": "на",
+      "startCharOffset": 542,
+      "endCharOffset": 544
+    },
+    {
+      "form": "50",
+      "startCharOffset": 545,
+      "endCharOffset": 547
+    },
+    {
+      "form": "микрон",
+      "startCharOffset": 548,
+      "endCharOffset": 554
+    },
+    {
+      "form": "в",
+      "startCharOffset": 555,
+      "endCharOffset": 556
+    },
+    {
+      "form": "вертикальном",
+      "startCharOffset": 557,
+      "endCharOffset": 569
+    },
+    {
+      "form": "направлении",
+      "startCharOffset": 570,
+      "endCharOffset": 581
+    },
+    {
+      "form": ".",
+      "startCharOffset": 581,
+      "endCharOffset": 582
+    },
+    {
+      "form": "Остаточные",
+      "startCharOffset": 583,
+      "endCharOffset": 593
+    },
+    {
+      "form": "явления",
+      "startCharOffset": 594,
+      "endCharOffset": 601
+    },
+    {
+      "form": "землетрясения",
+      "startCharOffset": 602,
+      "endCharOffset": 615
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 616,
+      "endCharOffset": 617
+    },
+    {
+      "form": "прокатились",
+      "startCharOffset": 617,
+      "endCharOffset": 628
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 628,
+      "endCharOffset": 629
+    },
+    {
+      "form": "по",
+      "startCharOffset": 630,
+      "endCharOffset": 632
+    },
+    {
+      "form": "многим",
+      "startCharOffset": 633,
+      "endCharOffset": 639
+    },
+    {
+      "form": "городам",
+      "startCharOffset": 640,
+      "endCharOffset": 647
+    },
+    {
+      "form": "России",
+      "startCharOffset": 648,
+      "endCharOffset": 654
+    },
+    {
+      "form": ".",
+      "startCharOffset": 654,
+      "endCharOffset": 655
+    },
+    {
+      "form": "В",
+      "startCharOffset": 656,
+      "endCharOffset": 657
+    },
+    {
+      "form": "Москве",
+      "startCharOffset": 658,
+      "endCharOffset": 664
+    },
+    {
+      "form": ",",
+      "startCharOffset": 664,
+      "endCharOffset": 665
+    },
+    {
+      "form": "Санкт-Петербурге",
+      "startCharOffset": 666,
+      "endCharOffset": 682
+    },
+    {
+      "form": "и",
+      "startCharOffset": 683,
+      "endCharOffset": 684
+    },
+    {
+      "form": "Туле",
+      "startCharOffset": 685,
+      "endCharOffset": 689
+    },
+    {
+      "form": "отдельные",
+      "startCharOffset": 690,
+      "endCharOffset": 699
+    },
+    {
+      "form": "здания",
+      "startCharOffset": 700,
+      "endCharOffset": 706
+    },
+    {
+      "form": "подверглись",
+      "startCharOffset": 707,
+      "endCharOffset": 718
+    },
+    {
+      "form": "значительной",
+      "startCharOffset": 719,
+      "endCharOffset": 731
+    },
+    {
+      "form": "вибрации",
+      "startCharOffset": 732,
+      "endCharOffset": 740
+    },
+    {
+      "form": ",",
+      "startCharOffset": 740,
+      "endCharOffset": 741
+    },
+    {
+      "form": "в",
+      "startCharOffset": 742,
+      "endCharOffset": 743
+    },
+    {
+      "form": "связи",
+      "startCharOffset": 744,
+      "endCharOffset": 749
+    },
+    {
+      "form": "с",
+      "startCharOffset": 750,
+      "endCharOffset": 751
+    },
+    {
+      "form": "чем",
+      "startCharOffset": 752,
+      "endCharOffset": 755
+    },
+    {
+      "form": "была",
+      "startCharOffset": 756,
+      "endCharOffset": 760
+    },
+    {
+      "form": "проведена",
+      "startCharOffset": 761,
+      "endCharOffset": 770
+    },
+    {
+      "form": "предупреждающая",
+      "startCharOffset": 771,
+      "endCharOffset": 786
+    },
+    {
+      "form": "эвакуация",
+      "startCharOffset": 787,
+      "endCharOffset": 796
+    },
+    {
+      "form": "людей",
+      "startCharOffset": 797,
+      "endCharOffset": 802
+    },
+    {
+      "form": ".",
+      "startCharOffset": 802,
+      "endCharOffset": 803
+    },
+    {
+      "form": "Повторное",
+      "startCharOffset": 804,
+      "endCharOffset": 813
+    },
+    {
+      "form": "землетрясение",
+      "startCharOffset": 814,
+      "endCharOffset": 827
+    },
+    {
+      "form": "в",
+      "startCharOffset": 828,
+      "endCharOffset": 829
+    },
+    {
+      "form": "Охотском",
+      "startCharOffset": 830,
+      "endCharOffset": 838
+    },
+    {
+      "form": "море",
+      "startCharOffset": 839,
+      "endCharOffset": 843
+    },
+    {
+      "form": "магнитудой",
+      "startCharOffset": 844,
+      "endCharOffset": 854
+    },
+    {
+      "form": "6.8",
+      "startCharOffset": 855,
+      "endCharOffset": 858
+    },
+    {
+      "form": "баллов",
+      "startCharOffset": 859,
+      "endCharOffset": 865
+    },
+    {
+      "form": "произошло",
+      "startCharOffset": 866,
+      "endCharOffset": 875
+    },
+    {
+      "form": "вечером",
+      "startCharOffset": 876,
+      "endCharOffset": 883
+    },
+    {
+      "form": ".",
+      "startCharOffset": 883,
+      "endCharOffset": 884
+    },
+    {
+      "form": "Толчки",
+      "startCharOffset": 885,
+      "endCharOffset": 891
+    },
+    {
+      "form": "на",
+      "startCharOffset": 892,
+      "endCharOffset": 894
+    },
+    {
+      "form": "поверхности",
+      "startCharOffset": 895,
+      "endCharOffset": 906
+    },
+    {
+      "form": "земли",
+      "startCharOffset": 907,
+      "endCharOffset": 912
+    },
+    {
+      "form": "отсутствовали",
+      "startCharOffset": 913,
+      "endCharOffset": 926
+    },
+    {
+      "form": ".",
+      "startCharOffset": 926,
+      "endCharOffset": 927
+    },
+    {
+      "form": "Сейсмоприборы",
+      "startCharOffset": 928,
+      "endCharOffset": 941
+    },
+    {
+      "form": "ухудшения",
+      "startCharOffset": 942,
+      "endCharOffset": 951
+    },
+    {
+      "form": "ситуации",
+      "startCharOffset": 952,
+      "endCharOffset": 960
+    },
+    {
+      "form": "не",
+      "startCharOffset": 961,
+      "endCharOffset": 963
+    },
+    {
+      "form": "фиксируют",
+      "startCharOffset": 964,
+      "endCharOffset": 973
+    },
+    {
+      "form": ".",
+      "startCharOffset": 973,
+      "endCharOffset": 974
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      5,
+      17,
+      25,
+      29,
+      49,
+      56,
+      63,
+      67,
+      73,
+      78,
+      95,
+      106,
+      128,
+      139,
+      145,
+      151
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 2,
+              "end": 4
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 14,
+              "end": 16
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 46,
+              "end": 48
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 79,
+              "end": 82
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 131,
+              "end": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

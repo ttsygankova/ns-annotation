@@ -1,0 +1,266 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150110_H0T10EB1L",
+  "text": "RT @MumbaikiGirl: पूर्ण बहुमत, सम्पूर्ण विकास! दिल्ली चले मोदी के साथ! #DelhiWithModi http://t.co/Qfh1XtjoUW",
+  "tokens": [
+    "RT",
+    "@MumbaikiGirl:",
+    "पूर्ण",
+    "बहुमत",
+    ",",
+    "सम्पूर्ण",
+    "विकास",
+    "!",
+    "दिल्ली",
+    "चले",
+    "मोदी",
+    "के",
+    "साथ",
+    "!",
+    "#DelhiWithModi",
+    "http://t.co/Qfh1XtjoUW"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@MumbaikiGirl:",
+      "startCharOffset": 3,
+      "endCharOffset": 17
+    },
+    {
+      "form": "पूर्ण",
+      "startCharOffset": 18,
+      "endCharOffset": 23
+    },
+    {
+      "form": "बहुमत",
+      "startCharOffset": 24,
+      "endCharOffset": 29
+    },
+    {
+      "form": ",",
+      "startCharOffset": 29,
+      "endCharOffset": 30
+    },
+    {
+      "form": "सम्पूर्ण",
+      "startCharOffset": 31,
+      "endCharOffset": 39
+    },
+    {
+      "form": "विकास",
+      "startCharOffset": 40,
+      "endCharOffset": 45
+    },
+    {
+      "form": "!",
+      "startCharOffset": 45,
+      "endCharOffset": 46
+    },
+    {
+      "form": "दिल्ली",
+      "startCharOffset": 47,
+      "endCharOffset": 53
+    },
+    {
+      "form": "चले",
+      "startCharOffset": 54,
+      "endCharOffset": 57
+    },
+    {
+      "form": "मोदी",
+      "startCharOffset": 58,
+      "endCharOffset": 62
+    },
+    {
+      "form": "के",
+      "startCharOffset": 63,
+      "endCharOffset": 65
+    },
+    {
+      "form": "साथ",
+      "startCharOffset": 66,
+      "endCharOffset": 69
+    },
+    {
+      "form": "!",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "#DelhiWithModi",
+      "startCharOffset": 71,
+      "endCharOffset": 85
+    },
+    {
+      "form": "http://t.co/Qfh1XtjoUW",
+      "startCharOffset": 86,
+      "endCharOffset": 108
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

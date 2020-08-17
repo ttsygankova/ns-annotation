@@ -1,0 +1,292 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170213_H0T10EU77",
+  "text": "RT @KedahTawakal: Ahok Kembali Jadi Gubernur, Jakarta Langsung Banjir https://t.co/fdxxm50Wbi",
+  "tokens": [
+    "RT",
+    "@KedahTawakal:",
+    "Ahok",
+    "Kembali",
+    "Jadi",
+    "Gubernur",
+    ",",
+    "Jakarta",
+    "Langsung",
+    "Banjir",
+    "https://t.co/fdxxm50Wbi"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@KedahTawakal:",
+      "startCharOffset": 3,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Ahok",
+      "startCharOffset": 18,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Kembali",
+      "startCharOffset": 23,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Jadi",
+      "startCharOffset": 31,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Gubernur",
+      "startCharOffset": 36,
+      "endCharOffset": 44
+    },
+    {
+      "form": ",",
+      "startCharOffset": 44,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Jakarta",
+      "startCharOffset": 46,
+      "endCharOffset": 53
+    },
+    {
+      "form": "Langsung",
+      "startCharOffset": 54,
+      "endCharOffset": 62
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 63,
+      "endCharOffset": 69
+    },
+    {
+      "form": "https://t.co/fdxxm50Wbi",
+      "startCharOffset": 70,
+      "endCharOffset": 93
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@KedahTawakal:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Ahok",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Kembali",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Jadi",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Gubernur",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Jakarta",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Langsung",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/fdxxm50Wbi",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

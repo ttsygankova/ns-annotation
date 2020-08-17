@@ -1,0 +1,214 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170519_H0T10G1Z4",
+  "text": "Haji Uma Kunjungi Pengungsi Barak Bakoy https://t.co/X5FKlOvqQp",
+  "tokens": [
+    "Haji",
+    "Uma",
+    "Kunjungi",
+    "Pengungsi",
+    "Barak",
+    "Bakoy",
+    "https://t.co/X5FKlOvqQp"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Haji",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "Uma",
+      "startCharOffset": 5,
+      "endCharOffset": 8
+    },
+    {
+      "form": "Kunjungi",
+      "startCharOffset": 9,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Pengungsi",
+      "startCharOffset": 18,
+      "endCharOffset": 27
+    },
+    {
+      "form": "Barak",
+      "startCharOffset": 28,
+      "endCharOffset": 33
+    },
+    {
+      "form": "Bakoy",
+      "startCharOffset": 34,
+      "endCharOffset": 39
+    },
+    {
+      "form": "https://t.co/X5FKlOvqQp",
+      "startCharOffset": 40,
+      "endCharOffset": 63
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      7
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 4,
+              "end": 6
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Haji",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Uma",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Kunjungi",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Pengungsi",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Barak",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Bakoy",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "https://t.co/X5FKlOvqQp",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

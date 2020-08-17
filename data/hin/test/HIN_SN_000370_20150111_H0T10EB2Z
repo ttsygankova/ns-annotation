@@ -1,0 +1,194 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150111_H0T10EB2Z",
+  "text": "महिन्द्रा मोजो 300 : युवाओं को नए साल का तोहफा http://t.co/hJS8btVtIe http://t.co/ffCTiiu1cz",
+  "tokens": [
+    "महिन्द्रा",
+    "मोजो",
+    "300",
+    ":",
+    "युवाओं",
+    "को",
+    "नए",
+    "साल",
+    "का",
+    "तोहफा",
+    "http://t.co/hJS8btVtIe",
+    "http://t.co/ffCTiiu1cz"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "महिन्द्रा",
+      "startCharOffset": 0,
+      "endCharOffset": 9
+    },
+    {
+      "form": "मोजो",
+      "startCharOffset": 10,
+      "endCharOffset": 14
+    },
+    {
+      "form": "300",
+      "startCharOffset": 15,
+      "endCharOffset": 18
+    },
+    {
+      "form": ":",
+      "startCharOffset": 19,
+      "endCharOffset": 20
+    },
+    {
+      "form": "युवाओं",
+      "startCharOffset": 21,
+      "endCharOffset": 27
+    },
+    {
+      "form": "को",
+      "startCharOffset": 28,
+      "endCharOffset": 30
+    },
+    {
+      "form": "नए",
+      "startCharOffset": 31,
+      "endCharOffset": 33
+    },
+    {
+      "form": "साल",
+      "startCharOffset": 34,
+      "endCharOffset": 37
+    },
+    {
+      "form": "का",
+      "startCharOffset": 38,
+      "endCharOffset": 40
+    },
+    {
+      "form": "तोहफा",
+      "startCharOffset": 41,
+      "endCharOffset": 46
+    },
+    {
+      "form": "http://t.co/hJS8btVtIe",
+      "startCharOffset": 47,
+      "endCharOffset": 69
+    },
+    {
+      "form": "http://t.co/ffCTiiu1cz",
+      "startCharOffset": 70,
+      "endCharOffset": 92
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

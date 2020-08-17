@@ -1,0 +1,435 @@
+{
+  "corpusId": "",
+  "id": "doc108_HIN_SN_000370_20150731_H0T10ED7K",
+  "text": "RT @ShashiTharoor: गुरु ब्रहमा-गरु विश्नु-गुरु देवो महेश्वर गुरुर शाक्शात परब्रहमा तसमय श्री गुरुवे नमः गुरुपूर्णिमा की शुभकामनाएँ.",
+  "tokens": [
+    "RT",
+    "@ShashiTharoor:",
+    "गुरु",
+    "ब्रहमा-गरु",
+    "विश्नु-गुरु",
+    "देवो",
+    "महेश्वर",
+    "गुरुर",
+    "शाक्शात",
+    "परब्रहमा",
+    "तसमय",
+    "श्री",
+    "गुरुवे",
+    "नमः",
+    "गुरुपूर्णिमा",
+    "की",
+    "शुभकामनाएँ",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@ShashiTharoor:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "गुरु",
+      "startCharOffset": 19,
+      "endCharOffset": 23
+    },
+    {
+      "form": "ब्रहमा-गरु",
+      "startCharOffset": 24,
+      "endCharOffset": 34
+    },
+    {
+      "form": "विश्नु-गुरु",
+      "startCharOffset": 35,
+      "endCharOffset": 46
+    },
+    {
+      "form": "देवो",
+      "startCharOffset": 47,
+      "endCharOffset": 51
+    },
+    {
+      "form": "महेश्वर",
+      "startCharOffset": 52,
+      "endCharOffset": 59
+    },
+    {
+      "form": "गुरुर",
+      "startCharOffset": 60,
+      "endCharOffset": 65
+    },
+    {
+      "form": "शाक्शात",
+      "startCharOffset": 66,
+      "endCharOffset": 73
+    },
+    {
+      "form": "परब्रहमा",
+      "startCharOffset": 74,
+      "endCharOffset": 82
+    },
+    {
+      "form": "तसमय",
+      "startCharOffset": 83,
+      "endCharOffset": 87
+    },
+    {
+      "form": "श्री",
+      "startCharOffset": 88,
+      "endCharOffset": 92
+    },
+    {
+      "form": "गुरुवे",
+      "startCharOffset": 93,
+      "endCharOffset": 99
+    },
+    {
+      "form": "नमः",
+      "startCharOffset": 100,
+      "endCharOffset": 103
+    },
+    {
+      "form": "गुरुपूर्णिमा",
+      "startCharOffset": 104,
+      "endCharOffset": 116
+    },
+    {
+      "form": "की",
+      "startCharOffset": 117,
+      "endCharOffset": 119
+    },
+    {
+      "form": "शुभकामनाएँ",
+      "startCharOffset": 120,
+      "endCharOffset": 130
+    },
+    {
+      "form": ".",
+      "startCharOffset": 130,
+      "endCharOffset": 131
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@ShashiTharoor:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "guru",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "brahamaa-garu",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "vishnu-guru",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "devo",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "maheshvar",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "gurur",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "shaakshaat",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "parabrahamaa",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "tasamaya",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "shrii",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "guruve",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "namah",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "gurupuurnnimaa",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "kii",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "shubhakaamanaaem",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

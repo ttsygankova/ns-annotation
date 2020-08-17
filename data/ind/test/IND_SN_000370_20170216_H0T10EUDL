@@ -1,0 +1,250 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170216_H0T10EUDL",
+  "text": "@info - Dua orang diamankan karena rusak TPS Pilkada",
+  "tokens": [
+    "@info",
+    "-",
+    "Dua",
+    "orang",
+    "diamankan",
+    "karena",
+    "rusak",
+    "TPS",
+    "Pilkada"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@info",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "-",
+      "startCharOffset": 6,
+      "endCharOffset": 7
+    },
+    {
+      "form": "Dua",
+      "startCharOffset": 8,
+      "endCharOffset": 11
+    },
+    {
+      "form": "orang",
+      "startCharOffset": 12,
+      "endCharOffset": 17
+    },
+    {
+      "form": "diamankan",
+      "startCharOffset": 18,
+      "endCharOffset": 27
+    },
+    {
+      "form": "karena",
+      "startCharOffset": 28,
+      "endCharOffset": 34
+    },
+    {
+      "form": "rusak",
+      "startCharOffset": 35,
+      "endCharOffset": 40
+    },
+    {
+      "form": "TPS",
+      "startCharOffset": 41,
+      "endCharOffset": 44
+    },
+    {
+      "form": "Pilkada",
+      "startCharOffset": 45,
+      "endCharOffset": 52
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      9
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 7,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "@info",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "-",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Dua",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "orang",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "diamankan",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "karena",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "rusak",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "TPS",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Pilkada",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

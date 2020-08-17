@@ -1,0 +1,417 @@
+{
+  "corpusId": "",
+  "id": "doc174_IND_SN_000370_20170221_H0T10EUL2",
+  "text": "Dr Taman Kota menuju Kalideres byk kendaraan kejebak banjir, Bknnya Jakarta gak ada banjir ya https://t.co/CeuZjUkMTz",
+  "tokens": [
+    "Dr",
+    "Taman",
+    "Kota",
+    "menuju",
+    "Kalideres",
+    "byk",
+    "kendaraan",
+    "kejebak",
+    "banjir",
+    ",",
+    "Bknnya",
+    "Jakarta",
+    "gak",
+    "ada",
+    "banjir",
+    "ya",
+    "https://t.co/CeuZjUkMTz"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Dr",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "Taman",
+      "startCharOffset": 3,
+      "endCharOffset": 8
+    },
+    {
+      "form": "Kota",
+      "startCharOffset": 9,
+      "endCharOffset": 13
+    },
+    {
+      "form": "menuju",
+      "startCharOffset": 14,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Kalideres",
+      "startCharOffset": 21,
+      "endCharOffset": 30
+    },
+    {
+      "form": "byk",
+      "startCharOffset": 31,
+      "endCharOffset": 34
+    },
+    {
+      "form": "kendaraan",
+      "startCharOffset": 35,
+      "endCharOffset": 44
+    },
+    {
+      "form": "kejebak",
+      "startCharOffset": 45,
+      "endCharOffset": 52
+    },
+    {
+      "form": "banjir",
+      "startCharOffset": 53,
+      "endCharOffset": 59
+    },
+    {
+      "form": ",",
+      "startCharOffset": 59,
+      "endCharOffset": 60
+    },
+    {
+      "form": "Bknnya",
+      "startCharOffset": 61,
+      "endCharOffset": 67
+    },
+    {
+      "form": "Jakarta",
+      "startCharOffset": 68,
+      "endCharOffset": 75
+    },
+    {
+      "form": "gak",
+      "startCharOffset": 76,
+      "endCharOffset": 79
+    },
+    {
+      "form": "ada",
+      "startCharOffset": 80,
+      "endCharOffset": 83
+    },
+    {
+      "form": "banjir",
+      "startCharOffset": 84,
+      "endCharOffset": 90
+    },
+    {
+      "form": "ya",
+      "startCharOffset": 91,
+      "endCharOffset": 93
+    },
+    {
+      "form": "https://t.co/CeuZjUkMTz",
+      "startCharOffset": 94,
+      "endCharOffset": 117
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 1,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Dr",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Taman",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Kota",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "menuju",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Kalideres",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "byk",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "kendaraan",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "kejebak",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "banjir",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Bknnya",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Jakarta",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "gak",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ada",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "banjir",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "ya",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "https://t.co/CeuZjUkMTz",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

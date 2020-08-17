@@ -1,0 +1,284 @@
+{
+  "corpusId": "",
+  "id": "doc100_RUS_SN_000370_20160316_G0T100FEB",
+  "text": "Ученые: власти США почти ничего не делают для предотвращения жертв будущих катастрофических землетрясений ИНФО |👉🏿 https://t.co/0HyjNN5xYX",
+  "tokens": [
+    "Ученые",
+    ":",
+    "власти",
+    "США",
+    "почти",
+    "ничего",
+    "не",
+    "делают",
+    "для",
+    "предотвращения",
+    "жертв",
+    "будущих",
+    "катастрофических",
+    "землетрясений",
+    "ИНФО",
+    "|👉🏿",
+    "https://t.co/0HyjNN5xYX"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Ученые",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": ":",
+      "startCharOffset": 6,
+      "endCharOffset": 7
+    },
+    {
+      "form": "власти",
+      "startCharOffset": 8,
+      "endCharOffset": 14
+    },
+    {
+      "form": "США",
+      "startCharOffset": 15,
+      "endCharOffset": 18
+    },
+    {
+      "form": "почти",
+      "startCharOffset": 19,
+      "endCharOffset": 24
+    },
+    {
+      "form": "ничего",
+      "startCharOffset": 25,
+      "endCharOffset": 31
+    },
+    {
+      "form": "не",
+      "startCharOffset": 32,
+      "endCharOffset": 34
+    },
+    {
+      "form": "делают",
+      "startCharOffset": 35,
+      "endCharOffset": 41
+    },
+    {
+      "form": "для",
+      "startCharOffset": 42,
+      "endCharOffset": 45
+    },
+    {
+      "form": "предотвращения",
+      "startCharOffset": 46,
+      "endCharOffset": 60
+    },
+    {
+      "form": "жертв",
+      "startCharOffset": 61,
+      "endCharOffset": 66
+    },
+    {
+      "form": "будущих",
+      "startCharOffset": 67,
+      "endCharOffset": 74
+    },
+    {
+      "form": "катастрофических",
+      "startCharOffset": 75,
+      "endCharOffset": 91
+    },
+    {
+      "form": "землетрясений",
+      "startCharOffset": 92,
+      "endCharOffset": 105
+    },
+    {
+      "form": "ИНФО",
+      "startCharOffset": 106,
+      "endCharOffset": 110
+    },
+    {
+      "form": "|👉🏿",
+      "startCharOffset": 111,
+      "endCharOffset": 116
+    },
+    {
+      "form": "https://t.co/0HyjNN5xYX",
+      "startCharOffset": 117,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

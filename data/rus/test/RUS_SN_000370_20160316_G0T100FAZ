@@ -1,0 +1,146 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100FAZ",
+  "text": "@murzaxanova ЭБОЛА ХАХАХАХА,я выиграла в последней игре ессс",
+  "tokens": [
+    "@murzaxanova",
+    "ЭБОЛА",
+    "ХАХАХАХА,я",
+    "выиграла",
+    "в",
+    "последней",
+    "игре",
+    "ессс"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@murzaxanova",
+      "startCharOffset": 0,
+      "endCharOffset": 12
+    },
+    {
+      "form": "ЭБОЛА",
+      "startCharOffset": 13,
+      "endCharOffset": 18
+    },
+    {
+      "form": "ХАХАХАХА,я",
+      "startCharOffset": 19,
+      "endCharOffset": 29
+    },
+    {
+      "form": "выиграла",
+      "startCharOffset": 30,
+      "endCharOffset": 38
+    },
+    {
+      "form": "в",
+      "startCharOffset": 39,
+      "endCharOffset": 40
+    },
+    {
+      "form": "последней",
+      "startCharOffset": 41,
+      "endCharOffset": 50
+    },
+    {
+      "form": "игре",
+      "startCharOffset": 51,
+      "endCharOffset": 55
+    },
+    {
+      "form": "ессс",
+      "startCharOffset": 56,
+      "endCharOffset": 60
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      8
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

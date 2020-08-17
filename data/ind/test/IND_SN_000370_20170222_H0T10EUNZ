@@ -1,0 +1,280 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170222_H0T10EUNZ",
+  "text": "https://t.co/V0LzoTWuwI Soal Banjir, Ferry Maryadi: Jangan Melulu Salahin Pemerintah",
+  "tokens": [
+    "https://t.co/V0LzoTWuwI",
+    "Soal",
+    "Banjir",
+    ",",
+    "Ferry",
+    "Maryadi",
+    ":",
+    "Jangan",
+    "Melulu",
+    "Salahin",
+    "Pemerintah"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "https://t.co/V0LzoTWuwI",
+      "startCharOffset": 0,
+      "endCharOffset": 23
+    },
+    {
+      "form": "Soal",
+      "startCharOffset": 24,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 29,
+      "endCharOffset": 35
+    },
+    {
+      "form": ",",
+      "startCharOffset": 35,
+      "endCharOffset": 36
+    },
+    {
+      "form": "Ferry",
+      "startCharOffset": 37,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Maryadi",
+      "startCharOffset": 43,
+      "endCharOffset": 50
+    },
+    {
+      "form": ":",
+      "startCharOffset": 50,
+      "endCharOffset": 51
+    },
+    {
+      "form": "Jangan",
+      "startCharOffset": 52,
+      "endCharOffset": 58
+    },
+    {
+      "form": "Melulu",
+      "startCharOffset": 59,
+      "endCharOffset": 65
+    },
+    {
+      "form": "Salahin",
+      "startCharOffset": 66,
+      "endCharOffset": 73
+    },
+    {
+      "form": "Pemerintah",
+      "startCharOffset": 74,
+      "endCharOffset": 84
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 4,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "https://t.co/V0LzoTWuwI",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Soal",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Ferry",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Maryadi",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Jangan",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Melulu",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Salahin",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Pemerintah",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

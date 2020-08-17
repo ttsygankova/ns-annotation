@@ -1,0 +1,292 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170215_H0T10EUB8",
+  "text": "RT @triwul82: Anas Urbaningrum Merasa Jadi Korban Kriminalisasi Layaknya Antasari https://t.co/hMn16LuSG6",
+  "tokens": [
+    "RT",
+    "@triwul82:",
+    "Anas",
+    "Urbaningrum",
+    "Merasa",
+    "Jadi",
+    "Korban",
+    "Kriminalisasi",
+    "Layaknya",
+    "Antasari",
+    "https://t.co/hMn16LuSG6"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@triwul82:",
+      "startCharOffset": 3,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Anas",
+      "startCharOffset": 14,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Urbaningrum",
+      "startCharOffset": 19,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Merasa",
+      "startCharOffset": 31,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Jadi",
+      "startCharOffset": 38,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Korban",
+      "startCharOffset": 43,
+      "endCharOffset": 49
+    },
+    {
+      "form": "Kriminalisasi",
+      "startCharOffset": 50,
+      "endCharOffset": 63
+    },
+    {
+      "form": "Layaknya",
+      "startCharOffset": 64,
+      "endCharOffset": 72
+    },
+    {
+      "form": "Antasari",
+      "startCharOffset": 73,
+      "endCharOffset": 81
+    },
+    {
+      "form": "https://t.co/hMn16LuSG6",
+      "startCharOffset": 82,
+      "endCharOffset": 105
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 4
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@triwul82:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Anas",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Urbaningrum",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Merasa",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Jadi",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Korban",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Kriminalisasi",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Layaknya",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Antasari",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/hMn16LuSG6",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

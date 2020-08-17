@@ -1,0 +1,2696 @@
+{
+  "corpusId": "",
+  "id": "doc212_RUS_NW_000603_20140820_G0022DCTM",
+  "text": "Власти Исландии эвакуировали людей из района вулкана Бардарбунга  Повышенная сейсмическая активность Бардарбунги наблюдается с 16 августа. Власти Исландии объявили «оранжевый» уровень угрозы его извержения.  Вокруг вулкана нет населенных пунктов, однако летом его окрестности часто посещают охотники и туристы. Дороги, ведущие в регион, в ночь на среду были перекрыты. Спасатели в среду эвакуировали всех людей, находящихся в районе угрожающего извержением вулкана Бардарбунга на юге Исландии, передают РИА-Новости . По данным руководства ведомства гражданской обороны, операция по выводу людей из опасного района завершилась около 03:00 местного времени. Вокруг вулкана нет населенных пунктов, однако летом его окрестности часто посещают охотники и туристы. Дороги, ведущие в регион, в ночь на среду были перекрыты. «Сегодня (в среду) самолеты береговой охраны еще раз облетят территорию, чтобы убедиться, что там не осталось туристов», — сообщил по национальному телевидению директор управления по гражданской обороне Видир Рейниссон. Бардарбунга — это стратовулкан подледного типа, расположенный в кальдере на глубине около 700 метров. Его последнее крупное извержение происходило в 1477 году. Весной 2010 года извержение исландского вулкана Эйяфьятлайокудль привело к общеевропейскому авиационному коллапсу, убытки от которого составили около 1,7 миллиарда долларов.",
+  "tokens": [
+    "Власти",
+    "Исландии",
+    "эвакуировали",
+    "людей",
+    "из",
+    "района",
+    "вулкана",
+    "Бардарбунга",
+    "Повышенная",
+    "сейсмическая",
+    "активность",
+    "Бардарбунги",
+    "наблюдается",
+    "с",
+    "16",
+    "августа",
+    ".",
+    "Власти",
+    "Исландии",
+    "объявили",
+    "«",
+    "оранжевый",
+    "»",
+    "уровень",
+    "угрозы",
+    "его",
+    "извержения",
+    ".",
+    "Вокруг",
+    "вулкана",
+    "нет",
+    "населенных",
+    "пунктов",
+    ",",
+    "однако",
+    "летом",
+    "его",
+    "окрестности",
+    "часто",
+    "посещают",
+    "охотники",
+    "и",
+    "туристы",
+    ".",
+    "Дороги",
+    ",",
+    "ведущие",
+    "в",
+    "регион",
+    ",",
+    "в",
+    "ночь",
+    "на",
+    "среду",
+    "были",
+    "перекрыты",
+    ".",
+    "Спасатели",
+    "в",
+    "среду",
+    "эвакуировали",
+    "всех",
+    "людей",
+    ",",
+    "находящихся",
+    "в",
+    "районе",
+    "угрожающего",
+    "извержением",
+    "вулкана",
+    "Бардарбунга",
+    "на",
+    "юге",
+    "Исландии",
+    ",",
+    "передают",
+    "РИА-Новости",
+    ".",
+    "По",
+    "данным",
+    "руководства",
+    "ведомства",
+    "гражданской",
+    "обороны",
+    ",",
+    "операция",
+    "по",
+    "выводу",
+    "людей",
+    "из",
+    "опасного",
+    "района",
+    "завершилась",
+    "около",
+    "03:00",
+    "местного",
+    "времени",
+    ".",
+    "Вокруг",
+    "вулкана",
+    "нет",
+    "населенных",
+    "пунктов",
+    ",",
+    "однако",
+    "летом",
+    "его",
+    "окрестности",
+    "часто",
+    "посещают",
+    "охотники",
+    "и",
+    "туристы",
+    ".",
+    "Дороги",
+    ",",
+    "ведущие",
+    "в",
+    "регион",
+    ",",
+    "в",
+    "ночь",
+    "на",
+    "среду",
+    "были",
+    "перекрыты",
+    ".",
+    "«",
+    "Сегодня",
+    "(",
+    "в",
+    "среду",
+    ")",
+    "самолеты",
+    "береговой",
+    "охраны",
+    "еще",
+    "раз",
+    "облетят",
+    "территорию",
+    ",",
+    "чтобы",
+    "убедиться",
+    ",",
+    "что",
+    "там",
+    "не",
+    "осталось",
+    "туристов",
+    "»,",
+    "—",
+    "сообщил",
+    "по",
+    "национальному",
+    "телевидению",
+    "директор",
+    "управления",
+    "по",
+    "гражданской",
+    "обороне",
+    "Видир",
+    "Рейниссон",
+    ".",
+    "Бардарбунга",
+    "—",
+    "это",
+    "стратовулкан",
+    "подледного",
+    "типа",
+    ",",
+    "расположенный",
+    "в",
+    "кальдере",
+    "на",
+    "глубине",
+    "около",
+    "700",
+    "метров",
+    ".",
+    "Его",
+    "последнее",
+    "крупное",
+    "извержение",
+    "происходило",
+    "в",
+    "1477",
+    "году",
+    ".",
+    "Весной",
+    "2010",
+    "года",
+    "извержение",
+    "исландского",
+    "вулкана",
+    "Эйяфьятлайокудль",
+    "привело",
+    "к",
+    "общеевропейскому",
+    "авиационному",
+    "коллапсу",
+    ",",
+    "убытки",
+    "от",
+    "которого",
+    "составили",
+    "около",
+    "1,7",
+    "миллиарда",
+    "долларов",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Власти",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Исландии",
+      "startCharOffset": 7,
+      "endCharOffset": 15
+    },
+    {
+      "form": "эвакуировали",
+      "startCharOffset": 16,
+      "endCharOffset": 28
+    },
+    {
+      "form": "людей",
+      "startCharOffset": 29,
+      "endCharOffset": 34
+    },
+    {
+      "form": "из",
+      "startCharOffset": 35,
+      "endCharOffset": 37
+    },
+    {
+      "form": "района",
+      "startCharOffset": 38,
+      "endCharOffset": 44
+    },
+    {
+      "form": "вулкана",
+      "startCharOffset": 45,
+      "endCharOffset": 52
+    },
+    {
+      "form": "Бардарбунга",
+      "startCharOffset": 53,
+      "endCharOffset": 64
+    },
+    {
+      "form": "Повышенная",
+      "startCharOffset": 66,
+      "endCharOffset": 76
+    },
+    {
+      "form": "сейсмическая",
+      "startCharOffset": 77,
+      "endCharOffset": 89
+    },
+    {
+      "form": "активность",
+      "startCharOffset": 90,
+      "endCharOffset": 100
+    },
+    {
+      "form": "Бардарбунги",
+      "startCharOffset": 101,
+      "endCharOffset": 112
+    },
+    {
+      "form": "наблюдается",
+      "startCharOffset": 113,
+      "endCharOffset": 124
+    },
+    {
+      "form": "с",
+      "startCharOffset": 125,
+      "endCharOffset": 126
+    },
+    {
+      "form": "16",
+      "startCharOffset": 127,
+      "endCharOffset": 129
+    },
+    {
+      "form": "августа",
+      "startCharOffset": 130,
+      "endCharOffset": 137
+    },
+    {
+      "form": ".",
+      "startCharOffset": 137,
+      "endCharOffset": 138
+    },
+    {
+      "form": "Власти",
+      "startCharOffset": 139,
+      "endCharOffset": 145
+    },
+    {
+      "form": "Исландии",
+      "startCharOffset": 146,
+      "endCharOffset": 154
+    },
+    {
+      "form": "объявили",
+      "startCharOffset": 155,
+      "endCharOffset": 163
+    },
+    {
+      "form": "«",
+      "startCharOffset": 164,
+      "endCharOffset": 165
+    },
+    {
+      "form": "оранжевый",
+      "startCharOffset": 165,
+      "endCharOffset": 174
+    },
+    {
+      "form": "»",
+      "startCharOffset": 174,
+      "endCharOffset": 175
+    },
+    {
+      "form": "уровень",
+      "startCharOffset": 176,
+      "endCharOffset": 183
+    },
+    {
+      "form": "угрозы",
+      "startCharOffset": 184,
+      "endCharOffset": 190
+    },
+    {
+      "form": "его",
+      "startCharOffset": 191,
+      "endCharOffset": 194
+    },
+    {
+      "form": "извержения",
+      "startCharOffset": 195,
+      "endCharOffset": 205
+    },
+    {
+      "form": ".",
+      "startCharOffset": 205,
+      "endCharOffset": 206
+    },
+    {
+      "form": "Вокруг",
+      "startCharOffset": 208,
+      "endCharOffset": 214
+    },
+    {
+      "form": "вулкана",
+      "startCharOffset": 215,
+      "endCharOffset": 222
+    },
+    {
+      "form": "нет",
+      "startCharOffset": 223,
+      "endCharOffset": 226
+    },
+    {
+      "form": "населенных",
+      "startCharOffset": 227,
+      "endCharOffset": 237
+    },
+    {
+      "form": "пунктов",
+      "startCharOffset": 238,
+      "endCharOffset": 245
+    },
+    {
+      "form": ",",
+      "startCharOffset": 245,
+      "endCharOffset": 246
+    },
+    {
+      "form": "однако",
+      "startCharOffset": 247,
+      "endCharOffset": 253
+    },
+    {
+      "form": "летом",
+      "startCharOffset": 254,
+      "endCharOffset": 259
+    },
+    {
+      "form": "его",
+      "startCharOffset": 260,
+      "endCharOffset": 263
+    },
+    {
+      "form": "окрестности",
+      "startCharOffset": 264,
+      "endCharOffset": 275
+    },
+    {
+      "form": "часто",
+      "startCharOffset": 276,
+      "endCharOffset": 281
+    },
+    {
+      "form": "посещают",
+      "startCharOffset": 282,
+      "endCharOffset": 290
+    },
+    {
+      "form": "охотники",
+      "startCharOffset": 291,
+      "endCharOffset": 299
+    },
+    {
+      "form": "и",
+      "startCharOffset": 300,
+      "endCharOffset": 301
+    },
+    {
+      "form": "туристы",
+      "startCharOffset": 302,
+      "endCharOffset": 309
+    },
+    {
+      "form": ".",
+      "startCharOffset": 309,
+      "endCharOffset": 310
+    },
+    {
+      "form": "Дороги",
+      "startCharOffset": 311,
+      "endCharOffset": 317
+    },
+    {
+      "form": ",",
+      "startCharOffset": 317,
+      "endCharOffset": 318
+    },
+    {
+      "form": "ведущие",
+      "startCharOffset": 319,
+      "endCharOffset": 326
+    },
+    {
+      "form": "в",
+      "startCharOffset": 327,
+      "endCharOffset": 328
+    },
+    {
+      "form": "регион",
+      "startCharOffset": 329,
+      "endCharOffset": 335
+    },
+    {
+      "form": ",",
+      "startCharOffset": 335,
+      "endCharOffset": 336
+    },
+    {
+      "form": "в",
+      "startCharOffset": 337,
+      "endCharOffset": 338
+    },
+    {
+      "form": "ночь",
+      "startCharOffset": 339,
+      "endCharOffset": 343
+    },
+    {
+      "form": "на",
+      "startCharOffset": 344,
+      "endCharOffset": 346
+    },
+    {
+      "form": "среду",
+      "startCharOffset": 347,
+      "endCharOffset": 352
+    },
+    {
+      "form": "были",
+      "startCharOffset": 353,
+      "endCharOffset": 357
+    },
+    {
+      "form": "перекрыты",
+      "startCharOffset": 358,
+      "endCharOffset": 367
+    },
+    {
+      "form": ".",
+      "startCharOffset": 367,
+      "endCharOffset": 368
+    },
+    {
+      "form": "Спасатели",
+      "startCharOffset": 369,
+      "endCharOffset": 378
+    },
+    {
+      "form": "в",
+      "startCharOffset": 379,
+      "endCharOffset": 380
+    },
+    {
+      "form": "среду",
+      "startCharOffset": 381,
+      "endCharOffset": 386
+    },
+    {
+      "form": "эвакуировали",
+      "startCharOffset": 387,
+      "endCharOffset": 399
+    },
+    {
+      "form": "всех",
+      "startCharOffset": 400,
+      "endCharOffset": 404
+    },
+    {
+      "form": "людей",
+      "startCharOffset": 405,
+      "endCharOffset": 410
+    },
+    {
+      "form": ",",
+      "startCharOffset": 410,
+      "endCharOffset": 411
+    },
+    {
+      "form": "находящихся",
+      "startCharOffset": 412,
+      "endCharOffset": 423
+    },
+    {
+      "form": "в",
+      "startCharOffset": 424,
+      "endCharOffset": 425
+    },
+    {
+      "form": "районе",
+      "startCharOffset": 426,
+      "endCharOffset": 432
+    },
+    {
+      "form": "угрожающего",
+      "startCharOffset": 433,
+      "endCharOffset": 444
+    },
+    {
+      "form": "извержением",
+      "startCharOffset": 445,
+      "endCharOffset": 456
+    },
+    {
+      "form": "вулкана",
+      "startCharOffset": 457,
+      "endCharOffset": 464
+    },
+    {
+      "form": "Бардарбунга",
+      "startCharOffset": 465,
+      "endCharOffset": 476
+    },
+    {
+      "form": "на",
+      "startCharOffset": 477,
+      "endCharOffset": 479
+    },
+    {
+      "form": "юге",
+      "startCharOffset": 480,
+      "endCharOffset": 483
+    },
+    {
+      "form": "Исландии",
+      "startCharOffset": 484,
+      "endCharOffset": 492
+    },
+    {
+      "form": ",",
+      "startCharOffset": 492,
+      "endCharOffset": 493
+    },
+    {
+      "form": "передают",
+      "startCharOffset": 494,
+      "endCharOffset": 502
+    },
+    {
+      "form": "РИА-Новости",
+      "startCharOffset": 503,
+      "endCharOffset": 514
+    },
+    {
+      "form": ".",
+      "startCharOffset": 515,
+      "endCharOffset": 516
+    },
+    {
+      "form": "По",
+      "startCharOffset": 517,
+      "endCharOffset": 519
+    },
+    {
+      "form": "данным",
+      "startCharOffset": 520,
+      "endCharOffset": 526
+    },
+    {
+      "form": "руководства",
+      "startCharOffset": 527,
+      "endCharOffset": 538
+    },
+    {
+      "form": "ведомства",
+      "startCharOffset": 539,
+      "endCharOffset": 548
+    },
+    {
+      "form": "гражданской",
+      "startCharOffset": 549,
+      "endCharOffset": 560
+    },
+    {
+      "form": "обороны",
+      "startCharOffset": 561,
+      "endCharOffset": 568
+    },
+    {
+      "form": ",",
+      "startCharOffset": 568,
+      "endCharOffset": 569
+    },
+    {
+      "form": "операция",
+      "startCharOffset": 570,
+      "endCharOffset": 578
+    },
+    {
+      "form": "по",
+      "startCharOffset": 579,
+      "endCharOffset": 581
+    },
+    {
+      "form": "выводу",
+      "startCharOffset": 582,
+      "endCharOffset": 588
+    },
+    {
+      "form": "людей",
+      "startCharOffset": 589,
+      "endCharOffset": 594
+    },
+    {
+      "form": "из",
+      "startCharOffset": 595,
+      "endCharOffset": 597
+    },
+    {
+      "form": "опасного",
+      "startCharOffset": 598,
+      "endCharOffset": 606
+    },
+    {
+      "form": "района",
+      "startCharOffset": 607,
+      "endCharOffset": 613
+    },
+    {
+      "form": "завершилась",
+      "startCharOffset": 614,
+      "endCharOffset": 625
+    },
+    {
+      "form": "около",
+      "startCharOffset": 626,
+      "endCharOffset": 631
+    },
+    {
+      "form": "03:00",
+      "startCharOffset": 632,
+      "endCharOffset": 637
+    },
+    {
+      "form": "местного",
+      "startCharOffset": 638,
+      "endCharOffset": 646
+    },
+    {
+      "form": "времени",
+      "startCharOffset": 647,
+      "endCharOffset": 654
+    },
+    {
+      "form": ".",
+      "startCharOffset": 654,
+      "endCharOffset": 655
+    },
+    {
+      "form": "Вокруг",
+      "startCharOffset": 656,
+      "endCharOffset": 662
+    },
+    {
+      "form": "вулкана",
+      "startCharOffset": 663,
+      "endCharOffset": 670
+    },
+    {
+      "form": "нет",
+      "startCharOffset": 671,
+      "endCharOffset": 674
+    },
+    {
+      "form": "населенных",
+      "startCharOffset": 675,
+      "endCharOffset": 685
+    },
+    {
+      "form": "пунктов",
+      "startCharOffset": 686,
+      "endCharOffset": 693
+    },
+    {
+      "form": ",",
+      "startCharOffset": 693,
+      "endCharOffset": 694
+    },
+    {
+      "form": "однако",
+      "startCharOffset": 695,
+      "endCharOffset": 701
+    },
+    {
+      "form": "летом",
+      "startCharOffset": 702,
+      "endCharOffset": 707
+    },
+    {
+      "form": "его",
+      "startCharOffset": 708,
+      "endCharOffset": 711
+    },
+    {
+      "form": "окрестности",
+      "startCharOffset": 712,
+      "endCharOffset": 723
+    },
+    {
+      "form": "часто",
+      "startCharOffset": 724,
+      "endCharOffset": 729
+    },
+    {
+      "form": "посещают",
+      "startCharOffset": 730,
+      "endCharOffset": 738
+    },
+    {
+      "form": "охотники",
+      "startCharOffset": 739,
+      "endCharOffset": 747
+    },
+    {
+      "form": "и",
+      "startCharOffset": 748,
+      "endCharOffset": 749
+    },
+    {
+      "form": "туристы",
+      "startCharOffset": 750,
+      "endCharOffset": 757
+    },
+    {
+      "form": ".",
+      "startCharOffset": 757,
+      "endCharOffset": 758
+    },
+    {
+      "form": "Дороги",
+      "startCharOffset": 759,
+      "endCharOffset": 765
+    },
+    {
+      "form": ",",
+      "startCharOffset": 765,
+      "endCharOffset": 766
+    },
+    {
+      "form": "ведущие",
+      "startCharOffset": 767,
+      "endCharOffset": 774
+    },
+    {
+      "form": "в",
+      "startCharOffset": 775,
+      "endCharOffset": 776
+    },
+    {
+      "form": "регион",
+      "startCharOffset": 777,
+      "endCharOffset": 783
+    },
+    {
+      "form": ",",
+      "startCharOffset": 783,
+      "endCharOffset": 784
+    },
+    {
+      "form": "в",
+      "startCharOffset": 785,
+      "endCharOffset": 786
+    },
+    {
+      "form": "ночь",
+      "startCharOffset": 787,
+      "endCharOffset": 791
+    },
+    {
+      "form": "на",
+      "startCharOffset": 792,
+      "endCharOffset": 794
+    },
+    {
+      "form": "среду",
+      "startCharOffset": 795,
+      "endCharOffset": 800
+    },
+    {
+      "form": "были",
+      "startCharOffset": 801,
+      "endCharOffset": 805
+    },
+    {
+      "form": "перекрыты",
+      "startCharOffset": 806,
+      "endCharOffset": 815
+    },
+    {
+      "form": ".",
+      "startCharOffset": 815,
+      "endCharOffset": 816
+    },
+    {
+      "form": "«",
+      "startCharOffset": 817,
+      "endCharOffset": 818
+    },
+    {
+      "form": "Сегодня",
+      "startCharOffset": 818,
+      "endCharOffset": 825
+    },
+    {
+      "form": "(",
+      "startCharOffset": 826,
+      "endCharOffset": 827
+    },
+    {
+      "form": "в",
+      "startCharOffset": 827,
+      "endCharOffset": 828
+    },
+    {
+      "form": "среду",
+      "startCharOffset": 829,
+      "endCharOffset": 834
+    },
+    {
+      "form": ")",
+      "startCharOffset": 834,
+      "endCharOffset": 835
+    },
+    {
+      "form": "самолеты",
+      "startCharOffset": 836,
+      "endCharOffset": 844
+    },
+    {
+      "form": "береговой",
+      "startCharOffset": 845,
+      "endCharOffset": 854
+    },
+    {
+      "form": "охраны",
+      "startCharOffset": 855,
+      "endCharOffset": 861
+    },
+    {
+      "form": "еще",
+      "startCharOffset": 862,
+      "endCharOffset": 865
+    },
+    {
+      "form": "раз",
+      "startCharOffset": 866,
+      "endCharOffset": 869
+    },
+    {
+      "form": "облетят",
+      "startCharOffset": 870,
+      "endCharOffset": 877
+    },
+    {
+      "form": "территорию",
+      "startCharOffset": 878,
+      "endCharOffset": 888
+    },
+    {
+      "form": ",",
+      "startCharOffset": 888,
+      "endCharOffset": 889
+    },
+    {
+      "form": "чтобы",
+      "startCharOffset": 890,
+      "endCharOffset": 895
+    },
+    {
+      "form": "убедиться",
+      "startCharOffset": 896,
+      "endCharOffset": 905
+    },
+    {
+      "form": ",",
+      "startCharOffset": 905,
+      "endCharOffset": 906
+    },
+    {
+      "form": "что",
+      "startCharOffset": 907,
+      "endCharOffset": 910
+    },
+    {
+      "form": "там",
+      "startCharOffset": 911,
+      "endCharOffset": 914
+    },
+    {
+      "form": "не",
+      "startCharOffset": 915,
+      "endCharOffset": 917
+    },
+    {
+      "form": "осталось",
+      "startCharOffset": 918,
+      "endCharOffset": 926
+    },
+    {
+      "form": "туристов",
+      "startCharOffset": 927,
+      "endCharOffset": 935
+    },
+    {
+      "form": "»,",
+      "startCharOffset": 935,
+      "endCharOffset": 937
+    },
+    {
+      "form": "—",
+      "startCharOffset": 938,
+      "endCharOffset": 939
+    },
+    {
+      "form": "сообщил",
+      "startCharOffset": 940,
+      "endCharOffset": 947
+    },
+    {
+      "form": "по",
+      "startCharOffset": 948,
+      "endCharOffset": 950
+    },
+    {
+      "form": "национальному",
+      "startCharOffset": 951,
+      "endCharOffset": 964
+    },
+    {
+      "form": "телевидению",
+      "startCharOffset": 965,
+      "endCharOffset": 976
+    },
+    {
+      "form": "директор",
+      "startCharOffset": 977,
+      "endCharOffset": 985
+    },
+    {
+      "form": "управления",
+      "startCharOffset": 986,
+      "endCharOffset": 996
+    },
+    {
+      "form": "по",
+      "startCharOffset": 997,
+      "endCharOffset": 999
+    },
+    {
+      "form": "гражданской",
+      "startCharOffset": 1000,
+      "endCharOffset": 1011
+    },
+    {
+      "form": "обороне",
+      "startCharOffset": 1012,
+      "endCharOffset": 1019
+    },
+    {
+      "form": "Видир",
+      "startCharOffset": 1020,
+      "endCharOffset": 1025
+    },
+    {
+      "form": "Рейниссон",
+      "startCharOffset": 1026,
+      "endCharOffset": 1035
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1035,
+      "endCharOffset": 1036
+    },
+    {
+      "form": "Бардарбунга",
+      "startCharOffset": 1037,
+      "endCharOffset": 1048
+    },
+    {
+      "form": "—",
+      "startCharOffset": 1049,
+      "endCharOffset": 1050
+    },
+    {
+      "form": "это",
+      "startCharOffset": 1051,
+      "endCharOffset": 1054
+    },
+    {
+      "form": "стратовулкан",
+      "startCharOffset": 1055,
+      "endCharOffset": 1067
+    },
+    {
+      "form": "подледного",
+      "startCharOffset": 1068,
+      "endCharOffset": 1078
+    },
+    {
+      "form": "типа",
+      "startCharOffset": 1079,
+      "endCharOffset": 1083
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1083,
+      "endCharOffset": 1084
+    },
+    {
+      "form": "расположенный",
+      "startCharOffset": 1085,
+      "endCharOffset": 1098
+    },
+    {
+      "form": "в",
+      "startCharOffset": 1099,
+      "endCharOffset": 1100
+    },
+    {
+      "form": "кальдере",
+      "startCharOffset": 1101,
+      "endCharOffset": 1109
+    },
+    {
+      "form": "на",
+      "startCharOffset": 1110,
+      "endCharOffset": 1112
+    },
+    {
+      "form": "глубине",
+      "startCharOffset": 1113,
+      "endCharOffset": 1120
+    },
+    {
+      "form": "около",
+      "startCharOffset": 1121,
+      "endCharOffset": 1126
+    },
+    {
+      "form": "700",
+      "startCharOffset": 1127,
+      "endCharOffset": 1130
+    },
+    {
+      "form": "метров",
+      "startCharOffset": 1131,
+      "endCharOffset": 1137
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1137,
+      "endCharOffset": 1138
+    },
+    {
+      "form": "Его",
+      "startCharOffset": 1139,
+      "endCharOffset": 1142
+    },
+    {
+      "form": "последнее",
+      "startCharOffset": 1143,
+      "endCharOffset": 1152
+    },
+    {
+      "form": "крупное",
+      "startCharOffset": 1153,
+      "endCharOffset": 1160
+    },
+    {
+      "form": "извержение",
+      "startCharOffset": 1161,
+      "endCharOffset": 1171
+    },
+    {
+      "form": "происходило",
+      "startCharOffset": 1172,
+      "endCharOffset": 1183
+    },
+    {
+      "form": "в",
+      "startCharOffset": 1184,
+      "endCharOffset": 1185
+    },
+    {
+      "form": "1477",
+      "startCharOffset": 1186,
+      "endCharOffset": 1190
+    },
+    {
+      "form": "году",
+      "startCharOffset": 1191,
+      "endCharOffset": 1195
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1195,
+      "endCharOffset": 1196
+    },
+    {
+      "form": "Весной",
+      "startCharOffset": 1197,
+      "endCharOffset": 1203
+    },
+    {
+      "form": "2010",
+      "startCharOffset": 1204,
+      "endCharOffset": 1208
+    },
+    {
+      "form": "года",
+      "startCharOffset": 1209,
+      "endCharOffset": 1213
+    },
+    {
+      "form": "извержение",
+      "startCharOffset": 1214,
+      "endCharOffset": 1224
+    },
+    {
+      "form": "исландского",
+      "startCharOffset": 1225,
+      "endCharOffset": 1236
+    },
+    {
+      "form": "вулкана",
+      "startCharOffset": 1237,
+      "endCharOffset": 1244
+    },
+    {
+      "form": "Эйяфьятлайокудль",
+      "startCharOffset": 1245,
+      "endCharOffset": 1261
+    },
+    {
+      "form": "привело",
+      "startCharOffset": 1262,
+      "endCharOffset": 1269
+    },
+    {
+      "form": "к",
+      "startCharOffset": 1270,
+      "endCharOffset": 1271
+    },
+    {
+      "form": "общеевропейскому",
+      "startCharOffset": 1272,
+      "endCharOffset": 1288
+    },
+    {
+      "form": "авиационному",
+      "startCharOffset": 1289,
+      "endCharOffset": 1301
+    },
+    {
+      "form": "коллапсу",
+      "startCharOffset": 1302,
+      "endCharOffset": 1310
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1310,
+      "endCharOffset": 1311
+    },
+    {
+      "form": "убытки",
+      "startCharOffset": 1312,
+      "endCharOffset": 1318
+    },
+    {
+      "form": "от",
+      "startCharOffset": 1319,
+      "endCharOffset": 1321
+    },
+    {
+      "form": "которого",
+      "startCharOffset": 1322,
+      "endCharOffset": 1330
+    },
+    {
+      "form": "составили",
+      "startCharOffset": 1331,
+      "endCharOffset": 1340
+    },
+    {
+      "form": "около",
+      "startCharOffset": 1341,
+      "endCharOffset": 1346
+    },
+    {
+      "form": "1,7",
+      "startCharOffset": 1347,
+      "endCharOffset": 1350
+    },
+    {
+      "form": "миллиарда",
+      "startCharOffset": 1351,
+      "endCharOffset": 1360
+    },
+    {
+      "form": "долларов",
+      "startCharOffset": 1361,
+      "endCharOffset": 1369
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1369,
+      "endCharOffset": 1370
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      8,
+      17,
+      28,
+      44,
+      57,
+      78,
+      98,
+      114,
+      127,
+      163,
+      179,
+      188,
+      210
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 6,
+              "end": 8
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 69,
+              "end": 71
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 160,
+              "end": 162
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 193,
+              "end": 195
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

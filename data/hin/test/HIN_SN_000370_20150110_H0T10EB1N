@@ -1,0 +1,260 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150110_H0T10EB1N",
+  "text": "RT @aajtak: दिल्ली में विधानसभा चुनाव नहीं लड़ेंगे कांग्रेस प्रदेश अध्यक्ष अरविंदर सिंह लवली! http://t.co/bqJ61YKl4v",
+  "tokens": [
+    "RT",
+    "@aajtak:",
+    "दिल्ली",
+    "में",
+    "विधानसभा",
+    "चुनाव",
+    "नहीं",
+    "लड़ेंगे",
+    "कांग्रेस",
+    "प्रदेश",
+    "अध्यक्ष",
+    "अरविंदर",
+    "सिंह",
+    "लवली",
+    "!",
+    "http://t.co/bqJ61YKl4v"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@aajtak:",
+      "startCharOffset": 3,
+      "endCharOffset": 11
+    },
+    {
+      "form": "दिल्ली",
+      "startCharOffset": 12,
+      "endCharOffset": 18
+    },
+    {
+      "form": "में",
+      "startCharOffset": 19,
+      "endCharOffset": 22
+    },
+    {
+      "form": "विधानसभा",
+      "startCharOffset": 23,
+      "endCharOffset": 31
+    },
+    {
+      "form": "चुनाव",
+      "startCharOffset": 32,
+      "endCharOffset": 37
+    },
+    {
+      "form": "नहीं",
+      "startCharOffset": 38,
+      "endCharOffset": 42
+    },
+    {
+      "form": "लड़ेंगे",
+      "startCharOffset": 43,
+      "endCharOffset": 50
+    },
+    {
+      "form": "कांग्रेस",
+      "startCharOffset": 51,
+      "endCharOffset": 59
+    },
+    {
+      "form": "प्रदेश",
+      "startCharOffset": 60,
+      "endCharOffset": 66
+    },
+    {
+      "form": "अध्यक्ष",
+      "startCharOffset": 67,
+      "endCharOffset": 74
+    },
+    {
+      "form": "अरविंदर",
+      "startCharOffset": 75,
+      "endCharOffset": 82
+    },
+    {
+      "form": "सिंह",
+      "startCharOffset": 83,
+      "endCharOffset": 87
+    },
+    {
+      "form": "लवली",
+      "startCharOffset": 88,
+      "endCharOffset": 92
+    },
+    {
+      "form": "!",
+      "startCharOffset": 92,
+      "endCharOffset": 93
+    },
+    {
+      "form": "http://t.co/bqJ61YKl4v",
+      "startCharOffset": 94,
+      "endCharOffset": 116
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 11,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

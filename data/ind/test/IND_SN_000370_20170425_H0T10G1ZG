@@ -1,0 +1,298 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170425_H0T10G1ZG",
+  "text": "Cegah Curanmor, Polresta Banda Aceh Bagi-bagi Kunci Pengamanan https://t.co/NhK2la6d45 lewat @Mercinews",
+  "tokens": [
+    "Cegah",
+    "Curanmor",
+    ",",
+    "Polresta",
+    "Banda",
+    "Aceh",
+    "Bagi-bagi",
+    "Kunci",
+    "Pengamanan",
+    "https://t.co/NhK2la6d45",
+    "lewat",
+    "@Mercinews"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Cegah",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "Curanmor",
+      "startCharOffset": 6,
+      "endCharOffset": 14
+    },
+    {
+      "form": ",",
+      "startCharOffset": 14,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Polresta",
+      "startCharOffset": 16,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Banda",
+      "startCharOffset": 25,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Aceh",
+      "startCharOffset": 31,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Bagi-bagi",
+      "startCharOffset": 36,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Kunci",
+      "startCharOffset": 46,
+      "endCharOffset": 51
+    },
+    {
+      "form": "Pengamanan",
+      "startCharOffset": 52,
+      "endCharOffset": 62
+    },
+    {
+      "form": "https://t.co/NhK2la6d45",
+      "startCharOffset": 63,
+      "endCharOffset": 86
+    },
+    {
+      "form": "lewat",
+      "startCharOffset": 87,
+      "endCharOffset": 92
+    },
+    {
+      "form": "@Mercinews",
+      "startCharOffset": 93,
+      "endCharOffset": 103
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 3,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Cegah",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Curanmor",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Polresta",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Banda",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Aceh",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Bagi-bagi",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Kunci",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Pengamanan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "https://t.co/NhK2la6d45",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "lewat",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "@Mercinews",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6333 @@
+{
+  "corpusId": "",
+  "id": "IND_WL_004413_20101006_H0024IYOO",
+  "text": " Banjir Wasior,Papua 2010   Banjir bandang terjadi pada hari Senin pagi (4/10) akibat hujan lebat terus menerus selama 6 jam di Kabupaten Teluk Wondama, Provinsi Papua Barat. Banjir tersebut melanda 8 kampung, yaitu Kampung Wasior I dan II, Kampung Rado, Kampung Moru, Kampung Maniwak, Kampung Manggurai, Kampung Wondamawi dan Kampung Wondiboy. Ibu kota distrik Wasior hancur total, dan hingga saat ini aktivitas masyarakat lumpuh total.Pusdalops BNPB melaporkan korban meninggal tercatat sebanyak 56 orang, korban luka 60 orang (52 orang diantaranya telah dievakuasi ke Nabire, 7 orang dievakuasi ke Manokwari dan 1 orang lainnya dievakuasi keluar daerah Papua). Sementara itu 7 orang dilaporkan hilang.Selain korban jiwa, bencana tersebut juga menimbulkan kerugian material. Data kerusakan yang telah dihimpun tercatat 31 rumah hanyut, 2 sekolah rusak berat, 1 rumah sakit rusak berat, 1 masjid rusak berat, 1 hotel rusak berat dan 4 jembatan tertimbun lumpur. BPBD setempat masih terus melakukan pendataan korban dan kerusakan.BNPB telah menyerahkan bantuan dana siap pakai sebesar Rp. 200 juta kepada Gubernur Papua Barat, dan tadi pagi, Rabu (6/10) pukul 6.03 telah diberangkatkan bantuan logistik seberat 10,5 ton, dengan rincian berupa tenda pleton 3 unit, tenda keluarga 80 unit, tenda gulung 200 lembar, velbed 60 unit, sandang 500 paket, kidsware 150 paket, family kits 150 paket, selimut 100 lembar, tikar 100 lembar dan makanan siap saji 2.250 paket. Nilai bantuan logistik diperkirakan sebesar Rp. 900 juta. Selain bantuan logistik, juga dikirimkan bantuan obat-obatan seberat 2,5 ton dan tim medis 7 orang dari Kementerian Kesehatan. Bantuan tersebut diangkut menggunakan pesawat boeing 737. BPBD provinsi bersama unsur PU, TNI dan Polri telah menuju lokasi bencana menggunakan kapal TNI AL KRI Kalakay serta membawa peralatan evakuasi dan pembersihan lumpur.Kebutusan mendesak berupa tenda, obat-obatan, sembako, dapur umum, selimut dan pakaian.",
+  "tokens": [
+    "Banjir",
+    "Wasior,Papua",
+    "2010",
+    "Banjir",
+    "bandang",
+    "terjadi",
+    "pada",
+    "hari",
+    "Senin",
+    "pagi",
+    "(",
+    "4/10",
+    ")",
+    "akibat",
+    "hujan",
+    "lebat",
+    "terus",
+    "menerus",
+    "selama",
+    "6",
+    "jam",
+    "di",
+    "Kabupaten",
+    "Teluk",
+    "Wondama",
+    ",",
+    "Provinsi",
+    "Papua",
+    "Barat",
+    ".",
+    "Banjir",
+    "tersebut",
+    "melanda",
+    "8",
+    "kampung",
+    ",",
+    "yaitu",
+    "Kampung",
+    "Wasior",
+    "I",
+    "dan",
+    "II",
+    ",",
+    "Kampung",
+    "Rado",
+    ",",
+    "Kampung",
+    "Moru",
+    ",",
+    "Kampung",
+    "Maniwak",
+    ",",
+    "Kampung",
+    "Manggurai",
+    ",",
+    "Kampung",
+    "Wondamawi",
+    "dan",
+    "Kampung",
+    "Wondiboy",
+    ".",
+    "Ibu",
+    "kota",
+    "distrik",
+    "Wasior",
+    "hancur",
+    "total",
+    ",",
+    "dan",
+    "hingga",
+    "saat",
+    "ini",
+    "aktivitas",
+    "masyarakat",
+    "lumpuh",
+    "total.Pusdalops",
+    "BNPB",
+    "melaporkan",
+    "korban",
+    "meninggal",
+    "tercatat",
+    "sebanyak",
+    "56",
+    "orang",
+    ",",
+    "korban",
+    "luka",
+    "60",
+    "orang",
+    "(",
+    "52",
+    "orang",
+    "diantaranya",
+    "telah",
+    "dievakuasi",
+    "ke",
+    "Nabire",
+    ",",
+    "7",
+    "orang",
+    "dievakuasi",
+    "ke",
+    "Manokwari",
+    "dan",
+    "1",
+    "orang",
+    "lainnya",
+    "dievakuasi",
+    "keluar",
+    "daerah",
+    "Papua",
+    ").",
+    "Sementara",
+    "itu",
+    "7",
+    "orang",
+    "dilaporkan",
+    "hilang.Selain",
+    "korban",
+    "jiwa",
+    ",",
+    "bencana",
+    "tersebut",
+    "juga",
+    "menimbulkan",
+    "kerugian",
+    "material",
+    ".",
+    "Data",
+    "kerusakan",
+    "yang",
+    "telah",
+    "dihimpun",
+    "tercatat",
+    "31",
+    "rumah",
+    "hanyut",
+    ",",
+    "2",
+    "sekolah",
+    "rusak",
+    "berat",
+    ",",
+    "1",
+    "rumah",
+    "sakit",
+    "rusak",
+    "berat",
+    ",",
+    "1",
+    "masjid",
+    "rusak",
+    "berat",
+    ",",
+    "1",
+    "hotel",
+    "rusak",
+    "berat",
+    "dan",
+    "4",
+    "jembatan",
+    "tertimbun",
+    "lumpur",
+    ".",
+    "BPBD",
+    "setempat",
+    "masih",
+    "terus",
+    "melakukan",
+    "pendataan",
+    "korban",
+    "dan",
+    "kerusakan.BNPB",
+    "telah",
+    "menyerahkan",
+    "bantuan",
+    "dana",
+    "siap",
+    "pakai",
+    "sebesar",
+    "Rp",
+    ".",
+    "200",
+    "juta",
+    "kepada",
+    "Gubernur",
+    "Papua",
+    "Barat",
+    ",",
+    "dan",
+    "tadi",
+    "pagi",
+    ",",
+    "Rabu",
+    "(",
+    "6/10",
+    ")",
+    "pukul",
+    "6.03",
+    "telah",
+    "diberangkatkan",
+    "bantuan",
+    "logistik",
+    "seberat",
+    "10,5",
+    "ton",
+    ",",
+    "dengan",
+    "rincian",
+    "berupa",
+    "tenda",
+    "pleton",
+    "3",
+    "unit",
+    ",",
+    "tenda",
+    "keluarga",
+    "80",
+    "unit",
+    ",",
+    "tenda",
+    "gulung",
+    "200",
+    "lembar",
+    ",",
+    "velbed",
+    "60",
+    "unit",
+    ",",
+    "sandang",
+    "500",
+    "paket",
+    ",",
+    "kidsware",
+    "150",
+    "paket",
+    ",",
+    "family",
+    "kits",
+    "150",
+    "paket",
+    ",",
+    "selimut",
+    "100",
+    "lembar",
+    ",",
+    "tikar",
+    "100",
+    "lembar",
+    "dan",
+    "makanan",
+    "siap",
+    "saji",
+    "2.250",
+    "paket",
+    ".",
+    "Nilai",
+    "bantuan",
+    "logistik",
+    "diperkirakan",
+    "sebesar",
+    "Rp",
+    ".",
+    "900",
+    "juta",
+    ".",
+    "Selain",
+    "bantuan",
+    "logistik",
+    ",",
+    "juga",
+    "dikirimkan",
+    "bantuan",
+    "obat-obatan",
+    "seberat",
+    "2,5",
+    "ton",
+    "dan",
+    "tim",
+    "medis",
+    "7",
+    "orang",
+    "dari",
+    "Kementerian",
+    "Kesehatan",
+    ".",
+    "Bantuan",
+    "tersebut",
+    "diangkut",
+    "menggunakan",
+    "pesawat",
+    "boeing",
+    "737",
+    ".",
+    "BPBD",
+    "provinsi",
+    "bersama",
+    "unsur",
+    "PU",
+    ",",
+    "TNI",
+    "dan",
+    "Polri",
+    "telah",
+    "menuju",
+    "lokasi",
+    "bencana",
+    "menggunakan",
+    "kapal",
+    "TNI",
+    "AL",
+    "KRI",
+    "Kalakay",
+    "serta",
+    "membawa",
+    "peralatan",
+    "evakuasi",
+    "dan",
+    "pembersihan",
+    "lumpur.Kebutusan",
+    "mendesak",
+    "berupa",
+    "tenda",
+    ",",
+    "obat-obatan",
+    ",",
+    "sembako",
+    ",",
+    "dapur",
+    "umum",
+    ",",
+    "selimut",
+    "dan",
+    "pakaian",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Banjir",
+      "startCharOffset": 1,
+      "endCharOffset": 7
+    },
+    {
+      "form": "Wasior,Papua",
+      "startCharOffset": 8,
+      "endCharOffset": 20
+    },
+    {
+      "form": "2010",
+      "startCharOffset": 21,
+      "endCharOffset": 25
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 28,
+      "endCharOffset": 34
+    },
+    {
+      "form": "bandang",
+      "startCharOffset": 35,
+      "endCharOffset": 42
+    },
+    {
+      "form": "terjadi",
+      "startCharOffset": 43,
+      "endCharOffset": 50
+    },
+    {
+      "form": "pada",
+      "startCharOffset": 51,
+      "endCharOffset": 55
+    },
+    {
+      "form": "hari",
+      "startCharOffset": 56,
+      "endCharOffset": 60
+    },
+    {
+      "form": "Senin",
+      "startCharOffset": 61,
+      "endCharOffset": 66
+    },
+    {
+      "form": "pagi",
+      "startCharOffset": 67,
+      "endCharOffset": 71
+    },
+    {
+      "form": "(",
+      "startCharOffset": 72,
+      "endCharOffset": 73
+    },
+    {
+      "form": "4/10",
+      "startCharOffset": 73,
+      "endCharOffset": 77
+    },
+    {
+      "form": ")",
+      "startCharOffset": 77,
+      "endCharOffset": 78
+    },
+    {
+      "form": "akibat",
+      "startCharOffset": 79,
+      "endCharOffset": 85
+    },
+    {
+      "form": "hujan",
+      "startCharOffset": 86,
+      "endCharOffset": 91
+    },
+    {
+      "form": "lebat",
+      "startCharOffset": 92,
+      "endCharOffset": 97
+    },
+    {
+      "form": "terus",
+      "startCharOffset": 98,
+      "endCharOffset": 103
+    },
+    {
+      "form": "menerus",
+      "startCharOffset": 104,
+      "endCharOffset": 111
+    },
+    {
+      "form": "selama",
+      "startCharOffset": 112,
+      "endCharOffset": 118
+    },
+    {
+      "form": "6",
+      "startCharOffset": 119,
+      "endCharOffset": 120
+    },
+    {
+      "form": "jam",
+      "startCharOffset": 121,
+      "endCharOffset": 124
+    },
+    {
+      "form": "di",
+      "startCharOffset": 125,
+      "endCharOffset": 127
+    },
+    {
+      "form": "Kabupaten",
+      "startCharOffset": 128,
+      "endCharOffset": 137
+    },
+    {
+      "form": "Teluk",
+      "startCharOffset": 138,
+      "endCharOffset": 143
+    },
+    {
+      "form": "Wondama",
+      "startCharOffset": 144,
+      "endCharOffset": 151
+    },
+    {
+      "form": ",",
+      "startCharOffset": 151,
+      "endCharOffset": 152
+    },
+    {
+      "form": "Provinsi",
+      "startCharOffset": 153,
+      "endCharOffset": 161
+    },
+    {
+      "form": "Papua",
+      "startCharOffset": 162,
+      "endCharOffset": 167
+    },
+    {
+      "form": "Barat",
+      "startCharOffset": 168,
+      "endCharOffset": 173
+    },
+    {
+      "form": ".",
+      "startCharOffset": 173,
+      "endCharOffset": 174
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 175,
+      "endCharOffset": 181
+    },
+    {
+      "form": "tersebut",
+      "startCharOffset": 182,
+      "endCharOffset": 190
+    },
+    {
+      "form": "melanda",
+      "startCharOffset": 191,
+      "endCharOffset": 198
+    },
+    {
+      "form": "8",
+      "startCharOffset": 199,
+      "endCharOffset": 200
+    },
+    {
+      "form": "kampung",
+      "startCharOffset": 201,
+      "endCharOffset": 208
+    },
+    {
+      "form": ",",
+      "startCharOffset": 208,
+      "endCharOffset": 209
+    },
+    {
+      "form": "yaitu",
+      "startCharOffset": 210,
+      "endCharOffset": 215
+    },
+    {
+      "form": "Kampung",
+      "startCharOffset": 216,
+      "endCharOffset": 223
+    },
+    {
+      "form": "Wasior",
+      "startCharOffset": 224,
+      "endCharOffset": 230
+    },
+    {
+      "form": "I",
+      "startCharOffset": 231,
+      "endCharOffset": 232
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 233,
+      "endCharOffset": 236
+    },
+    {
+      "form": "II",
+      "startCharOffset": 237,
+      "endCharOffset": 239
+    },
+    {
+      "form": ",",
+      "startCharOffset": 239,
+      "endCharOffset": 240
+    },
+    {
+      "form": "Kampung",
+      "startCharOffset": 241,
+      "endCharOffset": 248
+    },
+    {
+      "form": "Rado",
+      "startCharOffset": 249,
+      "endCharOffset": 253
+    },
+    {
+      "form": ",",
+      "startCharOffset": 253,
+      "endCharOffset": 254
+    },
+    {
+      "form": "Kampung",
+      "startCharOffset": 255,
+      "endCharOffset": 262
+    },
+    {
+      "form": "Moru",
+      "startCharOffset": 263,
+      "endCharOffset": 267
+    },
+    {
+      "form": ",",
+      "startCharOffset": 267,
+      "endCharOffset": 268
+    },
+    {
+      "form": "Kampung",
+      "startCharOffset": 269,
+      "endCharOffset": 276
+    },
+    {
+      "form": "Maniwak",
+      "startCharOffset": 277,
+      "endCharOffset": 284
+    },
+    {
+      "form": ",",
+      "startCharOffset": 284,
+      "endCharOffset": 285
+    },
+    {
+      "form": "Kampung",
+      "startCharOffset": 286,
+      "endCharOffset": 293
+    },
+    {
+      "form": "Manggurai",
+      "startCharOffset": 294,
+      "endCharOffset": 303
+    },
+    {
+      "form": ",",
+      "startCharOffset": 303,
+      "endCharOffset": 304
+    },
+    {
+      "form": "Kampung",
+      "startCharOffset": 305,
+      "endCharOffset": 312
+    },
+    {
+      "form": "Wondamawi",
+      "startCharOffset": 313,
+      "endCharOffset": 322
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 323,
+      "endCharOffset": 326
+    },
+    {
+      "form": "Kampung",
+      "startCharOffset": 327,
+      "endCharOffset": 334
+    },
+    {
+      "form": "Wondiboy",
+      "startCharOffset": 335,
+      "endCharOffset": 343
+    },
+    {
+      "form": ".",
+      "startCharOffset": 343,
+      "endCharOffset": 344
+    },
+    {
+      "form": "Ibu",
+      "startCharOffset": 345,
+      "endCharOffset": 348
+    },
+    {
+      "form": "kota",
+      "startCharOffset": 349,
+      "endCharOffset": 353
+    },
+    {
+      "form": "distrik",
+      "startCharOffset": 354,
+      "endCharOffset": 361
+    },
+    {
+      "form": "Wasior",
+      "startCharOffset": 362,
+      "endCharOffset": 368
+    },
+    {
+      "form": "hancur",
+      "startCharOffset": 369,
+      "endCharOffset": 375
+    },
+    {
+      "form": "total",
+      "startCharOffset": 376,
+      "endCharOffset": 381
+    },
+    {
+      "form": ",",
+      "startCharOffset": 381,
+      "endCharOffset": 382
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 383,
+      "endCharOffset": 386
+    },
+    {
+      "form": "hingga",
+      "startCharOffset": 387,
+      "endCharOffset": 393
+    },
+    {
+      "form": "saat",
+      "startCharOffset": 394,
+      "endCharOffset": 398
+    },
+    {
+      "form": "ini",
+      "startCharOffset": 399,
+      "endCharOffset": 402
+    },
+    {
+      "form": "aktivitas",
+      "startCharOffset": 403,
+      "endCharOffset": 412
+    },
+    {
+      "form": "masyarakat",
+      "startCharOffset": 413,
+      "endCharOffset": 423
+    },
+    {
+      "form": "lumpuh",
+      "startCharOffset": 424,
+      "endCharOffset": 430
+    },
+    {
+      "form": "total.Pusdalops",
+      "startCharOffset": 431,
+      "endCharOffset": 446
+    },
+    {
+      "form": "BNPB",
+      "startCharOffset": 447,
+      "endCharOffset": 451
+    },
+    {
+      "form": "melaporkan",
+      "startCharOffset": 452,
+      "endCharOffset": 462
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 463,
+      "endCharOffset": 469
+    },
+    {
+      "form": "meninggal",
+      "startCharOffset": 470,
+      "endCharOffset": 479
+    },
+    {
+      "form": "tercatat",
+      "startCharOffset": 480,
+      "endCharOffset": 488
+    },
+    {
+      "form": "sebanyak",
+      "startCharOffset": 489,
+      "endCharOffset": 497
+    },
+    {
+      "form": "56",
+      "startCharOffset": 498,
+      "endCharOffset": 500
+    },
+    {
+      "form": "orang",
+      "startCharOffset": 501,
+      "endCharOffset": 506
+    },
+    {
+      "form": ",",
+      "startCharOffset": 506,
+      "endCharOffset": 507
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 508,
+      "endCharOffset": 514
+    },
+    {
+      "form": "luka",
+      "startCharOffset": 515,
+      "endCharOffset": 519
+    },
+    {
+      "form": "60",
+      "startCharOffset": 520,
+      "endCharOffset": 522
+    },
+    {
+      "form": "orang",
+      "startCharOffset": 523,
+      "endCharOffset": 528
+    },
+    {
+      "form": "(",
+      "startCharOffset": 529,
+      "endCharOffset": 530
+    },
+    {
+      "form": "52",
+      "startCharOffset": 530,
+      "endCharOffset": 532
+    },
+    {
+      "form": "orang",
+      "startCharOffset": 533,
+      "endCharOffset": 538
+    },
+    {
+      "form": "diantaranya",
+      "startCharOffset": 539,
+      "endCharOffset": 550
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 551,
+      "endCharOffset": 556
+    },
+    {
+      "form": "dievakuasi",
+      "startCharOffset": 557,
+      "endCharOffset": 567
+    },
+    {
+      "form": "ke",
+      "startCharOffset": 568,
+      "endCharOffset": 570
+    },
+    {
+      "form": "Nabire",
+      "startCharOffset": 571,
+      "endCharOffset": 577
+    },
+    {
+      "form": ",",
+      "startCharOffset": 577,
+      "endCharOffset": 578
+    },
+    {
+      "form": "7",
+      "startCharOffset": 579,
+      "endCharOffset": 580
+    },
+    {
+      "form": "orang",
+      "startCharOffset": 581,
+      "endCharOffset": 586
+    },
+    {
+      "form": "dievakuasi",
+      "startCharOffset": 587,
+      "endCharOffset": 597
+    },
+    {
+      "form": "ke",
+      "startCharOffset": 598,
+      "endCharOffset": 600
+    },
+    {
+      "form": "Manokwari",
+      "startCharOffset": 601,
+      "endCharOffset": 610
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 611,
+      "endCharOffset": 614
+    },
+    {
+      "form": "1",
+      "startCharOffset": 615,
+      "endCharOffset": 616
+    },
+    {
+      "form": "orang",
+      "startCharOffset": 617,
+      "endCharOffset": 622
+    },
+    {
+      "form": "lainnya",
+      "startCharOffset": 623,
+      "endCharOffset": 630
+    },
+    {
+      "form": "dievakuasi",
+      "startCharOffset": 631,
+      "endCharOffset": 641
+    },
+    {
+      "form": "keluar",
+      "startCharOffset": 642,
+      "endCharOffset": 648
+    },
+    {
+      "form": "daerah",
+      "startCharOffset": 649,
+      "endCharOffset": 655
+    },
+    {
+      "form": "Papua",
+      "startCharOffset": 656,
+      "endCharOffset": 661
+    },
+    {
+      "form": ").",
+      "startCharOffset": 661,
+      "endCharOffset": 663
+    },
+    {
+      "form": "Sementara",
+      "startCharOffset": 664,
+      "endCharOffset": 673
+    },
+    {
+      "form": "itu",
+      "startCharOffset": 674,
+      "endCharOffset": 677
+    },
+    {
+      "form": "7",
+      "startCharOffset": 678,
+      "endCharOffset": 679
+    },
+    {
+      "form": "orang",
+      "startCharOffset": 680,
+      "endCharOffset": 685
+    },
+    {
+      "form": "dilaporkan",
+      "startCharOffset": 686,
+      "endCharOffset": 696
+    },
+    {
+      "form": "hilang.Selain",
+      "startCharOffset": 697,
+      "endCharOffset": 710
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 711,
+      "endCharOffset": 717
+    },
+    {
+      "form": "jiwa",
+      "startCharOffset": 718,
+      "endCharOffset": 722
+    },
+    {
+      "form": ",",
+      "startCharOffset": 722,
+      "endCharOffset": 723
+    },
+    {
+      "form": "bencana",
+      "startCharOffset": 724,
+      "endCharOffset": 731
+    },
+    {
+      "form": "tersebut",
+      "startCharOffset": 732,
+      "endCharOffset": 740
+    },
+    {
+      "form": "juga",
+      "startCharOffset": 741,
+      "endCharOffset": 745
+    },
+    {
+      "form": "menimbulkan",
+      "startCharOffset": 746,
+      "endCharOffset": 757
+    },
+    {
+      "form": "kerugian",
+      "startCharOffset": 758,
+      "endCharOffset": 766
+    },
+    {
+      "form": "material",
+      "startCharOffset": 767,
+      "endCharOffset": 775
+    },
+    {
+      "form": ".",
+      "startCharOffset": 775,
+      "endCharOffset": 776
+    },
+    {
+      "form": "Data",
+      "startCharOffset": 777,
+      "endCharOffset": 781
+    },
+    {
+      "form": "kerusakan",
+      "startCharOffset": 782,
+      "endCharOffset": 791
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 792,
+      "endCharOffset": 796
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 797,
+      "endCharOffset": 802
+    },
+    {
+      "form": "dihimpun",
+      "startCharOffset": 803,
+      "endCharOffset": 811
+    },
+    {
+      "form": "tercatat",
+      "startCharOffset": 812,
+      "endCharOffset": 820
+    },
+    {
+      "form": "31",
+      "startCharOffset": 821,
+      "endCharOffset": 823
+    },
+    {
+      "form": "rumah",
+      "startCharOffset": 824,
+      "endCharOffset": 829
+    },
+    {
+      "form": "hanyut",
+      "startCharOffset": 830,
+      "endCharOffset": 836
+    },
+    {
+      "form": ",",
+      "startCharOffset": 836,
+      "endCharOffset": 837
+    },
+    {
+      "form": "2",
+      "startCharOffset": 838,
+      "endCharOffset": 839
+    },
+    {
+      "form": "sekolah",
+      "startCharOffset": 840,
+      "endCharOffset": 847
+    },
+    {
+      "form": "rusak",
+      "startCharOffset": 848,
+      "endCharOffset": 853
+    },
+    {
+      "form": "berat",
+      "startCharOffset": 854,
+      "endCharOffset": 859
+    },
+    {
+      "form": ",",
+      "startCharOffset": 859,
+      "endCharOffset": 860
+    },
+    {
+      "form": "1",
+      "startCharOffset": 861,
+      "endCharOffset": 862
+    },
+    {
+      "form": "rumah",
+      "startCharOffset": 863,
+      "endCharOffset": 868
+    },
+    {
+      "form": "sakit",
+      "startCharOffset": 869,
+      "endCharOffset": 874
+    },
+    {
+      "form": "rusak",
+      "startCharOffset": 875,
+      "endCharOffset": 880
+    },
+    {
+      "form": "berat",
+      "startCharOffset": 881,
+      "endCharOffset": 886
+    },
+    {
+      "form": ",",
+      "startCharOffset": 886,
+      "endCharOffset": 887
+    },
+    {
+      "form": "1",
+      "startCharOffset": 888,
+      "endCharOffset": 889
+    },
+    {
+      "form": "masjid",
+      "startCharOffset": 890,
+      "endCharOffset": 896
+    },
+    {
+      "form": "rusak",
+      "startCharOffset": 897,
+      "endCharOffset": 902
+    },
+    {
+      "form": "berat",
+      "startCharOffset": 903,
+      "endCharOffset": 908
+    },
+    {
+      "form": ",",
+      "startCharOffset": 908,
+      "endCharOffset": 909
+    },
+    {
+      "form": "1",
+      "startCharOffset": 910,
+      "endCharOffset": 911
+    },
+    {
+      "form": "hotel",
+      "startCharOffset": 912,
+      "endCharOffset": 917
+    },
+    {
+      "form": "rusak",
+      "startCharOffset": 918,
+      "endCharOffset": 923
+    },
+    {
+      "form": "berat",
+      "startCharOffset": 924,
+      "endCharOffset": 929
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 930,
+      "endCharOffset": 933
+    },
+    {
+      "form": "4",
+      "startCharOffset": 934,
+      "endCharOffset": 935
+    },
+    {
+      "form": "jembatan",
+      "startCharOffset": 936,
+      "endCharOffset": 944
+    },
+    {
+      "form": "tertimbun",
+      "startCharOffset": 945,
+      "endCharOffset": 954
+    },
+    {
+      "form": "lumpur",
+      "startCharOffset": 955,
+      "endCharOffset": 961
+    },
+    {
+      "form": ".",
+      "startCharOffset": 961,
+      "endCharOffset": 962
+    },
+    {
+      "form": "BPBD",
+      "startCharOffset": 963,
+      "endCharOffset": 967
+    },
+    {
+      "form": "setempat",
+      "startCharOffset": 968,
+      "endCharOffset": 976
+    },
+    {
+      "form": "masih",
+      "startCharOffset": 977,
+      "endCharOffset": 982
+    },
+    {
+      "form": "terus",
+      "startCharOffset": 983,
+      "endCharOffset": 988
+    },
+    {
+      "form": "melakukan",
+      "startCharOffset": 989,
+      "endCharOffset": 998
+    },
+    {
+      "form": "pendataan",
+      "startCharOffset": 999,
+      "endCharOffset": 1008
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 1009,
+      "endCharOffset": 1015
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1016,
+      "endCharOffset": 1019
+    },
+    {
+      "form": "kerusakan.BNPB",
+      "startCharOffset": 1020,
+      "endCharOffset": 1034
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 1035,
+      "endCharOffset": 1040
+    },
+    {
+      "form": "menyerahkan",
+      "startCharOffset": 1041,
+      "endCharOffset": 1052
+    },
+    {
+      "form": "bantuan",
+      "startCharOffset": 1053,
+      "endCharOffset": 1060
+    },
+    {
+      "form": "dana",
+      "startCharOffset": 1061,
+      "endCharOffset": 1065
+    },
+    {
+      "form": "siap",
+      "startCharOffset": 1066,
+      "endCharOffset": 1070
+    },
+    {
+      "form": "pakai",
+      "startCharOffset": 1071,
+      "endCharOffset": 1076
+    },
+    {
+      "form": "sebesar",
+      "startCharOffset": 1077,
+      "endCharOffset": 1084
+    },
+    {
+      "form": "Rp",
+      "startCharOffset": 1085,
+      "endCharOffset": 1087
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1087,
+      "endCharOffset": 1088
+    },
+    {
+      "form": "200",
+      "startCharOffset": 1089,
+      "endCharOffset": 1092
+    },
+    {
+      "form": "juta",
+      "startCharOffset": 1093,
+      "endCharOffset": 1097
+    },
+    {
+      "form": "kepada",
+      "startCharOffset": 1098,
+      "endCharOffset": 1104
+    },
+    {
+      "form": "Gubernur",
+      "startCharOffset": 1105,
+      "endCharOffset": 1113
+    },
+    {
+      "form": "Papua",
+      "startCharOffset": 1114,
+      "endCharOffset": 1119
+    },
+    {
+      "form": "Barat",
+      "startCharOffset": 1120,
+      "endCharOffset": 1125
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1125,
+      "endCharOffset": 1126
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1127,
+      "endCharOffset": 1130
+    },
+    {
+      "form": "tadi",
+      "startCharOffset": 1131,
+      "endCharOffset": 1135
+    },
+    {
+      "form": "pagi",
+      "startCharOffset": 1136,
+      "endCharOffset": 1140
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1140,
+      "endCharOffset": 1141
+    },
+    {
+      "form": "Rabu",
+      "startCharOffset": 1142,
+      "endCharOffset": 1146
+    },
+    {
+      "form": "(",
+      "startCharOffset": 1147,
+      "endCharOffset": 1148
+    },
+    {
+      "form": "6/10",
+      "startCharOffset": 1148,
+      "endCharOffset": 1152
+    },
+    {
+      "form": ")",
+      "startCharOffset": 1152,
+      "endCharOffset": 1153
+    },
+    {
+      "form": "pukul",
+      "startCharOffset": 1154,
+      "endCharOffset": 1159
+    },
+    {
+      "form": "6.03",
+      "startCharOffset": 1160,
+      "endCharOffset": 1164
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 1165,
+      "endCharOffset": 1170
+    },
+    {
+      "form": "diberangkatkan",
+      "startCharOffset": 1171,
+      "endCharOffset": 1185
+    },
+    {
+      "form": "bantuan",
+      "startCharOffset": 1186,
+      "endCharOffset": 1193
+    },
+    {
+      "form": "logistik",
+      "startCharOffset": 1194,
+      "endCharOffset": 1202
+    },
+    {
+      "form": "seberat",
+      "startCharOffset": 1203,
+      "endCharOffset": 1210
+    },
+    {
+      "form": "10,5",
+      "startCharOffset": 1211,
+      "endCharOffset": 1215
+    },
+    {
+      "form": "ton",
+      "startCharOffset": 1216,
+      "endCharOffset": 1219
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1219,
+      "endCharOffset": 1220
+    },
+    {
+      "form": "dengan",
+      "startCharOffset": 1221,
+      "endCharOffset": 1227
+    },
+    {
+      "form": "rincian",
+      "startCharOffset": 1228,
+      "endCharOffset": 1235
+    },
+    {
+      "form": "berupa",
+      "startCharOffset": 1236,
+      "endCharOffset": 1242
+    },
+    {
+      "form": "tenda",
+      "startCharOffset": 1243,
+      "endCharOffset": 1248
+    },
+    {
+      "form": "pleton",
+      "startCharOffset": 1249,
+      "endCharOffset": 1255
+    },
+    {
+      "form": "3",
+      "startCharOffset": 1256,
+      "endCharOffset": 1257
+    },
+    {
+      "form": "unit",
+      "startCharOffset": 1258,
+      "endCharOffset": 1262
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1262,
+      "endCharOffset": 1263
+    },
+    {
+      "form": "tenda",
+      "startCharOffset": 1264,
+      "endCharOffset": 1269
+    },
+    {
+      "form": "keluarga",
+      "startCharOffset": 1270,
+      "endCharOffset": 1278
+    },
+    {
+      "form": "80",
+      "startCharOffset": 1279,
+      "endCharOffset": 1281
+    },
+    {
+      "form": "unit",
+      "startCharOffset": 1282,
+      "endCharOffset": 1286
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1286,
+      "endCharOffset": 1287
+    },
+    {
+      "form": "tenda",
+      "startCharOffset": 1288,
+      "endCharOffset": 1293
+    },
+    {
+      "form": "gulung",
+      "startCharOffset": 1294,
+      "endCharOffset": 1300
+    },
+    {
+      "form": "200",
+      "startCharOffset": 1301,
+      "endCharOffset": 1304
+    },
+    {
+      "form": "lembar",
+      "startCharOffset": 1305,
+      "endCharOffset": 1311
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1311,
+      "endCharOffset": 1312
+    },
+    {
+      "form": "velbed",
+      "startCharOffset": 1313,
+      "endCharOffset": 1319
+    },
+    {
+      "form": "60",
+      "startCharOffset": 1320,
+      "endCharOffset": 1322
+    },
+    {
+      "form": "unit",
+      "startCharOffset": 1323,
+      "endCharOffset": 1327
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1327,
+      "endCharOffset": 1328
+    },
+    {
+      "form": "sandang",
+      "startCharOffset": 1329,
+      "endCharOffset": 1336
+    },
+    {
+      "form": "500",
+      "startCharOffset": 1337,
+      "endCharOffset": 1340
+    },
+    {
+      "form": "paket",
+      "startCharOffset": 1341,
+      "endCharOffset": 1346
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1346,
+      "endCharOffset": 1347
+    },
+    {
+      "form": "kidsware",
+      "startCharOffset": 1348,
+      "endCharOffset": 1356
+    },
+    {
+      "form": "150",
+      "startCharOffset": 1357,
+      "endCharOffset": 1360
+    },
+    {
+      "form": "paket",
+      "startCharOffset": 1361,
+      "endCharOffset": 1366
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1366,
+      "endCharOffset": 1367
+    },
+    {
+      "form": "family",
+      "startCharOffset": 1368,
+      "endCharOffset": 1374
+    },
+    {
+      "form": "kits",
+      "startCharOffset": 1375,
+      "endCharOffset": 1379
+    },
+    {
+      "form": "150",
+      "startCharOffset": 1380,
+      "endCharOffset": 1383
+    },
+    {
+      "form": "paket",
+      "startCharOffset": 1384,
+      "endCharOffset": 1389
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1389,
+      "endCharOffset": 1390
+    },
+    {
+      "form": "selimut",
+      "startCharOffset": 1391,
+      "endCharOffset": 1398
+    },
+    {
+      "form": "100",
+      "startCharOffset": 1399,
+      "endCharOffset": 1402
+    },
+    {
+      "form": "lembar",
+      "startCharOffset": 1403,
+      "endCharOffset": 1409
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1409,
+      "endCharOffset": 1410
+    },
+    {
+      "form": "tikar",
+      "startCharOffset": 1411,
+      "endCharOffset": 1416
+    },
+    {
+      "form": "100",
+      "startCharOffset": 1417,
+      "endCharOffset": 1420
+    },
+    {
+      "form": "lembar",
+      "startCharOffset": 1421,
+      "endCharOffset": 1427
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1428,
+      "endCharOffset": 1431
+    },
+    {
+      "form": "makanan",
+      "startCharOffset": 1432,
+      "endCharOffset": 1439
+    },
+    {
+      "form": "siap",
+      "startCharOffset": 1440,
+      "endCharOffset": 1444
+    },
+    {
+      "form": "saji",
+      "startCharOffset": 1445,
+      "endCharOffset": 1449
+    },
+    {
+      "form": "2.250",
+      "startCharOffset": 1450,
+      "endCharOffset": 1455
+    },
+    {
+      "form": "paket",
+      "startCharOffset": 1456,
+      "endCharOffset": 1461
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1461,
+      "endCharOffset": 1462
+    },
+    {
+      "form": "Nilai",
+      "startCharOffset": 1463,
+      "endCharOffset": 1468
+    },
+    {
+      "form": "bantuan",
+      "startCharOffset": 1469,
+      "endCharOffset": 1476
+    },
+    {
+      "form": "logistik",
+      "startCharOffset": 1477,
+      "endCharOffset": 1485
+    },
+    {
+      "form": "diperkirakan",
+      "startCharOffset": 1486,
+      "endCharOffset": 1498
+    },
+    {
+      "form": "sebesar",
+      "startCharOffset": 1499,
+      "endCharOffset": 1506
+    },
+    {
+      "form": "Rp",
+      "startCharOffset": 1507,
+      "endCharOffset": 1509
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1509,
+      "endCharOffset": 1510
+    },
+    {
+      "form": "900",
+      "startCharOffset": 1511,
+      "endCharOffset": 1514
+    },
+    {
+      "form": "juta",
+      "startCharOffset": 1515,
+      "endCharOffset": 1519
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1519,
+      "endCharOffset": 1520
+    },
+    {
+      "form": "Selain",
+      "startCharOffset": 1521,
+      "endCharOffset": 1527
+    },
+    {
+      "form": "bantuan",
+      "startCharOffset": 1528,
+      "endCharOffset": 1535
+    },
+    {
+      "form": "logistik",
+      "startCharOffset": 1536,
+      "endCharOffset": 1544
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1544,
+      "endCharOffset": 1545
+    },
+    {
+      "form": "juga",
+      "startCharOffset": 1546,
+      "endCharOffset": 1550
+    },
+    {
+      "form": "dikirimkan",
+      "startCharOffset": 1551,
+      "endCharOffset": 1561
+    },
+    {
+      "form": "bantuan",
+      "startCharOffset": 1562,
+      "endCharOffset": 1569
+    },
+    {
+      "form": "obat-obatan",
+      "startCharOffset": 1570,
+      "endCharOffset": 1581
+    },
+    {
+      "form": "seberat",
+      "startCharOffset": 1582,
+      "endCharOffset": 1589
+    },
+    {
+      "form": "2,5",
+      "startCharOffset": 1590,
+      "endCharOffset": 1593
+    },
+    {
+      "form": "ton",
+      "startCharOffset": 1594,
+      "endCharOffset": 1597
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1598,
+      "endCharOffset": 1601
+    },
+    {
+      "form": "tim",
+      "startCharOffset": 1602,
+      "endCharOffset": 1605
+    },
+    {
+      "form": "medis",
+      "startCharOffset": 1606,
+      "endCharOffset": 1611
+    },
+    {
+      "form": "7",
+      "startCharOffset": 1612,
+      "endCharOffset": 1613
+    },
+    {
+      "form": "orang",
+      "startCharOffset": 1614,
+      "endCharOffset": 1619
+    },
+    {
+      "form": "dari",
+      "startCharOffset": 1620,
+      "endCharOffset": 1624
+    },
+    {
+      "form": "Kementerian",
+      "startCharOffset": 1625,
+      "endCharOffset": 1636
+    },
+    {
+      "form": "Kesehatan",
+      "startCharOffset": 1637,
+      "endCharOffset": 1646
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1646,
+      "endCharOffset": 1647
+    },
+    {
+      "form": "Bantuan",
+      "startCharOffset": 1648,
+      "endCharOffset": 1655
+    },
+    {
+      "form": "tersebut",
+      "startCharOffset": 1656,
+      "endCharOffset": 1664
+    },
+    {
+      "form": "diangkut",
+      "startCharOffset": 1665,
+      "endCharOffset": 1673
+    },
+    {
+      "form": "menggunakan",
+      "startCharOffset": 1674,
+      "endCharOffset": 1685
+    },
+    {
+      "form": "pesawat",
+      "startCharOffset": 1686,
+      "endCharOffset": 1693
+    },
+    {
+      "form": "boeing",
+      "startCharOffset": 1694,
+      "endCharOffset": 1700
+    },
+    {
+      "form": "737",
+      "startCharOffset": 1701,
+      "endCharOffset": 1704
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1704,
+      "endCharOffset": 1705
+    },
+    {
+      "form": "BPBD",
+      "startCharOffset": 1706,
+      "endCharOffset": 1710
+    },
+    {
+      "form": "provinsi",
+      "startCharOffset": 1711,
+      "endCharOffset": 1719
+    },
+    {
+      "form": "bersama",
+      "startCharOffset": 1720,
+      "endCharOffset": 1727
+    },
+    {
+      "form": "unsur",
+      "startCharOffset": 1728,
+      "endCharOffset": 1733
+    },
+    {
+      "form": "PU",
+      "startCharOffset": 1734,
+      "endCharOffset": 1736
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1736,
+      "endCharOffset": 1737
+    },
+    {
+      "form": "TNI",
+      "startCharOffset": 1738,
+      "endCharOffset": 1741
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1742,
+      "endCharOffset": 1745
+    },
+    {
+      "form": "Polri",
+      "startCharOffset": 1746,
+      "endCharOffset": 1751
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 1752,
+      "endCharOffset": 1757
+    },
+    {
+      "form": "menuju",
+      "startCharOffset": 1758,
+      "endCharOffset": 1764
+    },
+    {
+      "form": "lokasi",
+      "startCharOffset": 1765,
+      "endCharOffset": 1771
+    },
+    {
+      "form": "bencana",
+      "startCharOffset": 1772,
+      "endCharOffset": 1779
+    },
+    {
+      "form": "menggunakan",
+      "startCharOffset": 1780,
+      "endCharOffset": 1791
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 1792,
+      "endCharOffset": 1797
+    },
+    {
+      "form": "TNI",
+      "startCharOffset": 1798,
+      "endCharOffset": 1801
+    },
+    {
+      "form": "AL",
+      "startCharOffset": 1802,
+      "endCharOffset": 1804
+    },
+    {
+      "form": "KRI",
+      "startCharOffset": 1805,
+      "endCharOffset": 1808
+    },
+    {
+      "form": "Kalakay",
+      "startCharOffset": 1809,
+      "endCharOffset": 1816
+    },
+    {
+      "form": "serta",
+      "startCharOffset": 1817,
+      "endCharOffset": 1822
+    },
+    {
+      "form": "membawa",
+      "startCharOffset": 1823,
+      "endCharOffset": 1830
+    },
+    {
+      "form": "peralatan",
+      "startCharOffset": 1831,
+      "endCharOffset": 1840
+    },
+    {
+      "form": "evakuasi",
+      "startCharOffset": 1841,
+      "endCharOffset": 1849
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1850,
+      "endCharOffset": 1853
+    },
+    {
+      "form": "pembersihan",
+      "startCharOffset": 1854,
+      "endCharOffset": 1865
+    },
+    {
+      "form": "lumpur.Kebutusan",
+      "startCharOffset": 1866,
+      "endCharOffset": 1882
+    },
+    {
+      "form": "mendesak",
+      "startCharOffset": 1883,
+      "endCharOffset": 1891
+    },
+    {
+      "form": "berupa",
+      "startCharOffset": 1892,
+      "endCharOffset": 1898
+    },
+    {
+      "form": "tenda",
+      "startCharOffset": 1899,
+      "endCharOffset": 1904
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1904,
+      "endCharOffset": 1905
+    },
+    {
+      "form": "obat-obatan",
+      "startCharOffset": 1906,
+      "endCharOffset": 1917
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1917,
+      "endCharOffset": 1918
+    },
+    {
+      "form": "sembako",
+      "startCharOffset": 1919,
+      "endCharOffset": 1926
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1926,
+      "endCharOffset": 1927
+    },
+    {
+      "form": "dapur",
+      "startCharOffset": 1928,
+      "endCharOffset": 1933
+    },
+    {
+      "form": "umum",
+      "startCharOffset": 1934,
+      "endCharOffset": 1938
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1938,
+      "endCharOffset": 1939
+    },
+    {
+      "form": "selimut",
+      "startCharOffset": 1940,
+      "endCharOffset": 1947
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1948,
+      "endCharOffset": 1951
+    },
+    {
+      "form": "pakaian",
+      "startCharOffset": 1952,
+      "endCharOffset": 1959
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1959,
+      "endCharOffset": 1960
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      3,
+      30,
+      61,
+      112,
+      128,
+      164,
+      182,
+      256,
+      263,
+      266,
+      286,
+      335
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 22,
+              "end": 25
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 26,
+              "end": 29
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 37,
+              "end": 40
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 43,
+              "end": 45
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 46,
+              "end": 48
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 49,
+              "end": 51
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 52,
+              "end": 54
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 55,
+              "end": 57
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 58,
+              "end": 60
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 75,
+              "end": 77
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 186,
+              "end": 188
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 309,
+              "end": 311
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 311,
+              "end": 313
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Wasior,Papua",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "2010",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "bandang",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "terjadi",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "pada",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "hari",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Senin",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "pagi",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "(",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "4/10",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": ")",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "akibat",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "hujan",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "lebat",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "terus",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "menerus",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "selama",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "6",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "jam",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "Kabupaten",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "Teluk",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "Wondama",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "Provinsi",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "Papua",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "Barat",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "tersebut",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "melanda",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "8",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "kampung",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "yaitu",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "Kampung",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "Wasior",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "I",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "II",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "Kampung",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "Rado",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "Kampung",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "Moru",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "Kampung",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "Maniwak",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "Kampung",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "Manggurai",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "Kampung",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "Wondamawi",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "Kampung",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "Wondiboy",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "Ibu",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "kota",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "distrik",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "Wasior",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "hancur",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "total",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "hingga",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "saat",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "ini",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "aktivitas",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "masyarakat",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "lumpuh",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "total.Pusdalops",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "BNPB",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "melaporkan",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "meninggal",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "tercatat",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "sebanyak",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "56",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "orang",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "luka",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "60",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "orang",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "(",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "52",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "orang",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "diantaranya",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "dievakuasi",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "Nabire",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "7",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "orang",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "dievakuasi",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "Manokwari",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "1",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "orang",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "lainnya",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "dievakuasi",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "keluar",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "daerah",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "Papua",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": ").",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "Sementara",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "itu",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "7",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "orang",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "dilaporkan",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "hilang.Selain",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "jiwa",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "bencana",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "tersebut",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "juga",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "menimbulkan",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "kerugian",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "material",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "Data",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "kerusakan",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "dihimpun",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "tercatat",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "31",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "rumah",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "hanyut",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "2",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "sekolah",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "rusak",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "berat",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "1",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "rumah",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "sakit",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "rusak",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "berat",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "1",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "masjid",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "rusak",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "berat",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "1",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "hotel",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "rusak",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "berat",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "4",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "jembatan",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "tertimbun",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "lumpur",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "BPBD",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "setempat",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "masih",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "terus",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "melakukan",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "pendataan",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "kerusakan.BNPB",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "menyerahkan",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "bantuan",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "dana",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "siap",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "pakai",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "sebesar",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "Rp",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "200",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "juta",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "kepada",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "Gubernur",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "Papua",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "Barat",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "tadi",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "pagi",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "Rabu",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "(",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "6/10",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": ")",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "pukul",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "6.03",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "diberangkatkan",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "bantuan",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "logistik",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "seberat",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "10,5",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "ton",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "dengan",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "rincian",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "berupa",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "tenda",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "pleton",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "3",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "unit",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "tenda",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "keluarga",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "80",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "unit",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "tenda",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "gulung",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "200",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "lembar",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "velbed",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "60",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "unit",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "sandang",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "500",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "paket",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "kidsware",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "150",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "paket",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "family",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "kits",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "150",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "paket",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "selimut",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "100",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "lembar",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "tikar",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "100",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "lembar",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "makanan",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": "siap",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "saji",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "2.250",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "paket",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "Nilai",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "bantuan",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "logistik",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "diperkirakan",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "sebesar",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "Rp",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "900",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "juta",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": "Selain",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "bantuan",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "logistik",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "juga",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "dikirimkan",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "bantuan",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "obat-obatan",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "seberat",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "2,5",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "ton",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "tim",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "medis",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "7",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "orang",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "dari",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "Kementerian",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "Kesehatan",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "Bantuan",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "tersebut",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "diangkut",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "menggunakan",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "pesawat",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": "boeing",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "737",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "BPBD",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "provinsi",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "bersama",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "unsur",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "PU",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "TNI",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": "Polri",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "menuju",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "lokasi",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "bencana",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "menggunakan",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "TNI",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "AL",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "KRI",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "Kalakay",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "serta",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "membawa",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "peralatan",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "evakuasi",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "pembersihan",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "lumpur.Kebutusan",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "mendesak",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "berupa",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "tenda",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "obat-obatan",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "sembako",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "dapur",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "umum",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "selimut",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "pakaian",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 3
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 3,
+              "end": 30
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 30,
+              "end": 61
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 61,
+              "end": 112
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 112,
+              "end": 128
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 128,
+              "end": 164
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 164,
+              "end": 182
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 182,
+              "end": 256
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 256,
+              "end": 263
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 263,
+              "end": 266
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 266,
+              "end": 286
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 286,
+              "end": 335
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

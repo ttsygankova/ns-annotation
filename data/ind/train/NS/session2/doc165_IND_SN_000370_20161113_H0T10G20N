@@ -1,0 +1,363 @@
+{
+  "corpusId": "",
+  "id": "doc165_IND_SN_000370_20161113_H0T10G20N",
+  "text": "Intip Kecanggihan The Beast, Mobil Dinas Presiden Donald Trump. Baca: https://t.co/gblBHPEVtY https://t.co/JXYjTxBBKg",
+  "tokens": [
+    "Intip",
+    "Kecanggihan",
+    "The",
+    "Beast",
+    ",",
+    "Mobil",
+    "Dinas",
+    "Presiden",
+    "Donald",
+    "Trump",
+    ".",
+    "Baca",
+    ":",
+    "https://t.co/gblBHPEVtY",
+    "https://t.co/JXYjTxBBKg"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Intip",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "Kecanggihan",
+      "startCharOffset": 6,
+      "endCharOffset": 17
+    },
+    {
+      "form": "The",
+      "startCharOffset": 18,
+      "endCharOffset": 21
+    },
+    {
+      "form": "Beast",
+      "startCharOffset": 22,
+      "endCharOffset": 27
+    },
+    {
+      "form": ",",
+      "startCharOffset": 27,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Mobil",
+      "startCharOffset": 29,
+      "endCharOffset": 34
+    },
+    {
+      "form": "Dinas",
+      "startCharOffset": 35,
+      "endCharOffset": 40
+    },
+    {
+      "form": "Presiden",
+      "startCharOffset": 41,
+      "endCharOffset": 49
+    },
+    {
+      "form": "Donald",
+      "startCharOffset": 50,
+      "endCharOffset": 56
+    },
+    {
+      "form": "Trump",
+      "startCharOffset": 57,
+      "endCharOffset": 62
+    },
+    {
+      "form": ".",
+      "startCharOffset": 62,
+      "endCharOffset": 63
+    },
+    {
+      "form": "Baca",
+      "startCharOffset": 64,
+      "endCharOffset": 68
+    },
+    {
+      "form": ":",
+      "startCharOffset": 68,
+      "endCharOffset": 69
+    },
+    {
+      "form": "https://t.co/gblBHPEVtY",
+      "startCharOffset": 70,
+      "endCharOffset": 93
+    },
+    {
+      "form": "https://t.co/JXYjTxBBKg",
+      "startCharOffset": 94,
+      "endCharOffset": 117
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 8,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 8,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Intip",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Kecanggihan",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "The",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Beast",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Mobil",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Dinas",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Presiden",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Donald",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Trump",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Baca",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "https://t.co/gblBHPEVtY",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "https://t.co/JXYjTxBBKg",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "corpusId": "",
+  "id": "doc148_HIN_SN_000370_20150218_H0T10EBDK",
+  "text": "विदेश सचिव एस जयशंकर मार्च में कर सकते हैं पाक की यात्रा: अजीज http://t.co/fhDIUzylFO",
+  "tokens": [
+    "विदेश",
+    "सचिव",
+    "एस",
+    "जयशंकर",
+    "मार्च",
+    "में",
+    "कर",
+    "सकते",
+    "हैं",
+    "पाक",
+    "की",
+    "यात्रा",
+    ":",
+    "अजीज",
+    "http://t.co/fhDIUzylFO"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "विदेश",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "सचिव",
+      "startCharOffset": 6,
+      "endCharOffset": 10
+    },
+    {
+      "form": "एस",
+      "startCharOffset": 11,
+      "endCharOffset": 13
+    },
+    {
+      "form": "जयशंकर",
+      "startCharOffset": 14,
+      "endCharOffset": 20
+    },
+    {
+      "form": "मार्च",
+      "startCharOffset": 21,
+      "endCharOffset": 26
+    },
+    {
+      "form": "में",
+      "startCharOffset": 27,
+      "endCharOffset": 30
+    },
+    {
+      "form": "कर",
+      "startCharOffset": 31,
+      "endCharOffset": 33
+    },
+    {
+      "form": "सकते",
+      "startCharOffset": 34,
+      "endCharOffset": 38
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 39,
+      "endCharOffset": 42
+    },
+    {
+      "form": "पाक",
+      "startCharOffset": 43,
+      "endCharOffset": 46
+    },
+    {
+      "form": "की",
+      "startCharOffset": 47,
+      "endCharOffset": 49
+    },
+    {
+      "form": "यात्रा",
+      "startCharOffset": 50,
+      "endCharOffset": 56
+    },
+    {
+      "form": ":",
+      "startCharOffset": 56,
+      "endCharOffset": 57
+    },
+    {
+      "form": "अजीज",
+      "startCharOffset": 58,
+      "endCharOffset": 62
+    },
+    {
+      "form": "http://t.co/fhDIUzylFO",
+      "startCharOffset": 63,
+      "endCharOffset": 85
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "videsh",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "saciv",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "es",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "jayashamkar",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "maarca",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "mem",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "kar",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "sakate",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "haim",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "paak",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "kii",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "yaatraa",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ajiij",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "http://t.co/fhDIUzylFO",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

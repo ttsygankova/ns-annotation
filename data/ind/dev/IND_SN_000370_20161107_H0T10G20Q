@@ -1,0 +1,286 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20161107_H0T10G20Q",
+  "text": "Komunitas Tionghoa Aceh Dukung Zaini Abdullah. Baca: https://t.co/0BboIChs11 https://t.co/lQHAhwrrNt",
+  "tokens": [
+    "Komunitas",
+    "Tionghoa",
+    "Aceh",
+    "Dukung",
+    "Zaini",
+    "Abdullah",
+    ".",
+    "Baca",
+    ":",
+    "https://t.co/0BboIChs11",
+    "https://t.co/lQHAhwrrNt"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Komunitas",
+      "startCharOffset": 0,
+      "endCharOffset": 9
+    },
+    {
+      "form": "Tionghoa",
+      "startCharOffset": 10,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Aceh",
+      "startCharOffset": 19,
+      "endCharOffset": 23
+    },
+    {
+      "form": "Dukung",
+      "startCharOffset": 24,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Zaini",
+      "startCharOffset": 31,
+      "endCharOffset": 36
+    },
+    {
+      "form": "Abdullah",
+      "startCharOffset": 37,
+      "endCharOffset": 45
+    },
+    {
+      "form": ".",
+      "startCharOffset": 45,
+      "endCharOffset": 46
+    },
+    {
+      "form": "Baca",
+      "startCharOffset": 47,
+      "endCharOffset": 51
+    },
+    {
+      "form": ":",
+      "startCharOffset": 51,
+      "endCharOffset": 52
+    },
+    {
+      "form": "https://t.co/0BboIChs11",
+      "startCharOffset": 53,
+      "endCharOffset": 76
+    },
+    {
+      "form": "https://t.co/lQHAhwrrNt",
+      "startCharOffset": 77,
+      "endCharOffset": 100
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 3
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 4,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Komunitas",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Tionghoa",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Aceh",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Dukung",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Zaini",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Abdullah",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Baca",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "https://t.co/0BboIChs11",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/lQHAhwrrNt",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

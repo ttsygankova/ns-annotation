@@ -1,0 +1,326 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170209_H0T10EO50",
+  "text": "मोदी जी द्वारा भूकंप पर की गयी अभद्र टिप्पणी से @BJP4India की उत्तराखंड के प्रति भावनाएं व्यक्त होती हैं। #uttarakhandvirodhimodi",
+  "tokens": [
+    "मोदी",
+    "जी",
+    "द्वारा",
+    "भूकंप",
+    "पर",
+    "की",
+    "गयी",
+    "अभद्र",
+    "टिप्पणी",
+    "से",
+    "@BJP4India",
+    "की",
+    "उत्तराखंड",
+    "के",
+    "प्रति",
+    "भावनाएं",
+    "व्यक्त",
+    "होती",
+    "हैं",
+    "।",
+    "#uttarakhandvirodhimodi"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "मोदी",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "जी",
+      "startCharOffset": 5,
+      "endCharOffset": 7
+    },
+    {
+      "form": "द्वारा",
+      "startCharOffset": 8,
+      "endCharOffset": 14
+    },
+    {
+      "form": "भूकंप",
+      "startCharOffset": 15,
+      "endCharOffset": 20
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 21,
+      "endCharOffset": 23
+    },
+    {
+      "form": "की",
+      "startCharOffset": 24,
+      "endCharOffset": 26
+    },
+    {
+      "form": "गयी",
+      "startCharOffset": 27,
+      "endCharOffset": 30
+    },
+    {
+      "form": "अभद्र",
+      "startCharOffset": 31,
+      "endCharOffset": 36
+    },
+    {
+      "form": "टिप्पणी",
+      "startCharOffset": 37,
+      "endCharOffset": 44
+    },
+    {
+      "form": "से",
+      "startCharOffset": 45,
+      "endCharOffset": 47
+    },
+    {
+      "form": "@BJP4India",
+      "startCharOffset": 48,
+      "endCharOffset": 58
+    },
+    {
+      "form": "की",
+      "startCharOffset": 59,
+      "endCharOffset": 61
+    },
+    {
+      "form": "उत्तराखंड",
+      "startCharOffset": 62,
+      "endCharOffset": 71
+    },
+    {
+      "form": "के",
+      "startCharOffset": 72,
+      "endCharOffset": 74
+    },
+    {
+      "form": "प्रति",
+      "startCharOffset": 75,
+      "endCharOffset": 80
+    },
+    {
+      "form": "भावनाएं",
+      "startCharOffset": 81,
+      "endCharOffset": 88
+    },
+    {
+      "form": "व्यक्त",
+      "startCharOffset": 89,
+      "endCharOffset": 95
+    },
+    {
+      "form": "होती",
+      "startCharOffset": 96,
+      "endCharOffset": 100
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 101,
+      "endCharOffset": 104
+    },
+    {
+      "form": "।",
+      "startCharOffset": 104,
+      "endCharOffset": 105
+    },
+    {
+      "form": "#uttarakhandvirodhimodi",
+      "startCharOffset": 106,
+      "endCharOffset": 129
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170203_H0T10ENNU",
+  "text": "RT @prajapatigk001: असली आतंकवाद देखना हो तो मुहम्मद पर फिल्म बनाने की हिम्मत करें फ़िल्मी लोग : गिरिराज सिंह... https://t.co/4ghLzxuf3t ht…",
+  "tokens": [
+    "RT",
+    "@prajapatigk001:",
+    "असली",
+    "आतंकवाद",
+    "देखना",
+    "हो",
+    "तो",
+    "मुहम्मद",
+    "पर",
+    "फिल्म",
+    "बनाने",
+    "की",
+    "हिम्मत",
+    "करें",
+    "फ़िल्मी",
+    "लोग",
+    ":",
+    "गिरिराज",
+    "सिंह",
+    "...",
+    "https://t.co/4ghLzxuf3t",
+    "ht",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@prajapatigk001:",
+      "startCharOffset": 3,
+      "endCharOffset": 19
+    },
+    {
+      "form": "असली",
+      "startCharOffset": 20,
+      "endCharOffset": 24
+    },
+    {
+      "form": "आतंकवाद",
+      "startCharOffset": 25,
+      "endCharOffset": 32
+    },
+    {
+      "form": "देखना",
+      "startCharOffset": 33,
+      "endCharOffset": 38
+    },
+    {
+      "form": "हो",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    },
+    {
+      "form": "तो",
+      "startCharOffset": 42,
+      "endCharOffset": 44
+    },
+    {
+      "form": "मुहम्मद",
+      "startCharOffset": 45,
+      "endCharOffset": 52
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 53,
+      "endCharOffset": 55
+    },
+    {
+      "form": "फिल्म",
+      "startCharOffset": 56,
+      "endCharOffset": 61
+    },
+    {
+      "form": "बनाने",
+      "startCharOffset": 62,
+      "endCharOffset": 67
+    },
+    {
+      "form": "की",
+      "startCharOffset": 68,
+      "endCharOffset": 70
+    },
+    {
+      "form": "हिम्मत",
+      "startCharOffset": 71,
+      "endCharOffset": 77
+    },
+    {
+      "form": "करें",
+      "startCharOffset": 78,
+      "endCharOffset": 82
+    },
+    {
+      "form": "फ़िल्मी",
+      "startCharOffset": 83,
+      "endCharOffset": 90
+    },
+    {
+      "form": "लोग",
+      "startCharOffset": 91,
+      "endCharOffset": 94
+    },
+    {
+      "form": ":",
+      "startCharOffset": 95,
+      "endCharOffset": 96
+    },
+    {
+      "form": "गिरिराज",
+      "startCharOffset": 97,
+      "endCharOffset": 104
+    },
+    {
+      "form": "सिंह",
+      "startCharOffset": 105,
+      "endCharOffset": 109
+    },
+    {
+      "form": "...",
+      "startCharOffset": 109,
+      "endCharOffset": 112
+    },
+    {
+      "form": "https://t.co/4ghLzxuf3t",
+      "startCharOffset": 113,
+      "endCharOffset": 136
+    },
+    {
+      "form": "ht",
+      "startCharOffset": 137,
+      "endCharOffset": 139
+    },
+    {
+      "form": "…",
+      "startCharOffset": 139,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      23
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 17,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

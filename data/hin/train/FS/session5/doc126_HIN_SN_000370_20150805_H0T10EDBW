@@ -1,0 +1,381 @@
+{
+  "corpusId": "",
+  "id": "doc126_HIN_SN_000370_20150805_H0T10EDBW",
+  "text": "RT @newsfactohindi: ऊधमपुर में आतंकी हमला, बाल-बाल बचे अमरनाथ यात्री - आईबीएन-7 http://t.co/scdX6nHXsM",
+  "tokens": [
+    "RT",
+    "@newsfactohindi:",
+    "ऊधमपुर",
+    "में",
+    "आतंकी",
+    "हमला",
+    ",",
+    "बाल-बाल",
+    "बचे",
+    "अमरनाथ",
+    "यात्री",
+    "-",
+    "आईबीएन-7",
+    "http://t.co/scdX6nHXsM"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@newsfactohindi:",
+      "startCharOffset": 3,
+      "endCharOffset": 19
+    },
+    {
+      "form": "ऊधमपुर",
+      "startCharOffset": 20,
+      "endCharOffset": 26
+    },
+    {
+      "form": "में",
+      "startCharOffset": 27,
+      "endCharOffset": 30
+    },
+    {
+      "form": "आतंकी",
+      "startCharOffset": 31,
+      "endCharOffset": 36
+    },
+    {
+      "form": "हमला",
+      "startCharOffset": 37,
+      "endCharOffset": 41
+    },
+    {
+      "form": ",",
+      "startCharOffset": 41,
+      "endCharOffset": 42
+    },
+    {
+      "form": "बाल-बाल",
+      "startCharOffset": 43,
+      "endCharOffset": 50
+    },
+    {
+      "form": "बचे",
+      "startCharOffset": 51,
+      "endCharOffset": 54
+    },
+    {
+      "form": "अमरनाथ",
+      "startCharOffset": 55,
+      "endCharOffset": 61
+    },
+    {
+      "form": "यात्री",
+      "startCharOffset": 62,
+      "endCharOffset": 68
+    },
+    {
+      "form": "-",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "आईबीएन-7",
+      "startCharOffset": 71,
+      "endCharOffset": 79
+    },
+    {
+      "form": "http://t.co/scdX6nHXsM",
+      "startCharOffset": 80,
+      "endCharOffset": 102
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@newsfactohindi:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "uudhamapur",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "mem",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "aatamkii",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "hamalaa",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "baal-baal",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "bace",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "amaranaath",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "yaatrii",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "-",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "aaiibiien-7",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "http://t.co/scdX6nHXsM",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

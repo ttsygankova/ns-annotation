@@ -1,0 +1,394 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170218_H0T10EUFS",
+  "text": "#FOLLOWME #Shoutout Pemkab Sidoarjo Sediakan Rp 6 Miliar Bantu Korban Puting Beliung, Polda Jatim…… https://t.co/3l0skwvQN0",
+  "tokens": [
+    "#FOLLOWME",
+    "#Shoutout",
+    "Pemkab",
+    "Sidoarjo",
+    "Sediakan",
+    "Rp",
+    "6",
+    "Miliar",
+    "Bantu",
+    "Korban",
+    "Puting",
+    "Beliung",
+    ",",
+    "Polda",
+    "Jatim",
+    "……",
+    "https://t.co/3l0skwvQN0"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#FOLLOWME",
+      "startCharOffset": 0,
+      "endCharOffset": 9
+    },
+    {
+      "form": "#Shoutout",
+      "startCharOffset": 10,
+      "endCharOffset": 19
+    },
+    {
+      "form": "Pemkab",
+      "startCharOffset": 20,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Sidoarjo",
+      "startCharOffset": 27,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Sediakan",
+      "startCharOffset": 36,
+      "endCharOffset": 44
+    },
+    {
+      "form": "Rp",
+      "startCharOffset": 45,
+      "endCharOffset": 47
+    },
+    {
+      "form": "6",
+      "startCharOffset": 48,
+      "endCharOffset": 49
+    },
+    {
+      "form": "Miliar",
+      "startCharOffset": 50,
+      "endCharOffset": 56
+    },
+    {
+      "form": "Bantu",
+      "startCharOffset": 57,
+      "endCharOffset": 62
+    },
+    {
+      "form": "Korban",
+      "startCharOffset": 63,
+      "endCharOffset": 69
+    },
+    {
+      "form": "Puting",
+      "startCharOffset": 70,
+      "endCharOffset": 76
+    },
+    {
+      "form": "Beliung",
+      "startCharOffset": 77,
+      "endCharOffset": 84
+    },
+    {
+      "form": ",",
+      "startCharOffset": 84,
+      "endCharOffset": 85
+    },
+    {
+      "form": "Polda",
+      "startCharOffset": 86,
+      "endCharOffset": 91
+    },
+    {
+      "form": "Jatim",
+      "startCharOffset": 92,
+      "endCharOffset": 97
+    },
+    {
+      "form": "……",
+      "startCharOffset": 97,
+      "endCharOffset": 99
+    },
+    {
+      "form": "https://t.co/3l0skwvQN0",
+      "startCharOffset": 100,
+      "endCharOffset": 123
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 4
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 13,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "#FOLLOWME",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "#Shoutout",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Pemkab",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Sidoarjo",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Sediakan",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Rp",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "6",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Miliar",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Bantu",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Korban",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Puting",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Beliung",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "Polda",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "Jatim",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "......",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "https://t.co/3l0skwvQN0",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

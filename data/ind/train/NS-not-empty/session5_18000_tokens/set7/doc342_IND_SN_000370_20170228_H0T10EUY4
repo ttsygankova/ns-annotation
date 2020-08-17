@@ -1,0 +1,345 @@
+{
+  "corpusId": "",
+  "id": "doc342_IND_SN_000370_20170228_H0T10EUY4",
+  "text": "RT @okezonenews: BNPB: 1.178 Rumah Terendam Banjir Luapan Sungai Ciliwung https://t.co/SgpouOqHBB https://t.co/IkX4l5xHG4",
+  "tokens": [
+    "RT",
+    "@okezonenews:",
+    "BNPB",
+    ":",
+    "1.178",
+    "Rumah",
+    "Terendam",
+    "Banjir",
+    "Luapan",
+    "Sungai",
+    "Ciliwung",
+    "https://t.co/SgpouOqHBB",
+    "https://t.co/IkX4l5xHG4"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@okezonenews:",
+      "startCharOffset": 3,
+      "endCharOffset": 16
+    },
+    {
+      "form": "BNPB",
+      "startCharOffset": 17,
+      "endCharOffset": 21
+    },
+    {
+      "form": ":",
+      "startCharOffset": 21,
+      "endCharOffset": 22
+    },
+    {
+      "form": "1.178",
+      "startCharOffset": 23,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Rumah",
+      "startCharOffset": 29,
+      "endCharOffset": 34
+    },
+    {
+      "form": "Terendam",
+      "startCharOffset": 35,
+      "endCharOffset": 43
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 44,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Luapan",
+      "startCharOffset": 51,
+      "endCharOffset": 57
+    },
+    {
+      "form": "Sungai",
+      "startCharOffset": 58,
+      "endCharOffset": 64
+    },
+    {
+      "form": "Ciliwung",
+      "startCharOffset": 65,
+      "endCharOffset": 73
+    },
+    {
+      "form": "https://t.co/SgpouOqHBB",
+      "startCharOffset": 74,
+      "endCharOffset": 97
+    },
+    {
+      "form": "https://t.co/IkX4l5xHG4",
+      "startCharOffset": 98,
+      "endCharOffset": 121
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 9,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@okezonenews:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "BNPB",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "1.178",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Rumah",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Terendam",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Luapan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Sungai",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Ciliwung",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/SgpouOqHBB",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "https://t.co/IkX4l5xHG4",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

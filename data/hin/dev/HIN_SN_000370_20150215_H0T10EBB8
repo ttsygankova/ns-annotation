@@ -1,0 +1,320 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150215_H0T10EBB8",
+  "text": "RT @DIXIT_G: काफी दिन बाद आपिये और भक्त एक साथ मिलकर पाकिस्तान के बाप-भाई एकसाथ कर रहे हैं 😂😂😂 #जयहिन्द #IndVsPak",
+  "tokens": [
+    "RT",
+    "@DIXIT_G:",
+    "काफी",
+    "दिन",
+    "बाद",
+    "आपिये",
+    "और",
+    "भक्त",
+    "एक",
+    "साथ",
+    "मिलकर",
+    "पाकिस्तान",
+    "के",
+    "बाप-भाई",
+    "एकसाथ",
+    "कर",
+    "रहे",
+    "हैं",
+    "😂😂😂",
+    "#जयहिन्द",
+    "#IndVsPak"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@DIXIT_G:",
+      "startCharOffset": 3,
+      "endCharOffset": 12
+    },
+    {
+      "form": "काफी",
+      "startCharOffset": 13,
+      "endCharOffset": 17
+    },
+    {
+      "form": "दिन",
+      "startCharOffset": 18,
+      "endCharOffset": 21
+    },
+    {
+      "form": "बाद",
+      "startCharOffset": 22,
+      "endCharOffset": 25
+    },
+    {
+      "form": "आपिये",
+      "startCharOffset": 26,
+      "endCharOffset": 31
+    },
+    {
+      "form": "और",
+      "startCharOffset": 32,
+      "endCharOffset": 34
+    },
+    {
+      "form": "भक्त",
+      "startCharOffset": 35,
+      "endCharOffset": 39
+    },
+    {
+      "form": "एक",
+      "startCharOffset": 40,
+      "endCharOffset": 42
+    },
+    {
+      "form": "साथ",
+      "startCharOffset": 43,
+      "endCharOffset": 46
+    },
+    {
+      "form": "मिलकर",
+      "startCharOffset": 47,
+      "endCharOffset": 52
+    },
+    {
+      "form": "पाकिस्तान",
+      "startCharOffset": 53,
+      "endCharOffset": 62
+    },
+    {
+      "form": "के",
+      "startCharOffset": 63,
+      "endCharOffset": 65
+    },
+    {
+      "form": "बाप-भाई",
+      "startCharOffset": 66,
+      "endCharOffset": 73
+    },
+    {
+      "form": "एकसाथ",
+      "startCharOffset": 74,
+      "endCharOffset": 79
+    },
+    {
+      "form": "कर",
+      "startCharOffset": 80,
+      "endCharOffset": 82
+    },
+    {
+      "form": "रहे",
+      "startCharOffset": 83,
+      "endCharOffset": 86
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 87,
+      "endCharOffset": 90
+    },
+    {
+      "form": "😂😂😂",
+      "startCharOffset": 91,
+      "endCharOffset": 97
+    },
+    {
+      "form": "#जयहिन्द",
+      "startCharOffset": 98,
+      "endCharOffset": 106
+    },
+    {
+      "form": "#IndVsPak",
+      "startCharOffset": 107,
+      "endCharOffset": 116
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 19,
+              "end": 21
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 19,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

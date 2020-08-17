@@ -1,0 +1,412 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170305_H0T10EV6D",
+  "text": "Inilah Fakta Busuk nya perilaku Cagub Ahok..sok kuasa dan sok bener..sengaja sewa ruangan lain untk menyudutkan KPU https://t.co/b663mf4M2q",
+  "tokens": [
+    "Inilah",
+    "Fakta",
+    "Busuk",
+    "nya",
+    "perilaku",
+    "Cagub",
+    "Ahok..sok",
+    "kuasa",
+    "dan",
+    "sok",
+    "bener..sengaja",
+    "sewa",
+    "ruangan",
+    "lain",
+    "untk",
+    "menyudutkan",
+    "KPU",
+    "https://t.co/b663mf4M2q"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Inilah",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Fakta",
+      "startCharOffset": 7,
+      "endCharOffset": 12
+    },
+    {
+      "form": "Busuk",
+      "startCharOffset": 13,
+      "endCharOffset": 18
+    },
+    {
+      "form": "nya",
+      "startCharOffset": 19,
+      "endCharOffset": 22
+    },
+    {
+      "form": "perilaku",
+      "startCharOffset": 23,
+      "endCharOffset": 31
+    },
+    {
+      "form": "Cagub",
+      "startCharOffset": 32,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Ahok..sok",
+      "startCharOffset": 38,
+      "endCharOffset": 47
+    },
+    {
+      "form": "kuasa",
+      "startCharOffset": 48,
+      "endCharOffset": 53
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 54,
+      "endCharOffset": 57
+    },
+    {
+      "form": "sok",
+      "startCharOffset": 58,
+      "endCharOffset": 61
+    },
+    {
+      "form": "bener..sengaja",
+      "startCharOffset": 62,
+      "endCharOffset": 76
+    },
+    {
+      "form": "sewa",
+      "startCharOffset": 77,
+      "endCharOffset": 81
+    },
+    {
+      "form": "ruangan",
+      "startCharOffset": 82,
+      "endCharOffset": 89
+    },
+    {
+      "form": "lain",
+      "startCharOffset": 90,
+      "endCharOffset": 94
+    },
+    {
+      "form": "untk",
+      "startCharOffset": 95,
+      "endCharOffset": 99
+    },
+    {
+      "form": "menyudutkan",
+      "startCharOffset": 100,
+      "endCharOffset": 111
+    },
+    {
+      "form": "KPU",
+      "startCharOffset": 112,
+      "endCharOffset": 115
+    },
+    {
+      "form": "https://t.co/b663mf4M2q",
+      "startCharOffset": 116,
+      "endCharOffset": 139
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Inilah",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Fakta",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Busuk",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "nya",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "perilaku",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Cagub",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Ahok..sok",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "kuasa",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "sok",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "bener..sengaja",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "sewa",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "ruangan",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "lain",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "untk",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "menyudutkan",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "KPU",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "https://t.co/b663mf4M2q",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

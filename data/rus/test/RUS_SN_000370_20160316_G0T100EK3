@@ -1,0 +1,182 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100EK3",
+  "text": "RT @vesti_news: Беженцы рискуют жизнями, чтобы добраться до Европы https://t.co/dmQxYktEkv",
+  "tokens": [
+    "RT",
+    "@vesti_news:",
+    "Беженцы",
+    "рискуют",
+    "жизнями",
+    ",",
+    "чтобы",
+    "добраться",
+    "до",
+    "Европы",
+    "https://t.co/dmQxYktEkv"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@vesti_news:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Беженцы",
+      "startCharOffset": 16,
+      "endCharOffset": 23
+    },
+    {
+      "form": "рискуют",
+      "startCharOffset": 24,
+      "endCharOffset": 31
+    },
+    {
+      "form": "жизнями",
+      "startCharOffset": 32,
+      "endCharOffset": 39
+    },
+    {
+      "form": ",",
+      "startCharOffset": 39,
+      "endCharOffset": 40
+    },
+    {
+      "form": "чтобы",
+      "startCharOffset": 41,
+      "endCharOffset": 46
+    },
+    {
+      "form": "добраться",
+      "startCharOffset": 47,
+      "endCharOffset": 56
+    },
+    {
+      "form": "до",
+      "startCharOffset": 57,
+      "endCharOffset": 59
+    },
+    {
+      "form": "Европы",
+      "startCharOffset": 60,
+      "endCharOffset": 66
+    },
+    {
+      "form": "https://t.co/dmQxYktEkv",
+      "startCharOffset": 67,
+      "endCharOffset": 90
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

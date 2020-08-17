@@ -1,0 +1,218 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150302_H0T10EBLM",
+  "text": "सीमा अतिक्रमण का देंगे मुंहतोड़ जबाब: राजनाथ -NavbharatTimes http://t.co/T4cQRfBx29 via @NavbharatTimes",
+  "tokens": [
+    "सीमा",
+    "अतिक्रमण",
+    "का",
+    "देंगे",
+    "मुंहतोड़",
+    "जबाब",
+    ":",
+    "राजनाथ",
+    "-",
+    "NavbharatTimes",
+    "http://t.co/T4cQRfBx29",
+    "via",
+    "@NavbharatTimes"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "सीमा",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "अतिक्रमण",
+      "startCharOffset": 5,
+      "endCharOffset": 13
+    },
+    {
+      "form": "का",
+      "startCharOffset": 14,
+      "endCharOffset": 16
+    },
+    {
+      "form": "देंगे",
+      "startCharOffset": 17,
+      "endCharOffset": 22
+    },
+    {
+      "form": "मुंहतोड़",
+      "startCharOffset": 23,
+      "endCharOffset": 31
+    },
+    {
+      "form": "जबाब",
+      "startCharOffset": 32,
+      "endCharOffset": 36
+    },
+    {
+      "form": ":",
+      "startCharOffset": 36,
+      "endCharOffset": 37
+    },
+    {
+      "form": "राजनाथ",
+      "startCharOffset": 38,
+      "endCharOffset": 44
+    },
+    {
+      "form": "-",
+      "startCharOffset": 45,
+      "endCharOffset": 46
+    },
+    {
+      "form": "NavbharatTimes",
+      "startCharOffset": 46,
+      "endCharOffset": 60
+    },
+    {
+      "form": "http://t.co/T4cQRfBx29",
+      "startCharOffset": 61,
+      "endCharOffset": 83
+    },
+    {
+      "form": "via",
+      "startCharOffset": 84,
+      "endCharOffset": 87
+    },
+    {
+      "form": "@NavbharatTimes",
+      "startCharOffset": 88,
+      "endCharOffset": 103
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

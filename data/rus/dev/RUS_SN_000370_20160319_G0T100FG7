@@ -1,0 +1,236 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160319_G0T100FG7",
+  "text": "@s_vakarchuk про взрыв в Стамбуле молчим? соболезнуем русне и примкнувшим к ним сепарам?",
+  "tokens": [
+    "@s_vakarchuk",
+    "про",
+    "взрыв",
+    "в",
+    "Стамбуле",
+    "молчим",
+    "?",
+    "соболезнуем",
+    "русне",
+    "и",
+    "примкнувшим",
+    "к",
+    "ним",
+    "сепарам",
+    "?"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@s_vakarchuk",
+      "startCharOffset": 0,
+      "endCharOffset": 12
+    },
+    {
+      "form": "про",
+      "startCharOffset": 13,
+      "endCharOffset": 16
+    },
+    {
+      "form": "взрыв",
+      "startCharOffset": 17,
+      "endCharOffset": 22
+    },
+    {
+      "form": "в",
+      "startCharOffset": 23,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Стамбуле",
+      "startCharOffset": 25,
+      "endCharOffset": 33
+    },
+    {
+      "form": "молчим",
+      "startCharOffset": 34,
+      "endCharOffset": 40
+    },
+    {
+      "form": "?",
+      "startCharOffset": 40,
+      "endCharOffset": 41
+    },
+    {
+      "form": "соболезнуем",
+      "startCharOffset": 42,
+      "endCharOffset": 53
+    },
+    {
+      "form": "русне",
+      "startCharOffset": 54,
+      "endCharOffset": 59
+    },
+    {
+      "form": "и",
+      "startCharOffset": 60,
+      "endCharOffset": 61
+    },
+    {
+      "form": "примкнувшим",
+      "startCharOffset": 62,
+      "endCharOffset": 73
+    },
+    {
+      "form": "к",
+      "startCharOffset": 74,
+      "endCharOffset": 75
+    },
+    {
+      "form": "ним",
+      "startCharOffset": 76,
+      "endCharOffset": 79
+    },
+    {
+      "form": "сепарам",
+      "startCharOffset": 80,
+      "endCharOffset": 87
+    },
+    {
+      "form": "?",
+      "startCharOffset": 87,
+      "endCharOffset": 88
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

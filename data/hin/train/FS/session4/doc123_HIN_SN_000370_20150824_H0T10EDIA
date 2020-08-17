@@ -1,0 +1,597 @@
+{
+  "corpusId": "",
+  "id": "doc123_HIN_SN_000370_20150824_H0T10EDIA",
+  "text": "RT @MP_IYC: प्याज़ एवं दाल की बढ़ती कीमतों के विरोध में आज भोपाल में @IYC द्वारा मोदी सरकार के खिलाफ़ विरोध प्रदर्शन किया गया ! http://t.co…",
+  "tokens": [
+    "RT",
+    "@MP_IYC:",
+    "प्याज़",
+    "एवं",
+    "दाल",
+    "की",
+    "बढ़ती",
+    "कीमतों",
+    "के",
+    "विरोध",
+    "में",
+    "आज",
+    "भोपाल",
+    "में",
+    "@IYC",
+    "द्वारा",
+    "मोदी",
+    "सरकार",
+    "के",
+    "खिलाफ़",
+    "विरोध",
+    "प्रदर्शन",
+    "किया",
+    "गया",
+    "!",
+    "http://t.co…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@MP_IYC:",
+      "startCharOffset": 3,
+      "endCharOffset": 11
+    },
+    {
+      "form": "प्याज़",
+      "startCharOffset": 12,
+      "endCharOffset": 18
+    },
+    {
+      "form": "एवं",
+      "startCharOffset": 19,
+      "endCharOffset": 22
+    },
+    {
+      "form": "दाल",
+      "startCharOffset": 23,
+      "endCharOffset": 26
+    },
+    {
+      "form": "की",
+      "startCharOffset": 27,
+      "endCharOffset": 29
+    },
+    {
+      "form": "बढ़ती",
+      "startCharOffset": 30,
+      "endCharOffset": 35
+    },
+    {
+      "form": "कीमतों",
+      "startCharOffset": 36,
+      "endCharOffset": 42
+    },
+    {
+      "form": "के",
+      "startCharOffset": 43,
+      "endCharOffset": 45
+    },
+    {
+      "form": "विरोध",
+      "startCharOffset": 46,
+      "endCharOffset": 51
+    },
+    {
+      "form": "में",
+      "startCharOffset": 52,
+      "endCharOffset": 55
+    },
+    {
+      "form": "आज",
+      "startCharOffset": 56,
+      "endCharOffset": 58
+    },
+    {
+      "form": "भोपाल",
+      "startCharOffset": 59,
+      "endCharOffset": 64
+    },
+    {
+      "form": "में",
+      "startCharOffset": 65,
+      "endCharOffset": 68
+    },
+    {
+      "form": "@IYC",
+      "startCharOffset": 69,
+      "endCharOffset": 73
+    },
+    {
+      "form": "द्वारा",
+      "startCharOffset": 74,
+      "endCharOffset": 80
+    },
+    {
+      "form": "मोदी",
+      "startCharOffset": 81,
+      "endCharOffset": 85
+    },
+    {
+      "form": "सरकार",
+      "startCharOffset": 86,
+      "endCharOffset": 91
+    },
+    {
+      "form": "के",
+      "startCharOffset": 92,
+      "endCharOffset": 94
+    },
+    {
+      "form": "खिलाफ़",
+      "startCharOffset": 95,
+      "endCharOffset": 101
+    },
+    {
+      "form": "विरोध",
+      "startCharOffset": 102,
+      "endCharOffset": 107
+    },
+    {
+      "form": "प्रदर्शन",
+      "startCharOffset": 108,
+      "endCharOffset": 116
+    },
+    {
+      "form": "किया",
+      "startCharOffset": 117,
+      "endCharOffset": 121
+    },
+    {
+      "form": "गया",
+      "startCharOffset": 122,
+      "endCharOffset": 125
+    },
+    {
+      "form": "!",
+      "startCharOffset": 126,
+      "endCharOffset": 127
+    },
+    {
+      "form": "http://t.co…",
+      "startCharOffset": 128,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      26
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@MP_IYC:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "pyaaja",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "evam",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "daal",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "kii",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "baddhatii",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "kiimatom",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "virodh",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "mem",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "aaj",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "bhopaal",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "mem",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "@IYC",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "dvaaraa",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "modii",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "sarakaar",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "khilaapha",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "virodh",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "pradarshan",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "kiyaa",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "gayaa",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "!",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "http://t.co…",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

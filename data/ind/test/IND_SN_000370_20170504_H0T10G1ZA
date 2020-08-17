@@ -1,0 +1,244 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170504_H0T10G1ZA",
+  "text": "Polisi Imbau Warga Tak Tanam Ganja https://t.co/P4H0CoS8KC lewat @Mercinews",
+  "tokens": [
+    "Polisi",
+    "Imbau",
+    "Warga",
+    "Tak",
+    "Tanam",
+    "Ganja",
+    "https://t.co/P4H0CoS8KC",
+    "lewat",
+    "@Mercinews"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Polisi",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Imbau",
+      "startCharOffset": 7,
+      "endCharOffset": 12
+    },
+    {
+      "form": "Warga",
+      "startCharOffset": 13,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Tak",
+      "startCharOffset": 19,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Tanam",
+      "startCharOffset": 23,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Ganja",
+      "startCharOffset": 29,
+      "endCharOffset": 34
+    },
+    {
+      "form": "https://t.co/P4H0CoS8KC",
+      "startCharOffset": 35,
+      "endCharOffset": 58
+    },
+    {
+      "form": "lewat",
+      "startCharOffset": 59,
+      "endCharOffset": 64
+    },
+    {
+      "form": "@Mercinews",
+      "startCharOffset": 65,
+      "endCharOffset": 75
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      9
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Polisi",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Imbau",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Warga",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Tak",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Tanam",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Ganja",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "https://t.co/P4H0CoS8KC",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "lewat",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "@Mercinews",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170304_H0T10EV4F",
+  "text": "Kolam pancing Borneo milik legislator Kampar ini jebol, puluhan rumah warga diterjang banjir https://t.co/DKJrWOpI0B",
+  "tokens": [
+    "Kolam",
+    "pancing",
+    "Borneo",
+    "milik",
+    "legislator",
+    "Kampar",
+    "ini",
+    "jebol",
+    ",",
+    "puluhan",
+    "rumah",
+    "warga",
+    "diterjang",
+    "banjir",
+    "https://t.co/DKJrWOpI0B"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Kolam",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "pancing",
+      "startCharOffset": 6,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Borneo",
+      "startCharOffset": 14,
+      "endCharOffset": 20
+    },
+    {
+      "form": "milik",
+      "startCharOffset": 21,
+      "endCharOffset": 26
+    },
+    {
+      "form": "legislator",
+      "startCharOffset": 27,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Kampar",
+      "startCharOffset": 38,
+      "endCharOffset": 44
+    },
+    {
+      "form": "ini",
+      "startCharOffset": 45,
+      "endCharOffset": 48
+    },
+    {
+      "form": "jebol",
+      "startCharOffset": 49,
+      "endCharOffset": 54
+    },
+    {
+      "form": ",",
+      "startCharOffset": 54,
+      "endCharOffset": 55
+    },
+    {
+      "form": "puluhan",
+      "startCharOffset": 56,
+      "endCharOffset": 63
+    },
+    {
+      "form": "rumah",
+      "startCharOffset": 64,
+      "endCharOffset": 69
+    },
+    {
+      "form": "warga",
+      "startCharOffset": 70,
+      "endCharOffset": 75
+    },
+    {
+      "form": "diterjang",
+      "startCharOffset": 76,
+      "endCharOffset": 85
+    },
+    {
+      "form": "banjir",
+      "startCharOffset": 86,
+      "endCharOffset": 92
+    },
+    {
+      "form": "https://t.co/DKJrWOpI0B",
+      "startCharOffset": 93,
+      "endCharOffset": 116
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Kolam",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "pancing",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Borneo",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "milik",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "legislator",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Kampar",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "ini",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "jebol",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "puluhan",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "rumah",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "warga",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "diterjang",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "banjir",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "https://t.co/DKJrWOpI0B",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

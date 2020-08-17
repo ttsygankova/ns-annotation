@@ -1,0 +1,388 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20161016_H0T10G21L",
+  "text": "Kalo sudah tahu jawabannya, langsung mention @TelkomIndonesia ya, dengan hashtag #SocioDigiEps3 Good luck! https://t.co/2oJfSMsknY",
+  "tokens": [
+    "Kalo",
+    "sudah",
+    "tahu",
+    "jawabannya",
+    ",",
+    "langsung",
+    "mention",
+    "@TelkomIndonesia",
+    "ya",
+    ",",
+    "dengan",
+    "hashtag",
+    "#SocioDigiEps3",
+    "Good",
+    "luck",
+    "!",
+    "https://t.co/2oJfSMsknY"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Kalo",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "sudah",
+      "startCharOffset": 5,
+      "endCharOffset": 10
+    },
+    {
+      "form": "tahu",
+      "startCharOffset": 11,
+      "endCharOffset": 15
+    },
+    {
+      "form": "jawabannya",
+      "startCharOffset": 16,
+      "endCharOffset": 26
+    },
+    {
+      "form": ",",
+      "startCharOffset": 26,
+      "endCharOffset": 27
+    },
+    {
+      "form": "langsung",
+      "startCharOffset": 28,
+      "endCharOffset": 36
+    },
+    {
+      "form": "mention",
+      "startCharOffset": 37,
+      "endCharOffset": 44
+    },
+    {
+      "form": "@TelkomIndonesia",
+      "startCharOffset": 45,
+      "endCharOffset": 61
+    },
+    {
+      "form": "ya",
+      "startCharOffset": 62,
+      "endCharOffset": 64
+    },
+    {
+      "form": ",",
+      "startCharOffset": 64,
+      "endCharOffset": 65
+    },
+    {
+      "form": "dengan",
+      "startCharOffset": 66,
+      "endCharOffset": 72
+    },
+    {
+      "form": "hashtag",
+      "startCharOffset": 73,
+      "endCharOffset": 80
+    },
+    {
+      "form": "#SocioDigiEps3",
+      "startCharOffset": 81,
+      "endCharOffset": 95
+    },
+    {
+      "form": "Good",
+      "startCharOffset": 96,
+      "endCharOffset": 100
+    },
+    {
+      "form": "luck",
+      "startCharOffset": 101,
+      "endCharOffset": 105
+    },
+    {
+      "form": "!",
+      "startCharOffset": 105,
+      "endCharOffset": 106
+    },
+    {
+      "form": "https://t.co/2oJfSMsknY",
+      "startCharOffset": 107,
+      "endCharOffset": 130
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Kalo",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "sudah",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "tahu",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "jawabannya",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "langsung",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "mention",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "@TelkomIndonesia",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "ya",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "dengan",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "hashtag",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "#SocioDigiEps3",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "Good",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "luck",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "!",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "https://t.co/2oJfSMsknY",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

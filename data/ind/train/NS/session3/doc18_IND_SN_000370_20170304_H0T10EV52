@@ -1,0 +1,369 @@
+{
+  "corpusId": "",
+  "id": "doc18_IND_SN_000370_20170304_H0T10EV52",
+  "text": "4/3 Kondisi terkini \u0026 Foto Udara Longsor di Dsn.Jentir,Sambirejo,Ngawen,GK cc @BNPB_Indonesia @Sutopo_BNPB… https://t.co/am4zjGrvF7",
+  "tokens": [
+    "4/3",
+    "Kondisi",
+    "terkini",
+    "\u0026",
+    "Foto",
+    "Udara",
+    "Longsor",
+    "di",
+    "Dsn.Jentir,Sambirejo,Ngawen,GK",
+    "cc",
+    "@BNPB_Indonesia",
+    "@Sutopo_BNPB…",
+    "https://t.co/am4zjGrvF7"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "4/3",
+      "startCharOffset": 0,
+      "endCharOffset": 3
+    },
+    {
+      "form": "Kondisi",
+      "startCharOffset": 4,
+      "endCharOffset": 11
+    },
+    {
+      "form": "terkini",
+      "startCharOffset": 12,
+      "endCharOffset": 19
+    },
+    {
+      "form": "\u0026",
+      "startCharOffset": 20,
+      "endCharOffset": 21
+    },
+    {
+      "form": "Foto",
+      "startCharOffset": 22,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Udara",
+      "startCharOffset": 27,
+      "endCharOffset": 32
+    },
+    {
+      "form": "Longsor",
+      "startCharOffset": 33,
+      "endCharOffset": 40
+    },
+    {
+      "form": "di",
+      "startCharOffset": 41,
+      "endCharOffset": 43
+    },
+    {
+      "form": "Dsn.Jentir,Sambirejo,Ngawen,GK",
+      "startCharOffset": 44,
+      "endCharOffset": 74
+    },
+    {
+      "form": "cc",
+      "startCharOffset": 75,
+      "endCharOffset": 77
+    },
+    {
+      "form": "@BNPB_Indonesia",
+      "startCharOffset": 78,
+      "endCharOffset": 93
+    },
+    {
+      "form": "@Sutopo_BNPB…",
+      "startCharOffset": 94,
+      "endCharOffset": 107
+    },
+    {
+      "form": "https://t.co/am4zjGrvF7",
+      "startCharOffset": 108,
+      "endCharOffset": 131
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "4/3",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Kondisi",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "terkini",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "\u0026",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Foto",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Udara",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Longsor",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Dsn.Jentir,Sambirejo,Ngawen,GK",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "cc",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "@BNPB_Indonesia",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "@Sutopo_BNPB...",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "https://t.co/am4zjGrvF7",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

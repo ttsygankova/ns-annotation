@@ -1,0 +1,218 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160322_G0T100JF6",
+  "text": "Телескоп «Кеплер» впервые заснял взрыв звезды в оптическом диапазоне #звезда https://t.co/3lGQVLMKwE https://t.co/PhHqWmnGTN",
+  "tokens": [
+    "Телескоп",
+    "«",
+    "Кеплер",
+    "»",
+    "впервые",
+    "заснял",
+    "взрыв",
+    "звезды",
+    "в",
+    "оптическом",
+    "диапазоне",
+    "#звезда",
+    "https://t.co/3lGQVLMKwE",
+    "https://t.co/PhHqWmnGTN"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Телескоп",
+      "startCharOffset": 0,
+      "endCharOffset": 8
+    },
+    {
+      "form": "«",
+      "startCharOffset": 9,
+      "endCharOffset": 10
+    },
+    {
+      "form": "Кеплер",
+      "startCharOffset": 10,
+      "endCharOffset": 16
+    },
+    {
+      "form": "»",
+      "startCharOffset": 16,
+      "endCharOffset": 17
+    },
+    {
+      "form": "впервые",
+      "startCharOffset": 18,
+      "endCharOffset": 25
+    },
+    {
+      "form": "заснял",
+      "startCharOffset": 26,
+      "endCharOffset": 32
+    },
+    {
+      "form": "взрыв",
+      "startCharOffset": 33,
+      "endCharOffset": 38
+    },
+    {
+      "form": "звезды",
+      "startCharOffset": 39,
+      "endCharOffset": 45
+    },
+    {
+      "form": "в",
+      "startCharOffset": 46,
+      "endCharOffset": 47
+    },
+    {
+      "form": "оптическом",
+      "startCharOffset": 48,
+      "endCharOffset": 58
+    },
+    {
+      "form": "диапазоне",
+      "startCharOffset": 59,
+      "endCharOffset": 68
+    },
+    {
+      "form": "#звезда",
+      "startCharOffset": 69,
+      "endCharOffset": 76
+    },
+    {
+      "form": "https://t.co/3lGQVLMKwE",
+      "startCharOffset": 77,
+      "endCharOffset": 100
+    },
+    {
+      "form": "https://t.co/PhHqWmnGTN",
+      "startCharOffset": 101,
+      "endCharOffset": 124
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 0,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

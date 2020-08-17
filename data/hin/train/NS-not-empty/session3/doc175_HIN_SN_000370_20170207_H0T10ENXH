@@ -1,0 +1,441 @@
+{
+  "corpusId": "",
+  "id": "doc175_HIN_SN_000370_20170207_H0T10ENXH",
+  "text": "यूपी उत्तराखंड में भूकंप । किसी के पास कोई खबर है क्या? ईश्वर करे सब सुरक्षित हों _/\\_",
+  "tokens": [
+    "यूपी",
+    "उत्तराखंड",
+    "में",
+    "भूकंप",
+    "।",
+    "किसी",
+    "के",
+    "पास",
+    "कोई",
+    "खबर",
+    "है",
+    "क्या",
+    "?",
+    "ईश्वर",
+    "करे",
+    "सब",
+    "सुरक्षित",
+    "हों",
+    "_/\\_"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "यूपी",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "उत्तराखंड",
+      "startCharOffset": 5,
+      "endCharOffset": 14
+    },
+    {
+      "form": "में",
+      "startCharOffset": 15,
+      "endCharOffset": 18
+    },
+    {
+      "form": "भूकंप",
+      "startCharOffset": 19,
+      "endCharOffset": 24
+    },
+    {
+      "form": "।",
+      "startCharOffset": 25,
+      "endCharOffset": 26
+    },
+    {
+      "form": "किसी",
+      "startCharOffset": 27,
+      "endCharOffset": 31
+    },
+    {
+      "form": "के",
+      "startCharOffset": 32,
+      "endCharOffset": 34
+    },
+    {
+      "form": "पास",
+      "startCharOffset": 35,
+      "endCharOffset": 38
+    },
+    {
+      "form": "कोई",
+      "startCharOffset": 39,
+      "endCharOffset": 42
+    },
+    {
+      "form": "खबर",
+      "startCharOffset": 43,
+      "endCharOffset": 46
+    },
+    {
+      "form": "है",
+      "startCharOffset": 47,
+      "endCharOffset": 49
+    },
+    {
+      "form": "क्या",
+      "startCharOffset": 50,
+      "endCharOffset": 54
+    },
+    {
+      "form": "?",
+      "startCharOffset": 54,
+      "endCharOffset": 55
+    },
+    {
+      "form": "ईश्वर",
+      "startCharOffset": 56,
+      "endCharOffset": 61
+    },
+    {
+      "form": "करे",
+      "startCharOffset": 62,
+      "endCharOffset": 65
+    },
+    {
+      "form": "सब",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "सुरक्षित",
+      "startCharOffset": 69,
+      "endCharOffset": 77
+    },
+    {
+      "form": "हों",
+      "startCharOffset": 78,
+      "endCharOffset": 81
+    },
+    {
+      "form": "_/\\_",
+      "startCharOffset": 82,
+      "endCharOffset": 86
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "yuupii",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "uttaraakhamdda",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "mem",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "bhuukampa",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "/",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "kisii",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "paas",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "koii",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "khabar",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "hai",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "kyaa",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "?",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "iishvar",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "kare",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "sab",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "surakssit",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "hom",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "_/\\_",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

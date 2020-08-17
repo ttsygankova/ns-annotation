@@ -1,0 +1,334 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170209_H0T10EU0N",
+  "text": "Gubernur Aher: Kebhinekaan Harga Mati, Jangan Rusak dengan Isu Hoax! https://t.co/Od19sVFNFH",
+  "tokens": [
+    "Gubernur",
+    "Aher",
+    ":",
+    "Kebhinekaan",
+    "Harga",
+    "Mati",
+    ",",
+    "Jangan",
+    "Rusak",
+    "dengan",
+    "Isu",
+    "Hoax",
+    "!",
+    "https://t.co/Od19sVFNFH"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Gubernur",
+      "startCharOffset": 0,
+      "endCharOffset": 8
+    },
+    {
+      "form": "Aher",
+      "startCharOffset": 9,
+      "endCharOffset": 13
+    },
+    {
+      "form": ":",
+      "startCharOffset": 13,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Kebhinekaan",
+      "startCharOffset": 15,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Harga",
+      "startCharOffset": 27,
+      "endCharOffset": 32
+    },
+    {
+      "form": "Mati",
+      "startCharOffset": 33,
+      "endCharOffset": 37
+    },
+    {
+      "form": ",",
+      "startCharOffset": 37,
+      "endCharOffset": 38
+    },
+    {
+      "form": "Jangan",
+      "startCharOffset": 39,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Rusak",
+      "startCharOffset": 46,
+      "endCharOffset": 51
+    },
+    {
+      "form": "dengan",
+      "startCharOffset": 52,
+      "endCharOffset": 58
+    },
+    {
+      "form": "Isu",
+      "startCharOffset": 59,
+      "endCharOffset": 62
+    },
+    {
+      "form": "Hoax",
+      "startCharOffset": 63,
+      "endCharOffset": 67
+    },
+    {
+      "form": "!",
+      "startCharOffset": 67,
+      "endCharOffset": 68
+    },
+    {
+      "form": "https://t.co/Od19sVFNFH",
+      "startCharOffset": 69,
+      "endCharOffset": 92
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Gubernur",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Aher",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Kebhinekaan",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Harga",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Mati",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Jangan",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Rusak",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "dengan",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Isu",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Hoax",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "!",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "https://t.co/Od19sVFNFH",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

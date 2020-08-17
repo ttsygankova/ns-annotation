@@ -1,0 +1,406 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170227_H0T10EUVO",
+  "text": "RT @_RasahCangkeman: Banjir Bandang Terjang Dieng Wonosobo. Semoga tak ada korban jiwa. #PrayForDieng 🙏😇 https://t.co/RzuBiXfJog",
+  "tokens": [
+    "RT",
+    "@_RasahCangkeman:",
+    "Banjir",
+    "Bandang",
+    "Terjang",
+    "Dieng",
+    "Wonosobo",
+    ".",
+    "Semoga",
+    "tak",
+    "ada",
+    "korban",
+    "jiwa",
+    ".",
+    "#PrayForDieng",
+    "🙏😇",
+    "https://t.co/RzuBiXfJog"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@_RasahCangkeman:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 21,
+      "endCharOffset": 27
+    },
+    {
+      "form": "Bandang",
+      "startCharOffset": 28,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Terjang",
+      "startCharOffset": 36,
+      "endCharOffset": 43
+    },
+    {
+      "form": "Dieng",
+      "startCharOffset": 44,
+      "endCharOffset": 49
+    },
+    {
+      "form": "Wonosobo",
+      "startCharOffset": 50,
+      "endCharOffset": 58
+    },
+    {
+      "form": ".",
+      "startCharOffset": 58,
+      "endCharOffset": 59
+    },
+    {
+      "form": "Semoga",
+      "startCharOffset": 60,
+      "endCharOffset": 66
+    },
+    {
+      "form": "tak",
+      "startCharOffset": 67,
+      "endCharOffset": 70
+    },
+    {
+      "form": "ada",
+      "startCharOffset": 71,
+      "endCharOffset": 74
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 75,
+      "endCharOffset": 81
+    },
+    {
+      "form": "jiwa",
+      "startCharOffset": 82,
+      "endCharOffset": 86
+    },
+    {
+      "form": ".",
+      "startCharOffset": 86,
+      "endCharOffset": 87
+    },
+    {
+      "form": "#PrayForDieng",
+      "startCharOffset": 88,
+      "endCharOffset": 101
+    },
+    {
+      "form": "🙏😇",
+      "startCharOffset": 102,
+      "endCharOffset": 106
+    },
+    {
+      "form": "https://t.co/RzuBiXfJog",
+      "startCharOffset": 107,
+      "endCharOffset": 130
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@_RasahCangkeman:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Bandang",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Terjang",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Dieng",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Wonosobo",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Semoga",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "tak",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "ada",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "jiwa",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "#PrayForDieng",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "[?][?]",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "https://t.co/RzuBiXfJog",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

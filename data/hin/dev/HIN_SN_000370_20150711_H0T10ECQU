@@ -1,0 +1,350 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150711_H0T10ECQU",
+  "text": "RT @vaishalidbhatt: #स्वराज_में_खुजली के साथ साथ #ChetanBhagat भी ट्रेंड कर रहा है, ये भाई भी केजरीवाल की श्रेणी में पहुँच गए क्या?",
+  "tokens": [
+    "RT",
+    "@vaishalidbhatt:",
+    "#स्वराज_में_खुजली",
+    "के",
+    "साथ",
+    "साथ",
+    "#ChetanBhagat",
+    "भी",
+    "ट्रेंड",
+    "कर",
+    "रहा",
+    "है",
+    ",",
+    "ये",
+    "भाई",
+    "भी",
+    "केजरीवाल",
+    "की",
+    "श्रेणी",
+    "में",
+    "पहुँच",
+    "गए",
+    "क्या",
+    "?"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@vaishalidbhatt:",
+      "startCharOffset": 3,
+      "endCharOffset": 19
+    },
+    {
+      "form": "#स्वराज_में_खुजली",
+      "startCharOffset": 20,
+      "endCharOffset": 37
+    },
+    {
+      "form": "के",
+      "startCharOffset": 38,
+      "endCharOffset": 40
+    },
+    {
+      "form": "साथ",
+      "startCharOffset": 41,
+      "endCharOffset": 44
+    },
+    {
+      "form": "साथ",
+      "startCharOffset": 45,
+      "endCharOffset": 48
+    },
+    {
+      "form": "#ChetanBhagat",
+      "startCharOffset": 49,
+      "endCharOffset": 62
+    },
+    {
+      "form": "भी",
+      "startCharOffset": 63,
+      "endCharOffset": 65
+    },
+    {
+      "form": "ट्रेंड",
+      "startCharOffset": 66,
+      "endCharOffset": 72
+    },
+    {
+      "form": "कर",
+      "startCharOffset": 73,
+      "endCharOffset": 75
+    },
+    {
+      "form": "रहा",
+      "startCharOffset": 76,
+      "endCharOffset": 79
+    },
+    {
+      "form": "है",
+      "startCharOffset": 80,
+      "endCharOffset": 82
+    },
+    {
+      "form": ",",
+      "startCharOffset": 82,
+      "endCharOffset": 83
+    },
+    {
+      "form": "ये",
+      "startCharOffset": 84,
+      "endCharOffset": 86
+    },
+    {
+      "form": "भाई",
+      "startCharOffset": 87,
+      "endCharOffset": 90
+    },
+    {
+      "form": "भी",
+      "startCharOffset": 91,
+      "endCharOffset": 93
+    },
+    {
+      "form": "केजरीवाल",
+      "startCharOffset": 94,
+      "endCharOffset": 102
+    },
+    {
+      "form": "की",
+      "startCharOffset": 103,
+      "endCharOffset": 105
+    },
+    {
+      "form": "श्रेणी",
+      "startCharOffset": 106,
+      "endCharOffset": 112
+    },
+    {
+      "form": "में",
+      "startCharOffset": 113,
+      "endCharOffset": 116
+    },
+    {
+      "form": "पहुँच",
+      "startCharOffset": 117,
+      "endCharOffset": 122
+    },
+    {
+      "form": "गए",
+      "startCharOffset": 123,
+      "endCharOffset": 125
+    },
+    {
+      "form": "क्या",
+      "startCharOffset": 126,
+      "endCharOffset": 130
+    },
+    {
+      "form": "?",
+      "startCharOffset": 130,
+      "endCharOffset": 131
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      24
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

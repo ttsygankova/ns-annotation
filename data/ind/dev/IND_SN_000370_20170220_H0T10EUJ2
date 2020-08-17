@@ -1,0 +1,280 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170220_H0T10EUJ2",
+  "text": "RT @SindoRCTI: Banjir di Bekasi menggenangi permukiman warga. #SindoSiang https://t.co/7f19h49mWp",
+  "tokens": [
+    "RT",
+    "@SindoRCTI:",
+    "Banjir",
+    "di",
+    "Bekasi",
+    "menggenangi",
+    "permukiman",
+    "warga",
+    ".",
+    "#SindoSiang",
+    "https://t.co/7f19h49mWp"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@SindoRCTI:",
+      "startCharOffset": 3,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 15,
+      "endCharOffset": 21
+    },
+    {
+      "form": "di",
+      "startCharOffset": 22,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Bekasi",
+      "startCharOffset": 25,
+      "endCharOffset": 31
+    },
+    {
+      "form": "menggenangi",
+      "startCharOffset": 32,
+      "endCharOffset": 43
+    },
+    {
+      "form": "permukiman",
+      "startCharOffset": 44,
+      "endCharOffset": 54
+    },
+    {
+      "form": "warga",
+      "startCharOffset": 55,
+      "endCharOffset": 60
+    },
+    {
+      "form": ".",
+      "startCharOffset": 60,
+      "endCharOffset": 61
+    },
+    {
+      "form": "#SindoSiang",
+      "startCharOffset": 62,
+      "endCharOffset": 73
+    },
+    {
+      "form": "https://t.co/7f19h49mWp",
+      "startCharOffset": 74,
+      "endCharOffset": 97
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@SindoRCTI:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Bekasi",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "menggenangi",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "permukiman",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "warga",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "#SindoSiang",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/7f19h49mWp",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

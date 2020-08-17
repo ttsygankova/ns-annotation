@@ -1,0 +1,597 @@
+{
+  "corpusId": "",
+  "id": "doc217_HIN_SN_000370_20150602_H0T10EC4O",
+  "text": "Movie dekhne k baad bhi logo Ki aisi hi haalat Hogi RT\"@PriyancaBajaj: एक मरता हुआ इंसान खुदा से एक ही दुआ मांगता है - Dil Dhadakne Do\"",
+  "tokens": [
+    "Movie",
+    "dekhne",
+    "k",
+    "baad",
+    "bhi",
+    "logo",
+    "Ki",
+    "aisi",
+    "hi",
+    "haalat",
+    "Hogi",
+    "RT\"@PriyancaBajaj:",
+    "एक",
+    "मरता",
+    "हुआ",
+    "इंसान",
+    "खुदा",
+    "से",
+    "एक",
+    "ही",
+    "दुआ",
+    "मांगता",
+    "है",
+    "-",
+    "Dil",
+    "Dhadakne",
+    "Do",
+    "\""
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Movie",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "dekhne",
+      "startCharOffset": 6,
+      "endCharOffset": 12
+    },
+    {
+      "form": "k",
+      "startCharOffset": 13,
+      "endCharOffset": 14
+    },
+    {
+      "form": "baad",
+      "startCharOffset": 15,
+      "endCharOffset": 19
+    },
+    {
+      "form": "bhi",
+      "startCharOffset": 20,
+      "endCharOffset": 23
+    },
+    {
+      "form": "logo",
+      "startCharOffset": 24,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Ki",
+      "startCharOffset": 29,
+      "endCharOffset": 31
+    },
+    {
+      "form": "aisi",
+      "startCharOffset": 32,
+      "endCharOffset": 36
+    },
+    {
+      "form": "hi",
+      "startCharOffset": 37,
+      "endCharOffset": 39
+    },
+    {
+      "form": "haalat",
+      "startCharOffset": 40,
+      "endCharOffset": 46
+    },
+    {
+      "form": "Hogi",
+      "startCharOffset": 47,
+      "endCharOffset": 51
+    },
+    {
+      "form": "RT\"@PriyancaBajaj:",
+      "startCharOffset": 52,
+      "endCharOffset": 70
+    },
+    {
+      "form": "एक",
+      "startCharOffset": 71,
+      "endCharOffset": 73
+    },
+    {
+      "form": "मरता",
+      "startCharOffset": 74,
+      "endCharOffset": 78
+    },
+    {
+      "form": "हुआ",
+      "startCharOffset": 79,
+      "endCharOffset": 82
+    },
+    {
+      "form": "इंसान",
+      "startCharOffset": 83,
+      "endCharOffset": 88
+    },
+    {
+      "form": "खुदा",
+      "startCharOffset": 89,
+      "endCharOffset": 93
+    },
+    {
+      "form": "से",
+      "startCharOffset": 94,
+      "endCharOffset": 96
+    },
+    {
+      "form": "एक",
+      "startCharOffset": 97,
+      "endCharOffset": 99
+    },
+    {
+      "form": "ही",
+      "startCharOffset": 100,
+      "endCharOffset": 102
+    },
+    {
+      "form": "दुआ",
+      "startCharOffset": 103,
+      "endCharOffset": 106
+    },
+    {
+      "form": "मांगता",
+      "startCharOffset": 107,
+      "endCharOffset": 113
+    },
+    {
+      "form": "है",
+      "startCharOffset": 114,
+      "endCharOffset": 116
+    },
+    {
+      "form": "-",
+      "startCharOffset": 117,
+      "endCharOffset": 118
+    },
+    {
+      "form": "Dil",
+      "startCharOffset": 119,
+      "endCharOffset": 122
+    },
+    {
+      "form": "Dhadakne",
+      "startCharOffset": 123,
+      "endCharOffset": 131
+    },
+    {
+      "form": "Do",
+      "startCharOffset": 132,
+      "endCharOffset": 134
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 134,
+      "endCharOffset": 135
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      28
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Movie",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "dekhne",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "k",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "baad",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "bhi",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "logo",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Ki",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "aisi",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "hi",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "haalat",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Hogi",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "RT\"@PriyancaBajaj:",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "ek",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "marataa",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "huaa",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "imsaan",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "khudaa",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "se",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "ek",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "hii",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "duaa",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "maamgataa",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "hai",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "-",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "Dil",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "Dhadakne",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "Do",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "\"",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

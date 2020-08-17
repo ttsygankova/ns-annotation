@@ -1,0 +1,298 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170208_H0T10ETYX",
+  "text": "RT @TNI_AL: @TNI_AL Anak-anak Yemen, korban blokade Saudi Arabia https://t.co/599S1xXv6e",
+  "tokens": [
+    "RT",
+    "@TNI_AL:",
+    "@TNI_AL",
+    "Anak-anak",
+    "Yemen",
+    ",",
+    "korban",
+    "blokade",
+    "Saudi",
+    "Arabia",
+    "https://t.co/599S1xXv6e"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@TNI_AL:",
+      "startCharOffset": 3,
+      "endCharOffset": 11
+    },
+    {
+      "form": "@TNI_AL",
+      "startCharOffset": 12,
+      "endCharOffset": 19
+    },
+    {
+      "form": "Anak-anak",
+      "startCharOffset": 20,
+      "endCharOffset": 29
+    },
+    {
+      "form": "Yemen",
+      "startCharOffset": 30,
+      "endCharOffset": 35
+    },
+    {
+      "form": ",",
+      "startCharOffset": 35,
+      "endCharOffset": 36
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 37,
+      "endCharOffset": 43
+    },
+    {
+      "form": "blokade",
+      "startCharOffset": 44,
+      "endCharOffset": 51
+    },
+    {
+      "form": "Saudi",
+      "startCharOffset": 52,
+      "endCharOffset": 57
+    },
+    {
+      "form": "Arabia",
+      "startCharOffset": 58,
+      "endCharOffset": 64
+    },
+    {
+      "form": "https://t.co/599S1xXv6e",
+      "startCharOffset": 65,
+      "endCharOffset": 88
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@TNI_AL:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "@TNI_AL",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Anak-anak",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Yemen",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "blokade",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Saudi",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Arabia",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/599S1xXv6e",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

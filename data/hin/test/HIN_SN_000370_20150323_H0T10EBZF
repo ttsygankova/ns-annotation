@@ -1,0 +1,230 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150323_H0T10EBZF",
+  "text": "RT @chauhan2550: #JoinYUG #JoinYUG आतंकवाद पर लगाम कसे पाक : मुफ्ती मोहम्मद सईद http://t.co/Cc9fmhwx0Q",
+  "tokens": [
+    "RT",
+    "@chauhan2550:",
+    "#JoinYUG",
+    "#JoinYUG",
+    "आतंकवाद",
+    "पर",
+    "लगाम",
+    "कसे",
+    "पाक",
+    ":",
+    "मुफ्ती",
+    "मोहम्मद",
+    "सईद",
+    "http://t.co/Cc9fmhwx0Q"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@chauhan2550:",
+      "startCharOffset": 3,
+      "endCharOffset": 16
+    },
+    {
+      "form": "#JoinYUG",
+      "startCharOffset": 17,
+      "endCharOffset": 25
+    },
+    {
+      "form": "#JoinYUG",
+      "startCharOffset": 26,
+      "endCharOffset": 34
+    },
+    {
+      "form": "आतंकवाद",
+      "startCharOffset": 35,
+      "endCharOffset": 42
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 43,
+      "endCharOffset": 45
+    },
+    {
+      "form": "लगाम",
+      "startCharOffset": 46,
+      "endCharOffset": 50
+    },
+    {
+      "form": "कसे",
+      "startCharOffset": 51,
+      "endCharOffset": 54
+    },
+    {
+      "form": "पाक",
+      "startCharOffset": 55,
+      "endCharOffset": 58
+    },
+    {
+      "form": ":",
+      "startCharOffset": 59,
+      "endCharOffset": 60
+    },
+    {
+      "form": "मुफ्ती",
+      "startCharOffset": 61,
+      "endCharOffset": 67
+    },
+    {
+      "form": "मोहम्मद",
+      "startCharOffset": 68,
+      "endCharOffset": 75
+    },
+    {
+      "form": "सईद",
+      "startCharOffset": 76,
+      "endCharOffset": 79
+    },
+    {
+      "form": "http://t.co/Cc9fmhwx0Q",
+      "startCharOffset": 80,
+      "endCharOffset": 102
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 11,
+              "end": 13
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

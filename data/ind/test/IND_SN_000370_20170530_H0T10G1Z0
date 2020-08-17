@@ -1,0 +1,280 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170530_H0T10G1Z0",
+  "text": "Kuasa Hukum Beberkan Keganjilan Penetapan Habib Rizieq Syihab Sebagai Tersangka https://t.co/2bW3T7BYyY",
+  "tokens": [
+    "Kuasa",
+    "Hukum",
+    "Beberkan",
+    "Keganjilan",
+    "Penetapan",
+    "Habib",
+    "Rizieq",
+    "Syihab",
+    "Sebagai",
+    "Tersangka",
+    "https://t.co/2bW3T7BYyY"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Kuasa",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "Hukum",
+      "startCharOffset": 6,
+      "endCharOffset": 11
+    },
+    {
+      "form": "Beberkan",
+      "startCharOffset": 12,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Keganjilan",
+      "startCharOffset": 21,
+      "endCharOffset": 31
+    },
+    {
+      "form": "Penetapan",
+      "startCharOffset": 32,
+      "endCharOffset": 41
+    },
+    {
+      "form": "Habib",
+      "startCharOffset": 42,
+      "endCharOffset": 47
+    },
+    {
+      "form": "Rizieq",
+      "startCharOffset": 48,
+      "endCharOffset": 54
+    },
+    {
+      "form": "Syihab",
+      "startCharOffset": 55,
+      "endCharOffset": 61
+    },
+    {
+      "form": "Sebagai",
+      "startCharOffset": 62,
+      "endCharOffset": 69
+    },
+    {
+      "form": "Tersangka",
+      "startCharOffset": 70,
+      "endCharOffset": 79
+    },
+    {
+      "form": "https://t.co/2bW3T7BYyY",
+      "startCharOffset": 80,
+      "endCharOffset": 103
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 6,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Kuasa",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Hukum",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Beberkan",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Keganjilan",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Penetapan",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Habib",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Rizieq",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Syihab",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Sebagai",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Tersangka",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/2bW3T7BYyY",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

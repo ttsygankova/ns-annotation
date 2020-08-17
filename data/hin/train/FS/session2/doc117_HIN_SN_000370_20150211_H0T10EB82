@@ -1,0 +1,447 @@
+{
+  "corpusId": "",
+  "id": "doc117_HIN_SN_000370_20150211_H0T10EB82",
+  "text": "RT @insanjassi120: #LoveToSeeMSG13feb @Gurmeetramrahim 🐯 तेरे चेहरे से नज़र नहीँ हटती 💞💝 नजारे हम किया देखे 😍😘😃 🌹🌺🌻🍀🍇🍒🍓🍉 #2DaysToMSG",
+  "tokens": [
+    "RT",
+    "@insanjassi120:",
+    "#LoveToSeeMSG13feb",
+    "@Gurmeetramrahim",
+    "🐯",
+    "तेरे",
+    "चेहरे",
+    "से",
+    "नज़र",
+    "नहीँ",
+    "हटती",
+    "💞💝",
+    "नजारे",
+    "हम",
+    "किया",
+    "देखे",
+    "😍😘😃",
+    "🌹🌺🌻🍀🍇🍒🍓🍉",
+    "#2DaysToMSG"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@insanjassi120:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "#LoveToSeeMSG13feb",
+      "startCharOffset": 19,
+      "endCharOffset": 37
+    },
+    {
+      "form": "@Gurmeetramrahim",
+      "startCharOffset": 38,
+      "endCharOffset": 54
+    },
+    {
+      "form": "🐯",
+      "startCharOffset": 55,
+      "endCharOffset": 57
+    },
+    {
+      "form": "तेरे",
+      "startCharOffset": 58,
+      "endCharOffset": 62
+    },
+    {
+      "form": "चेहरे",
+      "startCharOffset": 63,
+      "endCharOffset": 68
+    },
+    {
+      "form": "से",
+      "startCharOffset": 69,
+      "endCharOffset": 71
+    },
+    {
+      "form": "नज़र",
+      "startCharOffset": 72,
+      "endCharOffset": 76
+    },
+    {
+      "form": "नहीँ",
+      "startCharOffset": 77,
+      "endCharOffset": 81
+    },
+    {
+      "form": "हटती",
+      "startCharOffset": 82,
+      "endCharOffset": 86
+    },
+    {
+      "form": "💞💝",
+      "startCharOffset": 87,
+      "endCharOffset": 91
+    },
+    {
+      "form": "नजारे",
+      "startCharOffset": 92,
+      "endCharOffset": 97
+    },
+    {
+      "form": "हम",
+      "startCharOffset": 98,
+      "endCharOffset": 100
+    },
+    {
+      "form": "किया",
+      "startCharOffset": 101,
+      "endCharOffset": 105
+    },
+    {
+      "form": "देखे",
+      "startCharOffset": 106,
+      "endCharOffset": 110
+    },
+    {
+      "form": "😍😘😃",
+      "startCharOffset": 111,
+      "endCharOffset": 117
+    },
+    {
+      "form": "🌹🌺🌻🍀🍇🍒🍓🍉",
+      "startCharOffset": 118,
+      "endCharOffset": 134
+    },
+    {
+      "form": "#2DaysToMSG",
+      "startCharOffset": 135,
+      "endCharOffset": 146
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@insanjassi120:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "#LoveToSeeMSG13feb",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "@Gurmeetramrahim",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "[?]",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "tere",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "cehare",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "se",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "najar",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "nahiim",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "hattatii",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "[?][?]",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "najaare",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ham",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "kiyaa",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "dekhe",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "[?][?][?]",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "🌹🌺🌻🍀🍇🍒🍓🍉",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "#2DaysToMSG",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

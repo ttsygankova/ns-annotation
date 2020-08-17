@@ -1,0 +1,194 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160321_G0T100JQX",
+  "text": "@Konstpaus Как повезёт. Пару лет назад была жара +30. Солнце непредсказуемо",
+  "tokens": [
+    "@Konstpaus",
+    "Как",
+    "повезёт",
+    ".",
+    "Пару",
+    "лет",
+    "назад",
+    "была",
+    "жара",
+    "+30.",
+    "Солнце",
+    "непредсказуемо"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@Konstpaus",
+      "startCharOffset": 0,
+      "endCharOffset": 10
+    },
+    {
+      "form": "Как",
+      "startCharOffset": 11,
+      "endCharOffset": 14
+    },
+    {
+      "form": "повезёт",
+      "startCharOffset": 15,
+      "endCharOffset": 22
+    },
+    {
+      "form": ".",
+      "startCharOffset": 22,
+      "endCharOffset": 23
+    },
+    {
+      "form": "Пару",
+      "startCharOffset": 24,
+      "endCharOffset": 28
+    },
+    {
+      "form": "лет",
+      "startCharOffset": 29,
+      "endCharOffset": 32
+    },
+    {
+      "form": "назад",
+      "startCharOffset": 33,
+      "endCharOffset": 38
+    },
+    {
+      "form": "была",
+      "startCharOffset": 39,
+      "endCharOffset": 43
+    },
+    {
+      "form": "жара",
+      "startCharOffset": 44,
+      "endCharOffset": 48
+    },
+    {
+      "form": "+30.",
+      "startCharOffset": 49,
+      "endCharOffset": 53
+    },
+    {
+      "form": "Солнце",
+      "startCharOffset": 54,
+      "endCharOffset": 60
+    },
+    {
+      "form": "непредсказуемо",
+      "startCharOffset": 61,
+      "endCharOffset": 75
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

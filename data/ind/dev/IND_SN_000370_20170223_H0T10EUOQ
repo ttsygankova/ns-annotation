@@ -1,0 +1,250 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170223_H0T10EUOQ",
+  "text": "Gubernur Aher: Banjir Bekasi Diantisipasi Gunakan Pompa https://t.co/MaqKSB0o0Y",
+  "tokens": [
+    "Gubernur",
+    "Aher",
+    ":",
+    "Banjir",
+    "Bekasi",
+    "Diantisipasi",
+    "Gunakan",
+    "Pompa",
+    "https://t.co/MaqKSB0o0Y"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Gubernur",
+      "startCharOffset": 0,
+      "endCharOffset": 8
+    },
+    {
+      "form": "Aher",
+      "startCharOffset": 9,
+      "endCharOffset": 13
+    },
+    {
+      "form": ":",
+      "startCharOffset": 13,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 15,
+      "endCharOffset": 21
+    },
+    {
+      "form": "Bekasi",
+      "startCharOffset": 22,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Diantisipasi",
+      "startCharOffset": 29,
+      "endCharOffset": 41
+    },
+    {
+      "form": "Gunakan",
+      "startCharOffset": 42,
+      "endCharOffset": 49
+    },
+    {
+      "form": "Pompa",
+      "startCharOffset": 50,
+      "endCharOffset": 55
+    },
+    {
+      "form": "https://t.co/MaqKSB0o0Y",
+      "startCharOffset": 56,
+      "endCharOffset": 79
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      9
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Gubernur",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Aher",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Bekasi",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Diantisipasi",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Gunakan",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Pompa",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "https://t.co/MaqKSB0o0Y",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

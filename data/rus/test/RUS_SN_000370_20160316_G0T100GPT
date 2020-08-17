@@ -1,0 +1,326 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100GPT",
+  "text": "RT @shamelessBTS: Чимин прислал тебе видео-сообщение перед сном, потому что не смог позвонить. «Спокойной ночи~ Я люблю тебя». https://t.co…",
+  "tokens": [
+    "RT",
+    "@shamelessBTS:",
+    "Чимин",
+    "прислал",
+    "тебе",
+    "видео-сообщение",
+    "перед",
+    "сном",
+    ",",
+    "потому",
+    "что",
+    "не",
+    "смог",
+    "позвонить",
+    ".",
+    "«",
+    "Спокойной",
+    "ночи~",
+    "Я",
+    "люблю",
+    "тебя",
+    "».",
+    "https://t.co…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@shamelessBTS:",
+      "startCharOffset": 3,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Чимин",
+      "startCharOffset": 18,
+      "endCharOffset": 23
+    },
+    {
+      "form": "прислал",
+      "startCharOffset": 24,
+      "endCharOffset": 31
+    },
+    {
+      "form": "тебе",
+      "startCharOffset": 32,
+      "endCharOffset": 36
+    },
+    {
+      "form": "видео-сообщение",
+      "startCharOffset": 37,
+      "endCharOffset": 52
+    },
+    {
+      "form": "перед",
+      "startCharOffset": 53,
+      "endCharOffset": 58
+    },
+    {
+      "form": "сном",
+      "startCharOffset": 59,
+      "endCharOffset": 63
+    },
+    {
+      "form": ",",
+      "startCharOffset": 63,
+      "endCharOffset": 64
+    },
+    {
+      "form": "потому",
+      "startCharOffset": 65,
+      "endCharOffset": 71
+    },
+    {
+      "form": "что",
+      "startCharOffset": 72,
+      "endCharOffset": 75
+    },
+    {
+      "form": "не",
+      "startCharOffset": 76,
+      "endCharOffset": 78
+    },
+    {
+      "form": "смог",
+      "startCharOffset": 79,
+      "endCharOffset": 83
+    },
+    {
+      "form": "позвонить",
+      "startCharOffset": 84,
+      "endCharOffset": 93
+    },
+    {
+      "form": ".",
+      "startCharOffset": 93,
+      "endCharOffset": 94
+    },
+    {
+      "form": "«",
+      "startCharOffset": 95,
+      "endCharOffset": 96
+    },
+    {
+      "form": "Спокойной",
+      "startCharOffset": 96,
+      "endCharOffset": 105
+    },
+    {
+      "form": "ночи~",
+      "startCharOffset": 106,
+      "endCharOffset": 111
+    },
+    {
+      "form": "Я",
+      "startCharOffset": 112,
+      "endCharOffset": 113
+    },
+    {
+      "form": "люблю",
+      "startCharOffset": 114,
+      "endCharOffset": 119
+    },
+    {
+      "form": "тебя",
+      "startCharOffset": 120,
+      "endCharOffset": 124
+    },
+    {
+      "form": "».",
+      "startCharOffset": 124,
+      "endCharOffset": 126
+    },
+    {
+      "form": "https://t.co…",
+      "startCharOffset": 127,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      23
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

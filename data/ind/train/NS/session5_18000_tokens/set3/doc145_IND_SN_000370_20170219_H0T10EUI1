@@ -1,0 +1,519 @@
+{
+  "corpusId": "",
+  "id": "doc145_IND_SN_000370_20170219_H0T10EUI1",
+  "text": "hxnhyri: wah_yusa Hai. Selamat siang. Terkait informasi yang didapat saya bantu cek. Interaksi selanjutnya via DM. -Agan",
+  "tokens": [
+    "hxnhyri",
+    ":",
+    "wah_yusa",
+    "Hai",
+    ".",
+    "Selamat",
+    "siang",
+    ".",
+    "Terkait",
+    "informasi",
+    "yang",
+    "didapat",
+    "saya",
+    "bantu",
+    "cek",
+    ".",
+    "Interaksi",
+    "selanjutnya",
+    "via",
+    "DM",
+    ".",
+    "-",
+    "Agan"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "hxnhyri",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": ":",
+      "startCharOffset": 7,
+      "endCharOffset": 8
+    },
+    {
+      "form": "wah_yusa",
+      "startCharOffset": 9,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Hai",
+      "startCharOffset": 18,
+      "endCharOffset": 21
+    },
+    {
+      "form": ".",
+      "startCharOffset": 21,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Selamat",
+      "startCharOffset": 23,
+      "endCharOffset": 30
+    },
+    {
+      "form": "siang",
+      "startCharOffset": 31,
+      "endCharOffset": 36
+    },
+    {
+      "form": ".",
+      "startCharOffset": 36,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Terkait",
+      "startCharOffset": 38,
+      "endCharOffset": 45
+    },
+    {
+      "form": "informasi",
+      "startCharOffset": 46,
+      "endCharOffset": 55
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 56,
+      "endCharOffset": 60
+    },
+    {
+      "form": "didapat",
+      "startCharOffset": 61,
+      "endCharOffset": 68
+    },
+    {
+      "form": "saya",
+      "startCharOffset": 69,
+      "endCharOffset": 73
+    },
+    {
+      "form": "bantu",
+      "startCharOffset": 74,
+      "endCharOffset": 79
+    },
+    {
+      "form": "cek",
+      "startCharOffset": 80,
+      "endCharOffset": 83
+    },
+    {
+      "form": ".",
+      "startCharOffset": 83,
+      "endCharOffset": 84
+    },
+    {
+      "form": "Interaksi",
+      "startCharOffset": 85,
+      "endCharOffset": 94
+    },
+    {
+      "form": "selanjutnya",
+      "startCharOffset": 95,
+      "endCharOffset": 106
+    },
+    {
+      "form": "via",
+      "startCharOffset": 107,
+      "endCharOffset": 110
+    },
+    {
+      "form": "DM",
+      "startCharOffset": 111,
+      "endCharOffset": 113
+    },
+    {
+      "form": ".",
+      "startCharOffset": 113,
+      "endCharOffset": 114
+    },
+    {
+      "form": "-",
+      "startCharOffset": 115,
+      "endCharOffset": 116
+    },
+    {
+      "form": "Agan",
+      "startCharOffset": 116,
+      "endCharOffset": 120
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      23
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "hxnhyri",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "wah_yusa",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Hai",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Selamat",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "siang",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Terkait",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "informasi",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "didapat",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "saya",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "bantu",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "cek",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "Interaksi",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "selanjutnya",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "via",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "DM",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "-",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "Agan",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

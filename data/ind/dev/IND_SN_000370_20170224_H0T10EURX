@@ -1,0 +1,502 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170224_H0T10EURX",
+  "text": "@DPR_RI apa gak terlalu berlebihan itu?? Apa untungnya buat rakyat indonesia?? Lihatlah rakyat bnyk yg mnderita korban bncana alam boss..",
+  "tokens": [
+    "@DPR_RI",
+    "apa",
+    "gak",
+    "terlalu",
+    "berlebihan",
+    "itu",
+    "??",
+    "Apa",
+    "untungnya",
+    "buat",
+    "rakyat",
+    "indonesia",
+    "??",
+    "Lihatlah",
+    "rakyat",
+    "bnyk",
+    "yg",
+    "mnderita",
+    "korban",
+    "bncana",
+    "alam",
+    "boss",
+    ".."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@DPR_RI",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "apa",
+      "startCharOffset": 8,
+      "endCharOffset": 11
+    },
+    {
+      "form": "gak",
+      "startCharOffset": 12,
+      "endCharOffset": 15
+    },
+    {
+      "form": "terlalu",
+      "startCharOffset": 16,
+      "endCharOffset": 23
+    },
+    {
+      "form": "berlebihan",
+      "startCharOffset": 24,
+      "endCharOffset": 34
+    },
+    {
+      "form": "itu",
+      "startCharOffset": 35,
+      "endCharOffset": 38
+    },
+    {
+      "form": "??",
+      "startCharOffset": 38,
+      "endCharOffset": 40
+    },
+    {
+      "form": "Apa",
+      "startCharOffset": 41,
+      "endCharOffset": 44
+    },
+    {
+      "form": "untungnya",
+      "startCharOffset": 45,
+      "endCharOffset": 54
+    },
+    {
+      "form": "buat",
+      "startCharOffset": 55,
+      "endCharOffset": 59
+    },
+    {
+      "form": "rakyat",
+      "startCharOffset": 60,
+      "endCharOffset": 66
+    },
+    {
+      "form": "indonesia",
+      "startCharOffset": 67,
+      "endCharOffset": 76
+    },
+    {
+      "form": "??",
+      "startCharOffset": 76,
+      "endCharOffset": 78
+    },
+    {
+      "form": "Lihatlah",
+      "startCharOffset": 79,
+      "endCharOffset": 87
+    },
+    {
+      "form": "rakyat",
+      "startCharOffset": 88,
+      "endCharOffset": 94
+    },
+    {
+      "form": "bnyk",
+      "startCharOffset": 95,
+      "endCharOffset": 99
+    },
+    {
+      "form": "yg",
+      "startCharOffset": 100,
+      "endCharOffset": 102
+    },
+    {
+      "form": "mnderita",
+      "startCharOffset": 103,
+      "endCharOffset": 111
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 112,
+      "endCharOffset": 118
+    },
+    {
+      "form": "bncana",
+      "startCharOffset": 119,
+      "endCharOffset": 125
+    },
+    {
+      "form": "alam",
+      "startCharOffset": 126,
+      "endCharOffset": 130
+    },
+    {
+      "form": "boss",
+      "startCharOffset": 131,
+      "endCharOffset": 135
+    },
+    {
+      "form": "..",
+      "startCharOffset": 135,
+      "endCharOffset": 137
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      23
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "@DPR_RI",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "apa",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "gak",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "terlalu",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "berlebihan",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "itu",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "??",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Apa",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "untungnya",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "buat",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "rakyat",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "indonesia",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "??",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "Lihatlah",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "rakyat",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "bnyk",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "yg",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "mnderita",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "bncana",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "alam",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "boss",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "..",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

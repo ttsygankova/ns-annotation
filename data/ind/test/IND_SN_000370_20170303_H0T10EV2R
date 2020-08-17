@@ -1,0 +1,436 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170303_H0T10EV2R",
+  "text": "12.37: Lalu lintas KM 46 Tol Balaraja - Cikande macet parah tidak bergerak. (via @bintangfahlevii) #NewsAndTalk https://t.co/mf6ZgqgBZP",
+  "tokens": [
+    "12.37:",
+    "Lalu",
+    "lintas",
+    "KM",
+    "46",
+    "Tol",
+    "Balaraja",
+    "-",
+    "Cikande",
+    "macet",
+    "parah",
+    "tidak",
+    "bergerak",
+    ".",
+    "(",
+    "via",
+    "@bintangfahlevii)",
+    "#NewsAndTalk",
+    "https://t.co/mf6ZgqgBZP"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "12.37:",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Lalu",
+      "startCharOffset": 7,
+      "endCharOffset": 11
+    },
+    {
+      "form": "lintas",
+      "startCharOffset": 12,
+      "endCharOffset": 18
+    },
+    {
+      "form": "KM",
+      "startCharOffset": 19,
+      "endCharOffset": 21
+    },
+    {
+      "form": "46",
+      "startCharOffset": 22,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Tol",
+      "startCharOffset": 25,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Balaraja",
+      "startCharOffset": 29,
+      "endCharOffset": 37
+    },
+    {
+      "form": "-",
+      "startCharOffset": 38,
+      "endCharOffset": 39
+    },
+    {
+      "form": "Cikande",
+      "startCharOffset": 40,
+      "endCharOffset": 47
+    },
+    {
+      "form": "macet",
+      "startCharOffset": 48,
+      "endCharOffset": 53
+    },
+    {
+      "form": "parah",
+      "startCharOffset": 54,
+      "endCharOffset": 59
+    },
+    {
+      "form": "tidak",
+      "startCharOffset": 60,
+      "endCharOffset": 65
+    },
+    {
+      "form": "bergerak",
+      "startCharOffset": 66,
+      "endCharOffset": 74
+    },
+    {
+      "form": ".",
+      "startCharOffset": 74,
+      "endCharOffset": 75
+    },
+    {
+      "form": "(",
+      "startCharOffset": 76,
+      "endCharOffset": 77
+    },
+    {
+      "form": "via",
+      "startCharOffset": 77,
+      "endCharOffset": 80
+    },
+    {
+      "form": "@bintangfahlevii)",
+      "startCharOffset": 81,
+      "endCharOffset": 98
+    },
+    {
+      "form": "#NewsAndTalk",
+      "startCharOffset": 99,
+      "endCharOffset": 111
+    },
+    {
+      "form": "https://t.co/mf6ZgqgBZP",
+      "startCharOffset": 112,
+      "endCharOffset": 135
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "12.37:",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Lalu",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "lintas",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "KM",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "46",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Tol",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Balaraja",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "-",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Cikande",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "macet",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "parah",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "tidak",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "bergerak",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "(",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "via",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "@bintangfahlevii)",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "#NewsAndTalk",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "https://t.co/mf6ZgqgBZP",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150112_H0T10EB3M",
+  "text": "RT @dhyanfoundation: #YogiAshwini गुरु साबुन बेचने को नहीं बोलते, लेकिन प्रकृति की रक्षा, सेवा और परोपकार करने के लिए कहेतें हैं @newsexpre…",
+  "tokens": [
+    "RT",
+    "@dhyanfoundation:",
+    "#YogiAshwini",
+    "गुरु",
+    "साबुन",
+    "बेचने",
+    "को",
+    "नहीं",
+    "बोलते",
+    ",",
+    "लेकिन",
+    "प्रकृति",
+    "की",
+    "रक्षा",
+    ",",
+    "सेवा",
+    "और",
+    "परोपकार",
+    "करने",
+    "के",
+    "लिए",
+    "कहेतें",
+    "हैं",
+    "@newsexpre…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@dhyanfoundation:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "#YogiAshwini",
+      "startCharOffset": 21,
+      "endCharOffset": 33
+    },
+    {
+      "form": "गुरु",
+      "startCharOffset": 34,
+      "endCharOffset": 38
+    },
+    {
+      "form": "साबुन",
+      "startCharOffset": 39,
+      "endCharOffset": 44
+    },
+    {
+      "form": "बेचने",
+      "startCharOffset": 45,
+      "endCharOffset": 50
+    },
+    {
+      "form": "को",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": "नहीं",
+      "startCharOffset": 54,
+      "endCharOffset": 58
+    },
+    {
+      "form": "बोलते",
+      "startCharOffset": 59,
+      "endCharOffset": 64
+    },
+    {
+      "form": ",",
+      "startCharOffset": 64,
+      "endCharOffset": 65
+    },
+    {
+      "form": "लेकिन",
+      "startCharOffset": 66,
+      "endCharOffset": 71
+    },
+    {
+      "form": "प्रकृति",
+      "startCharOffset": 72,
+      "endCharOffset": 79
+    },
+    {
+      "form": "की",
+      "startCharOffset": 80,
+      "endCharOffset": 82
+    },
+    {
+      "form": "रक्षा",
+      "startCharOffset": 83,
+      "endCharOffset": 88
+    },
+    {
+      "form": ",",
+      "startCharOffset": 88,
+      "endCharOffset": 89
+    },
+    {
+      "form": "सेवा",
+      "startCharOffset": 90,
+      "endCharOffset": 94
+    },
+    {
+      "form": "और",
+      "startCharOffset": 95,
+      "endCharOffset": 97
+    },
+    {
+      "form": "परोपकार",
+      "startCharOffset": 98,
+      "endCharOffset": 105
+    },
+    {
+      "form": "करने",
+      "startCharOffset": 106,
+      "endCharOffset": 110
+    },
+    {
+      "form": "के",
+      "startCharOffset": 111,
+      "endCharOffset": 113
+    },
+    {
+      "form": "लिए",
+      "startCharOffset": 114,
+      "endCharOffset": 117
+    },
+    {
+      "form": "कहेतें",
+      "startCharOffset": 118,
+      "endCharOffset": 124
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 125,
+      "endCharOffset": 128
+    },
+    {
+      "form": "@newsexpre…",
+      "startCharOffset": 129,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      24
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

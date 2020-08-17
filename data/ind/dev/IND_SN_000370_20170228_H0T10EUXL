@@ -1,0 +1,310 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170228_H0T10EUXL",
+  "text": "RT @Srilanang1_Taco: Pengamat Terorisme: ISIS Rencanakan Serangan di Inggris https://t.co/jMQZwDrk1o https://t.co/vy2KuRuNPV",
+  "tokens": [
+    "RT",
+    "@Srilanang1_Taco:",
+    "Pengamat",
+    "Terorisme",
+    ":",
+    "ISIS",
+    "Rencanakan",
+    "Serangan",
+    "di",
+    "Inggris",
+    "https://t.co/jMQZwDrk1o",
+    "https://t.co/vy2KuRuNPV"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@Srilanang1_Taco:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Pengamat",
+      "startCharOffset": 21,
+      "endCharOffset": 29
+    },
+    {
+      "form": "Terorisme",
+      "startCharOffset": 30,
+      "endCharOffset": 39
+    },
+    {
+      "form": ":",
+      "startCharOffset": 39,
+      "endCharOffset": 40
+    },
+    {
+      "form": "ISIS",
+      "startCharOffset": 41,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Rencanakan",
+      "startCharOffset": 46,
+      "endCharOffset": 56
+    },
+    {
+      "form": "Serangan",
+      "startCharOffset": 57,
+      "endCharOffset": 65
+    },
+    {
+      "form": "di",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "Inggris",
+      "startCharOffset": 69,
+      "endCharOffset": 76
+    },
+    {
+      "form": "https://t.co/jMQZwDrk1o",
+      "startCharOffset": 77,
+      "endCharOffset": 100
+    },
+    {
+      "form": "https://t.co/vy2KuRuNPV",
+      "startCharOffset": 101,
+      "endCharOffset": 124
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@Srilanang1_Taco:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Pengamat",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Terorisme",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "ISIS",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Rencanakan",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Serangan",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Inggris",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/jMQZwDrk1o",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/vy2KuRuNPV",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

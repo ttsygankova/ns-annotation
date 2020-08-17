@@ -1,0 +1,508 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170221_H0T10EUMJ",
+  "text": "RT @TMCPoldaMetro: 12:02 #Banjir 40 cm di dpn Pasari Jl. Daan Mogot, bagi kendaraan sejenis sedan agar tidak melintas. https://t.co/Q3ws9uN…",
+  "tokens": [
+    "RT",
+    "@TMCPoldaMetro:",
+    "12:02",
+    "#Banjir",
+    "40",
+    "cm",
+    "di",
+    "dpn",
+    "Pasari",
+    "Jl",
+    ".",
+    "Daan",
+    "Mogot",
+    ",",
+    "bagi",
+    "kendaraan",
+    "sejenis",
+    "sedan",
+    "agar",
+    "tidak",
+    "melintas",
+    ".",
+    "https://t.co/Q3ws9uN…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@TMCPoldaMetro:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "12:02",
+      "startCharOffset": 19,
+      "endCharOffset": 24
+    },
+    {
+      "form": "#Banjir",
+      "startCharOffset": 25,
+      "endCharOffset": 32
+    },
+    {
+      "form": "40",
+      "startCharOffset": 33,
+      "endCharOffset": 35
+    },
+    {
+      "form": "cm",
+      "startCharOffset": 36,
+      "endCharOffset": 38
+    },
+    {
+      "form": "di",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    },
+    {
+      "form": "dpn",
+      "startCharOffset": 42,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Pasari",
+      "startCharOffset": 46,
+      "endCharOffset": 52
+    },
+    {
+      "form": "Jl",
+      "startCharOffset": 53,
+      "endCharOffset": 55
+    },
+    {
+      "form": ".",
+      "startCharOffset": 55,
+      "endCharOffset": 56
+    },
+    {
+      "form": "Daan",
+      "startCharOffset": 57,
+      "endCharOffset": 61
+    },
+    {
+      "form": "Mogot",
+      "startCharOffset": 62,
+      "endCharOffset": 67
+    },
+    {
+      "form": ",",
+      "startCharOffset": 67,
+      "endCharOffset": 68
+    },
+    {
+      "form": "bagi",
+      "startCharOffset": 69,
+      "endCharOffset": 73
+    },
+    {
+      "form": "kendaraan",
+      "startCharOffset": 74,
+      "endCharOffset": 83
+    },
+    {
+      "form": "sejenis",
+      "startCharOffset": 84,
+      "endCharOffset": 91
+    },
+    {
+      "form": "sedan",
+      "startCharOffset": 92,
+      "endCharOffset": 97
+    },
+    {
+      "form": "agar",
+      "startCharOffset": 98,
+      "endCharOffset": 102
+    },
+    {
+      "form": "tidak",
+      "startCharOffset": 103,
+      "endCharOffset": 108
+    },
+    {
+      "form": "melintas",
+      "startCharOffset": 109,
+      "endCharOffset": 117
+    },
+    {
+      "form": ".",
+      "startCharOffset": 117,
+      "endCharOffset": 118
+    },
+    {
+      "form": "https://t.co/Q3ws9uN…",
+      "startCharOffset": 119,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      23
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 9,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@TMCPoldaMetro:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "12:02",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "#Banjir",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "40",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "cm",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "dpn",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Pasari",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Jl",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Daan",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "Mogot",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "bagi",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "kendaraan",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "sejenis",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "sedan",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "agar",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "tidak",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "melintas",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "https://t.co/Q3ws9uN...",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

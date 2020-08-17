@@ -1,0 +1,304 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170220_H0T10EUK2",
+  "text": "RT @BPBDJakarta: Pemberian bantuan untuk wilayah terdampak #banjir Kelurahan Cipinang Melayu https://t.co/8WceSPumNX",
+  "tokens": [
+    "RT",
+    "@BPBDJakarta:",
+    "Pemberian",
+    "bantuan",
+    "untuk",
+    "wilayah",
+    "terdampak",
+    "#banjir",
+    "Kelurahan",
+    "Cipinang",
+    "Melayu",
+    "https://t.co/8WceSPumNX"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@BPBDJakarta:",
+      "startCharOffset": 3,
+      "endCharOffset": 16
+    },
+    {
+      "form": "Pemberian",
+      "startCharOffset": 17,
+      "endCharOffset": 26
+    },
+    {
+      "form": "bantuan",
+      "startCharOffset": 27,
+      "endCharOffset": 34
+    },
+    {
+      "form": "untuk",
+      "startCharOffset": 35,
+      "endCharOffset": 40
+    },
+    {
+      "form": "wilayah",
+      "startCharOffset": 41,
+      "endCharOffset": 48
+    },
+    {
+      "form": "terdampak",
+      "startCharOffset": 49,
+      "endCharOffset": 58
+    },
+    {
+      "form": "#banjir",
+      "startCharOffset": 59,
+      "endCharOffset": 66
+    },
+    {
+      "form": "Kelurahan",
+      "startCharOffset": 67,
+      "endCharOffset": 76
+    },
+    {
+      "form": "Cipinang",
+      "startCharOffset": 77,
+      "endCharOffset": 85
+    },
+    {
+      "form": "Melayu",
+      "startCharOffset": 86,
+      "endCharOffset": 92
+    },
+    {
+      "form": "https://t.co/8WceSPumNX",
+      "startCharOffset": 93,
+      "endCharOffset": 116
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@BPBDJakarta:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Pemberian",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "bantuan",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "untuk",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "wilayah",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "terdampak",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "#banjir",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Kelurahan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Cipinang",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Melayu",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/8WceSPumNX",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

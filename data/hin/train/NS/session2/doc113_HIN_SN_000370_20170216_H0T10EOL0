@@ -1,0 +1,453 @@
+{
+  "corpusId": "",
+  "id": "doc113_HIN_SN_000370_20170216_H0T10EOL0",
+  "text": "RT @SandeepParveen: @Gurmeetramrahim #90CrIn6Days उस सतगुरु पर बलिहारी जाऊ,जिसने आतंकवाद को भी खत्म करने का बीड़ा उठाया है।",
+  "tokens": [
+    "RT",
+    "@SandeepParveen:",
+    "@Gurmeetramrahim",
+    "#90CrIn6Days",
+    "उस",
+    "सतगुरु",
+    "पर",
+    "बलिहारी",
+    "जाऊ,जिसने",
+    "आतंकवाद",
+    "को",
+    "भी",
+    "खत्म",
+    "करने",
+    "का",
+    "बीड़ा",
+    "उठाया",
+    "है",
+    "।"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@SandeepParveen:",
+      "startCharOffset": 3,
+      "endCharOffset": 19
+    },
+    {
+      "form": "@Gurmeetramrahim",
+      "startCharOffset": 20,
+      "endCharOffset": 36
+    },
+    {
+      "form": "#90CrIn6Days",
+      "startCharOffset": 37,
+      "endCharOffset": 49
+    },
+    {
+      "form": "उस",
+      "startCharOffset": 50,
+      "endCharOffset": 52
+    },
+    {
+      "form": "सतगुरु",
+      "startCharOffset": 53,
+      "endCharOffset": 59
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 60,
+      "endCharOffset": 62
+    },
+    {
+      "form": "बलिहारी",
+      "startCharOffset": 63,
+      "endCharOffset": 70
+    },
+    {
+      "form": "जाऊ,जिसने",
+      "startCharOffset": 71,
+      "endCharOffset": 80
+    },
+    {
+      "form": "आतंकवाद",
+      "startCharOffset": 81,
+      "endCharOffset": 88
+    },
+    {
+      "form": "को",
+      "startCharOffset": 89,
+      "endCharOffset": 91
+    },
+    {
+      "form": "भी",
+      "startCharOffset": 92,
+      "endCharOffset": 94
+    },
+    {
+      "form": "खत्म",
+      "startCharOffset": 95,
+      "endCharOffset": 99
+    },
+    {
+      "form": "करने",
+      "startCharOffset": 100,
+      "endCharOffset": 104
+    },
+    {
+      "form": "का",
+      "startCharOffset": 105,
+      "endCharOffset": 107
+    },
+    {
+      "form": "बीड़ा",
+      "startCharOffset": 108,
+      "endCharOffset": 113
+    },
+    {
+      "form": "उठाया",
+      "startCharOffset": 114,
+      "endCharOffset": 119
+    },
+    {
+      "form": "है",
+      "startCharOffset": 120,
+      "endCharOffset": 122
+    },
+    {
+      "form": "।",
+      "startCharOffset": 122,
+      "endCharOffset": 123
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@SandeepParveen:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "@Gurmeetramrahim",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "#90CrIn6Days",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "us",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "sataguru",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "par",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "balihaarii",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "jaauu,jisane",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "aatamkavaad",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "ko",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "bhii",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "khatma",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "karane",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "kaa",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "biidd\u0027aa",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "utthaayaa",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "hai",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "/",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100FE5",
+  "text": "@nptpv цунами, местами небольшой ураган, кратковременные оползни и ближе к вечеру - извержение вулкана",
+  "tokens": [
+    "@nptpv",
+    "цунами",
+    ",",
+    "местами",
+    "небольшой",
+    "ураган",
+    ",",
+    "кратковременные",
+    "оползни",
+    "и",
+    "ближе",
+    "к",
+    "вечеру",
+    "-",
+    "извержение",
+    "вулкана"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@nptpv",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "цунами",
+      "startCharOffset": 7,
+      "endCharOffset": 13
+    },
+    {
+      "form": ",",
+      "startCharOffset": 13,
+      "endCharOffset": 14
+    },
+    {
+      "form": "местами",
+      "startCharOffset": 15,
+      "endCharOffset": 22
+    },
+    {
+      "form": "небольшой",
+      "startCharOffset": 23,
+      "endCharOffset": 32
+    },
+    {
+      "form": "ураган",
+      "startCharOffset": 33,
+      "endCharOffset": 39
+    },
+    {
+      "form": ",",
+      "startCharOffset": 39,
+      "endCharOffset": 40
+    },
+    {
+      "form": "кратковременные",
+      "startCharOffset": 41,
+      "endCharOffset": 56
+    },
+    {
+      "form": "оползни",
+      "startCharOffset": 57,
+      "endCharOffset": 64
+    },
+    {
+      "form": "и",
+      "startCharOffset": 65,
+      "endCharOffset": 66
+    },
+    {
+      "form": "ближе",
+      "startCharOffset": 67,
+      "endCharOffset": 72
+    },
+    {
+      "form": "к",
+      "startCharOffset": 73,
+      "endCharOffset": 74
+    },
+    {
+      "form": "вечеру",
+      "startCharOffset": 75,
+      "endCharOffset": 81
+    },
+    {
+      "form": "-",
+      "startCharOffset": 82,
+      "endCharOffset": 83
+    },
+    {
+      "form": "извержение",
+      "startCharOffset": 84,
+      "endCharOffset": 94
+    },
+    {
+      "form": "вулкана",
+      "startCharOffset": 95,
+      "endCharOffset": 102
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100EJ3",
+  "text": "Спикер Госдумы РФ возложил цветы к Мемориалу памяти жертв геноцида армян https://t.co/KBTTLcEoix",
+  "tokens": [
+    "Спикер",
+    "Госдумы",
+    "РФ",
+    "возложил",
+    "цветы",
+    "к",
+    "Мемориалу",
+    "памяти",
+    "жертв",
+    "геноцида",
+    "армян",
+    "https://t.co/KBTTLcEoix"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Спикер",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Госдумы",
+      "startCharOffset": 7,
+      "endCharOffset": 14
+    },
+    {
+      "form": "РФ",
+      "startCharOffset": 15,
+      "endCharOffset": 17
+    },
+    {
+      "form": "возложил",
+      "startCharOffset": 18,
+      "endCharOffset": 26
+    },
+    {
+      "form": "цветы",
+      "startCharOffset": 27,
+      "endCharOffset": 32
+    },
+    {
+      "form": "к",
+      "startCharOffset": 33,
+      "endCharOffset": 34
+    },
+    {
+      "form": "Мемориалу",
+      "startCharOffset": 35,
+      "endCharOffset": 44
+    },
+    {
+      "form": "памяти",
+      "startCharOffset": 45,
+      "endCharOffset": 51
+    },
+    {
+      "form": "жертв",
+      "startCharOffset": 52,
+      "endCharOffset": 57
+    },
+    {
+      "form": "геноцида",
+      "startCharOffset": 58,
+      "endCharOffset": 66
+    },
+    {
+      "form": "армян",
+      "startCharOffset": 67,
+      "endCharOffset": 72
+    },
+    {
+      "form": "https://t.co/KBTTLcEoix",
+      "startCharOffset": 73,
+      "endCharOffset": 96
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 3
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 6,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

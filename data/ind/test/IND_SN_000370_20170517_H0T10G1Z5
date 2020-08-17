@@ -1,0 +1,292 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170517_H0T10G1Z5",
+  "text": "Diduga Menghina Nabi Muhammad, Mahasiswa Medan Ini Ditangkap Polisi https://t.co/fiTCL2daQJ",
+  "tokens": [
+    "Diduga",
+    "Menghina",
+    "Nabi",
+    "Muhammad",
+    ",",
+    "Mahasiswa",
+    "Medan",
+    "Ini",
+    "Ditangkap",
+    "Polisi",
+    "https://t.co/fiTCL2daQJ"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Diduga",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Menghina",
+      "startCharOffset": 7,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Nabi",
+      "startCharOffset": 16,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Muhammad",
+      "startCharOffset": 21,
+      "endCharOffset": 29
+    },
+    {
+      "form": ",",
+      "startCharOffset": 29,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Mahasiswa",
+      "startCharOffset": 31,
+      "endCharOffset": 40
+    },
+    {
+      "form": "Medan",
+      "startCharOffset": 41,
+      "endCharOffset": 46
+    },
+    {
+      "form": "Ini",
+      "startCharOffset": 47,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Ditangkap",
+      "startCharOffset": 51,
+      "endCharOffset": 60
+    },
+    {
+      "form": "Polisi",
+      "startCharOffset": 61,
+      "endCharOffset": 67
+    },
+    {
+      "form": "https://t.co/fiTCL2daQJ",
+      "startCharOffset": 68,
+      "endCharOffset": 91
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Diduga",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Menghina",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Nabi",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Muhammad",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Mahasiswa",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Medan",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Ini",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Ditangkap",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Polisi",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/fiTCL2daQJ",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

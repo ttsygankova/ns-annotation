@@ -1,0 +1,376 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170223_H0T10G202",
+  "text": "Dinilai Cacat Hukum, Tim Muzakir Manaf–TA Khalid Aceh Selatan Tolak Hasil Pilkada - https://t.co/wPMLjToVLy https://t.co/i6deX7ebaj",
+  "tokens": [
+    "Dinilai",
+    "Cacat",
+    "Hukum",
+    ",",
+    "Tim",
+    "Muzakir",
+    "Manaf–TA",
+    "Khalid",
+    "Aceh",
+    "Selatan",
+    "Tolak",
+    "Hasil",
+    "Pilkada",
+    "-",
+    "https://t.co/wPMLjToVLy",
+    "https://t.co/i6deX7ebaj"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Dinilai",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "Cacat",
+      "startCharOffset": 8,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Hukum",
+      "startCharOffset": 14,
+      "endCharOffset": 19
+    },
+    {
+      "form": ",",
+      "startCharOffset": 19,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Tim",
+      "startCharOffset": 21,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Muzakir",
+      "startCharOffset": 25,
+      "endCharOffset": 32
+    },
+    {
+      "form": "Manaf–TA",
+      "startCharOffset": 33,
+      "endCharOffset": 41
+    },
+    {
+      "form": "Khalid",
+      "startCharOffset": 42,
+      "endCharOffset": 48
+    },
+    {
+      "form": "Aceh",
+      "startCharOffset": 49,
+      "endCharOffset": 53
+    },
+    {
+      "form": "Selatan",
+      "startCharOffset": 54,
+      "endCharOffset": 61
+    },
+    {
+      "form": "Tolak",
+      "startCharOffset": 62,
+      "endCharOffset": 67
+    },
+    {
+      "form": "Hasil",
+      "startCharOffset": 68,
+      "endCharOffset": 73
+    },
+    {
+      "form": "Pilkada",
+      "startCharOffset": 74,
+      "endCharOffset": 81
+    },
+    {
+      "form": "-",
+      "startCharOffset": 82,
+      "endCharOffset": 83
+    },
+    {
+      "form": "https://t.co/wPMLjToVLy",
+      "startCharOffset": 84,
+      "endCharOffset": 107
+    },
+    {
+      "form": "https://t.co/i6deX7ebaj",
+      "startCharOffset": 108,
+      "endCharOffset": 131
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 4,
+              "end": 8
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Dinilai",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Cacat",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Hukum",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Tim",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Muzakir",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Manaf-TA",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Khalid",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Aceh",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Selatan",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Tolak",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Hasil",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "Pilkada",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "-",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "https://t.co/wPMLjToVLy",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "https://t.co/i6deX7ebaj",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

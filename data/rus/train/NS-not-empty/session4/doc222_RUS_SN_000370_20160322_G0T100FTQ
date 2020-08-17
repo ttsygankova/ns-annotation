@@ -1,0 +1,236 @@
+{
+  "corpusId": "",
+  "id": "doc222_RUS_SN_000370_20160322_G0T100FTQ",
+  "text": "+ взрыв в метро на станции Maalbeek только что ⚠ #brusselsattack https://t.co/IfN4EU7POC",
+  "tokens": [
+    "+",
+    "взрыв",
+    "в",
+    "метро",
+    "на",
+    "станции",
+    "Maalbeek",
+    "только",
+    "что",
+    "⚠",
+    "#brusselsattack",
+    "https://t.co/IfN4EU7POC"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "+",
+      "startCharOffset": 0,
+      "endCharOffset": 1
+    },
+    {
+      "form": "взрыв",
+      "startCharOffset": 2,
+      "endCharOffset": 7
+    },
+    {
+      "form": "в",
+      "startCharOffset": 8,
+      "endCharOffset": 9
+    },
+    {
+      "form": "метро",
+      "startCharOffset": 10,
+      "endCharOffset": 15
+    },
+    {
+      "form": "на",
+      "startCharOffset": 16,
+      "endCharOffset": 18
+    },
+    {
+      "form": "станции",
+      "startCharOffset": 19,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Maalbeek",
+      "startCharOffset": 27,
+      "endCharOffset": 35
+    },
+    {
+      "form": "только",
+      "startCharOffset": 36,
+      "endCharOffset": 42
+    },
+    {
+      "form": "что",
+      "startCharOffset": 43,
+      "endCharOffset": 46
+    },
+    {
+      "form": "⚠",
+      "startCharOffset": 47,
+      "endCharOffset": 48
+    },
+    {
+      "form": "#brusselsattack",
+      "startCharOffset": 49,
+      "endCharOffset": 64
+    },
+    {
+      "form": "https://t.co/IfN4EU7POC",
+      "startCharOffset": 65,
+      "endCharOffset": 88
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 5,
+              "end": 7
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

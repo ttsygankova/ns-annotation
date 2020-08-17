@@ -1,0 +1,429 @@
+{
+  "corpusId": "",
+  "id": "doc149_HIN_SN_000370_20150211_H0T10EB86",
+  "text": "RT @indori_tweets: दोस्तों फ्री की बिजली तो मिलेगी पर वोल्टेज आयेगा ये मेरी ग्यारंटी नही हे ~केजरीवाल #PromiseDay",
+  "tokens": [
+    "RT",
+    "@indori_tweets:",
+    "दोस्तों",
+    "फ्री",
+    "की",
+    "बिजली",
+    "तो",
+    "मिलेगी",
+    "पर",
+    "वोल्टेज",
+    "आयेगा",
+    "ये",
+    "मेरी",
+    "ग्यारंटी",
+    "नही",
+    "हे",
+    "~केजरीवाल",
+    "#PromiseDay"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@indori_tweets:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "दोस्तों",
+      "startCharOffset": 19,
+      "endCharOffset": 26
+    },
+    {
+      "form": "फ्री",
+      "startCharOffset": 27,
+      "endCharOffset": 31
+    },
+    {
+      "form": "की",
+      "startCharOffset": 32,
+      "endCharOffset": 34
+    },
+    {
+      "form": "बिजली",
+      "startCharOffset": 35,
+      "endCharOffset": 40
+    },
+    {
+      "form": "तो",
+      "startCharOffset": 41,
+      "endCharOffset": 43
+    },
+    {
+      "form": "मिलेगी",
+      "startCharOffset": 44,
+      "endCharOffset": 50
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": "वोल्टेज",
+      "startCharOffset": 54,
+      "endCharOffset": 61
+    },
+    {
+      "form": "आयेगा",
+      "startCharOffset": 62,
+      "endCharOffset": 67
+    },
+    {
+      "form": "ये",
+      "startCharOffset": 68,
+      "endCharOffset": 70
+    },
+    {
+      "form": "मेरी",
+      "startCharOffset": 71,
+      "endCharOffset": 75
+    },
+    {
+      "form": "ग्यारंटी",
+      "startCharOffset": 76,
+      "endCharOffset": 84
+    },
+    {
+      "form": "नही",
+      "startCharOffset": 85,
+      "endCharOffset": 88
+    },
+    {
+      "form": "हे",
+      "startCharOffset": 89,
+      "endCharOffset": 91
+    },
+    {
+      "form": "~केजरीवाल",
+      "startCharOffset": 92,
+      "endCharOffset": 101
+    },
+    {
+      "form": "#PromiseDay",
+      "startCharOffset": 102,
+      "endCharOffset": 113
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@indori_tweets:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "dostom",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "phrii",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "kii",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "bijalii",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "to",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "milegii",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "par",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "volttej",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "aayegaa",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "ye",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "merii",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "gyaaramttii",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "nahii",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "he",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "~kejariivaal",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "#PromiseDay",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

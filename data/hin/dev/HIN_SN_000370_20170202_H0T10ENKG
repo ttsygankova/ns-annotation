@@ -1,0 +1,260 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170202_H0T10ENKG",
+  "text": "माओवादियों के बारूदी सुरंग विस्फोट में ओडिशा के सात पुलिसकर्मियों की मौत - ABP News via https://t.co/7acZQsgP5P",
+  "tokens": [
+    "माओवादियों",
+    "के",
+    "बारूदी",
+    "सुरंग",
+    "विस्फोट",
+    "में",
+    "ओडिशा",
+    "के",
+    "सात",
+    "पुलिसकर्मियों",
+    "की",
+    "मौत",
+    "-",
+    "ABP",
+    "News",
+    "via",
+    "https://t.co/7acZQsgP5P"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "माओवादियों",
+      "startCharOffset": 0,
+      "endCharOffset": 10
+    },
+    {
+      "form": "के",
+      "startCharOffset": 11,
+      "endCharOffset": 13
+    },
+    {
+      "form": "बारूदी",
+      "startCharOffset": 14,
+      "endCharOffset": 20
+    },
+    {
+      "form": "सुरंग",
+      "startCharOffset": 21,
+      "endCharOffset": 26
+    },
+    {
+      "form": "विस्फोट",
+      "startCharOffset": 27,
+      "endCharOffset": 34
+    },
+    {
+      "form": "में",
+      "startCharOffset": 35,
+      "endCharOffset": 38
+    },
+    {
+      "form": "ओडिशा",
+      "startCharOffset": 39,
+      "endCharOffset": 44
+    },
+    {
+      "form": "के",
+      "startCharOffset": 45,
+      "endCharOffset": 47
+    },
+    {
+      "form": "सात",
+      "startCharOffset": 48,
+      "endCharOffset": 51
+    },
+    {
+      "form": "पुलिसकर्मियों",
+      "startCharOffset": 52,
+      "endCharOffset": 65
+    },
+    {
+      "form": "की",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "मौत",
+      "startCharOffset": 69,
+      "endCharOffset": 72
+    },
+    {
+      "form": "-",
+      "startCharOffset": 73,
+      "endCharOffset": 74
+    },
+    {
+      "form": "ABP",
+      "startCharOffset": 75,
+      "endCharOffset": 78
+    },
+    {
+      "form": "News",
+      "startCharOffset": 79,
+      "endCharOffset": 83
+    },
+    {
+      "form": "via",
+      "startCharOffset": 84,
+      "endCharOffset": 87
+    },
+    {
+      "form": "https://t.co/7acZQsgP5P",
+      "startCharOffset": 88,
+      "endCharOffset": 111
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 13,
+              "end": 15
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

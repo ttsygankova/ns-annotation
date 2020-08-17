@@ -1,0 +1,381 @@
+{
+  "corpusId": "",
+  "id": "doc144_IND_SN_000370_20161022_H0T10G20W",
+  "text": "Raih Dukungan Terbanyak, Tim AZAN: Dukungan Akan Terus Digalang. Baca: https://t.co/zgUVVzaBYa https://t.co/SYQv2Hx2dC",
+  "tokens": [
+    "Raih",
+    "Dukungan",
+    "Terbanyak",
+    ",",
+    "Tim",
+    "AZAN",
+    ":",
+    "Dukungan",
+    "Akan",
+    "Terus",
+    "Digalang",
+    ".",
+    "Baca",
+    ":",
+    "https://t.co/zgUVVzaBYa",
+    "https://t.co/SYQv2Hx2dC"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Raih",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "Dukungan",
+      "startCharOffset": 5,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Terbanyak",
+      "startCharOffset": 14,
+      "endCharOffset": 23
+    },
+    {
+      "form": ",",
+      "startCharOffset": 23,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Tim",
+      "startCharOffset": 25,
+      "endCharOffset": 28
+    },
+    {
+      "form": "AZAN",
+      "startCharOffset": 29,
+      "endCharOffset": 33
+    },
+    {
+      "form": ":",
+      "startCharOffset": 33,
+      "endCharOffset": 34
+    },
+    {
+      "form": "Dukungan",
+      "startCharOffset": 35,
+      "endCharOffset": 43
+    },
+    {
+      "form": "Akan",
+      "startCharOffset": 44,
+      "endCharOffset": 48
+    },
+    {
+      "form": "Terus",
+      "startCharOffset": 49,
+      "endCharOffset": 54
+    },
+    {
+      "form": "Digalang",
+      "startCharOffset": 55,
+      "endCharOffset": 63
+    },
+    {
+      "form": ".",
+      "startCharOffset": 63,
+      "endCharOffset": 64
+    },
+    {
+      "form": "Baca",
+      "startCharOffset": 65,
+      "endCharOffset": 69
+    },
+    {
+      "form": ":",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "https://t.co/zgUVVzaBYa",
+      "startCharOffset": 71,
+      "endCharOffset": 94
+    },
+    {
+      "form": "https://t.co/SYQv2Hx2dC",
+      "startCharOffset": 95,
+      "endCharOffset": 118
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 4,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Raih",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Dukungan",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Terbanyak",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Tim",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "AZAN",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Dukungan",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Akan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Terus",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Digalang",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "Baca",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "https://t.co/zgUVVzaBYa",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "https://t.co/SYQv2Hx2dC",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

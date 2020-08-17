@@ -1,0 +1,296 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160321_G0T100JSA",
+  "text": "@naganoff_ru Жертвы СОВЕТСКОГО ОБРАЗА ЖИЗНИ издеваются над такими же жертвами. Это в порядке традиций. Жертвы всегда агрессивны.",
+  "tokens": [
+    "@naganoff_ru",
+    "Жертвы",
+    "СОВЕТСКОГО",
+    "ОБРАЗА",
+    "ЖИЗНИ",
+    "издеваются",
+    "над",
+    "такими",
+    "же",
+    "жертвами",
+    ".",
+    "Это",
+    "в",
+    "порядке",
+    "традиций",
+    ".",
+    "Жертвы",
+    "всегда",
+    "агрессивны",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@naganoff_ru",
+      "startCharOffset": 0,
+      "endCharOffset": 12
+    },
+    {
+      "form": "Жертвы",
+      "startCharOffset": 13,
+      "endCharOffset": 19
+    },
+    {
+      "form": "СОВЕТСКОГО",
+      "startCharOffset": 20,
+      "endCharOffset": 30
+    },
+    {
+      "form": "ОБРАЗА",
+      "startCharOffset": 31,
+      "endCharOffset": 37
+    },
+    {
+      "form": "ЖИЗНИ",
+      "startCharOffset": 38,
+      "endCharOffset": 43
+    },
+    {
+      "form": "издеваются",
+      "startCharOffset": 44,
+      "endCharOffset": 54
+    },
+    {
+      "form": "над",
+      "startCharOffset": 55,
+      "endCharOffset": 58
+    },
+    {
+      "form": "такими",
+      "startCharOffset": 59,
+      "endCharOffset": 65
+    },
+    {
+      "form": "же",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "жертвами",
+      "startCharOffset": 69,
+      "endCharOffset": 77
+    },
+    {
+      "form": ".",
+      "startCharOffset": 77,
+      "endCharOffset": 78
+    },
+    {
+      "form": "Это",
+      "startCharOffset": 79,
+      "endCharOffset": 82
+    },
+    {
+      "form": "в",
+      "startCharOffset": 83,
+      "endCharOffset": 84
+    },
+    {
+      "form": "порядке",
+      "startCharOffset": 85,
+      "endCharOffset": 92
+    },
+    {
+      "form": "традиций",
+      "startCharOffset": 93,
+      "endCharOffset": 101
+    },
+    {
+      "form": ".",
+      "startCharOffset": 101,
+      "endCharOffset": 102
+    },
+    {
+      "form": "Жертвы",
+      "startCharOffset": 103,
+      "endCharOffset": 109
+    },
+    {
+      "form": "всегда",
+      "startCharOffset": 110,
+      "endCharOffset": 116
+    },
+    {
+      "form": "агрессивны",
+      "startCharOffset": 117,
+      "endCharOffset": 127
+    },
+    {
+      "form": ".",
+      "startCharOffset": 127,
+      "endCharOffset": 128
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      20
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

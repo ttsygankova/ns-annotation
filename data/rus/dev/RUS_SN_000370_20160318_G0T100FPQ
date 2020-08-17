@@ -1,0 +1,350 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160318_G0T100FPQ",
+  "text": "Землетрясение магнитудой 3,3 зафиксировано в 9.28 мск 18 марта на севере озера Байкал в Бурятии, сообщает \"Интерфакс\" со ссылкой на…",
+  "tokens": [
+    "Землетрясение",
+    "магнитудой",
+    "3,3",
+    "зафиксировано",
+    "в",
+    "9.28",
+    "мск",
+    "18",
+    "марта",
+    "на",
+    "севере",
+    "озера",
+    "Байкал",
+    "в",
+    "Бурятии",
+    ",",
+    "сообщает",
+    "\"",
+    "Интерфакс",
+    "\"",
+    "со",
+    "ссылкой",
+    "на",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Землетрясение",
+      "startCharOffset": 0,
+      "endCharOffset": 13
+    },
+    {
+      "form": "магнитудой",
+      "startCharOffset": 14,
+      "endCharOffset": 24
+    },
+    {
+      "form": "3,3",
+      "startCharOffset": 25,
+      "endCharOffset": 28
+    },
+    {
+      "form": "зафиксировано",
+      "startCharOffset": 29,
+      "endCharOffset": 42
+    },
+    {
+      "form": "в",
+      "startCharOffset": 43,
+      "endCharOffset": 44
+    },
+    {
+      "form": "9.28",
+      "startCharOffset": 45,
+      "endCharOffset": 49
+    },
+    {
+      "form": "мск",
+      "startCharOffset": 50,
+      "endCharOffset": 53
+    },
+    {
+      "form": "18",
+      "startCharOffset": 54,
+      "endCharOffset": 56
+    },
+    {
+      "form": "марта",
+      "startCharOffset": 57,
+      "endCharOffset": 62
+    },
+    {
+      "form": "на",
+      "startCharOffset": 63,
+      "endCharOffset": 65
+    },
+    {
+      "form": "севере",
+      "startCharOffset": 66,
+      "endCharOffset": 72
+    },
+    {
+      "form": "озера",
+      "startCharOffset": 73,
+      "endCharOffset": 78
+    },
+    {
+      "form": "Байкал",
+      "startCharOffset": 79,
+      "endCharOffset": 85
+    },
+    {
+      "form": "в",
+      "startCharOffset": 86,
+      "endCharOffset": 87
+    },
+    {
+      "form": "Бурятии",
+      "startCharOffset": 88,
+      "endCharOffset": 95
+    },
+    {
+      "form": ",",
+      "startCharOffset": 95,
+      "endCharOffset": 96
+    },
+    {
+      "form": "сообщает",
+      "startCharOffset": 97,
+      "endCharOffset": 105
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 106,
+      "endCharOffset": 107
+    },
+    {
+      "form": "Интерфакс",
+      "startCharOffset": 107,
+      "endCharOffset": 116
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 116,
+      "endCharOffset": 117
+    },
+    {
+      "form": "со",
+      "startCharOffset": 118,
+      "endCharOffset": 120
+    },
+    {
+      "form": "ссылкой",
+      "startCharOffset": 121,
+      "endCharOffset": 128
+    },
+    {
+      "form": "на",
+      "startCharOffset": 129,
+      "endCharOffset": 131
+    },
+    {
+      "form": "…",
+      "startCharOffset": 131,
+      "endCharOffset": 132
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      24
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 11,
+              "end": 13
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

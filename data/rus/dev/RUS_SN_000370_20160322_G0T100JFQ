@@ -1,0 +1,206 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160322_G0T100JFQ",
+  "text": "@meduzaproject Взрыв и заклинило рули? Второй взрыв при ударе о землю?",
+  "tokens": [
+    "@meduzaproject",
+    "Взрыв",
+    "и",
+    "заклинило",
+    "рули",
+    "?",
+    "Второй",
+    "взрыв",
+    "при",
+    "ударе",
+    "о",
+    "землю",
+    "?"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@meduzaproject",
+      "startCharOffset": 0,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Взрыв",
+      "startCharOffset": 15,
+      "endCharOffset": 20
+    },
+    {
+      "form": "и",
+      "startCharOffset": 21,
+      "endCharOffset": 22
+    },
+    {
+      "form": "заклинило",
+      "startCharOffset": 23,
+      "endCharOffset": 32
+    },
+    {
+      "form": "рули",
+      "startCharOffset": 33,
+      "endCharOffset": 37
+    },
+    {
+      "form": "?",
+      "startCharOffset": 37,
+      "endCharOffset": 38
+    },
+    {
+      "form": "Второй",
+      "startCharOffset": 39,
+      "endCharOffset": 45
+    },
+    {
+      "form": "взрыв",
+      "startCharOffset": 46,
+      "endCharOffset": 51
+    },
+    {
+      "form": "при",
+      "startCharOffset": 52,
+      "endCharOffset": 55
+    },
+    {
+      "form": "ударе",
+      "startCharOffset": 56,
+      "endCharOffset": 61
+    },
+    {
+      "form": "о",
+      "startCharOffset": 62,
+      "endCharOffset": 63
+    },
+    {
+      "form": "землю",
+      "startCharOffset": 64,
+      "endCharOffset": 69
+    },
+    {
+      "form": "?",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

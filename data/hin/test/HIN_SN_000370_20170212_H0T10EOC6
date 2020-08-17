@@ -1,0 +1,260 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170212_H0T10EOC6",
+  "text": "RT @ZeeNewsHindi: रूद्रप्रयाग में भूकंप का झटका, सप्ताह भर में तीसरी बार आए भूकंप https://t.co/lrBXpnLNZa https://t.co/dpo2APbAHR",
+  "tokens": [
+    "RT",
+    "@ZeeNewsHindi:",
+    "रूद्रप्रयाग",
+    "में",
+    "भूकंप",
+    "का",
+    "झटका",
+    ",",
+    "सप्ताह",
+    "भर",
+    "में",
+    "तीसरी",
+    "बार",
+    "आए",
+    "भूकंप",
+    "https://t.co/lrBXpnLNZa",
+    "https://t.co/dpo2APbAHR"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@ZeeNewsHindi:",
+      "startCharOffset": 3,
+      "endCharOffset": 17
+    },
+    {
+      "form": "रूद्रप्रयाग",
+      "startCharOffset": 18,
+      "endCharOffset": 29
+    },
+    {
+      "form": "में",
+      "startCharOffset": 30,
+      "endCharOffset": 33
+    },
+    {
+      "form": "भूकंप",
+      "startCharOffset": 34,
+      "endCharOffset": 39
+    },
+    {
+      "form": "का",
+      "startCharOffset": 40,
+      "endCharOffset": 42
+    },
+    {
+      "form": "झटका",
+      "startCharOffset": 43,
+      "endCharOffset": 47
+    },
+    {
+      "form": ",",
+      "startCharOffset": 47,
+      "endCharOffset": 48
+    },
+    {
+      "form": "सप्ताह",
+      "startCharOffset": 49,
+      "endCharOffset": 55
+    },
+    {
+      "form": "भर",
+      "startCharOffset": 56,
+      "endCharOffset": 58
+    },
+    {
+      "form": "में",
+      "startCharOffset": 59,
+      "endCharOffset": 62
+    },
+    {
+      "form": "तीसरी",
+      "startCharOffset": 63,
+      "endCharOffset": 68
+    },
+    {
+      "form": "बार",
+      "startCharOffset": 69,
+      "endCharOffset": 72
+    },
+    {
+      "form": "आए",
+      "startCharOffset": 73,
+      "endCharOffset": 75
+    },
+    {
+      "form": "भूकंप",
+      "startCharOffset": 76,
+      "endCharOffset": 81
+    },
+    {
+      "form": "https://t.co/lrBXpnLNZa",
+      "startCharOffset": 82,
+      "endCharOffset": 105
+    },
+    {
+      "form": "https://t.co/dpo2APbAHR",
+      "startCharOffset": 106,
+      "endCharOffset": 129
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

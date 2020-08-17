@@ -1,0 +1,358 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170227_H0T10EUWP",
+  "text": "Kronologis Ledakan Bom Panci di Cicendo, Bandung #Bandung #BomBandung #PelakuTerorBom #TerorBom #Cicendo https://t.co/JUJkumcl3D",
+  "tokens": [
+    "Kronologis",
+    "Ledakan",
+    "Bom",
+    "Panci",
+    "di",
+    "Cicendo",
+    ",",
+    "Bandung",
+    "#Bandung",
+    "#BomBandung",
+    "#PelakuTerorBom",
+    "#TerorBom",
+    "#Cicendo",
+    "https://t.co/JUJkumcl3D"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Kronologis",
+      "startCharOffset": 0,
+      "endCharOffset": 10
+    },
+    {
+      "form": "Ledakan",
+      "startCharOffset": 11,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Bom",
+      "startCharOffset": 19,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Panci",
+      "startCharOffset": 23,
+      "endCharOffset": 28
+    },
+    {
+      "form": "di",
+      "startCharOffset": 29,
+      "endCharOffset": 31
+    },
+    {
+      "form": "Cicendo",
+      "startCharOffset": 32,
+      "endCharOffset": 39
+    },
+    {
+      "form": ",",
+      "startCharOffset": 39,
+      "endCharOffset": 40
+    },
+    {
+      "form": "Bandung",
+      "startCharOffset": 41,
+      "endCharOffset": 48
+    },
+    {
+      "form": "#Bandung",
+      "startCharOffset": 49,
+      "endCharOffset": 57
+    },
+    {
+      "form": "#BomBandung",
+      "startCharOffset": 58,
+      "endCharOffset": 69
+    },
+    {
+      "form": "#PelakuTerorBom",
+      "startCharOffset": 70,
+      "endCharOffset": 85
+    },
+    {
+      "form": "#TerorBom",
+      "startCharOffset": 86,
+      "endCharOffset": 95
+    },
+    {
+      "form": "#Cicendo",
+      "startCharOffset": 96,
+      "endCharOffset": 104
+    },
+    {
+      "form": "https://t.co/JUJkumcl3D",
+      "startCharOffset": 105,
+      "endCharOffset": 128
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Kronologis",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Ledakan",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Bom",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Panci",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Cicendo",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Bandung",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "#Bandung",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "#BomBandung",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "#PelakuTerorBom",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "#TerorBom",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "#Cicendo",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "https://t.co/JUJkumcl3D",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

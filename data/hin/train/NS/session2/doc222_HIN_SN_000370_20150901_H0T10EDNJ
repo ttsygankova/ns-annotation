@@ -1,0 +1,483 @@
+{
+  "corpusId": "",
+  "id": "doc222_HIN_SN_000370_20150901_H0T10EDNJ",
+  "text": "वाशिंगटन #IndiraGandhi ने बनाया था पाक के परमाणु अड्डों पर हमले का प्लान.CI के सार्वजनिक किए गए दस्तावेज में दावा.",
+  "tokens": [
+    "वाशिंगटन",
+    "#IndiraGandhi",
+    "ने",
+    "बनाया",
+    "था",
+    "पाक",
+    "के",
+    "परमाणु",
+    "अड्डों",
+    "पर",
+    "हमले",
+    "का",
+    "प्लान.CI",
+    "के",
+    "सार्वजनिक",
+    "किए",
+    "गए",
+    "दस्तावेज",
+    "में",
+    "दावा",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "वाशिंगटन",
+      "startCharOffset": 0,
+      "endCharOffset": 8
+    },
+    {
+      "form": "#IndiraGandhi",
+      "startCharOffset": 9,
+      "endCharOffset": 22
+    },
+    {
+      "form": "ने",
+      "startCharOffset": 23,
+      "endCharOffset": 25
+    },
+    {
+      "form": "बनाया",
+      "startCharOffset": 26,
+      "endCharOffset": 31
+    },
+    {
+      "form": "था",
+      "startCharOffset": 32,
+      "endCharOffset": 34
+    },
+    {
+      "form": "पाक",
+      "startCharOffset": 35,
+      "endCharOffset": 38
+    },
+    {
+      "form": "के",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    },
+    {
+      "form": "परमाणु",
+      "startCharOffset": 42,
+      "endCharOffset": 48
+    },
+    {
+      "form": "अड्डों",
+      "startCharOffset": 49,
+      "endCharOffset": 55
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 56,
+      "endCharOffset": 58
+    },
+    {
+      "form": "हमले",
+      "startCharOffset": 59,
+      "endCharOffset": 63
+    },
+    {
+      "form": "का",
+      "startCharOffset": 64,
+      "endCharOffset": 66
+    },
+    {
+      "form": "प्लान.CI",
+      "startCharOffset": 67,
+      "endCharOffset": 75
+    },
+    {
+      "form": "के",
+      "startCharOffset": 76,
+      "endCharOffset": 78
+    },
+    {
+      "form": "सार्वजनिक",
+      "startCharOffset": 79,
+      "endCharOffset": 88
+    },
+    {
+      "form": "किए",
+      "startCharOffset": 89,
+      "endCharOffset": 92
+    },
+    {
+      "form": "गए",
+      "startCharOffset": 93,
+      "endCharOffset": 95
+    },
+    {
+      "form": "दस्तावेज",
+      "startCharOffset": 96,
+      "endCharOffset": 104
+    },
+    {
+      "form": "में",
+      "startCharOffset": 105,
+      "endCharOffset": 108
+    },
+    {
+      "form": "दावा",
+      "startCharOffset": 109,
+      "endCharOffset": 113
+    },
+    {
+      "form": ".",
+      "startCharOffset": 113,
+      "endCharOffset": 114
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "vaashimgattan",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "#IndiraGandhi",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ne",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "banaayaa",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "thaa",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "paak",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "paramaannu",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "addddom",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "par",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "hamale",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "kaa",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "plaan.CI",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "saarvajanik",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "kie",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "gae",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "dastaavej",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "mem",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "daavaa",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "corpusId": "",
+  "id": "doc111_RUS_SN_000370_20160316_G0T100EHA",
+  "text": "RT @adagamov: В Саратове на месте кладбища, где похоронены погибшие от холеры в XIX в, собираются построить 26-этажный жилой дом https://t.…",
+  "tokens": [
+    "RT",
+    "@adagamov:",
+    "В",
+    "Саратове",
+    "на",
+    "месте",
+    "кладбища",
+    ",",
+    "где",
+    "похоронены",
+    "погибшие",
+    "от",
+    "холеры",
+    "в",
+    "XIX",
+    "в",
+    ",",
+    "собираются",
+    "построить",
+    "26-этажный",
+    "жилой",
+    "дом",
+    "https://t.…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@adagamov:",
+      "startCharOffset": 3,
+      "endCharOffset": 13
+    },
+    {
+      "form": "В",
+      "startCharOffset": 14,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Саратове",
+      "startCharOffset": 16,
+      "endCharOffset": 24
+    },
+    {
+      "form": "на",
+      "startCharOffset": 25,
+      "endCharOffset": 27
+    },
+    {
+      "form": "месте",
+      "startCharOffset": 28,
+      "endCharOffset": 33
+    },
+    {
+      "form": "кладбища",
+      "startCharOffset": 34,
+      "endCharOffset": 42
+    },
+    {
+      "form": ",",
+      "startCharOffset": 42,
+      "endCharOffset": 43
+    },
+    {
+      "form": "где",
+      "startCharOffset": 44,
+      "endCharOffset": 47
+    },
+    {
+      "form": "похоронены",
+      "startCharOffset": 48,
+      "endCharOffset": 58
+    },
+    {
+      "form": "погибшие",
+      "startCharOffset": 59,
+      "endCharOffset": 67
+    },
+    {
+      "form": "от",
+      "startCharOffset": 68,
+      "endCharOffset": 70
+    },
+    {
+      "form": "холеры",
+      "startCharOffset": 71,
+      "endCharOffset": 77
+    },
+    {
+      "form": "в",
+      "startCharOffset": 78,
+      "endCharOffset": 79
+    },
+    {
+      "form": "XIX",
+      "startCharOffset": 80,
+      "endCharOffset": 83
+    },
+    {
+      "form": "в",
+      "startCharOffset": 84,
+      "endCharOffset": 85
+    },
+    {
+      "form": ",",
+      "startCharOffset": 85,
+      "endCharOffset": 86
+    },
+    {
+      "form": "собираются",
+      "startCharOffset": 87,
+      "endCharOffset": 97
+    },
+    {
+      "form": "построить",
+      "startCharOffset": 98,
+      "endCharOffset": 107
+    },
+    {
+      "form": "26-этажный",
+      "startCharOffset": 108,
+      "endCharOffset": 118
+    },
+    {
+      "form": "жилой",
+      "startCharOffset": 119,
+      "endCharOffset": 124
+    },
+    {
+      "form": "дом",
+      "startCharOffset": 125,
+      "endCharOffset": 128
+    },
+    {
+      "form": "https://t.…",
+      "startCharOffset": 129,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      23
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

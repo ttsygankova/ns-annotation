@@ -1,0 +1,248 @@
+{
+  "corpusId": "",
+  "id": "doc186_RUS_SN_000370_20160317_G0T100FN1",
+  "text": "#новости Паводок будет особо сильным: затопление центра Новокузнецка может повториться https://t.co/DxTfhyL3Ag #новокузнецк",
+  "tokens": [
+    "#новости",
+    "Паводок",
+    "будет",
+    "особо",
+    "сильным",
+    ":",
+    "затопление",
+    "центра",
+    "Новокузнецка",
+    "может",
+    "повториться",
+    "https://t.co/DxTfhyL3Ag",
+    "#новокузнецк"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#новости",
+      "startCharOffset": 0,
+      "endCharOffset": 8
+    },
+    {
+      "form": "Паводок",
+      "startCharOffset": 9,
+      "endCharOffset": 16
+    },
+    {
+      "form": "будет",
+      "startCharOffset": 17,
+      "endCharOffset": 22
+    },
+    {
+      "form": "особо",
+      "startCharOffset": 23,
+      "endCharOffset": 28
+    },
+    {
+      "form": "сильным",
+      "startCharOffset": 29,
+      "endCharOffset": 36
+    },
+    {
+      "form": ":",
+      "startCharOffset": 36,
+      "endCharOffset": 37
+    },
+    {
+      "form": "затопление",
+      "startCharOffset": 38,
+      "endCharOffset": 48
+    },
+    {
+      "form": "центра",
+      "startCharOffset": 49,
+      "endCharOffset": 55
+    },
+    {
+      "form": "Новокузнецка",
+      "startCharOffset": 56,
+      "endCharOffset": 68
+    },
+    {
+      "form": "может",
+      "startCharOffset": 69,
+      "endCharOffset": 74
+    },
+    {
+      "form": "повториться",
+      "startCharOffset": 75,
+      "endCharOffset": 86
+    },
+    {
+      "form": "https://t.co/DxTfhyL3Ag",
+      "startCharOffset": 87,
+      "endCharOffset": 110
+    },
+    {
+      "form": "#новокузнецк",
+      "startCharOffset": 111,
+      "endCharOffset": 123
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

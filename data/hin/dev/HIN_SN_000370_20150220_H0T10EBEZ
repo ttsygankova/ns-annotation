@@ -1,0 +1,332 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150220_H0T10EBEZ",
+  "text": "RT @gops333: केंद्रीय मंत्री का बेटा होने की योग्यता ने बनाया सुप्रीमकोर्ट का वकील शिवराज सरकार का एक और कारनामा #ResignShivraj http://t.co…",
+  "tokens": [
+    "RT",
+    "@gops333:",
+    "केंद्रीय",
+    "मंत्री",
+    "का",
+    "बेटा",
+    "होने",
+    "की",
+    "योग्यता",
+    "ने",
+    "बनाया",
+    "सुप्रीमकोर्ट",
+    "का",
+    "वकील",
+    "शिवराज",
+    "सरकार",
+    "का",
+    "एक",
+    "और",
+    "कारनामा",
+    "#ResignShivraj",
+    "http://t.co…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@gops333:",
+      "startCharOffset": 3,
+      "endCharOffset": 12
+    },
+    {
+      "form": "केंद्रीय",
+      "startCharOffset": 13,
+      "endCharOffset": 21
+    },
+    {
+      "form": "मंत्री",
+      "startCharOffset": 22,
+      "endCharOffset": 28
+    },
+    {
+      "form": "का",
+      "startCharOffset": 29,
+      "endCharOffset": 31
+    },
+    {
+      "form": "बेटा",
+      "startCharOffset": 32,
+      "endCharOffset": 36
+    },
+    {
+      "form": "होने",
+      "startCharOffset": 37,
+      "endCharOffset": 41
+    },
+    {
+      "form": "की",
+      "startCharOffset": 42,
+      "endCharOffset": 44
+    },
+    {
+      "form": "योग्यता",
+      "startCharOffset": 45,
+      "endCharOffset": 52
+    },
+    {
+      "form": "ने",
+      "startCharOffset": 53,
+      "endCharOffset": 55
+    },
+    {
+      "form": "बनाया",
+      "startCharOffset": 56,
+      "endCharOffset": 61
+    },
+    {
+      "form": "सुप्रीमकोर्ट",
+      "startCharOffset": 62,
+      "endCharOffset": 74
+    },
+    {
+      "form": "का",
+      "startCharOffset": 75,
+      "endCharOffset": 77
+    },
+    {
+      "form": "वकील",
+      "startCharOffset": 78,
+      "endCharOffset": 82
+    },
+    {
+      "form": "शिवराज",
+      "startCharOffset": 83,
+      "endCharOffset": 89
+    },
+    {
+      "form": "सरकार",
+      "startCharOffset": 90,
+      "endCharOffset": 95
+    },
+    {
+      "form": "का",
+      "startCharOffset": 96,
+      "endCharOffset": 98
+    },
+    {
+      "form": "एक",
+      "startCharOffset": 99,
+      "endCharOffset": 101
+    },
+    {
+      "form": "और",
+      "startCharOffset": 102,
+      "endCharOffset": 104
+    },
+    {
+      "form": "कारनामा",
+      "startCharOffset": 105,
+      "endCharOffset": 112
+    },
+    {
+      "form": "#ResignShivraj",
+      "startCharOffset": 113,
+      "endCharOffset": 127
+    },
+    {
+      "form": "http://t.co…",
+      "startCharOffset": 128,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      22
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

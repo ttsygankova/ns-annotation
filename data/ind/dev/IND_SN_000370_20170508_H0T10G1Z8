@@ -1,0 +1,322 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170508_H0T10G1Z8",
+  "text": "Massa Alumni 212 ‘Kawal’ Sidang Vonis Ahok Besok https://t.co/c5sOgfg6gz lewat @Mercinews",
+  "tokens": [
+    "Massa",
+    "Alumni",
+    "212",
+    "‘",
+    "Kawal",
+    "’",
+    "Sidang",
+    "Vonis",
+    "Ahok",
+    "Besok",
+    "https://t.co/c5sOgfg6gz",
+    "lewat",
+    "@Mercinews"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Massa",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "Alumni",
+      "startCharOffset": 6,
+      "endCharOffset": 12
+    },
+    {
+      "form": "212",
+      "startCharOffset": 13,
+      "endCharOffset": 16
+    },
+    {
+      "form": "‘",
+      "startCharOffset": 17,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Kawal",
+      "startCharOffset": 18,
+      "endCharOffset": 23
+    },
+    {
+      "form": "’",
+      "startCharOffset": 23,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Sidang",
+      "startCharOffset": 25,
+      "endCharOffset": 31
+    },
+    {
+      "form": "Vonis",
+      "startCharOffset": 32,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Ahok",
+      "startCharOffset": 38,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Besok",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "https://t.co/c5sOgfg6gz",
+      "startCharOffset": 49,
+      "endCharOffset": 72
+    },
+    {
+      "form": "lewat",
+      "startCharOffset": 73,
+      "endCharOffset": 78
+    },
+    {
+      "form": "@Mercinews",
+      "startCharOffset": 79,
+      "endCharOffset": 89
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 3
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Massa",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Alumni",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "212",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "\u0027",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Kawal",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "\u0027",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Sidang",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Vonis",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Ahok",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Besok",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/c5sOgfg6gz",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "lewat",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "@Mercinews",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

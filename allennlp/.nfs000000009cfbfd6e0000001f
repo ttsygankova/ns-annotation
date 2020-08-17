@@ -1,0 +1,7 @@
+CONFIG_FILE=configs/ner-il11bert.jsonnet
+
+export NER_TRAIN_DATA_PATH=/mnt/macniece/experiment_tmp/mayhew/lorelei/evaluation-2019/il11/ner/exp-stuff/all-dense-train
+export NER_TEST_A_PATH=/mnt/macniece/experiment_tmp/mayhew/lorelei/evaluation-2019/il11/ner/Dev1
+export NER_TEST_B_PATH=/mnt/macniece/experiment_tmp/mayhew/lorelei/evaluation-2019/il11/ner/Dev1
+
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/eval2019/all-dense --include-package ccg

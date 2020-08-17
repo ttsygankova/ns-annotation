@@ -1,0 +1,392 @@
+{
+  "corpusId": "",
+  "id": "doc229_RUS_SN_000370_20160324_G0T100FQT",
+  "text": "RT @RussiansForward: Закат открытой Европы Какие политические последствия будет иметь теракт в Брюсселе? В среду, 23 марта, Госдепар... h…",
+  "tokens": [
+    "RT",
+    "@RussiansForward:",
+    "Закат",
+    "открытой",
+    "Европы",
+    "Какие",
+    "политические",
+    "последствия",
+    "будет",
+    "иметь",
+    "теракт",
+    "в",
+    "Брюсселе",
+    "?",
+    "В",
+    "среду",
+    ",",
+    "23",
+    "марта",
+    ",",
+    "Госдепар",
+    "...",
+    "h",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@RussiansForward:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Закат",
+      "startCharOffset": 21,
+      "endCharOffset": 26
+    },
+    {
+      "form": "открытой",
+      "startCharOffset": 27,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Европы",
+      "startCharOffset": 36,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Какие",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "политические",
+      "startCharOffset": 49,
+      "endCharOffset": 61
+    },
+    {
+      "form": "последствия",
+      "startCharOffset": 62,
+      "endCharOffset": 73
+    },
+    {
+      "form": "будет",
+      "startCharOffset": 74,
+      "endCharOffset": 79
+    },
+    {
+      "form": "иметь",
+      "startCharOffset": 80,
+      "endCharOffset": 85
+    },
+    {
+      "form": "теракт",
+      "startCharOffset": 86,
+      "endCharOffset": 92
+    },
+    {
+      "form": "в",
+      "startCharOffset": 93,
+      "endCharOffset": 94
+    },
+    {
+      "form": "Брюсселе",
+      "startCharOffset": 95,
+      "endCharOffset": 103
+    },
+    {
+      "form": "?",
+      "startCharOffset": 103,
+      "endCharOffset": 104
+    },
+    {
+      "form": "В",
+      "startCharOffset": 105,
+      "endCharOffset": 106
+    },
+    {
+      "form": "среду",
+      "startCharOffset": 107,
+      "endCharOffset": 112
+    },
+    {
+      "form": ",",
+      "startCharOffset": 112,
+      "endCharOffset": 113
+    },
+    {
+      "form": "23",
+      "startCharOffset": 114,
+      "endCharOffset": 116
+    },
+    {
+      "form": "марта",
+      "startCharOffset": 117,
+      "endCharOffset": 122
+    },
+    {
+      "form": ",",
+      "startCharOffset": 122,
+      "endCharOffset": 123
+    },
+    {
+      "form": "Госдепар",
+      "startCharOffset": 124,
+      "endCharOffset": 132
+    },
+    {
+      "form": "...",
+      "startCharOffset": 132,
+      "endCharOffset": 135
+    },
+    {
+      "form": "h",
+      "startCharOffset": 136,
+      "endCharOffset": 137
+    },
+    {
+      "form": "…",
+      "startCharOffset": 137,
+      "endCharOffset": 138
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      24
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

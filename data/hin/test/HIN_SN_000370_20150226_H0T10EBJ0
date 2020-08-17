@@ -1,0 +1,296 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150226_H0T10EBJ0",
+  "text": "क्या यात्रियों के लिए अच्छे दिन आएंगे? क्या है #प्रभुकीरेल में? देखें लाइव हिंदी में http://t.co/4wjDCb2XjP @sureshpprabhu #आजतक",
+  "tokens": [
+    "क्या",
+    "यात्रियों",
+    "के",
+    "लिए",
+    "अच्छे",
+    "दिन",
+    "आएंगे",
+    "?",
+    "क्या",
+    "है",
+    "#प्रभुकीरेल",
+    "में",
+    "?",
+    "देखें",
+    "लाइव",
+    "हिंदी",
+    "में",
+    "http://t.co/4wjDCb2XjP",
+    "@sureshpprabhu",
+    "#आजतक"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "क्या",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "यात्रियों",
+      "startCharOffset": 5,
+      "endCharOffset": 14
+    },
+    {
+      "form": "के",
+      "startCharOffset": 15,
+      "endCharOffset": 17
+    },
+    {
+      "form": "लिए",
+      "startCharOffset": 18,
+      "endCharOffset": 21
+    },
+    {
+      "form": "अच्छे",
+      "startCharOffset": 22,
+      "endCharOffset": 27
+    },
+    {
+      "form": "दिन",
+      "startCharOffset": 28,
+      "endCharOffset": 31
+    },
+    {
+      "form": "आएंगे",
+      "startCharOffset": 32,
+      "endCharOffset": 37
+    },
+    {
+      "form": "?",
+      "startCharOffset": 37,
+      "endCharOffset": 38
+    },
+    {
+      "form": "क्या",
+      "startCharOffset": 39,
+      "endCharOffset": 43
+    },
+    {
+      "form": "है",
+      "startCharOffset": 44,
+      "endCharOffset": 46
+    },
+    {
+      "form": "#प्रभुकीरेल",
+      "startCharOffset": 47,
+      "endCharOffset": 58
+    },
+    {
+      "form": "में",
+      "startCharOffset": 59,
+      "endCharOffset": 62
+    },
+    {
+      "form": "?",
+      "startCharOffset": 62,
+      "endCharOffset": 63
+    },
+    {
+      "form": "देखें",
+      "startCharOffset": 64,
+      "endCharOffset": 69
+    },
+    {
+      "form": "लाइव",
+      "startCharOffset": 70,
+      "endCharOffset": 74
+    },
+    {
+      "form": "हिंदी",
+      "startCharOffset": 75,
+      "endCharOffset": 80
+    },
+    {
+      "form": "में",
+      "startCharOffset": 81,
+      "endCharOffset": 84
+    },
+    {
+      "form": "http://t.co/4wjDCb2XjP",
+      "startCharOffset": 85,
+      "endCharOffset": 107
+    },
+    {
+      "form": "@sureshpprabhu",
+      "startCharOffset": 108,
+      "endCharOffset": 122
+    },
+    {
+      "form": "#आजतक",
+      "startCharOffset": 123,
+      "endCharOffset": 128
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      20
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

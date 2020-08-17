@@ -1,0 +1,376 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170227_H0T10EXGX",
+  "text": "Perayaan Cap Go Meh 2017, Promosikan Waduk Pluit Sebagai Destinasi Wisata https://t.co/TCxqhCv4yK via @globalnews_17 @cheka306",
+  "tokens": [
+    "Perayaan",
+    "Cap",
+    "Go",
+    "Meh",
+    "2017",
+    ",",
+    "Promosikan",
+    "Waduk",
+    "Pluit",
+    "Sebagai",
+    "Destinasi",
+    "Wisata",
+    "https://t.co/TCxqhCv4yK",
+    "via",
+    "@globalnews_17",
+    "@cheka306"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Perayaan",
+      "startCharOffset": 0,
+      "endCharOffset": 8
+    },
+    {
+      "form": "Cap",
+      "startCharOffset": 9,
+      "endCharOffset": 12
+    },
+    {
+      "form": "Go",
+      "startCharOffset": 13,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Meh",
+      "startCharOffset": 16,
+      "endCharOffset": 19
+    },
+    {
+      "form": "2017",
+      "startCharOffset": 20,
+      "endCharOffset": 24
+    },
+    {
+      "form": ",",
+      "startCharOffset": 24,
+      "endCharOffset": 25
+    },
+    {
+      "form": "Promosikan",
+      "startCharOffset": 26,
+      "endCharOffset": 36
+    },
+    {
+      "form": "Waduk",
+      "startCharOffset": 37,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Pluit",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "Sebagai",
+      "startCharOffset": 49,
+      "endCharOffset": 56
+    },
+    {
+      "form": "Destinasi",
+      "startCharOffset": 57,
+      "endCharOffset": 66
+    },
+    {
+      "form": "Wisata",
+      "startCharOffset": 67,
+      "endCharOffset": 73
+    },
+    {
+      "form": "https://t.co/TCxqhCv4yK",
+      "startCharOffset": 74,
+      "endCharOffset": 97
+    },
+    {
+      "form": "via",
+      "startCharOffset": 98,
+      "endCharOffset": 101
+    },
+    {
+      "form": "@globalnews_17",
+      "startCharOffset": 102,
+      "endCharOffset": 116
+    },
+    {
+      "form": "@cheka306",
+      "startCharOffset": 117,
+      "endCharOffset": 126
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 7,
+              "end": 9
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Perayaan",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Cap",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Go",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Meh",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "2017",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Promosikan",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Waduk",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Pluit",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Sebagai",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Destinasi",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Wisata",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "https://t.co/TCxqhCv4yK",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "via",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "@globalnews_17",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "@cheka306",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

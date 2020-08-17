@@ -1,0 +1,2141 @@
+{
+  "corpusId": "",
+  "id": "doc224_RUS_NW_000575_20151120_G0022DCRI",
+  "text": "ВОЗ: Cмертельный вирус Эбола вернулся в Либерию  В Либерии мальчик десяти лет заразился вирусом Эбола . Это первый случай заражения смертельным вирусом, зафиксированный за последние месяцы после прекращения эпидемии в этой стране, сообщает Всемирная организация здравоохранения. Скворцова: Исследование российской вакцины от Эболы проходит успешно Больной ребенок в настоящее время находится под карантином в больнице близ Монровии. Врачи также следят за состоянием здоровья людей, до сих пор взаимодействовавших с мальчиком. Не исключено, что он заразился от кого-то из взрослых. Напомним, что 17 ноября СМИ сообщили о том, что последний пациент в Гвинее, заразившийся лихорадкой Эбола, выздоровел и был выписан из лечебного центра. Считалось, что Эбола уже побеждена. Вспышка смертельной лихорадки Эбола была зафиксирована в феврале 2014 года в Гвинее, затем вирус распространился на соседние Сьерра-Леоне и Либерию. Из-за этого вируса в этих странах погибли более 11 тысяч человек из более чем 28 тысяч заразившихся.",
+  "tokens": [
+    "ВОЗ",
+    ":",
+    "Cмертельный",
+    "вирус",
+    "Эбола",
+    "вернулся",
+    "в",
+    "Либерию",
+    "В",
+    "Либерии",
+    "мальчик",
+    "десяти",
+    "лет",
+    "заразился",
+    "вирусом",
+    "Эбола",
+    ".",
+    "Это",
+    "первый",
+    "случай",
+    "заражения",
+    "смертельным",
+    "вирусом",
+    ",",
+    "зафиксированный",
+    "за",
+    "последние",
+    "месяцы",
+    "после",
+    "прекращения",
+    "эпидемии",
+    "в",
+    "этой",
+    "стране",
+    ",",
+    "сообщает",
+    "Всемирная",
+    "организация",
+    "здравоохранения",
+    ".",
+    "Скворцова",
+    ":",
+    "Исследование",
+    "российской",
+    "вакцины",
+    "от",
+    "Эболы",
+    "проходит",
+    "успешно",
+    "Больной",
+    "ребенок",
+    "в",
+    "настоящее",
+    "время",
+    "находится",
+    "под",
+    "карантином",
+    "в",
+    "больнице",
+    "близ",
+    "Монровии",
+    ".",
+    "Врачи",
+    "также",
+    "следят",
+    "за",
+    "состоянием",
+    "здоровья",
+    "людей",
+    ",",
+    "до",
+    "сих",
+    "пор",
+    "взаимодействовавших",
+    "с",
+    "мальчиком",
+    ".",
+    "Не",
+    "исключено",
+    ",",
+    "что",
+    "он",
+    "заразился",
+    "от",
+    "кого-то",
+    "из",
+    "взрослых",
+    ".",
+    "Напомним",
+    ",",
+    "что",
+    "17",
+    "ноября",
+    "СМИ",
+    "сообщили",
+    "о",
+    "том",
+    ",",
+    "что",
+    "последний",
+    "пациент",
+    "в",
+    "Гвинее",
+    ",",
+    "заразившийся",
+    "лихорадкой",
+    "Эбола",
+    ",",
+    "выздоровел",
+    "и",
+    "был",
+    "выписан",
+    "из",
+    "лечебного",
+    "центра",
+    ".",
+    "Считалось",
+    ",",
+    "что",
+    "Эбола",
+    "уже",
+    "побеждена",
+    ".",
+    "Вспышка",
+    "смертельной",
+    "лихорадки",
+    "Эбола",
+    "была",
+    "зафиксирована",
+    "в",
+    "феврале",
+    "2014",
+    "года",
+    "в",
+    "Гвинее",
+    ",",
+    "затем",
+    "вирус",
+    "распространился",
+    "на",
+    "соседние",
+    "Сьерра-Леоне",
+    "и",
+    "Либерию",
+    ".",
+    "Из-за",
+    "этого",
+    "вируса",
+    "в",
+    "этих",
+    "странах",
+    "погибли",
+    "более",
+    "11",
+    "тысяч",
+    "человек",
+    "из",
+    "более",
+    "чем",
+    "28",
+    "тысяч",
+    "заразившихся",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "ВОЗ",
+      "startCharOffset": 0,
+      "endCharOffset": 3
+    },
+    {
+      "form": ":",
+      "startCharOffset": 3,
+      "endCharOffset": 4
+    },
+    {
+      "form": "Cмертельный",
+      "startCharOffset": 5,
+      "endCharOffset": 16
+    },
+    {
+      "form": "вирус",
+      "startCharOffset": 17,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Эбола",
+      "startCharOffset": 23,
+      "endCharOffset": 28
+    },
+    {
+      "form": "вернулся",
+      "startCharOffset": 29,
+      "endCharOffset": 37
+    },
+    {
+      "form": "в",
+      "startCharOffset": 38,
+      "endCharOffset": 39
+    },
+    {
+      "form": "Либерию",
+      "startCharOffset": 40,
+      "endCharOffset": 47
+    },
+    {
+      "form": "В",
+      "startCharOffset": 49,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Либерии",
+      "startCharOffset": 51,
+      "endCharOffset": 58
+    },
+    {
+      "form": "мальчик",
+      "startCharOffset": 59,
+      "endCharOffset": 66
+    },
+    {
+      "form": "десяти",
+      "startCharOffset": 67,
+      "endCharOffset": 73
+    },
+    {
+      "form": "лет",
+      "startCharOffset": 74,
+      "endCharOffset": 77
+    },
+    {
+      "form": "заразился",
+      "startCharOffset": 78,
+      "endCharOffset": 87
+    },
+    {
+      "form": "вирусом",
+      "startCharOffset": 88,
+      "endCharOffset": 95
+    },
+    {
+      "form": "Эбола",
+      "startCharOffset": 96,
+      "endCharOffset": 101
+    },
+    {
+      "form": ".",
+      "startCharOffset": 102,
+      "endCharOffset": 103
+    },
+    {
+      "form": "Это",
+      "startCharOffset": 104,
+      "endCharOffset": 107
+    },
+    {
+      "form": "первый",
+      "startCharOffset": 108,
+      "endCharOffset": 114
+    },
+    {
+      "form": "случай",
+      "startCharOffset": 115,
+      "endCharOffset": 121
+    },
+    {
+      "form": "заражения",
+      "startCharOffset": 122,
+      "endCharOffset": 131
+    },
+    {
+      "form": "смертельным",
+      "startCharOffset": 132,
+      "endCharOffset": 143
+    },
+    {
+      "form": "вирусом",
+      "startCharOffset": 144,
+      "endCharOffset": 151
+    },
+    {
+      "form": ",",
+      "startCharOffset": 151,
+      "endCharOffset": 152
+    },
+    {
+      "form": "зафиксированный",
+      "startCharOffset": 153,
+      "endCharOffset": 168
+    },
+    {
+      "form": "за",
+      "startCharOffset": 169,
+      "endCharOffset": 171
+    },
+    {
+      "form": "последние",
+      "startCharOffset": 172,
+      "endCharOffset": 181
+    },
+    {
+      "form": "месяцы",
+      "startCharOffset": 182,
+      "endCharOffset": 188
+    },
+    {
+      "form": "после",
+      "startCharOffset": 189,
+      "endCharOffset": 194
+    },
+    {
+      "form": "прекращения",
+      "startCharOffset": 195,
+      "endCharOffset": 206
+    },
+    {
+      "form": "эпидемии",
+      "startCharOffset": 207,
+      "endCharOffset": 215
+    },
+    {
+      "form": "в",
+      "startCharOffset": 216,
+      "endCharOffset": 217
+    },
+    {
+      "form": "этой",
+      "startCharOffset": 218,
+      "endCharOffset": 222
+    },
+    {
+      "form": "стране",
+      "startCharOffset": 223,
+      "endCharOffset": 229
+    },
+    {
+      "form": ",",
+      "startCharOffset": 229,
+      "endCharOffset": 230
+    },
+    {
+      "form": "сообщает",
+      "startCharOffset": 231,
+      "endCharOffset": 239
+    },
+    {
+      "form": "Всемирная",
+      "startCharOffset": 240,
+      "endCharOffset": 249
+    },
+    {
+      "form": "организация",
+      "startCharOffset": 250,
+      "endCharOffset": 261
+    },
+    {
+      "form": "здравоохранения",
+      "startCharOffset": 262,
+      "endCharOffset": 277
+    },
+    {
+      "form": ".",
+      "startCharOffset": 277,
+      "endCharOffset": 278
+    },
+    {
+      "form": "Скворцова",
+      "startCharOffset": 279,
+      "endCharOffset": 288
+    },
+    {
+      "form": ":",
+      "startCharOffset": 288,
+      "endCharOffset": 289
+    },
+    {
+      "form": "Исследование",
+      "startCharOffset": 290,
+      "endCharOffset": 302
+    },
+    {
+      "form": "российской",
+      "startCharOffset": 303,
+      "endCharOffset": 313
+    },
+    {
+      "form": "вакцины",
+      "startCharOffset": 314,
+      "endCharOffset": 321
+    },
+    {
+      "form": "от",
+      "startCharOffset": 322,
+      "endCharOffset": 324
+    },
+    {
+      "form": "Эболы",
+      "startCharOffset": 325,
+      "endCharOffset": 330
+    },
+    {
+      "form": "проходит",
+      "startCharOffset": 331,
+      "endCharOffset": 339
+    },
+    {
+      "form": "успешно",
+      "startCharOffset": 340,
+      "endCharOffset": 347
+    },
+    {
+      "form": "Больной",
+      "startCharOffset": 348,
+      "endCharOffset": 355
+    },
+    {
+      "form": "ребенок",
+      "startCharOffset": 356,
+      "endCharOffset": 363
+    },
+    {
+      "form": "в",
+      "startCharOffset": 364,
+      "endCharOffset": 365
+    },
+    {
+      "form": "настоящее",
+      "startCharOffset": 366,
+      "endCharOffset": 375
+    },
+    {
+      "form": "время",
+      "startCharOffset": 376,
+      "endCharOffset": 381
+    },
+    {
+      "form": "находится",
+      "startCharOffset": 382,
+      "endCharOffset": 391
+    },
+    {
+      "form": "под",
+      "startCharOffset": 392,
+      "endCharOffset": 395
+    },
+    {
+      "form": "карантином",
+      "startCharOffset": 396,
+      "endCharOffset": 406
+    },
+    {
+      "form": "в",
+      "startCharOffset": 407,
+      "endCharOffset": 408
+    },
+    {
+      "form": "больнице",
+      "startCharOffset": 409,
+      "endCharOffset": 417
+    },
+    {
+      "form": "близ",
+      "startCharOffset": 418,
+      "endCharOffset": 422
+    },
+    {
+      "form": "Монровии",
+      "startCharOffset": 423,
+      "endCharOffset": 431
+    },
+    {
+      "form": ".",
+      "startCharOffset": 431,
+      "endCharOffset": 432
+    },
+    {
+      "form": "Врачи",
+      "startCharOffset": 433,
+      "endCharOffset": 438
+    },
+    {
+      "form": "также",
+      "startCharOffset": 439,
+      "endCharOffset": 444
+    },
+    {
+      "form": "следят",
+      "startCharOffset": 445,
+      "endCharOffset": 451
+    },
+    {
+      "form": "за",
+      "startCharOffset": 452,
+      "endCharOffset": 454
+    },
+    {
+      "form": "состоянием",
+      "startCharOffset": 455,
+      "endCharOffset": 465
+    },
+    {
+      "form": "здоровья",
+      "startCharOffset": 466,
+      "endCharOffset": 474
+    },
+    {
+      "form": "людей",
+      "startCharOffset": 475,
+      "endCharOffset": 480
+    },
+    {
+      "form": ",",
+      "startCharOffset": 480,
+      "endCharOffset": 481
+    },
+    {
+      "form": "до",
+      "startCharOffset": 482,
+      "endCharOffset": 484
+    },
+    {
+      "form": "сих",
+      "startCharOffset": 485,
+      "endCharOffset": 488
+    },
+    {
+      "form": "пор",
+      "startCharOffset": 489,
+      "endCharOffset": 492
+    },
+    {
+      "form": "взаимодействовавших",
+      "startCharOffset": 493,
+      "endCharOffset": 512
+    },
+    {
+      "form": "с",
+      "startCharOffset": 513,
+      "endCharOffset": 514
+    },
+    {
+      "form": "мальчиком",
+      "startCharOffset": 515,
+      "endCharOffset": 524
+    },
+    {
+      "form": ".",
+      "startCharOffset": 524,
+      "endCharOffset": 525
+    },
+    {
+      "form": "Не",
+      "startCharOffset": 526,
+      "endCharOffset": 528
+    },
+    {
+      "form": "исключено",
+      "startCharOffset": 529,
+      "endCharOffset": 538
+    },
+    {
+      "form": ",",
+      "startCharOffset": 538,
+      "endCharOffset": 539
+    },
+    {
+      "form": "что",
+      "startCharOffset": 540,
+      "endCharOffset": 543
+    },
+    {
+      "form": "он",
+      "startCharOffset": 544,
+      "endCharOffset": 546
+    },
+    {
+      "form": "заразился",
+      "startCharOffset": 547,
+      "endCharOffset": 556
+    },
+    {
+      "form": "от",
+      "startCharOffset": 557,
+      "endCharOffset": 559
+    },
+    {
+      "form": "кого-то",
+      "startCharOffset": 560,
+      "endCharOffset": 567
+    },
+    {
+      "form": "из",
+      "startCharOffset": 568,
+      "endCharOffset": 570
+    },
+    {
+      "form": "взрослых",
+      "startCharOffset": 571,
+      "endCharOffset": 579
+    },
+    {
+      "form": ".",
+      "startCharOffset": 579,
+      "endCharOffset": 580
+    },
+    {
+      "form": "Напомним",
+      "startCharOffset": 581,
+      "endCharOffset": 589
+    },
+    {
+      "form": ",",
+      "startCharOffset": 589,
+      "endCharOffset": 590
+    },
+    {
+      "form": "что",
+      "startCharOffset": 591,
+      "endCharOffset": 594
+    },
+    {
+      "form": "17",
+      "startCharOffset": 595,
+      "endCharOffset": 597
+    },
+    {
+      "form": "ноября",
+      "startCharOffset": 598,
+      "endCharOffset": 604
+    },
+    {
+      "form": "СМИ",
+      "startCharOffset": 605,
+      "endCharOffset": 608
+    },
+    {
+      "form": "сообщили",
+      "startCharOffset": 609,
+      "endCharOffset": 617
+    },
+    {
+      "form": "о",
+      "startCharOffset": 618,
+      "endCharOffset": 619
+    },
+    {
+      "form": "том",
+      "startCharOffset": 620,
+      "endCharOffset": 623
+    },
+    {
+      "form": ",",
+      "startCharOffset": 623,
+      "endCharOffset": 624
+    },
+    {
+      "form": "что",
+      "startCharOffset": 625,
+      "endCharOffset": 628
+    },
+    {
+      "form": "последний",
+      "startCharOffset": 629,
+      "endCharOffset": 638
+    },
+    {
+      "form": "пациент",
+      "startCharOffset": 639,
+      "endCharOffset": 646
+    },
+    {
+      "form": "в",
+      "startCharOffset": 647,
+      "endCharOffset": 648
+    },
+    {
+      "form": "Гвинее",
+      "startCharOffset": 649,
+      "endCharOffset": 655
+    },
+    {
+      "form": ",",
+      "startCharOffset": 655,
+      "endCharOffset": 656
+    },
+    {
+      "form": "заразившийся",
+      "startCharOffset": 657,
+      "endCharOffset": 669
+    },
+    {
+      "form": "лихорадкой",
+      "startCharOffset": 670,
+      "endCharOffset": 680
+    },
+    {
+      "form": "Эбола",
+      "startCharOffset": 681,
+      "endCharOffset": 686
+    },
+    {
+      "form": ",",
+      "startCharOffset": 686,
+      "endCharOffset": 687
+    },
+    {
+      "form": "выздоровел",
+      "startCharOffset": 688,
+      "endCharOffset": 698
+    },
+    {
+      "form": "и",
+      "startCharOffset": 699,
+      "endCharOffset": 700
+    },
+    {
+      "form": "был",
+      "startCharOffset": 701,
+      "endCharOffset": 704
+    },
+    {
+      "form": "выписан",
+      "startCharOffset": 705,
+      "endCharOffset": 712
+    },
+    {
+      "form": "из",
+      "startCharOffset": 713,
+      "endCharOffset": 715
+    },
+    {
+      "form": "лечебного",
+      "startCharOffset": 716,
+      "endCharOffset": 725
+    },
+    {
+      "form": "центра",
+      "startCharOffset": 726,
+      "endCharOffset": 732
+    },
+    {
+      "form": ".",
+      "startCharOffset": 732,
+      "endCharOffset": 733
+    },
+    {
+      "form": "Считалось",
+      "startCharOffset": 734,
+      "endCharOffset": 743
+    },
+    {
+      "form": ",",
+      "startCharOffset": 743,
+      "endCharOffset": 744
+    },
+    {
+      "form": "что",
+      "startCharOffset": 745,
+      "endCharOffset": 748
+    },
+    {
+      "form": "Эбола",
+      "startCharOffset": 749,
+      "endCharOffset": 754
+    },
+    {
+      "form": "уже",
+      "startCharOffset": 755,
+      "endCharOffset": 758
+    },
+    {
+      "form": "побеждена",
+      "startCharOffset": 759,
+      "endCharOffset": 768
+    },
+    {
+      "form": ".",
+      "startCharOffset": 768,
+      "endCharOffset": 769
+    },
+    {
+      "form": "Вспышка",
+      "startCharOffset": 770,
+      "endCharOffset": 777
+    },
+    {
+      "form": "смертельной",
+      "startCharOffset": 778,
+      "endCharOffset": 789
+    },
+    {
+      "form": "лихорадки",
+      "startCharOffset": 790,
+      "endCharOffset": 799
+    },
+    {
+      "form": "Эбола",
+      "startCharOffset": 800,
+      "endCharOffset": 805
+    },
+    {
+      "form": "была",
+      "startCharOffset": 806,
+      "endCharOffset": 810
+    },
+    {
+      "form": "зафиксирована",
+      "startCharOffset": 811,
+      "endCharOffset": 824
+    },
+    {
+      "form": "в",
+      "startCharOffset": 825,
+      "endCharOffset": 826
+    },
+    {
+      "form": "феврале",
+      "startCharOffset": 827,
+      "endCharOffset": 834
+    },
+    {
+      "form": "2014",
+      "startCharOffset": 835,
+      "endCharOffset": 839
+    },
+    {
+      "form": "года",
+      "startCharOffset": 840,
+      "endCharOffset": 844
+    },
+    {
+      "form": "в",
+      "startCharOffset": 845,
+      "endCharOffset": 846
+    },
+    {
+      "form": "Гвинее",
+      "startCharOffset": 847,
+      "endCharOffset": 853
+    },
+    {
+      "form": ",",
+      "startCharOffset": 853,
+      "endCharOffset": 854
+    },
+    {
+      "form": "затем",
+      "startCharOffset": 855,
+      "endCharOffset": 860
+    },
+    {
+      "form": "вирус",
+      "startCharOffset": 861,
+      "endCharOffset": 866
+    },
+    {
+      "form": "распространился",
+      "startCharOffset": 867,
+      "endCharOffset": 882
+    },
+    {
+      "form": "на",
+      "startCharOffset": 883,
+      "endCharOffset": 885
+    },
+    {
+      "form": "соседние",
+      "startCharOffset": 886,
+      "endCharOffset": 894
+    },
+    {
+      "form": "Сьерра-Леоне",
+      "startCharOffset": 895,
+      "endCharOffset": 907
+    },
+    {
+      "form": "и",
+      "startCharOffset": 908,
+      "endCharOffset": 909
+    },
+    {
+      "form": "Либерию",
+      "startCharOffset": 910,
+      "endCharOffset": 917
+    },
+    {
+      "form": ".",
+      "startCharOffset": 917,
+      "endCharOffset": 918
+    },
+    {
+      "form": "Из-за",
+      "startCharOffset": 919,
+      "endCharOffset": 924
+    },
+    {
+      "form": "этого",
+      "startCharOffset": 925,
+      "endCharOffset": 930
+    },
+    {
+      "form": "вируса",
+      "startCharOffset": 931,
+      "endCharOffset": 937
+    },
+    {
+      "form": "в",
+      "startCharOffset": 938,
+      "endCharOffset": 939
+    },
+    {
+      "form": "этих",
+      "startCharOffset": 940,
+      "endCharOffset": 944
+    },
+    {
+      "form": "странах",
+      "startCharOffset": 945,
+      "endCharOffset": 952
+    },
+    {
+      "form": "погибли",
+      "startCharOffset": 953,
+      "endCharOffset": 960
+    },
+    {
+      "form": "более",
+      "startCharOffset": 961,
+      "endCharOffset": 966
+    },
+    {
+      "form": "11",
+      "startCharOffset": 967,
+      "endCharOffset": 969
+    },
+    {
+      "form": "тысяч",
+      "startCharOffset": 970,
+      "endCharOffset": 975
+    },
+    {
+      "form": "человек",
+      "startCharOffset": 976,
+      "endCharOffset": 983
+    },
+    {
+      "form": "из",
+      "startCharOffset": 984,
+      "endCharOffset": 986
+    },
+    {
+      "form": "более",
+      "startCharOffset": 987,
+      "endCharOffset": 992
+    },
+    {
+      "form": "чем",
+      "startCharOffset": 993,
+      "endCharOffset": 996
+    },
+    {
+      "form": "28",
+      "startCharOffset": 997,
+      "endCharOffset": 999
+    },
+    {
+      "form": "тысяч",
+      "startCharOffset": 1000,
+      "endCharOffset": 1005
+    },
+    {
+      "form": "заразившихся",
+      "startCharOffset": 1006,
+      "endCharOffset": 1018
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1018,
+      "endCharOffset": 1019
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      8,
+      17,
+      40,
+      62,
+      77,
+      88,
+      116,
+      123,
+      145,
+      163
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 36,
+              "end": 39
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

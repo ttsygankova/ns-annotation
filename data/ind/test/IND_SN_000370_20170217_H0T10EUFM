@@ -1,0 +1,562 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170217_H0T10EUFM",
+  "text": "RT @kurawa: Gue janji deh kalo akhir 2020 jakarta masih banjir walau alasan banjir kiriman, kita bareng2 bully ahok yah? Makanya kasih kese…",
+  "tokens": [
+    "RT",
+    "@kurawa:",
+    "Gue",
+    "janji",
+    "deh",
+    "kalo",
+    "akhir",
+    "2020",
+    "jakarta",
+    "masih",
+    "banjir",
+    "walau",
+    "alasan",
+    "banjir",
+    "kiriman",
+    ",",
+    "kita",
+    "bareng2",
+    "bully",
+    "ahok",
+    "yah",
+    "?",
+    "Makanya",
+    "kasih",
+    "kese",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@kurawa:",
+      "startCharOffset": 3,
+      "endCharOffset": 11
+    },
+    {
+      "form": "Gue",
+      "startCharOffset": 12,
+      "endCharOffset": 15
+    },
+    {
+      "form": "janji",
+      "startCharOffset": 16,
+      "endCharOffset": 21
+    },
+    {
+      "form": "deh",
+      "startCharOffset": 22,
+      "endCharOffset": 25
+    },
+    {
+      "form": "kalo",
+      "startCharOffset": 26,
+      "endCharOffset": 30
+    },
+    {
+      "form": "akhir",
+      "startCharOffset": 31,
+      "endCharOffset": 36
+    },
+    {
+      "form": "2020",
+      "startCharOffset": 37,
+      "endCharOffset": 41
+    },
+    {
+      "form": "jakarta",
+      "startCharOffset": 42,
+      "endCharOffset": 49
+    },
+    {
+      "form": "masih",
+      "startCharOffset": 50,
+      "endCharOffset": 55
+    },
+    {
+      "form": "banjir",
+      "startCharOffset": 56,
+      "endCharOffset": 62
+    },
+    {
+      "form": "walau",
+      "startCharOffset": 63,
+      "endCharOffset": 68
+    },
+    {
+      "form": "alasan",
+      "startCharOffset": 69,
+      "endCharOffset": 75
+    },
+    {
+      "form": "banjir",
+      "startCharOffset": 76,
+      "endCharOffset": 82
+    },
+    {
+      "form": "kiriman",
+      "startCharOffset": 83,
+      "endCharOffset": 90
+    },
+    {
+      "form": ",",
+      "startCharOffset": 90,
+      "endCharOffset": 91
+    },
+    {
+      "form": "kita",
+      "startCharOffset": 92,
+      "endCharOffset": 96
+    },
+    {
+      "form": "bareng2",
+      "startCharOffset": 97,
+      "endCharOffset": 104
+    },
+    {
+      "form": "bully",
+      "startCharOffset": 105,
+      "endCharOffset": 110
+    },
+    {
+      "form": "ahok",
+      "startCharOffset": 111,
+      "endCharOffset": 115
+    },
+    {
+      "form": "yah",
+      "startCharOffset": 116,
+      "endCharOffset": 119
+    },
+    {
+      "form": "?",
+      "startCharOffset": 119,
+      "endCharOffset": 120
+    },
+    {
+      "form": "Makanya",
+      "startCharOffset": 121,
+      "endCharOffset": 128
+    },
+    {
+      "form": "kasih",
+      "startCharOffset": 129,
+      "endCharOffset": 134
+    },
+    {
+      "form": "kese",
+      "startCharOffset": 135,
+      "endCharOffset": 139
+    },
+    {
+      "form": "…",
+      "startCharOffset": 139,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      26
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@kurawa:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Gue",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "janji",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "deh",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "kalo",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "akhir",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "2020",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "jakarta",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "masih",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "banjir",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "walau",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "alasan",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "banjir",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "kiriman",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "kita",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "bareng2",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "bully",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "ahok",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "yah",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "?",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "Makanya",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "kasih",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "kese",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

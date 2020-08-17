@@ -1,0 +1,346 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170225_H0T10EUT0",
+  "text": "RT @Metro_TV: KBRI Sebut Belum Ada Indikasi Siti Aisyah Terpapar Racun VX https://t.co/xUHlwgCwlV https://t.co/lKv1N78Dmw",
+  "tokens": [
+    "RT",
+    "@Metro_TV:",
+    "KBRI",
+    "Sebut",
+    "Belum",
+    "Ada",
+    "Indikasi",
+    "Siti",
+    "Aisyah",
+    "Terpapar",
+    "Racun",
+    "VX",
+    "https://t.co/xUHlwgCwlV",
+    "https://t.co/lKv1N78Dmw"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@Metro_TV:",
+      "startCharOffset": 3,
+      "endCharOffset": 13
+    },
+    {
+      "form": "KBRI",
+      "startCharOffset": 14,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Sebut",
+      "startCharOffset": 19,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Belum",
+      "startCharOffset": 25,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Ada",
+      "startCharOffset": 31,
+      "endCharOffset": 34
+    },
+    {
+      "form": "Indikasi",
+      "startCharOffset": 35,
+      "endCharOffset": 43
+    },
+    {
+      "form": "Siti",
+      "startCharOffset": 44,
+      "endCharOffset": 48
+    },
+    {
+      "form": "Aisyah",
+      "startCharOffset": 49,
+      "endCharOffset": 55
+    },
+    {
+      "form": "Terpapar",
+      "startCharOffset": 56,
+      "endCharOffset": 64
+    },
+    {
+      "form": "Racun",
+      "startCharOffset": 65,
+      "endCharOffset": 70
+    },
+    {
+      "form": "VX",
+      "startCharOffset": 71,
+      "endCharOffset": 73
+    },
+    {
+      "form": "https://t.co/xUHlwgCwlV",
+      "startCharOffset": 74,
+      "endCharOffset": 97
+    },
+    {
+      "form": "https://t.co/lKv1N78Dmw",
+      "startCharOffset": 98,
+      "endCharOffset": 121
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 7,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@Metro_TV:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "KBRI",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Sebut",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Belum",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Ada",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Indikasi",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Siti",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Aisyah",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Terpapar",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Racun",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "VX",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "https://t.co/xUHlwgCwlV",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "https://t.co/lKv1N78Dmw",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

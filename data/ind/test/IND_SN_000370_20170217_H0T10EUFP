@@ -1,0 +1,280 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170217_H0T10EUFP",
+  "text": "Jadi Korban Hoax, Mark Hamill Dikabarkan Meninggal Dunia https://t.co/fv41C6kJ55 #nyewstainment",
+  "tokens": [
+    "Jadi",
+    "Korban",
+    "Hoax",
+    ",",
+    "Mark",
+    "Hamill",
+    "Dikabarkan",
+    "Meninggal",
+    "Dunia",
+    "https://t.co/fv41C6kJ55",
+    "#nyewstainment"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Jadi",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "Korban",
+      "startCharOffset": 5,
+      "endCharOffset": 11
+    },
+    {
+      "form": "Hoax",
+      "startCharOffset": 12,
+      "endCharOffset": 16
+    },
+    {
+      "form": ",",
+      "startCharOffset": 16,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Mark",
+      "startCharOffset": 18,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Hamill",
+      "startCharOffset": 23,
+      "endCharOffset": 29
+    },
+    {
+      "form": "Dikabarkan",
+      "startCharOffset": 30,
+      "endCharOffset": 40
+    },
+    {
+      "form": "Meninggal",
+      "startCharOffset": 41,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Dunia",
+      "startCharOffset": 51,
+      "endCharOffset": 56
+    },
+    {
+      "form": "https://t.co/fv41C6kJ55",
+      "startCharOffset": 57,
+      "endCharOffset": 80
+    },
+    {
+      "form": "#nyewstainment",
+      "startCharOffset": 81,
+      "endCharOffset": 95
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 4,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Jadi",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Korban",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Hoax",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Mark",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Hamill",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Dikabarkan",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Meninggal",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Dunia",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "https://t.co/fv41C6kJ55",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "#nyewstainment",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

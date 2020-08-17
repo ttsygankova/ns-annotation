@@ -1,0 +1,478 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170220_H0T10G204",
+  "text": "Sofyan Dawood: Terima Ikhlas Hasil Pilkada Banda Aceh - Mantan juru bicara GAM, Sofyan Dawood meminta semua... https://t.co/hM7I9eXDRd",
+  "tokens": [
+    "Sofyan",
+    "Dawood",
+    ":",
+    "Terima",
+    "Ikhlas",
+    "Hasil",
+    "Pilkada",
+    "Banda",
+    "Aceh",
+    "-",
+    "Mantan",
+    "juru",
+    "bicara",
+    "GAM",
+    ",",
+    "Sofyan",
+    "Dawood",
+    "meminta",
+    "semua",
+    "...",
+    "https://t.co/hM7I9eXDRd"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Sofyan",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Dawood",
+      "startCharOffset": 7,
+      "endCharOffset": 13
+    },
+    {
+      "form": ":",
+      "startCharOffset": 13,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Terima",
+      "startCharOffset": 15,
+      "endCharOffset": 21
+    },
+    {
+      "form": "Ikhlas",
+      "startCharOffset": 22,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Hasil",
+      "startCharOffset": 29,
+      "endCharOffset": 34
+    },
+    {
+      "form": "Pilkada",
+      "startCharOffset": 35,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Banda",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "Aceh",
+      "startCharOffset": 49,
+      "endCharOffset": 53
+    },
+    {
+      "form": "-",
+      "startCharOffset": 54,
+      "endCharOffset": 55
+    },
+    {
+      "form": "Mantan",
+      "startCharOffset": 56,
+      "endCharOffset": 62
+    },
+    {
+      "form": "juru",
+      "startCharOffset": 63,
+      "endCharOffset": 67
+    },
+    {
+      "form": "bicara",
+      "startCharOffset": 68,
+      "endCharOffset": 74
+    },
+    {
+      "form": "GAM",
+      "startCharOffset": 75,
+      "endCharOffset": 78
+    },
+    {
+      "form": ",",
+      "startCharOffset": 78,
+      "endCharOffset": 79
+    },
+    {
+      "form": "Sofyan",
+      "startCharOffset": 80,
+      "endCharOffset": 86
+    },
+    {
+      "form": "Dawood",
+      "startCharOffset": 87,
+      "endCharOffset": 93
+    },
+    {
+      "form": "meminta",
+      "startCharOffset": 94,
+      "endCharOffset": 101
+    },
+    {
+      "form": "semua",
+      "startCharOffset": 102,
+      "endCharOffset": 107
+    },
+    {
+      "form": "...",
+      "startCharOffset": 107,
+      "endCharOffset": 110
+    },
+    {
+      "form": "https://t.co/hM7I9eXDRd",
+      "startCharOffset": 111,
+      "endCharOffset": 134
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 9
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 15,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Sofyan",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Dawood",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Terima",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Ikhlas",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Hasil",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Pilkada",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Banda",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Aceh",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "-",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Mantan",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "juru",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "bicara",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "GAM",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "Sofyan",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "Dawood",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "meminta",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "semua",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "https://t.co/hM7I9eXDRd",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+TRAINING_DIR=/scratch/mayhew/annotation_exp/training_data
+CONFIG_FILE=configs/ner-rus.jsonnet
+
+RUS_TEST_A=/mnt/castor/seas_home/t/ttasya/lorelei-2019/rus-dev-gold
+RUS_TEST_B=/mnt/castor/seas_home/t/ttasya/lorelei-2019/rus-test-gold
+TAM_TEST_A=/mnt/castor/seas_home/t/ttasya/lorelei-2019/tam-dev-gold
+TAM_TEST_B=/mnt/castor/seas_home/t/ttasya/lorelei-2019/tam-test-gold
+
+export RANDOM_SEED=5
+
+export NER_TEST_A_PATH=$RUS_TEST_A
+export NER_TEST_B_PATH=$RUS_TEST_B
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model1-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model1 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model2-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model2 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model3-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model3 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model4-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model4 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model5-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model5 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model6-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model7-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model7 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model8-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model8 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model9-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model9 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model10-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model10 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model11-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model11 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model12-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model12 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model13-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model13 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model14-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model14 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model15-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model15 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model16-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model16 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model17-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model17 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model18-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model18 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model19-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model19 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expA/model20-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expA-model20 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expB/model2-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expB-model2 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expC/model1-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expC-model1 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$TRAINING_DIR/rus/expD/model2-data
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/new_embeddings/rus-expD-model2 --include-package ccg

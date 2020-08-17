@@ -1,0 +1,158 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160318_G0T100IZ7",
+  "text": "В Кузбассе паводок начнется раньше положенного срока: https://t.co/ffsyvZIbZF",
+  "tokens": [
+    "В",
+    "Кузбассе",
+    "паводок",
+    "начнется",
+    "раньше",
+    "положенного",
+    "срока",
+    ":",
+    "https://t.co/ffsyvZIbZF"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "В",
+      "startCharOffset": 0,
+      "endCharOffset": 1
+    },
+    {
+      "form": "Кузбассе",
+      "startCharOffset": 2,
+      "endCharOffset": 10
+    },
+    {
+      "form": "паводок",
+      "startCharOffset": 11,
+      "endCharOffset": 18
+    },
+    {
+      "form": "начнется",
+      "startCharOffset": 19,
+      "endCharOffset": 27
+    },
+    {
+      "form": "раньше",
+      "startCharOffset": 28,
+      "endCharOffset": 34
+    },
+    {
+      "form": "положенного",
+      "startCharOffset": 35,
+      "endCharOffset": 46
+    },
+    {
+      "form": "срока",
+      "startCharOffset": 47,
+      "endCharOffset": 52
+    },
+    {
+      "form": ":",
+      "startCharOffset": 52,
+      "endCharOffset": 53
+    },
+    {
+      "form": "https://t.co/ffsyvZIbZF",
+      "startCharOffset": 54,
+      "endCharOffset": 77
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      9
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

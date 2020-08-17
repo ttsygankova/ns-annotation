@@ -1,0 +1,358 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170304_H0T10EV3X",
+  "text": "#StopReklamasiTelukJakarta! Reklamasi biang #BanjirJakarta, rusak habitat laut, matikan matapencarian nelayan. Duku… https://t.co/iuVm8nsbC7",
+  "tokens": [
+    "#StopReklamasiTelukJakarta!",
+    "Reklamasi",
+    "biang",
+    "#BanjirJakarta,",
+    "rusak",
+    "habitat",
+    "laut",
+    ",",
+    "matikan",
+    "matapencarian",
+    "nelayan",
+    ".",
+    "Duku",
+    "…",
+    "https://t.co/iuVm8nsbC7"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#StopReklamasiTelukJakarta!",
+      "startCharOffset": 0,
+      "endCharOffset": 27
+    },
+    {
+      "form": "Reklamasi",
+      "startCharOffset": 28,
+      "endCharOffset": 37
+    },
+    {
+      "form": "biang",
+      "startCharOffset": 38,
+      "endCharOffset": 43
+    },
+    {
+      "form": "#BanjirJakarta,",
+      "startCharOffset": 44,
+      "endCharOffset": 59
+    },
+    {
+      "form": "rusak",
+      "startCharOffset": 60,
+      "endCharOffset": 65
+    },
+    {
+      "form": "habitat",
+      "startCharOffset": 66,
+      "endCharOffset": 73
+    },
+    {
+      "form": "laut",
+      "startCharOffset": 74,
+      "endCharOffset": 78
+    },
+    {
+      "form": ",",
+      "startCharOffset": 78,
+      "endCharOffset": 79
+    },
+    {
+      "form": "matikan",
+      "startCharOffset": 80,
+      "endCharOffset": 87
+    },
+    {
+      "form": "matapencarian",
+      "startCharOffset": 88,
+      "endCharOffset": 101
+    },
+    {
+      "form": "nelayan",
+      "startCharOffset": 102,
+      "endCharOffset": 109
+    },
+    {
+      "form": ".",
+      "startCharOffset": 109,
+      "endCharOffset": 110
+    },
+    {
+      "form": "Duku",
+      "startCharOffset": 111,
+      "endCharOffset": 115
+    },
+    {
+      "form": "…",
+      "startCharOffset": 115,
+      "endCharOffset": 116
+    },
+    {
+      "form": "https://t.co/iuVm8nsbC7",
+      "startCharOffset": 117,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "#StopReklamasiTelukJakarta!",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Reklamasi",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "biang",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "#BanjirJakarta,",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "rusak",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "habitat",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "laut",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "matikan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "matapencarian",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "nelayan",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "Duku",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "https://t.co/iuVm8nsbC7",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5182 @@
+{
+  "corpusId": "",
+  "id": "RUS_NW_000946_20110708_G0022DD0T",
+  "text": "Прекращение засухи в Восточной Африке чревато эпидемией жёлтой ржавчины  Почти 20 млн жителей Восточной Африки находятся на грани голода из-за самой суровой засухи за 60 лет. Надежда только на дожди ранней осени, но теперь учёные говорят, что вместе с влагой они принесут новую проблему — жёлтую ржавчину злаков, которая вызывается влаголюбивым грибком Puccinia glumarum. Восточная Африка станет не единственной жертвой этой болезни. В 2010 году необыкновенно смертоносный штамм поразил огромное пространство от Марокко до Пакистана, распространяясь быстрее, чем какой бы то ни было другой растительный недуг. В этом году триумфальное шествие грибка возобновилось на севере Индии.  Причина в том, что большинство сортов злаковых культур в тёплых странах не имеет против него защиты. Это заболевание всегда было менее смертельным по сравнению, скажем, с линейной ржавчиной (возбудитель — грибок Puccinia graminis) и процветало исключительно в холодных регионах. Только в 2000 году новый агрессивный штамм был замечен в Калифорнии, куда, по всей видимости, пришёл из Африки или Азии. Новый штамм производит больше спор, чем предшественники, а потому распространяется дальше и быстрее. Обычно жёлтая ржавчина не уничтожает посевы полностью, даже если не прибегать к фунгициду, а новая линия беспощадна. Сильнее всех пострадают бедные тропические фермеры: они не могут позволить себе фунгициды. К тому же местные злаки не имели возможности выработать защиту: большинство обладает только одним оборонительным геном, Yr27, а новый штамм, похоже, уже научился его обходить. Где и когда это случилось, неизвестно. В прошлом году фитопатологи выяснили, что жёлтая ржавчина размножается половым способом, так что новый штамм мог приобрести нужные гены, спариваясь с другими штаммами. Собственно, результатом этого и стала эпидемия 2010 года, которая уничтожила 40% пшеницы в Эфиопии, Сирии, Турции, Иране, Азербайджане, Ираке, Узбекистане, Марокко и Кении. На апрельской конференции Международного центра сельскохозяйственных исследований в засушливых районах было объявлено об успешной разработке сортов пшеницы, способной противостоять новому штамму жёлтой ржавчины. Они к тому же дают на 15% больше зерна и устойчивы к линейной ржавчине. Но на то, чтобы получить достаточное количество семян для спасения Восточной Африки и других регионов, уйдёт не один год. Кроме того, есть подозрения, что новый грибок мутирует быстрее, чем предшественники, так что распространение устойчивых сортов может попросту опоздать... Источник: newscientist.com",
+  "tokens": [
+    "Прекращение",
+    "засухи",
+    "в",
+    "Восточной",
+    "Африке",
+    "чревато",
+    "эпидемией",
+    "жёлтой",
+    "ржавчины",
+    "Почти",
+    "20",
+    "млн",
+    "жителей",
+    "Восточной",
+    "Африки",
+    "находятся",
+    "на",
+    "грани",
+    "голода",
+    "из-за",
+    "самой",
+    "суровой",
+    "засухи",
+    "за",
+    "60",
+    "лет",
+    ".",
+    "Надежда",
+    "только",
+    "на",
+    "дожди",
+    "ранней",
+    "осени",
+    ",",
+    "но",
+    "теперь",
+    "учёные",
+    "говорят",
+    ",",
+    "что",
+    "вместе",
+    "с",
+    "влагой",
+    "они",
+    "принесут",
+    "новую",
+    "проблему",
+    "—",
+    "жёлтую",
+    "ржавчину",
+    "злаков",
+    ",",
+    "которая",
+    "вызывается",
+    "влаголюбивым",
+    "грибком",
+    "Puccinia",
+    "glumarum",
+    ".",
+    "Восточная",
+    "Африка",
+    "станет",
+    "не",
+    "единственной",
+    "жертвой",
+    "этой",
+    "болезни",
+    ".",
+    "В",
+    "2010",
+    "году",
+    "необыкновенно",
+    "смертоносный",
+    "штамм",
+    "поразил",
+    "огромное",
+    "пространство",
+    "от",
+    "Марокко",
+    "до",
+    "Пакистана",
+    ",",
+    "распространяясь",
+    "быстрее",
+    ",",
+    "чем",
+    "какой",
+    "бы",
+    "то",
+    "ни",
+    "было",
+    "другой",
+    "растительный",
+    "недуг",
+    ".",
+    "В",
+    "этом",
+    "году",
+    "триумфальное",
+    "шествие",
+    "грибка",
+    "возобновилось",
+    "на",
+    "севере",
+    "Индии",
+    ".",
+    "Причина",
+    "в",
+    "том",
+    ",",
+    "что",
+    "большинство",
+    "сортов",
+    "злаковых",
+    "культур",
+    "в",
+    "тёплых",
+    "странах",
+    "не",
+    "имеет",
+    "против",
+    "него",
+    "защиты",
+    ".",
+    "Это",
+    "заболевание",
+    "всегда",
+    "было",
+    "менее",
+    "смертельным",
+    "по",
+    "сравнению",
+    ",",
+    "скажем",
+    ",",
+    "с",
+    "линейной",
+    "ржавчиной",
+    "(",
+    "возбудитель",
+    "—",
+    "грибок",
+    "Puccinia",
+    "graminis",
+    ")",
+    "и",
+    "процветало",
+    "исключительно",
+    "в",
+    "холодных",
+    "регионах",
+    ".",
+    "Только",
+    "в",
+    "2000",
+    "году",
+    "новый",
+    "агрессивный",
+    "штамм",
+    "был",
+    "замечен",
+    "в",
+    "Калифорнии",
+    ",",
+    "куда",
+    ",",
+    "по",
+    "всей",
+    "видимости",
+    ",",
+    "пришёл",
+    "из",
+    "Африки",
+    "или",
+    "Азии",
+    ".",
+    "Новый",
+    "штамм",
+    "производит",
+    "больше",
+    "спор",
+    ",",
+    "чем",
+    "предшественники",
+    ",",
+    "а",
+    "потому",
+    "распространяется",
+    "дальше",
+    "и",
+    "быстрее",
+    ".",
+    "Обычно",
+    "жёлтая",
+    "ржавчина",
+    "не",
+    "уничтожает",
+    "посевы",
+    "полностью",
+    ",",
+    "даже",
+    "если",
+    "не",
+    "прибегать",
+    "к",
+    "фунгициду",
+    ",",
+    "а",
+    "новая",
+    "линия",
+    "беспощадна",
+    ".",
+    "Сильнее",
+    "всех",
+    "пострадают",
+    "бедные",
+    "тропические",
+    "фермеры",
+    ":",
+    "они",
+    "не",
+    "могут",
+    "позволить",
+    "себе",
+    "фунгициды",
+    ".",
+    "К",
+    "тому",
+    "же",
+    "местные",
+    "злаки",
+    "не",
+    "имели",
+    "возможности",
+    "выработать",
+    "защиту",
+    ":",
+    "большинство",
+    "обладает",
+    "только",
+    "одним",
+    "оборонительным",
+    "геном",
+    ",",
+    "Yr27",
+    ",",
+    "а",
+    "новый",
+    "штамм",
+    ",",
+    "похоже",
+    ",",
+    "уже",
+    "научился",
+    "его",
+    "обходить",
+    ".",
+    "Где",
+    "и",
+    "когда",
+    "это",
+    "случилось",
+    ",",
+    "неизвестно",
+    ".",
+    "В",
+    "прошлом",
+    "году",
+    "фитопатологи",
+    "выяснили",
+    ",",
+    "что",
+    "жёлтая",
+    "ржавчина",
+    "размножается",
+    "половым",
+    "способом",
+    ",",
+    "так",
+    "что",
+    "новый",
+    "штамм",
+    "мог",
+    "приобрести",
+    "нужные",
+    "гены",
+    ",",
+    "спариваясь",
+    "с",
+    "другими",
+    "штаммами",
+    ".",
+    "Собственно",
+    ",",
+    "результатом",
+    "этого",
+    "и",
+    "стала",
+    "эпидемия",
+    "2010",
+    "года",
+    ",",
+    "которая",
+    "уничтожила",
+    "40",
+    "%",
+    "пшеницы",
+    "в",
+    "Эфиопии",
+    ",",
+    "Сирии",
+    ",",
+    "Турции",
+    ",",
+    "Иране",
+    ",",
+    "Азербайджане",
+    ",",
+    "Ираке",
+    ",",
+    "Узбекистане",
+    ",",
+    "Марокко",
+    "и",
+    "Кении",
+    ".",
+    "На",
+    "апрельской",
+    "конференции",
+    "Международного",
+    "центра",
+    "сельскохозяйственных",
+    "исследований",
+    "в",
+    "засушливых",
+    "районах",
+    "было",
+    "объявлено",
+    "об",
+    "успешной",
+    "разработке",
+    "сортов",
+    "пшеницы",
+    ",",
+    "способной",
+    "противостоять",
+    "новому",
+    "штамму",
+    "жёлтой",
+    "ржавчины",
+    ".",
+    "Они",
+    "к",
+    "тому",
+    "же",
+    "дают",
+    "на",
+    "15",
+    "%",
+    "больше",
+    "зерна",
+    "и",
+    "устойчивы",
+    "к",
+    "линейной",
+    "ржавчине",
+    ".",
+    "Но",
+    "на",
+    "то",
+    ",",
+    "чтобы",
+    "получить",
+    "достаточное",
+    "количество",
+    "семян",
+    "для",
+    "спасения",
+    "Восточной",
+    "Африки",
+    "и",
+    "других",
+    "регионов",
+    ",",
+    "уйдёт",
+    "не",
+    "один",
+    "год",
+    ".",
+    "Кроме",
+    "того",
+    ",",
+    "есть",
+    "подозрения",
+    ",",
+    "что",
+    "новый",
+    "грибок",
+    "мутирует",
+    "быстрее",
+    ",",
+    "чем",
+    "предшественники",
+    ",",
+    "так",
+    "что",
+    "распространение",
+    "устойчивых",
+    "сортов",
+    "может",
+    "попросту",
+    "опоздать",
+    "...",
+    "Источник",
+    ":",
+    "newscientist.com"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Прекращение",
+      "startCharOffset": 0,
+      "endCharOffset": 11
+    },
+    {
+      "form": "засухи",
+      "startCharOffset": 12,
+      "endCharOffset": 18
+    },
+    {
+      "form": "в",
+      "startCharOffset": 19,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Восточной",
+      "startCharOffset": 21,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Африке",
+      "startCharOffset": 31,
+      "endCharOffset": 37
+    },
+    {
+      "form": "чревато",
+      "startCharOffset": 38,
+      "endCharOffset": 45
+    },
+    {
+      "form": "эпидемией",
+      "startCharOffset": 46,
+      "endCharOffset": 55
+    },
+    {
+      "form": "жёлтой",
+      "startCharOffset": 56,
+      "endCharOffset": 62
+    },
+    {
+      "form": "ржавчины",
+      "startCharOffset": 63,
+      "endCharOffset": 71
+    },
+    {
+      "form": "Почти",
+      "startCharOffset": 73,
+      "endCharOffset": 78
+    },
+    {
+      "form": "20",
+      "startCharOffset": 79,
+      "endCharOffset": 81
+    },
+    {
+      "form": "млн",
+      "startCharOffset": 82,
+      "endCharOffset": 85
+    },
+    {
+      "form": "жителей",
+      "startCharOffset": 86,
+      "endCharOffset": 93
+    },
+    {
+      "form": "Восточной",
+      "startCharOffset": 94,
+      "endCharOffset": 103
+    },
+    {
+      "form": "Африки",
+      "startCharOffset": 104,
+      "endCharOffset": 110
+    },
+    {
+      "form": "находятся",
+      "startCharOffset": 111,
+      "endCharOffset": 120
+    },
+    {
+      "form": "на",
+      "startCharOffset": 121,
+      "endCharOffset": 123
+    },
+    {
+      "form": "грани",
+      "startCharOffset": 124,
+      "endCharOffset": 129
+    },
+    {
+      "form": "голода",
+      "startCharOffset": 130,
+      "endCharOffset": 136
+    },
+    {
+      "form": "из-за",
+      "startCharOffset": 137,
+      "endCharOffset": 142
+    },
+    {
+      "form": "самой",
+      "startCharOffset": 143,
+      "endCharOffset": 148
+    },
+    {
+      "form": "суровой",
+      "startCharOffset": 149,
+      "endCharOffset": 156
+    },
+    {
+      "form": "засухи",
+      "startCharOffset": 157,
+      "endCharOffset": 163
+    },
+    {
+      "form": "за",
+      "startCharOffset": 164,
+      "endCharOffset": 166
+    },
+    {
+      "form": "60",
+      "startCharOffset": 167,
+      "endCharOffset": 169
+    },
+    {
+      "form": "лет",
+      "startCharOffset": 170,
+      "endCharOffset": 173
+    },
+    {
+      "form": ".",
+      "startCharOffset": 173,
+      "endCharOffset": 174
+    },
+    {
+      "form": "Надежда",
+      "startCharOffset": 175,
+      "endCharOffset": 182
+    },
+    {
+      "form": "только",
+      "startCharOffset": 183,
+      "endCharOffset": 189
+    },
+    {
+      "form": "на",
+      "startCharOffset": 190,
+      "endCharOffset": 192
+    },
+    {
+      "form": "дожди",
+      "startCharOffset": 193,
+      "endCharOffset": 198
+    },
+    {
+      "form": "ранней",
+      "startCharOffset": 199,
+      "endCharOffset": 205
+    },
+    {
+      "form": "осени",
+      "startCharOffset": 206,
+      "endCharOffset": 211
+    },
+    {
+      "form": ",",
+      "startCharOffset": 211,
+      "endCharOffset": 212
+    },
+    {
+      "form": "но",
+      "startCharOffset": 213,
+      "endCharOffset": 215
+    },
+    {
+      "form": "теперь",
+      "startCharOffset": 216,
+      "endCharOffset": 222
+    },
+    {
+      "form": "учёные",
+      "startCharOffset": 223,
+      "endCharOffset": 229
+    },
+    {
+      "form": "говорят",
+      "startCharOffset": 230,
+      "endCharOffset": 237
+    },
+    {
+      "form": ",",
+      "startCharOffset": 237,
+      "endCharOffset": 238
+    },
+    {
+      "form": "что",
+      "startCharOffset": 239,
+      "endCharOffset": 242
+    },
+    {
+      "form": "вместе",
+      "startCharOffset": 243,
+      "endCharOffset": 249
+    },
+    {
+      "form": "с",
+      "startCharOffset": 250,
+      "endCharOffset": 251
+    },
+    {
+      "form": "влагой",
+      "startCharOffset": 252,
+      "endCharOffset": 258
+    },
+    {
+      "form": "они",
+      "startCharOffset": 259,
+      "endCharOffset": 262
+    },
+    {
+      "form": "принесут",
+      "startCharOffset": 263,
+      "endCharOffset": 271
+    },
+    {
+      "form": "новую",
+      "startCharOffset": 272,
+      "endCharOffset": 277
+    },
+    {
+      "form": "проблему",
+      "startCharOffset": 278,
+      "endCharOffset": 286
+    },
+    {
+      "form": "—",
+      "startCharOffset": 287,
+      "endCharOffset": 288
+    },
+    {
+      "form": "жёлтую",
+      "startCharOffset": 289,
+      "endCharOffset": 295
+    },
+    {
+      "form": "ржавчину",
+      "startCharOffset": 296,
+      "endCharOffset": 304
+    },
+    {
+      "form": "злаков",
+      "startCharOffset": 305,
+      "endCharOffset": 311
+    },
+    {
+      "form": ",",
+      "startCharOffset": 311,
+      "endCharOffset": 312
+    },
+    {
+      "form": "которая",
+      "startCharOffset": 313,
+      "endCharOffset": 320
+    },
+    {
+      "form": "вызывается",
+      "startCharOffset": 321,
+      "endCharOffset": 331
+    },
+    {
+      "form": "влаголюбивым",
+      "startCharOffset": 332,
+      "endCharOffset": 344
+    },
+    {
+      "form": "грибком",
+      "startCharOffset": 345,
+      "endCharOffset": 352
+    },
+    {
+      "form": "Puccinia",
+      "startCharOffset": 353,
+      "endCharOffset": 361
+    },
+    {
+      "form": "glumarum",
+      "startCharOffset": 362,
+      "endCharOffset": 370
+    },
+    {
+      "form": ".",
+      "startCharOffset": 370,
+      "endCharOffset": 371
+    },
+    {
+      "form": "Восточная",
+      "startCharOffset": 372,
+      "endCharOffset": 381
+    },
+    {
+      "form": "Африка",
+      "startCharOffset": 382,
+      "endCharOffset": 388
+    },
+    {
+      "form": "станет",
+      "startCharOffset": 389,
+      "endCharOffset": 395
+    },
+    {
+      "form": "не",
+      "startCharOffset": 396,
+      "endCharOffset": 398
+    },
+    {
+      "form": "единственной",
+      "startCharOffset": 399,
+      "endCharOffset": 411
+    },
+    {
+      "form": "жертвой",
+      "startCharOffset": 412,
+      "endCharOffset": 419
+    },
+    {
+      "form": "этой",
+      "startCharOffset": 420,
+      "endCharOffset": 424
+    },
+    {
+      "form": "болезни",
+      "startCharOffset": 425,
+      "endCharOffset": 432
+    },
+    {
+      "form": ".",
+      "startCharOffset": 432,
+      "endCharOffset": 433
+    },
+    {
+      "form": "В",
+      "startCharOffset": 434,
+      "endCharOffset": 435
+    },
+    {
+      "form": "2010",
+      "startCharOffset": 436,
+      "endCharOffset": 440
+    },
+    {
+      "form": "году",
+      "startCharOffset": 441,
+      "endCharOffset": 445
+    },
+    {
+      "form": "необыкновенно",
+      "startCharOffset": 446,
+      "endCharOffset": 459
+    },
+    {
+      "form": "смертоносный",
+      "startCharOffset": 460,
+      "endCharOffset": 472
+    },
+    {
+      "form": "штамм",
+      "startCharOffset": 473,
+      "endCharOffset": 478
+    },
+    {
+      "form": "поразил",
+      "startCharOffset": 479,
+      "endCharOffset": 486
+    },
+    {
+      "form": "огромное",
+      "startCharOffset": 487,
+      "endCharOffset": 495
+    },
+    {
+      "form": "пространство",
+      "startCharOffset": 496,
+      "endCharOffset": 508
+    },
+    {
+      "form": "от",
+      "startCharOffset": 509,
+      "endCharOffset": 511
+    },
+    {
+      "form": "Марокко",
+      "startCharOffset": 512,
+      "endCharOffset": 519
+    },
+    {
+      "form": "до",
+      "startCharOffset": 520,
+      "endCharOffset": 522
+    },
+    {
+      "form": "Пакистана",
+      "startCharOffset": 523,
+      "endCharOffset": 532
+    },
+    {
+      "form": ",",
+      "startCharOffset": 532,
+      "endCharOffset": 533
+    },
+    {
+      "form": "распространяясь",
+      "startCharOffset": 534,
+      "endCharOffset": 549
+    },
+    {
+      "form": "быстрее",
+      "startCharOffset": 550,
+      "endCharOffset": 557
+    },
+    {
+      "form": ",",
+      "startCharOffset": 557,
+      "endCharOffset": 558
+    },
+    {
+      "form": "чем",
+      "startCharOffset": 559,
+      "endCharOffset": 562
+    },
+    {
+      "form": "какой",
+      "startCharOffset": 563,
+      "endCharOffset": 568
+    },
+    {
+      "form": "бы",
+      "startCharOffset": 569,
+      "endCharOffset": 571
+    },
+    {
+      "form": "то",
+      "startCharOffset": 572,
+      "endCharOffset": 574
+    },
+    {
+      "form": "ни",
+      "startCharOffset": 575,
+      "endCharOffset": 577
+    },
+    {
+      "form": "было",
+      "startCharOffset": 578,
+      "endCharOffset": 582
+    },
+    {
+      "form": "другой",
+      "startCharOffset": 583,
+      "endCharOffset": 589
+    },
+    {
+      "form": "растительный",
+      "startCharOffset": 590,
+      "endCharOffset": 602
+    },
+    {
+      "form": "недуг",
+      "startCharOffset": 603,
+      "endCharOffset": 608
+    },
+    {
+      "form": ".",
+      "startCharOffset": 608,
+      "endCharOffset": 609
+    },
+    {
+      "form": "В",
+      "startCharOffset": 610,
+      "endCharOffset": 611
+    },
+    {
+      "form": "этом",
+      "startCharOffset": 612,
+      "endCharOffset": 616
+    },
+    {
+      "form": "году",
+      "startCharOffset": 617,
+      "endCharOffset": 621
+    },
+    {
+      "form": "триумфальное",
+      "startCharOffset": 622,
+      "endCharOffset": 634
+    },
+    {
+      "form": "шествие",
+      "startCharOffset": 635,
+      "endCharOffset": 642
+    },
+    {
+      "form": "грибка",
+      "startCharOffset": 643,
+      "endCharOffset": 649
+    },
+    {
+      "form": "возобновилось",
+      "startCharOffset": 650,
+      "endCharOffset": 663
+    },
+    {
+      "form": "на",
+      "startCharOffset": 664,
+      "endCharOffset": 666
+    },
+    {
+      "form": "севере",
+      "startCharOffset": 667,
+      "endCharOffset": 673
+    },
+    {
+      "form": "Индии",
+      "startCharOffset": 674,
+      "endCharOffset": 679
+    },
+    {
+      "form": ".",
+      "startCharOffset": 679,
+      "endCharOffset": 680
+    },
+    {
+      "form": "Причина",
+      "startCharOffset": 682,
+      "endCharOffset": 689
+    },
+    {
+      "form": "в",
+      "startCharOffset": 690,
+      "endCharOffset": 691
+    },
+    {
+      "form": "том",
+      "startCharOffset": 692,
+      "endCharOffset": 695
+    },
+    {
+      "form": ",",
+      "startCharOffset": 695,
+      "endCharOffset": 696
+    },
+    {
+      "form": "что",
+      "startCharOffset": 697,
+      "endCharOffset": 700
+    },
+    {
+      "form": "большинство",
+      "startCharOffset": 701,
+      "endCharOffset": 712
+    },
+    {
+      "form": "сортов",
+      "startCharOffset": 713,
+      "endCharOffset": 719
+    },
+    {
+      "form": "злаковых",
+      "startCharOffset": 720,
+      "endCharOffset": 728
+    },
+    {
+      "form": "культур",
+      "startCharOffset": 729,
+      "endCharOffset": 736
+    },
+    {
+      "form": "в",
+      "startCharOffset": 737,
+      "endCharOffset": 738
+    },
+    {
+      "form": "тёплых",
+      "startCharOffset": 739,
+      "endCharOffset": 745
+    },
+    {
+      "form": "странах",
+      "startCharOffset": 746,
+      "endCharOffset": 753
+    },
+    {
+      "form": "не",
+      "startCharOffset": 754,
+      "endCharOffset": 756
+    },
+    {
+      "form": "имеет",
+      "startCharOffset": 757,
+      "endCharOffset": 762
+    },
+    {
+      "form": "против",
+      "startCharOffset": 763,
+      "endCharOffset": 769
+    },
+    {
+      "form": "него",
+      "startCharOffset": 770,
+      "endCharOffset": 774
+    },
+    {
+      "form": "защиты",
+      "startCharOffset": 775,
+      "endCharOffset": 781
+    },
+    {
+      "form": ".",
+      "startCharOffset": 781,
+      "endCharOffset": 782
+    },
+    {
+      "form": "Это",
+      "startCharOffset": 783,
+      "endCharOffset": 786
+    },
+    {
+      "form": "заболевание",
+      "startCharOffset": 787,
+      "endCharOffset": 798
+    },
+    {
+      "form": "всегда",
+      "startCharOffset": 799,
+      "endCharOffset": 805
+    },
+    {
+      "form": "было",
+      "startCharOffset": 806,
+      "endCharOffset": 810
+    },
+    {
+      "form": "менее",
+      "startCharOffset": 811,
+      "endCharOffset": 816
+    },
+    {
+      "form": "смертельным",
+      "startCharOffset": 817,
+      "endCharOffset": 828
+    },
+    {
+      "form": "по",
+      "startCharOffset": 829,
+      "endCharOffset": 831
+    },
+    {
+      "form": "сравнению",
+      "startCharOffset": 832,
+      "endCharOffset": 841
+    },
+    {
+      "form": ",",
+      "startCharOffset": 841,
+      "endCharOffset": 842
+    },
+    {
+      "form": "скажем",
+      "startCharOffset": 843,
+      "endCharOffset": 849
+    },
+    {
+      "form": ",",
+      "startCharOffset": 849,
+      "endCharOffset": 850
+    },
+    {
+      "form": "с",
+      "startCharOffset": 851,
+      "endCharOffset": 852
+    },
+    {
+      "form": "линейной",
+      "startCharOffset": 853,
+      "endCharOffset": 861
+    },
+    {
+      "form": "ржавчиной",
+      "startCharOffset": 862,
+      "endCharOffset": 871
+    },
+    {
+      "form": "(",
+      "startCharOffset": 872,
+      "endCharOffset": 873
+    },
+    {
+      "form": "возбудитель",
+      "startCharOffset": 873,
+      "endCharOffset": 884
+    },
+    {
+      "form": "—",
+      "startCharOffset": 885,
+      "endCharOffset": 886
+    },
+    {
+      "form": "грибок",
+      "startCharOffset": 887,
+      "endCharOffset": 893
+    },
+    {
+      "form": "Puccinia",
+      "startCharOffset": 894,
+      "endCharOffset": 902
+    },
+    {
+      "form": "graminis",
+      "startCharOffset": 903,
+      "endCharOffset": 911
+    },
+    {
+      "form": ")",
+      "startCharOffset": 911,
+      "endCharOffset": 912
+    },
+    {
+      "form": "и",
+      "startCharOffset": 913,
+      "endCharOffset": 914
+    },
+    {
+      "form": "процветало",
+      "startCharOffset": 915,
+      "endCharOffset": 925
+    },
+    {
+      "form": "исключительно",
+      "startCharOffset": 926,
+      "endCharOffset": 939
+    },
+    {
+      "form": "в",
+      "startCharOffset": 940,
+      "endCharOffset": 941
+    },
+    {
+      "form": "холодных",
+      "startCharOffset": 942,
+      "endCharOffset": 950
+    },
+    {
+      "form": "регионах",
+      "startCharOffset": 951,
+      "endCharOffset": 959
+    },
+    {
+      "form": ".",
+      "startCharOffset": 959,
+      "endCharOffset": 960
+    },
+    {
+      "form": "Только",
+      "startCharOffset": 961,
+      "endCharOffset": 967
+    },
+    {
+      "form": "в",
+      "startCharOffset": 968,
+      "endCharOffset": 969
+    },
+    {
+      "form": "2000",
+      "startCharOffset": 970,
+      "endCharOffset": 974
+    },
+    {
+      "form": "году",
+      "startCharOffset": 975,
+      "endCharOffset": 979
+    },
+    {
+      "form": "новый",
+      "startCharOffset": 980,
+      "endCharOffset": 985
+    },
+    {
+      "form": "агрессивный",
+      "startCharOffset": 986,
+      "endCharOffset": 997
+    },
+    {
+      "form": "штамм",
+      "startCharOffset": 998,
+      "endCharOffset": 1003
+    },
+    {
+      "form": "был",
+      "startCharOffset": 1004,
+      "endCharOffset": 1007
+    },
+    {
+      "form": "замечен",
+      "startCharOffset": 1008,
+      "endCharOffset": 1015
+    },
+    {
+      "form": "в",
+      "startCharOffset": 1016,
+      "endCharOffset": 1017
+    },
+    {
+      "form": "Калифорнии",
+      "startCharOffset": 1018,
+      "endCharOffset": 1028
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1028,
+      "endCharOffset": 1029
+    },
+    {
+      "form": "куда",
+      "startCharOffset": 1030,
+      "endCharOffset": 1034
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1034,
+      "endCharOffset": 1035
+    },
+    {
+      "form": "по",
+      "startCharOffset": 1036,
+      "endCharOffset": 1038
+    },
+    {
+      "form": "всей",
+      "startCharOffset": 1039,
+      "endCharOffset": 1043
+    },
+    {
+      "form": "видимости",
+      "startCharOffset": 1044,
+      "endCharOffset": 1053
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1053,
+      "endCharOffset": 1054
+    },
+    {
+      "form": "пришёл",
+      "startCharOffset": 1055,
+      "endCharOffset": 1061
+    },
+    {
+      "form": "из",
+      "startCharOffset": 1062,
+      "endCharOffset": 1064
+    },
+    {
+      "form": "Африки",
+      "startCharOffset": 1065,
+      "endCharOffset": 1071
+    },
+    {
+      "form": "или",
+      "startCharOffset": 1072,
+      "endCharOffset": 1075
+    },
+    {
+      "form": "Азии",
+      "startCharOffset": 1076,
+      "endCharOffset": 1080
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1080,
+      "endCharOffset": 1081
+    },
+    {
+      "form": "Новый",
+      "startCharOffset": 1082,
+      "endCharOffset": 1087
+    },
+    {
+      "form": "штамм",
+      "startCharOffset": 1088,
+      "endCharOffset": 1093
+    },
+    {
+      "form": "производит",
+      "startCharOffset": 1094,
+      "endCharOffset": 1104
+    },
+    {
+      "form": "больше",
+      "startCharOffset": 1105,
+      "endCharOffset": 1111
+    },
+    {
+      "form": "спор",
+      "startCharOffset": 1112,
+      "endCharOffset": 1116
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1116,
+      "endCharOffset": 1117
+    },
+    {
+      "form": "чем",
+      "startCharOffset": 1118,
+      "endCharOffset": 1121
+    },
+    {
+      "form": "предшественники",
+      "startCharOffset": 1122,
+      "endCharOffset": 1137
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1137,
+      "endCharOffset": 1138
+    },
+    {
+      "form": "а",
+      "startCharOffset": 1139,
+      "endCharOffset": 1140
+    },
+    {
+      "form": "потому",
+      "startCharOffset": 1141,
+      "endCharOffset": 1147
+    },
+    {
+      "form": "распространяется",
+      "startCharOffset": 1148,
+      "endCharOffset": 1164
+    },
+    {
+      "form": "дальше",
+      "startCharOffset": 1165,
+      "endCharOffset": 1171
+    },
+    {
+      "form": "и",
+      "startCharOffset": 1172,
+      "endCharOffset": 1173
+    },
+    {
+      "form": "быстрее",
+      "startCharOffset": 1174,
+      "endCharOffset": 1181
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1181,
+      "endCharOffset": 1182
+    },
+    {
+      "form": "Обычно",
+      "startCharOffset": 1183,
+      "endCharOffset": 1189
+    },
+    {
+      "form": "жёлтая",
+      "startCharOffset": 1190,
+      "endCharOffset": 1196
+    },
+    {
+      "form": "ржавчина",
+      "startCharOffset": 1197,
+      "endCharOffset": 1205
+    },
+    {
+      "form": "не",
+      "startCharOffset": 1206,
+      "endCharOffset": 1208
+    },
+    {
+      "form": "уничтожает",
+      "startCharOffset": 1209,
+      "endCharOffset": 1219
+    },
+    {
+      "form": "посевы",
+      "startCharOffset": 1220,
+      "endCharOffset": 1226
+    },
+    {
+      "form": "полностью",
+      "startCharOffset": 1227,
+      "endCharOffset": 1236
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1236,
+      "endCharOffset": 1237
+    },
+    {
+      "form": "даже",
+      "startCharOffset": 1238,
+      "endCharOffset": 1242
+    },
+    {
+      "form": "если",
+      "startCharOffset": 1243,
+      "endCharOffset": 1247
+    },
+    {
+      "form": "не",
+      "startCharOffset": 1248,
+      "endCharOffset": 1250
+    },
+    {
+      "form": "прибегать",
+      "startCharOffset": 1251,
+      "endCharOffset": 1260
+    },
+    {
+      "form": "к",
+      "startCharOffset": 1261,
+      "endCharOffset": 1262
+    },
+    {
+      "form": "фунгициду",
+      "startCharOffset": 1263,
+      "endCharOffset": 1272
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1272,
+      "endCharOffset": 1273
+    },
+    {
+      "form": "а",
+      "startCharOffset": 1274,
+      "endCharOffset": 1275
+    },
+    {
+      "form": "новая",
+      "startCharOffset": 1276,
+      "endCharOffset": 1281
+    },
+    {
+      "form": "линия",
+      "startCharOffset": 1282,
+      "endCharOffset": 1287
+    },
+    {
+      "form": "беспощадна",
+      "startCharOffset": 1288,
+      "endCharOffset": 1298
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1298,
+      "endCharOffset": 1299
+    },
+    {
+      "form": "Сильнее",
+      "startCharOffset": 1300,
+      "endCharOffset": 1307
+    },
+    {
+      "form": "всех",
+      "startCharOffset": 1308,
+      "endCharOffset": 1312
+    },
+    {
+      "form": "пострадают",
+      "startCharOffset": 1313,
+      "endCharOffset": 1323
+    },
+    {
+      "form": "бедные",
+      "startCharOffset": 1324,
+      "endCharOffset": 1330
+    },
+    {
+      "form": "тропические",
+      "startCharOffset": 1331,
+      "endCharOffset": 1342
+    },
+    {
+      "form": "фермеры",
+      "startCharOffset": 1343,
+      "endCharOffset": 1350
+    },
+    {
+      "form": ":",
+      "startCharOffset": 1350,
+      "endCharOffset": 1351
+    },
+    {
+      "form": "они",
+      "startCharOffset": 1352,
+      "endCharOffset": 1355
+    },
+    {
+      "form": "не",
+      "startCharOffset": 1356,
+      "endCharOffset": 1358
+    },
+    {
+      "form": "могут",
+      "startCharOffset": 1359,
+      "endCharOffset": 1364
+    },
+    {
+      "form": "позволить",
+      "startCharOffset": 1365,
+      "endCharOffset": 1374
+    },
+    {
+      "form": "себе",
+      "startCharOffset": 1375,
+      "endCharOffset": 1379
+    },
+    {
+      "form": "фунгициды",
+      "startCharOffset": 1380,
+      "endCharOffset": 1389
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1389,
+      "endCharOffset": 1390
+    },
+    {
+      "form": "К",
+      "startCharOffset": 1391,
+      "endCharOffset": 1392
+    },
+    {
+      "form": "тому",
+      "startCharOffset": 1393,
+      "endCharOffset": 1397
+    },
+    {
+      "form": "же",
+      "startCharOffset": 1398,
+      "endCharOffset": 1400
+    },
+    {
+      "form": "местные",
+      "startCharOffset": 1401,
+      "endCharOffset": 1408
+    },
+    {
+      "form": "злаки",
+      "startCharOffset": 1409,
+      "endCharOffset": 1414
+    },
+    {
+      "form": "не",
+      "startCharOffset": 1415,
+      "endCharOffset": 1417
+    },
+    {
+      "form": "имели",
+      "startCharOffset": 1418,
+      "endCharOffset": 1423
+    },
+    {
+      "form": "возможности",
+      "startCharOffset": 1424,
+      "endCharOffset": 1435
+    },
+    {
+      "form": "выработать",
+      "startCharOffset": 1436,
+      "endCharOffset": 1446
+    },
+    {
+      "form": "защиту",
+      "startCharOffset": 1447,
+      "endCharOffset": 1453
+    },
+    {
+      "form": ":",
+      "startCharOffset": 1453,
+      "endCharOffset": 1454
+    },
+    {
+      "form": "большинство",
+      "startCharOffset": 1455,
+      "endCharOffset": 1466
+    },
+    {
+      "form": "обладает",
+      "startCharOffset": 1467,
+      "endCharOffset": 1475
+    },
+    {
+      "form": "только",
+      "startCharOffset": 1476,
+      "endCharOffset": 1482
+    },
+    {
+      "form": "одним",
+      "startCharOffset": 1483,
+      "endCharOffset": 1488
+    },
+    {
+      "form": "оборонительным",
+      "startCharOffset": 1489,
+      "endCharOffset": 1503
+    },
+    {
+      "form": "геном",
+      "startCharOffset": 1504,
+      "endCharOffset": 1509
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1509,
+      "endCharOffset": 1510
+    },
+    {
+      "form": "Yr27",
+      "startCharOffset": 1511,
+      "endCharOffset": 1515
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1515,
+      "endCharOffset": 1516
+    },
+    {
+      "form": "а",
+      "startCharOffset": 1517,
+      "endCharOffset": 1518
+    },
+    {
+      "form": "новый",
+      "startCharOffset": 1519,
+      "endCharOffset": 1524
+    },
+    {
+      "form": "штамм",
+      "startCharOffset": 1525,
+      "endCharOffset": 1530
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1530,
+      "endCharOffset": 1531
+    },
+    {
+      "form": "похоже",
+      "startCharOffset": 1532,
+      "endCharOffset": 1538
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1538,
+      "endCharOffset": 1539
+    },
+    {
+      "form": "уже",
+      "startCharOffset": 1540,
+      "endCharOffset": 1543
+    },
+    {
+      "form": "научился",
+      "startCharOffset": 1544,
+      "endCharOffset": 1552
+    },
+    {
+      "form": "его",
+      "startCharOffset": 1553,
+      "endCharOffset": 1556
+    },
+    {
+      "form": "обходить",
+      "startCharOffset": 1557,
+      "endCharOffset": 1565
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1565,
+      "endCharOffset": 1566
+    },
+    {
+      "form": "Где",
+      "startCharOffset": 1567,
+      "endCharOffset": 1570
+    },
+    {
+      "form": "и",
+      "startCharOffset": 1571,
+      "endCharOffset": 1572
+    },
+    {
+      "form": "когда",
+      "startCharOffset": 1573,
+      "endCharOffset": 1578
+    },
+    {
+      "form": "это",
+      "startCharOffset": 1579,
+      "endCharOffset": 1582
+    },
+    {
+      "form": "случилось",
+      "startCharOffset": 1583,
+      "endCharOffset": 1592
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1592,
+      "endCharOffset": 1593
+    },
+    {
+      "form": "неизвестно",
+      "startCharOffset": 1594,
+      "endCharOffset": 1604
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1604,
+      "endCharOffset": 1605
+    },
+    {
+      "form": "В",
+      "startCharOffset": 1606,
+      "endCharOffset": 1607
+    },
+    {
+      "form": "прошлом",
+      "startCharOffset": 1608,
+      "endCharOffset": 1615
+    },
+    {
+      "form": "году",
+      "startCharOffset": 1616,
+      "endCharOffset": 1620
+    },
+    {
+      "form": "фитопатологи",
+      "startCharOffset": 1621,
+      "endCharOffset": 1633
+    },
+    {
+      "form": "выяснили",
+      "startCharOffset": 1634,
+      "endCharOffset": 1642
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1642,
+      "endCharOffset": 1643
+    },
+    {
+      "form": "что",
+      "startCharOffset": 1644,
+      "endCharOffset": 1647
+    },
+    {
+      "form": "жёлтая",
+      "startCharOffset": 1648,
+      "endCharOffset": 1654
+    },
+    {
+      "form": "ржавчина",
+      "startCharOffset": 1655,
+      "endCharOffset": 1663
+    },
+    {
+      "form": "размножается",
+      "startCharOffset": 1664,
+      "endCharOffset": 1676
+    },
+    {
+      "form": "половым",
+      "startCharOffset": 1677,
+      "endCharOffset": 1684
+    },
+    {
+      "form": "способом",
+      "startCharOffset": 1685,
+      "endCharOffset": 1693
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1693,
+      "endCharOffset": 1694
+    },
+    {
+      "form": "так",
+      "startCharOffset": 1695,
+      "endCharOffset": 1698
+    },
+    {
+      "form": "что",
+      "startCharOffset": 1699,
+      "endCharOffset": 1702
+    },
+    {
+      "form": "новый",
+      "startCharOffset": 1703,
+      "endCharOffset": 1708
+    },
+    {
+      "form": "штамм",
+      "startCharOffset": 1709,
+      "endCharOffset": 1714
+    },
+    {
+      "form": "мог",
+      "startCharOffset": 1715,
+      "endCharOffset": 1718
+    },
+    {
+      "form": "приобрести",
+      "startCharOffset": 1719,
+      "endCharOffset": 1729
+    },
+    {
+      "form": "нужные",
+      "startCharOffset": 1730,
+      "endCharOffset": 1736
+    },
+    {
+      "form": "гены",
+      "startCharOffset": 1737,
+      "endCharOffset": 1741
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1741,
+      "endCharOffset": 1742
+    },
+    {
+      "form": "спариваясь",
+      "startCharOffset": 1743,
+      "endCharOffset": 1753
+    },
+    {
+      "form": "с",
+      "startCharOffset": 1754,
+      "endCharOffset": 1755
+    },
+    {
+      "form": "другими",
+      "startCharOffset": 1756,
+      "endCharOffset": 1763
+    },
+    {
+      "form": "штаммами",
+      "startCharOffset": 1764,
+      "endCharOffset": 1772
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1772,
+      "endCharOffset": 1773
+    },
+    {
+      "form": "Собственно",
+      "startCharOffset": 1774,
+      "endCharOffset": 1784
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1784,
+      "endCharOffset": 1785
+    },
+    {
+      "form": "результатом",
+      "startCharOffset": 1786,
+      "endCharOffset": 1797
+    },
+    {
+      "form": "этого",
+      "startCharOffset": 1798,
+      "endCharOffset": 1803
+    },
+    {
+      "form": "и",
+      "startCharOffset": 1804,
+      "endCharOffset": 1805
+    },
+    {
+      "form": "стала",
+      "startCharOffset": 1806,
+      "endCharOffset": 1811
+    },
+    {
+      "form": "эпидемия",
+      "startCharOffset": 1812,
+      "endCharOffset": 1820
+    },
+    {
+      "form": "2010",
+      "startCharOffset": 1821,
+      "endCharOffset": 1825
+    },
+    {
+      "form": "года",
+      "startCharOffset": 1826,
+      "endCharOffset": 1830
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1830,
+      "endCharOffset": 1831
+    },
+    {
+      "form": "которая",
+      "startCharOffset": 1832,
+      "endCharOffset": 1839
+    },
+    {
+      "form": "уничтожила",
+      "startCharOffset": 1840,
+      "endCharOffset": 1850
+    },
+    {
+      "form": "40",
+      "startCharOffset": 1851,
+      "endCharOffset": 1853
+    },
+    {
+      "form": "%",
+      "startCharOffset": 1853,
+      "endCharOffset": 1854
+    },
+    {
+      "form": "пшеницы",
+      "startCharOffset": 1855,
+      "endCharOffset": 1862
+    },
+    {
+      "form": "в",
+      "startCharOffset": 1863,
+      "endCharOffset": 1864
+    },
+    {
+      "form": "Эфиопии",
+      "startCharOffset": 1865,
+      "endCharOffset": 1872
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1872,
+      "endCharOffset": 1873
+    },
+    {
+      "form": "Сирии",
+      "startCharOffset": 1874,
+      "endCharOffset": 1879
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1879,
+      "endCharOffset": 1880
+    },
+    {
+      "form": "Турции",
+      "startCharOffset": 1881,
+      "endCharOffset": 1887
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1887,
+      "endCharOffset": 1888
+    },
+    {
+      "form": "Иране",
+      "startCharOffset": 1889,
+      "endCharOffset": 1894
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1894,
+      "endCharOffset": 1895
+    },
+    {
+      "form": "Азербайджане",
+      "startCharOffset": 1896,
+      "endCharOffset": 1908
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1908,
+      "endCharOffset": 1909
+    },
+    {
+      "form": "Ираке",
+      "startCharOffset": 1910,
+      "endCharOffset": 1915
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1915,
+      "endCharOffset": 1916
+    },
+    {
+      "form": "Узбекистане",
+      "startCharOffset": 1917,
+      "endCharOffset": 1928
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1928,
+      "endCharOffset": 1929
+    },
+    {
+      "form": "Марокко",
+      "startCharOffset": 1930,
+      "endCharOffset": 1937
+    },
+    {
+      "form": "и",
+      "startCharOffset": 1938,
+      "endCharOffset": 1939
+    },
+    {
+      "form": "Кении",
+      "startCharOffset": 1940,
+      "endCharOffset": 1945
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1945,
+      "endCharOffset": 1946
+    },
+    {
+      "form": "На",
+      "startCharOffset": 1947,
+      "endCharOffset": 1949
+    },
+    {
+      "form": "апрельской",
+      "startCharOffset": 1950,
+      "endCharOffset": 1960
+    },
+    {
+      "form": "конференции",
+      "startCharOffset": 1961,
+      "endCharOffset": 1972
+    },
+    {
+      "form": "Международного",
+      "startCharOffset": 1973,
+      "endCharOffset": 1987
+    },
+    {
+      "form": "центра",
+      "startCharOffset": 1988,
+      "endCharOffset": 1994
+    },
+    {
+      "form": "сельскохозяйственных",
+      "startCharOffset": 1995,
+      "endCharOffset": 2015
+    },
+    {
+      "form": "исследований",
+      "startCharOffset": 2016,
+      "endCharOffset": 2028
+    },
+    {
+      "form": "в",
+      "startCharOffset": 2029,
+      "endCharOffset": 2030
+    },
+    {
+      "form": "засушливых",
+      "startCharOffset": 2031,
+      "endCharOffset": 2041
+    },
+    {
+      "form": "районах",
+      "startCharOffset": 2042,
+      "endCharOffset": 2049
+    },
+    {
+      "form": "было",
+      "startCharOffset": 2050,
+      "endCharOffset": 2054
+    },
+    {
+      "form": "объявлено",
+      "startCharOffset": 2055,
+      "endCharOffset": 2064
+    },
+    {
+      "form": "об",
+      "startCharOffset": 2065,
+      "endCharOffset": 2067
+    },
+    {
+      "form": "успешной",
+      "startCharOffset": 2068,
+      "endCharOffset": 2076
+    },
+    {
+      "form": "разработке",
+      "startCharOffset": 2077,
+      "endCharOffset": 2087
+    },
+    {
+      "form": "сортов",
+      "startCharOffset": 2088,
+      "endCharOffset": 2094
+    },
+    {
+      "form": "пшеницы",
+      "startCharOffset": 2095,
+      "endCharOffset": 2102
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2102,
+      "endCharOffset": 2103
+    },
+    {
+      "form": "способной",
+      "startCharOffset": 2104,
+      "endCharOffset": 2113
+    },
+    {
+      "form": "противостоять",
+      "startCharOffset": 2114,
+      "endCharOffset": 2127
+    },
+    {
+      "form": "новому",
+      "startCharOffset": 2128,
+      "endCharOffset": 2134
+    },
+    {
+      "form": "штамму",
+      "startCharOffset": 2135,
+      "endCharOffset": 2141
+    },
+    {
+      "form": "жёлтой",
+      "startCharOffset": 2142,
+      "endCharOffset": 2148
+    },
+    {
+      "form": "ржавчины",
+      "startCharOffset": 2149,
+      "endCharOffset": 2157
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2157,
+      "endCharOffset": 2158
+    },
+    {
+      "form": "Они",
+      "startCharOffset": 2159,
+      "endCharOffset": 2162
+    },
+    {
+      "form": "к",
+      "startCharOffset": 2163,
+      "endCharOffset": 2164
+    },
+    {
+      "form": "тому",
+      "startCharOffset": 2165,
+      "endCharOffset": 2169
+    },
+    {
+      "form": "же",
+      "startCharOffset": 2170,
+      "endCharOffset": 2172
+    },
+    {
+      "form": "дают",
+      "startCharOffset": 2173,
+      "endCharOffset": 2177
+    },
+    {
+      "form": "на",
+      "startCharOffset": 2178,
+      "endCharOffset": 2180
+    },
+    {
+      "form": "15",
+      "startCharOffset": 2181,
+      "endCharOffset": 2183
+    },
+    {
+      "form": "%",
+      "startCharOffset": 2183,
+      "endCharOffset": 2184
+    },
+    {
+      "form": "больше",
+      "startCharOffset": 2185,
+      "endCharOffset": 2191
+    },
+    {
+      "form": "зерна",
+      "startCharOffset": 2192,
+      "endCharOffset": 2197
+    },
+    {
+      "form": "и",
+      "startCharOffset": 2198,
+      "endCharOffset": 2199
+    },
+    {
+      "form": "устойчивы",
+      "startCharOffset": 2200,
+      "endCharOffset": 2209
+    },
+    {
+      "form": "к",
+      "startCharOffset": 2210,
+      "endCharOffset": 2211
+    },
+    {
+      "form": "линейной",
+      "startCharOffset": 2212,
+      "endCharOffset": 2220
+    },
+    {
+      "form": "ржавчине",
+      "startCharOffset": 2221,
+      "endCharOffset": 2229
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2229,
+      "endCharOffset": 2230
+    },
+    {
+      "form": "Но",
+      "startCharOffset": 2231,
+      "endCharOffset": 2233
+    },
+    {
+      "form": "на",
+      "startCharOffset": 2234,
+      "endCharOffset": 2236
+    },
+    {
+      "form": "то",
+      "startCharOffset": 2237,
+      "endCharOffset": 2239
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2239,
+      "endCharOffset": 2240
+    },
+    {
+      "form": "чтобы",
+      "startCharOffset": 2241,
+      "endCharOffset": 2246
+    },
+    {
+      "form": "получить",
+      "startCharOffset": 2247,
+      "endCharOffset": 2255
+    },
+    {
+      "form": "достаточное",
+      "startCharOffset": 2256,
+      "endCharOffset": 2267
+    },
+    {
+      "form": "количество",
+      "startCharOffset": 2268,
+      "endCharOffset": 2278
+    },
+    {
+      "form": "семян",
+      "startCharOffset": 2279,
+      "endCharOffset": 2284
+    },
+    {
+      "form": "для",
+      "startCharOffset": 2285,
+      "endCharOffset": 2288
+    },
+    {
+      "form": "спасения",
+      "startCharOffset": 2289,
+      "endCharOffset": 2297
+    },
+    {
+      "form": "Восточной",
+      "startCharOffset": 2298,
+      "endCharOffset": 2307
+    },
+    {
+      "form": "Африки",
+      "startCharOffset": 2308,
+      "endCharOffset": 2314
+    },
+    {
+      "form": "и",
+      "startCharOffset": 2315,
+      "endCharOffset": 2316
+    },
+    {
+      "form": "других",
+      "startCharOffset": 2317,
+      "endCharOffset": 2323
+    },
+    {
+      "form": "регионов",
+      "startCharOffset": 2324,
+      "endCharOffset": 2332
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2332,
+      "endCharOffset": 2333
+    },
+    {
+      "form": "уйдёт",
+      "startCharOffset": 2334,
+      "endCharOffset": 2339
+    },
+    {
+      "form": "не",
+      "startCharOffset": 2340,
+      "endCharOffset": 2342
+    },
+    {
+      "form": "один",
+      "startCharOffset": 2343,
+      "endCharOffset": 2347
+    },
+    {
+      "form": "год",
+      "startCharOffset": 2348,
+      "endCharOffset": 2351
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2351,
+      "endCharOffset": 2352
+    },
+    {
+      "form": "Кроме",
+      "startCharOffset": 2353,
+      "endCharOffset": 2358
+    },
+    {
+      "form": "того",
+      "startCharOffset": 2359,
+      "endCharOffset": 2363
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2363,
+      "endCharOffset": 2364
+    },
+    {
+      "form": "есть",
+      "startCharOffset": 2365,
+      "endCharOffset": 2369
+    },
+    {
+      "form": "подозрения",
+      "startCharOffset": 2370,
+      "endCharOffset": 2380
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2380,
+      "endCharOffset": 2381
+    },
+    {
+      "form": "что",
+      "startCharOffset": 2382,
+      "endCharOffset": 2385
+    },
+    {
+      "form": "новый",
+      "startCharOffset": 2386,
+      "endCharOffset": 2391
+    },
+    {
+      "form": "грибок",
+      "startCharOffset": 2392,
+      "endCharOffset": 2398
+    },
+    {
+      "form": "мутирует",
+      "startCharOffset": 2399,
+      "endCharOffset": 2407
+    },
+    {
+      "form": "быстрее",
+      "startCharOffset": 2408,
+      "endCharOffset": 2415
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2415,
+      "endCharOffset": 2416
+    },
+    {
+      "form": "чем",
+      "startCharOffset": 2417,
+      "endCharOffset": 2420
+    },
+    {
+      "form": "предшественники",
+      "startCharOffset": 2421,
+      "endCharOffset": 2436
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2436,
+      "endCharOffset": 2437
+    },
+    {
+      "form": "так",
+      "startCharOffset": 2438,
+      "endCharOffset": 2441
+    },
+    {
+      "form": "что",
+      "startCharOffset": 2442,
+      "endCharOffset": 2445
+    },
+    {
+      "form": "распространение",
+      "startCharOffset": 2446,
+      "endCharOffset": 2461
+    },
+    {
+      "form": "устойчивых",
+      "startCharOffset": 2462,
+      "endCharOffset": 2472
+    },
+    {
+      "form": "сортов",
+      "startCharOffset": 2473,
+      "endCharOffset": 2479
+    },
+    {
+      "form": "может",
+      "startCharOffset": 2480,
+      "endCharOffset": 2485
+    },
+    {
+      "form": "попросту",
+      "startCharOffset": 2486,
+      "endCharOffset": 2494
+    },
+    {
+      "form": "опоздать",
+      "startCharOffset": 2495,
+      "endCharOffset": 2503
+    },
+    {
+      "form": "...",
+      "startCharOffset": 2503,
+      "endCharOffset": 2506
+    },
+    {
+      "form": "Источник",
+      "startCharOffset": 2507,
+      "endCharOffset": 2515
+    },
+    {
+      "form": ":",
+      "startCharOffset": 2515,
+      "endCharOffset": 2516
+    },
+    {
+      "form": "newscientist.com",
+      "startCharOffset": 2517,
+      "endCharOffset": 2533
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      9,
+      27,
+      59,
+      68,
+      95,
+      106,
+      124,
+      152,
+      176,
+      192,
+      212,
+      226,
+      257,
+      265,
+      292,
+      326,
+      351,
+      367,
+      389,
+      413,
+      416
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 3,
+              "end": 5
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 13,
+              "end": 15
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 59,
+              "end": 61
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 329,
+              "end": 336
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 378,
+              "end": 380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 335,
+              "end": 336
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 336,
+              "end": 337
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 337,
+              "end": 338
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 338,
+              "end": 339
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 339,
+              "end": 340
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 340,
+              "end": 341
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 341,
+              "end": 342
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 342,
+              "end": 343
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 343,
+              "end": 344
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 344,
+              "end": 345
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 345,
+              "end": 346
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 346,
+              "end": 347
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 347,
+              "end": 348
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 348,
+              "end": 349
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 349,
+              "end": 350
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 351,
+              "end": 352
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 352,
+              "end": 353
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 353,
+              "end": 354
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 354,
+              "end": 355
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 355,
+              "end": 356
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 356,
+              "end": 357
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 357,
+              "end": 358
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 358,
+              "end": 359
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 359,
+              "end": 360
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 360,
+              "end": 361
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 361,
+              "end": 362
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 362,
+              "end": 363
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 363,
+              "end": 364
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 364,
+              "end": 365
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 365,
+              "end": 366
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 366,
+              "end": 367
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 367,
+              "end": 368
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 368,
+              "end": 369
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 369,
+              "end": 370
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 370,
+              "end": 371
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 371,
+              "end": 372
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 372,
+              "end": 373
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 373,
+              "end": 374
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 374,
+              "end": 375
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 375,
+              "end": 376
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 376,
+              "end": 377
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 377,
+              "end": 378
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 378,
+              "end": 379
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 379,
+              "end": 380
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 380,
+              "end": 381
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 381,
+              "end": 382
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 382,
+              "end": 383
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 383,
+              "end": 384
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 384,
+              "end": 385
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 385,
+              "end": 386
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 386,
+              "end": 387
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 387,
+              "end": 388
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 388,
+              "end": 389
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 389,
+              "end": 390
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 390,
+              "end": 391
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 391,
+              "end": 392
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 392,
+              "end": 393
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 393,
+              "end": 394
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 394,
+              "end": 395
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 395,
+              "end": 396
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 396,
+              "end": 397
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 397,
+              "end": 398
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 398,
+              "end": 399
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 399,
+              "end": 400
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 400,
+              "end": 401
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 401,
+              "end": 402
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 402,
+              "end": 403
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 403,
+              "end": 404
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 404,
+              "end": 405
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 405,
+              "end": 406
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 406,
+              "end": 407
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 407,
+              "end": 408
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 408,
+              "end": 409
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 409,
+              "end": 410
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 410,
+              "end": 411
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 411,
+              "end": 412
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 412,
+              "end": 413
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 413,
+              "end": 414
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 414,
+              "end": 415
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 415,
+              "end": 416
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

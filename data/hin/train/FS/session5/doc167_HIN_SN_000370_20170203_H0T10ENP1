@@ -1,0 +1,435 @@
+{
+  "corpusId": "",
+  "id": "doc167_HIN_SN_000370_20170203_H0T10ENP1",
+  "text": "आम बजट 2017-18 ने घर खरीदने वालों को राजा बना दिया : श्री एम. वेंकैया नायडू https://t.co/VyySr8Sbzy https://t.co/5Kq1VTfGsf",
+  "tokens": [
+    "आम",
+    "बजट",
+    "2017-18",
+    "ने",
+    "घर",
+    "खरीदने",
+    "वालों",
+    "को",
+    "राजा",
+    "बना",
+    "दिया",
+    ":",
+    "श्री",
+    "एम",
+    ".",
+    "वेंकैया",
+    "नायडू",
+    "https://t.co/VyySr8Sbzy",
+    "https://t.co/5Kq1VTfGsf"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "आम",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "बजट",
+      "startCharOffset": 3,
+      "endCharOffset": 6
+    },
+    {
+      "form": "2017-18",
+      "startCharOffset": 7,
+      "endCharOffset": 14
+    },
+    {
+      "form": "ने",
+      "startCharOffset": 15,
+      "endCharOffset": 17
+    },
+    {
+      "form": "घर",
+      "startCharOffset": 18,
+      "endCharOffset": 20
+    },
+    {
+      "form": "खरीदने",
+      "startCharOffset": 21,
+      "endCharOffset": 27
+    },
+    {
+      "form": "वालों",
+      "startCharOffset": 28,
+      "endCharOffset": 33
+    },
+    {
+      "form": "को",
+      "startCharOffset": 34,
+      "endCharOffset": 36
+    },
+    {
+      "form": "राजा",
+      "startCharOffset": 37,
+      "endCharOffset": 41
+    },
+    {
+      "form": "बना",
+      "startCharOffset": 42,
+      "endCharOffset": 45
+    },
+    {
+      "form": "दिया",
+      "startCharOffset": 46,
+      "endCharOffset": 50
+    },
+    {
+      "form": ":",
+      "startCharOffset": 51,
+      "endCharOffset": 52
+    },
+    {
+      "form": "श्री",
+      "startCharOffset": 53,
+      "endCharOffset": 57
+    },
+    {
+      "form": "एम",
+      "startCharOffset": 58,
+      "endCharOffset": 60
+    },
+    {
+      "form": ".",
+      "startCharOffset": 60,
+      "endCharOffset": 61
+    },
+    {
+      "form": "वेंकैया",
+      "startCharOffset": 62,
+      "endCharOffset": 69
+    },
+    {
+      "form": "नायडू",
+      "startCharOffset": 70,
+      "endCharOffset": 75
+    },
+    {
+      "form": "https://t.co/VyySr8Sbzy",
+      "startCharOffset": 76,
+      "endCharOffset": 99
+    },
+    {
+      "form": "https://t.co/5Kq1VTfGsf",
+      "startCharOffset": 100,
+      "endCharOffset": 123
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 13,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 13,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "aam",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "bajatt",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "2017-18",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "ne",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "ghar",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "khariidane",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "vaalom",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "ko",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "raajaa",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "banaa",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "diyaa",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "shrii",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "em",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "vemkaiyaa",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "naayadduu",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "https://t.co/VyySr8Sbzy",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "https://t.co/5Kq1VTfGsf",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

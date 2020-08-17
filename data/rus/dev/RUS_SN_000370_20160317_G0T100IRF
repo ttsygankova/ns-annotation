@@ -1,0 +1,224 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160317_G0T100IRF",
+  "text": "Переселенцы из зоны АТО и Крыма получат бесплатную помощь от Украинского Хельсинского Союза https://t.co/HRc5GTLh5I",
+  "tokens": [
+    "Переселенцы",
+    "из",
+    "зоны",
+    "АТО",
+    "и",
+    "Крыма",
+    "получат",
+    "бесплатную",
+    "помощь",
+    "от",
+    "Украинского",
+    "Хельсинского",
+    "Союза",
+    "https://t.co/HRc5GTLh5I"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Переселенцы",
+      "startCharOffset": 0,
+      "endCharOffset": 11
+    },
+    {
+      "form": "из",
+      "startCharOffset": 12,
+      "endCharOffset": 14
+    },
+    {
+      "form": "зоны",
+      "startCharOffset": 15,
+      "endCharOffset": 19
+    },
+    {
+      "form": "АТО",
+      "startCharOffset": 20,
+      "endCharOffset": 23
+    },
+    {
+      "form": "и",
+      "startCharOffset": 24,
+      "endCharOffset": 25
+    },
+    {
+      "form": "Крыма",
+      "startCharOffset": 26,
+      "endCharOffset": 31
+    },
+    {
+      "form": "получат",
+      "startCharOffset": 32,
+      "endCharOffset": 39
+    },
+    {
+      "form": "бесплатную",
+      "startCharOffset": 40,
+      "endCharOffset": 50
+    },
+    {
+      "form": "помощь",
+      "startCharOffset": 51,
+      "endCharOffset": 57
+    },
+    {
+      "form": "от",
+      "startCharOffset": 58,
+      "endCharOffset": 60
+    },
+    {
+      "form": "Украинского",
+      "startCharOffset": 61,
+      "endCharOffset": 72
+    },
+    {
+      "form": "Хельсинского",
+      "startCharOffset": 73,
+      "endCharOffset": 85
+    },
+    {
+      "form": "Союза",
+      "startCharOffset": 86,
+      "endCharOffset": 91
+    },
+    {
+      "form": "https://t.co/HRc5GTLh5I",
+      "startCharOffset": 92,
+      "endCharOffset": 115
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 10,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

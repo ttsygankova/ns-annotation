@@ -1,0 +1,333 @@
+{
+  "corpusId": "",
+  "id": "doc104_IND_SN_000370_20170210_H0T10EU32",
+  "text": "#bali #longsor Tragis, Dua Keluarga Meninggal Kena Longsoran di Bangli https://t.co/sRcCq3Slxh https://t.co/V2ih8j9qPm",
+  "tokens": [
+    "#bali",
+    "#longsor",
+    "Tragis",
+    ",",
+    "Dua",
+    "Keluarga",
+    "Meninggal",
+    "Kena",
+    "Longsoran",
+    "di",
+    "Bangli",
+    "https://t.co/sRcCq3Slxh",
+    "https://t.co/V2ih8j9qPm"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#bali",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "#longsor",
+      "startCharOffset": 6,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Tragis",
+      "startCharOffset": 15,
+      "endCharOffset": 21
+    },
+    {
+      "form": ",",
+      "startCharOffset": 21,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Dua",
+      "startCharOffset": 23,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Keluarga",
+      "startCharOffset": 27,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Meninggal",
+      "startCharOffset": 36,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Kena",
+      "startCharOffset": 46,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Longsoran",
+      "startCharOffset": 51,
+      "endCharOffset": 60
+    },
+    {
+      "form": "di",
+      "startCharOffset": 61,
+      "endCharOffset": 63
+    },
+    {
+      "form": "Bangli",
+      "startCharOffset": 64,
+      "endCharOffset": 70
+    },
+    {
+      "form": "https://t.co/sRcCq3Slxh",
+      "startCharOffset": 71,
+      "endCharOffset": 94
+    },
+    {
+      "form": "https://t.co/V2ih8j9qPm",
+      "startCharOffset": 95,
+      "endCharOffset": 118
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "#bali",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "#longsor",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Tragis",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Dua",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Keluarga",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Meninggal",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Kena",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Longsoran",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Bangli",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/sRcCq3Slxh",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "https://t.co/V2ih8j9qPm",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

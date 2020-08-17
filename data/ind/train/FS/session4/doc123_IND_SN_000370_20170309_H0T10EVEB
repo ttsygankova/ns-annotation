@@ -1,0 +1,495 @@
+{
+  "corpusId": "",
+  "id": "doc123_IND_SN_000370_20170309_H0T10EVEB",
+  "text": "RT @TirtoID: Menurutmu, selain sambal nusantara dan musik, apalagi yang akan menyatukan Indonesia? Selamat Hari Musik Nasional. https://t.c…",
+  "tokens": [
+    "RT",
+    "@TirtoID:",
+    "Menurutmu",
+    ",",
+    "selain",
+    "sambal",
+    "nusantara",
+    "dan",
+    "musik",
+    ",",
+    "apalagi",
+    "yang",
+    "akan",
+    "menyatukan",
+    "Indonesia",
+    "?",
+    "Selamat",
+    "Hari",
+    "Musik",
+    "Nasional",
+    ".",
+    "https://t.c…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@TirtoID:",
+      "startCharOffset": 3,
+      "endCharOffset": 12
+    },
+    {
+      "form": "Menurutmu",
+      "startCharOffset": 13,
+      "endCharOffset": 22
+    },
+    {
+      "form": ",",
+      "startCharOffset": 22,
+      "endCharOffset": 23
+    },
+    {
+      "form": "selain",
+      "startCharOffset": 24,
+      "endCharOffset": 30
+    },
+    {
+      "form": "sambal",
+      "startCharOffset": 31,
+      "endCharOffset": 37
+    },
+    {
+      "form": "nusantara",
+      "startCharOffset": 38,
+      "endCharOffset": 47
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 48,
+      "endCharOffset": 51
+    },
+    {
+      "form": "musik",
+      "startCharOffset": 52,
+      "endCharOffset": 57
+    },
+    {
+      "form": ",",
+      "startCharOffset": 57,
+      "endCharOffset": 58
+    },
+    {
+      "form": "apalagi",
+      "startCharOffset": 59,
+      "endCharOffset": 66
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 67,
+      "endCharOffset": 71
+    },
+    {
+      "form": "akan",
+      "startCharOffset": 72,
+      "endCharOffset": 76
+    },
+    {
+      "form": "menyatukan",
+      "startCharOffset": 77,
+      "endCharOffset": 87
+    },
+    {
+      "form": "Indonesia",
+      "startCharOffset": 88,
+      "endCharOffset": 97
+    },
+    {
+      "form": "?",
+      "startCharOffset": 97,
+      "endCharOffset": 98
+    },
+    {
+      "form": "Selamat",
+      "startCharOffset": 99,
+      "endCharOffset": 106
+    },
+    {
+      "form": "Hari",
+      "startCharOffset": 107,
+      "endCharOffset": 111
+    },
+    {
+      "form": "Musik",
+      "startCharOffset": 112,
+      "endCharOffset": 117
+    },
+    {
+      "form": "Nasional",
+      "startCharOffset": 118,
+      "endCharOffset": 126
+    },
+    {
+      "form": ".",
+      "startCharOffset": 126,
+      "endCharOffset": 127
+    },
+    {
+      "form": "https://t.c…",
+      "startCharOffset": 128,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      22
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@TirtoID:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Menurutmu",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "selain",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "sambal",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "nusantara",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "musik",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "apalagi",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "akan",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "menyatukan",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "Indonesia",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "?",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "Selamat",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "Hari",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "Musik",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "Nasional",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "https://t.c...",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

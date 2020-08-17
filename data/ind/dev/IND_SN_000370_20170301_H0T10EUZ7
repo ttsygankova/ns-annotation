@@ -1,0 +1,250 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170301_H0T10EUZ7",
+  "text": "Selamat datang Raja Salman di negeri kami Indonesia https://t.co/eaWjKKkJNm",
+  "tokens": [
+    "Selamat",
+    "datang",
+    "Raja",
+    "Salman",
+    "di",
+    "negeri",
+    "kami",
+    "Indonesia",
+    "https://t.co/eaWjKKkJNm"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Selamat",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "datang",
+      "startCharOffset": 8,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Raja",
+      "startCharOffset": 15,
+      "endCharOffset": 19
+    },
+    {
+      "form": "Salman",
+      "startCharOffset": 20,
+      "endCharOffset": 26
+    },
+    {
+      "form": "di",
+      "startCharOffset": 27,
+      "endCharOffset": 29
+    },
+    {
+      "form": "negeri",
+      "startCharOffset": 30,
+      "endCharOffset": 36
+    },
+    {
+      "form": "kami",
+      "startCharOffset": 37,
+      "endCharOffset": 41
+    },
+    {
+      "form": "Indonesia",
+      "startCharOffset": 42,
+      "endCharOffset": 51
+    },
+    {
+      "form": "https://t.co/eaWjKKkJNm",
+      "startCharOffset": 52,
+      "endCharOffset": 75
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      9
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Selamat",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "datang",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Raja",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Salman",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "negeri",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "kami",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Indonesia",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "https://t.co/eaWjKKkJNm",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160321_G0T100FXV",
+  "text": "Опять? Да как они смеют, последний приют терроризма и взрывают еженедельно, Эрдоган расстроится! ))) https://t.co/f77vNQVVko",
+  "tokens": [
+    "Опять",
+    "?",
+    "Да",
+    "как",
+    "они",
+    "смеют",
+    ",",
+    "последний",
+    "приют",
+    "терроризма",
+    "и",
+    "взрывают",
+    "еженедельно",
+    ",",
+    "Эрдоган",
+    "расстроится",
+    "!",
+    ")))",
+    "https://t.co/f77vNQVVko"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Опять",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "?",
+      "startCharOffset": 5,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Да",
+      "startCharOffset": 7,
+      "endCharOffset": 9
+    },
+    {
+      "form": "как",
+      "startCharOffset": 10,
+      "endCharOffset": 13
+    },
+    {
+      "form": "они",
+      "startCharOffset": 14,
+      "endCharOffset": 17
+    },
+    {
+      "form": "смеют",
+      "startCharOffset": 18,
+      "endCharOffset": 23
+    },
+    {
+      "form": ",",
+      "startCharOffset": 23,
+      "endCharOffset": 24
+    },
+    {
+      "form": "последний",
+      "startCharOffset": 25,
+      "endCharOffset": 34
+    },
+    {
+      "form": "приют",
+      "startCharOffset": 35,
+      "endCharOffset": 40
+    },
+    {
+      "form": "терроризма",
+      "startCharOffset": 41,
+      "endCharOffset": 51
+    },
+    {
+      "form": "и",
+      "startCharOffset": 52,
+      "endCharOffset": 53
+    },
+    {
+      "form": "взрывают",
+      "startCharOffset": 54,
+      "endCharOffset": 62
+    },
+    {
+      "form": "еженедельно",
+      "startCharOffset": 63,
+      "endCharOffset": 74
+    },
+    {
+      "form": ",",
+      "startCharOffset": 74,
+      "endCharOffset": 75
+    },
+    {
+      "form": "Эрдоган",
+      "startCharOffset": 76,
+      "endCharOffset": 83
+    },
+    {
+      "form": "расстроится",
+      "startCharOffset": 84,
+      "endCharOffset": 95
+    },
+    {
+      "form": "!",
+      "startCharOffset": 95,
+      "endCharOffset": 96
+    },
+    {
+      "form": ")))",
+      "startCharOffset": 97,
+      "endCharOffset": 100
+    },
+    {
+      "form": "https://t.co/f77vNQVVko",
+      "startCharOffset": 101,
+      "endCharOffset": 124
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

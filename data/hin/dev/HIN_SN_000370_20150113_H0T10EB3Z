@@ -1,0 +1,326 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150113_H0T10EB3Z",
+  "text": "RT @IamHRichaSaxena: BJP - दिल्ली चले मोदी के साथ AAP - केजरीवाल चलेगा दिल्ली के साथ #AAP4DelhiSolutions #DelhiNext @akonlinesena",
+  "tokens": [
+    "RT",
+    "@IamHRichaSaxena:",
+    "BJP",
+    "-",
+    "दिल्ली",
+    "चले",
+    "मोदी",
+    "के",
+    "साथ",
+    "AAP",
+    "-",
+    "केजरीवाल",
+    "चलेगा",
+    "दिल्ली",
+    "के",
+    "साथ",
+    "#AAP4DelhiSolutions",
+    "#DelhiNext",
+    "@akonlinesena"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@IamHRichaSaxena:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "BJP",
+      "startCharOffset": 21,
+      "endCharOffset": 24
+    },
+    {
+      "form": "-",
+      "startCharOffset": 25,
+      "endCharOffset": 26
+    },
+    {
+      "form": "दिल्ली",
+      "startCharOffset": 27,
+      "endCharOffset": 33
+    },
+    {
+      "form": "चले",
+      "startCharOffset": 34,
+      "endCharOffset": 37
+    },
+    {
+      "form": "मोदी",
+      "startCharOffset": 38,
+      "endCharOffset": 42
+    },
+    {
+      "form": "के",
+      "startCharOffset": 43,
+      "endCharOffset": 45
+    },
+    {
+      "form": "साथ",
+      "startCharOffset": 46,
+      "endCharOffset": 49
+    },
+    {
+      "form": "AAP",
+      "startCharOffset": 50,
+      "endCharOffset": 53
+    },
+    {
+      "form": "-",
+      "startCharOffset": 54,
+      "endCharOffset": 55
+    },
+    {
+      "form": "केजरीवाल",
+      "startCharOffset": 56,
+      "endCharOffset": 64
+    },
+    {
+      "form": "चलेगा",
+      "startCharOffset": 65,
+      "endCharOffset": 70
+    },
+    {
+      "form": "दिल्ली",
+      "startCharOffset": 71,
+      "endCharOffset": 77
+    },
+    {
+      "form": "के",
+      "startCharOffset": 78,
+      "endCharOffset": 80
+    },
+    {
+      "form": "साथ",
+      "startCharOffset": 81,
+      "endCharOffset": 84
+    },
+    {
+      "form": "#AAP4DelhiSolutions",
+      "startCharOffset": 85,
+      "endCharOffset": 104
+    },
+    {
+      "form": "#DelhiNext",
+      "startCharOffset": 105,
+      "endCharOffset": 115
+    },
+    {
+      "form": "@akonlinesena",
+      "startCharOffset": 116,
+      "endCharOffset": 129
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

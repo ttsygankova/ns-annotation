@@ -1,0 +1,2441 @@
+{
+  "corpusId": "",
+  "id": "HIN_NW_003818_20170729_H0024FHF0",
+  "text": " किस्को प्रखंड क्षेत्र में बढ़ा मलेरिया का प्रकोप   किस्को- लोहरदगा: प्रखंड क्षेत्र में बरसात के आगमन होते ही मलेरिया का प्रकोप शुरू हो गया है. प्रखंड के खरकी पंचायत के सेमरडीह सहित अन्य गांवों में मलेरिया की चपेट में आकर दर्जनों लोग बीमार हैं. एक बार फिर किस्को प्रखंड को मलेरिया अपनी चपेट में लेता जा रहा है. क्षेत्र में मलेरिया और टाइफाइड के मरीजों में बढ़ोतरी हो रही है.  खरकी पंचायत के सभी गांवों में मलेरिया से दर्जनों मरीज ग्रसित हैं. खरकी पंचायत अंतर्गत सेमरडीह गांव निवासी पंचम किसान की पुत्री तारामनी, अभय सिंह, तिजइन भगत, सुकरी खेरवारिन सहित कोचा करम टोली निवासी दर्जनों ग्रामीण मलेरिया की चपेट में हैं.  खरकी पंचायत की मुखिया चांदमनी उरांव ने कहा कि अब तक सामुदायिक स्वास्थ्य केंद्र किस्को की ओर से क्षेत्र में मलेरिया, डायरिया व टाइफाइड के रोकथाम के लिए कोई कार्य नहीं किया गया है. डीडीटी का छिड़काव भी नहीं किया गया है. इस मामले में सामुदायिक स्वास्थ्य केंद्र के चिकित्सा पदाधिकारी ने कहा कि मलेरिया से प्रभावित क्षेत्रों में शिविर लगाया जायेगा.",
+  "tokens": [
+    "किस्को",
+    "प्रखंड",
+    "क्षेत्र",
+    "में",
+    "बढ़ा",
+    "मलेरिया",
+    "का",
+    "प्रकोप",
+    "किस्को",
+    "-",
+    "लोहरदगा",
+    ":",
+    "प्रखंड",
+    "क्षेत्र",
+    "में",
+    "बरसात",
+    "के",
+    "आगमन",
+    "होते",
+    "ही",
+    "मलेरिया",
+    "का",
+    "प्रकोप",
+    "शुरू",
+    "हो",
+    "गया",
+    "है",
+    ".",
+    "प्रखंड",
+    "के",
+    "खरकी",
+    "पंचायत",
+    "के",
+    "सेमरडीह",
+    "सहित",
+    "अन्य",
+    "गांवों",
+    "में",
+    "मलेरिया",
+    "की",
+    "चपेट",
+    "में",
+    "आकर",
+    "दर्जनों",
+    "लोग",
+    "बीमार",
+    "हैं",
+    ".",
+    "एक",
+    "बार",
+    "फिर",
+    "किस्को",
+    "प्रखंड",
+    "को",
+    "मलेरिया",
+    "अपनी",
+    "चपेट",
+    "में",
+    "लेता",
+    "जा",
+    "रहा",
+    "है",
+    ".",
+    "क्षेत्र",
+    "में",
+    "मलेरिया",
+    "और",
+    "टाइफाइड",
+    "के",
+    "मरीजों",
+    "में",
+    "बढ़ोतरी",
+    "हो",
+    "रही",
+    "है",
+    ".",
+    "खरकी",
+    "पंचायत",
+    "के",
+    "सभी",
+    "गांवों",
+    "में",
+    "मलेरिया",
+    "से",
+    "दर्जनों",
+    "मरीज",
+    "ग्रसित",
+    "हैं",
+    ".",
+    "खरकी",
+    "पंचायत",
+    "अंतर्गत",
+    "सेमरडीह",
+    "गांव",
+    "निवासी",
+    "पंचम",
+    "किसान",
+    "की",
+    "पुत्री",
+    "तारामनी",
+    ",",
+    "अभय",
+    "सिंह",
+    ",",
+    "तिजइन",
+    "भगत",
+    ",",
+    "सुकरी",
+    "खेरवारिन",
+    "सहित",
+    "कोचा",
+    "करम",
+    "टोली",
+    "निवासी",
+    "दर्जनों",
+    "ग्रामीण",
+    "मलेरिया",
+    "की",
+    "चपेट",
+    "में",
+    "हैं",
+    ".",
+    "खरकी",
+    "पंचायत",
+    "की",
+    "मुखिया",
+    "चांदमनी",
+    "उरांव",
+    "ने",
+    "कहा",
+    "कि",
+    "अब",
+    "तक",
+    "सामुदायिक",
+    "स्वास्थ्य",
+    "केंद्र",
+    "किस्को",
+    "की",
+    "ओर",
+    "से",
+    "क्षेत्र",
+    "में",
+    "मलेरिया",
+    ",",
+    "डायरिया",
+    "व",
+    "टाइफाइड",
+    "के",
+    "रोकथाम",
+    "के",
+    "लिए",
+    "कोई",
+    "कार्य",
+    "नहीं",
+    "किया",
+    "गया",
+    "है",
+    ".",
+    "डीडीटी",
+    "का",
+    "छिड़काव",
+    "भी",
+    "नहीं",
+    "किया",
+    "गया",
+    "है",
+    ".",
+    "इस",
+    "मामले",
+    "में",
+    "सामुदायिक",
+    "स्वास्थ्य",
+    "केंद्र",
+    "के",
+    "चिकित्सा",
+    "पदाधिकारी",
+    "ने",
+    "कहा",
+    "कि",
+    "मलेरिया",
+    "से",
+    "प्रभावित",
+    "क्षेत्रों",
+    "में",
+    "शिविर",
+    "लगाया",
+    "जायेगा",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "किस्को",
+      "startCharOffset": 1,
+      "endCharOffset": 7
+    },
+    {
+      "form": "प्रखंड",
+      "startCharOffset": 8,
+      "endCharOffset": 14
+    },
+    {
+      "form": "क्षेत्र",
+      "startCharOffset": 15,
+      "endCharOffset": 22
+    },
+    {
+      "form": "में",
+      "startCharOffset": 23,
+      "endCharOffset": 26
+    },
+    {
+      "form": "बढ़ा",
+      "startCharOffset": 27,
+      "endCharOffset": 31
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 32,
+      "endCharOffset": 39
+    },
+    {
+      "form": "का",
+      "startCharOffset": 40,
+      "endCharOffset": 42
+    },
+    {
+      "form": "प्रकोप",
+      "startCharOffset": 43,
+      "endCharOffset": 49
+    },
+    {
+      "form": "किस्को",
+      "startCharOffset": 52,
+      "endCharOffset": 58
+    },
+    {
+      "form": "-",
+      "startCharOffset": 58,
+      "endCharOffset": 59
+    },
+    {
+      "form": "लोहरदगा",
+      "startCharOffset": 60,
+      "endCharOffset": 67
+    },
+    {
+      "form": ":",
+      "startCharOffset": 67,
+      "endCharOffset": 68
+    },
+    {
+      "form": "प्रखंड",
+      "startCharOffset": 69,
+      "endCharOffset": 75
+    },
+    {
+      "form": "क्षेत्र",
+      "startCharOffset": 76,
+      "endCharOffset": 83
+    },
+    {
+      "form": "में",
+      "startCharOffset": 84,
+      "endCharOffset": 87
+    },
+    {
+      "form": "बरसात",
+      "startCharOffset": 88,
+      "endCharOffset": 93
+    },
+    {
+      "form": "के",
+      "startCharOffset": 94,
+      "endCharOffset": 96
+    },
+    {
+      "form": "आगमन",
+      "startCharOffset": 97,
+      "endCharOffset": 101
+    },
+    {
+      "form": "होते",
+      "startCharOffset": 102,
+      "endCharOffset": 106
+    },
+    {
+      "form": "ही",
+      "startCharOffset": 107,
+      "endCharOffset": 109
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 110,
+      "endCharOffset": 117
+    },
+    {
+      "form": "का",
+      "startCharOffset": 118,
+      "endCharOffset": 120
+    },
+    {
+      "form": "प्रकोप",
+      "startCharOffset": 121,
+      "endCharOffset": 127
+    },
+    {
+      "form": "शुरू",
+      "startCharOffset": 128,
+      "endCharOffset": 132
+    },
+    {
+      "form": "हो",
+      "startCharOffset": 133,
+      "endCharOffset": 135
+    },
+    {
+      "form": "गया",
+      "startCharOffset": 136,
+      "endCharOffset": 139
+    },
+    {
+      "form": "है",
+      "startCharOffset": 140,
+      "endCharOffset": 142
+    },
+    {
+      "form": ".",
+      "startCharOffset": 142,
+      "endCharOffset": 143
+    },
+    {
+      "form": "प्रखंड",
+      "startCharOffset": 144,
+      "endCharOffset": 150
+    },
+    {
+      "form": "के",
+      "startCharOffset": 151,
+      "endCharOffset": 153
+    },
+    {
+      "form": "खरकी",
+      "startCharOffset": 154,
+      "endCharOffset": 158
+    },
+    {
+      "form": "पंचायत",
+      "startCharOffset": 159,
+      "endCharOffset": 165
+    },
+    {
+      "form": "के",
+      "startCharOffset": 166,
+      "endCharOffset": 168
+    },
+    {
+      "form": "सेमरडीह",
+      "startCharOffset": 169,
+      "endCharOffset": 176
+    },
+    {
+      "form": "सहित",
+      "startCharOffset": 177,
+      "endCharOffset": 181
+    },
+    {
+      "form": "अन्य",
+      "startCharOffset": 182,
+      "endCharOffset": 186
+    },
+    {
+      "form": "गांवों",
+      "startCharOffset": 187,
+      "endCharOffset": 193
+    },
+    {
+      "form": "में",
+      "startCharOffset": 194,
+      "endCharOffset": 197
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 198,
+      "endCharOffset": 205
+    },
+    {
+      "form": "की",
+      "startCharOffset": 206,
+      "endCharOffset": 208
+    },
+    {
+      "form": "चपेट",
+      "startCharOffset": 209,
+      "endCharOffset": 213
+    },
+    {
+      "form": "में",
+      "startCharOffset": 214,
+      "endCharOffset": 217
+    },
+    {
+      "form": "आकर",
+      "startCharOffset": 218,
+      "endCharOffset": 221
+    },
+    {
+      "form": "दर्जनों",
+      "startCharOffset": 222,
+      "endCharOffset": 229
+    },
+    {
+      "form": "लोग",
+      "startCharOffset": 230,
+      "endCharOffset": 233
+    },
+    {
+      "form": "बीमार",
+      "startCharOffset": 234,
+      "endCharOffset": 239
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 240,
+      "endCharOffset": 243
+    },
+    {
+      "form": ".",
+      "startCharOffset": 243,
+      "endCharOffset": 244
+    },
+    {
+      "form": "एक",
+      "startCharOffset": 245,
+      "endCharOffset": 247
+    },
+    {
+      "form": "बार",
+      "startCharOffset": 248,
+      "endCharOffset": 251
+    },
+    {
+      "form": "फिर",
+      "startCharOffset": 252,
+      "endCharOffset": 255
+    },
+    {
+      "form": "किस्को",
+      "startCharOffset": 256,
+      "endCharOffset": 262
+    },
+    {
+      "form": "प्रखंड",
+      "startCharOffset": 263,
+      "endCharOffset": 269
+    },
+    {
+      "form": "को",
+      "startCharOffset": 270,
+      "endCharOffset": 272
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 273,
+      "endCharOffset": 280
+    },
+    {
+      "form": "अपनी",
+      "startCharOffset": 281,
+      "endCharOffset": 285
+    },
+    {
+      "form": "चपेट",
+      "startCharOffset": 286,
+      "endCharOffset": 290
+    },
+    {
+      "form": "में",
+      "startCharOffset": 291,
+      "endCharOffset": 294
+    },
+    {
+      "form": "लेता",
+      "startCharOffset": 295,
+      "endCharOffset": 299
+    },
+    {
+      "form": "जा",
+      "startCharOffset": 300,
+      "endCharOffset": 302
+    },
+    {
+      "form": "रहा",
+      "startCharOffset": 303,
+      "endCharOffset": 306
+    },
+    {
+      "form": "है",
+      "startCharOffset": 307,
+      "endCharOffset": 309
+    },
+    {
+      "form": ".",
+      "startCharOffset": 309,
+      "endCharOffset": 310
+    },
+    {
+      "form": "क्षेत्र",
+      "startCharOffset": 311,
+      "endCharOffset": 318
+    },
+    {
+      "form": "में",
+      "startCharOffset": 319,
+      "endCharOffset": 322
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 323,
+      "endCharOffset": 330
+    },
+    {
+      "form": "और",
+      "startCharOffset": 331,
+      "endCharOffset": 333
+    },
+    {
+      "form": "टाइफाइड",
+      "startCharOffset": 334,
+      "endCharOffset": 341
+    },
+    {
+      "form": "के",
+      "startCharOffset": 342,
+      "endCharOffset": 344
+    },
+    {
+      "form": "मरीजों",
+      "startCharOffset": 345,
+      "endCharOffset": 351
+    },
+    {
+      "form": "में",
+      "startCharOffset": 352,
+      "endCharOffset": 355
+    },
+    {
+      "form": "बढ़ोतरी",
+      "startCharOffset": 356,
+      "endCharOffset": 362
+    },
+    {
+      "form": "हो",
+      "startCharOffset": 363,
+      "endCharOffset": 365
+    },
+    {
+      "form": "रही",
+      "startCharOffset": 366,
+      "endCharOffset": 369
+    },
+    {
+      "form": "है",
+      "startCharOffset": 370,
+      "endCharOffset": 372
+    },
+    {
+      "form": ".",
+      "startCharOffset": 372,
+      "endCharOffset": 373
+    },
+    {
+      "form": "खरकी",
+      "startCharOffset": 375,
+      "endCharOffset": 379
+    },
+    {
+      "form": "पंचायत",
+      "startCharOffset": 380,
+      "endCharOffset": 386
+    },
+    {
+      "form": "के",
+      "startCharOffset": 387,
+      "endCharOffset": 389
+    },
+    {
+      "form": "सभी",
+      "startCharOffset": 390,
+      "endCharOffset": 393
+    },
+    {
+      "form": "गांवों",
+      "startCharOffset": 394,
+      "endCharOffset": 400
+    },
+    {
+      "form": "में",
+      "startCharOffset": 401,
+      "endCharOffset": 404
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 405,
+      "endCharOffset": 412
+    },
+    {
+      "form": "से",
+      "startCharOffset": 413,
+      "endCharOffset": 415
+    },
+    {
+      "form": "दर्जनों",
+      "startCharOffset": 416,
+      "endCharOffset": 423
+    },
+    {
+      "form": "मरीज",
+      "startCharOffset": 424,
+      "endCharOffset": 428
+    },
+    {
+      "form": "ग्रसित",
+      "startCharOffset": 429,
+      "endCharOffset": 435
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 436,
+      "endCharOffset": 439
+    },
+    {
+      "form": ".",
+      "startCharOffset": 439,
+      "endCharOffset": 440
+    },
+    {
+      "form": "खरकी",
+      "startCharOffset": 441,
+      "endCharOffset": 445
+    },
+    {
+      "form": "पंचायत",
+      "startCharOffset": 446,
+      "endCharOffset": 452
+    },
+    {
+      "form": "अंतर्गत",
+      "startCharOffset": 453,
+      "endCharOffset": 460
+    },
+    {
+      "form": "सेमरडीह",
+      "startCharOffset": 461,
+      "endCharOffset": 468
+    },
+    {
+      "form": "गांव",
+      "startCharOffset": 469,
+      "endCharOffset": 473
+    },
+    {
+      "form": "निवासी",
+      "startCharOffset": 474,
+      "endCharOffset": 480
+    },
+    {
+      "form": "पंचम",
+      "startCharOffset": 481,
+      "endCharOffset": 485
+    },
+    {
+      "form": "किसान",
+      "startCharOffset": 486,
+      "endCharOffset": 491
+    },
+    {
+      "form": "की",
+      "startCharOffset": 492,
+      "endCharOffset": 494
+    },
+    {
+      "form": "पुत्री",
+      "startCharOffset": 495,
+      "endCharOffset": 501
+    },
+    {
+      "form": "तारामनी",
+      "startCharOffset": 502,
+      "endCharOffset": 509
+    },
+    {
+      "form": ",",
+      "startCharOffset": 509,
+      "endCharOffset": 510
+    },
+    {
+      "form": "अभय",
+      "startCharOffset": 511,
+      "endCharOffset": 514
+    },
+    {
+      "form": "सिंह",
+      "startCharOffset": 515,
+      "endCharOffset": 519
+    },
+    {
+      "form": ",",
+      "startCharOffset": 519,
+      "endCharOffset": 520
+    },
+    {
+      "form": "तिजइन",
+      "startCharOffset": 521,
+      "endCharOffset": 526
+    },
+    {
+      "form": "भगत",
+      "startCharOffset": 527,
+      "endCharOffset": 530
+    },
+    {
+      "form": ",",
+      "startCharOffset": 530,
+      "endCharOffset": 531
+    },
+    {
+      "form": "सुकरी",
+      "startCharOffset": 532,
+      "endCharOffset": 537
+    },
+    {
+      "form": "खेरवारिन",
+      "startCharOffset": 538,
+      "endCharOffset": 546
+    },
+    {
+      "form": "सहित",
+      "startCharOffset": 547,
+      "endCharOffset": 551
+    },
+    {
+      "form": "कोचा",
+      "startCharOffset": 552,
+      "endCharOffset": 556
+    },
+    {
+      "form": "करम",
+      "startCharOffset": 557,
+      "endCharOffset": 560
+    },
+    {
+      "form": "टोली",
+      "startCharOffset": 561,
+      "endCharOffset": 565
+    },
+    {
+      "form": "निवासी",
+      "startCharOffset": 566,
+      "endCharOffset": 572
+    },
+    {
+      "form": "दर्जनों",
+      "startCharOffset": 573,
+      "endCharOffset": 580
+    },
+    {
+      "form": "ग्रामीण",
+      "startCharOffset": 581,
+      "endCharOffset": 588
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 589,
+      "endCharOffset": 596
+    },
+    {
+      "form": "की",
+      "startCharOffset": 597,
+      "endCharOffset": 599
+    },
+    {
+      "form": "चपेट",
+      "startCharOffset": 600,
+      "endCharOffset": 604
+    },
+    {
+      "form": "में",
+      "startCharOffset": 605,
+      "endCharOffset": 608
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 609,
+      "endCharOffset": 612
+    },
+    {
+      "form": ".",
+      "startCharOffset": 612,
+      "endCharOffset": 613
+    },
+    {
+      "form": "खरकी",
+      "startCharOffset": 615,
+      "endCharOffset": 619
+    },
+    {
+      "form": "पंचायत",
+      "startCharOffset": 620,
+      "endCharOffset": 626
+    },
+    {
+      "form": "की",
+      "startCharOffset": 627,
+      "endCharOffset": 629
+    },
+    {
+      "form": "मुखिया",
+      "startCharOffset": 630,
+      "endCharOffset": 636
+    },
+    {
+      "form": "चांदमनी",
+      "startCharOffset": 637,
+      "endCharOffset": 644
+    },
+    {
+      "form": "उरांव",
+      "startCharOffset": 645,
+      "endCharOffset": 650
+    },
+    {
+      "form": "ने",
+      "startCharOffset": 651,
+      "endCharOffset": 653
+    },
+    {
+      "form": "कहा",
+      "startCharOffset": 654,
+      "endCharOffset": 657
+    },
+    {
+      "form": "कि",
+      "startCharOffset": 658,
+      "endCharOffset": 660
+    },
+    {
+      "form": "अब",
+      "startCharOffset": 661,
+      "endCharOffset": 663
+    },
+    {
+      "form": "तक",
+      "startCharOffset": 664,
+      "endCharOffset": 666
+    },
+    {
+      "form": "सामुदायिक",
+      "startCharOffset": 667,
+      "endCharOffset": 676
+    },
+    {
+      "form": "स्वास्थ्य",
+      "startCharOffset": 677,
+      "endCharOffset": 686
+    },
+    {
+      "form": "केंद्र",
+      "startCharOffset": 687,
+      "endCharOffset": 693
+    },
+    {
+      "form": "किस्को",
+      "startCharOffset": 694,
+      "endCharOffset": 700
+    },
+    {
+      "form": "की",
+      "startCharOffset": 701,
+      "endCharOffset": 703
+    },
+    {
+      "form": "ओर",
+      "startCharOffset": 704,
+      "endCharOffset": 706
+    },
+    {
+      "form": "से",
+      "startCharOffset": 707,
+      "endCharOffset": 709
+    },
+    {
+      "form": "क्षेत्र",
+      "startCharOffset": 710,
+      "endCharOffset": 717
+    },
+    {
+      "form": "में",
+      "startCharOffset": 718,
+      "endCharOffset": 721
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 722,
+      "endCharOffset": 729
+    },
+    {
+      "form": ",",
+      "startCharOffset": 729,
+      "endCharOffset": 730
+    },
+    {
+      "form": "डायरिया",
+      "startCharOffset": 731,
+      "endCharOffset": 738
+    },
+    {
+      "form": "व",
+      "startCharOffset": 739,
+      "endCharOffset": 740
+    },
+    {
+      "form": "टाइफाइड",
+      "startCharOffset": 741,
+      "endCharOffset": 748
+    },
+    {
+      "form": "के",
+      "startCharOffset": 749,
+      "endCharOffset": 751
+    },
+    {
+      "form": "रोकथाम",
+      "startCharOffset": 752,
+      "endCharOffset": 758
+    },
+    {
+      "form": "के",
+      "startCharOffset": 759,
+      "endCharOffset": 761
+    },
+    {
+      "form": "लिए",
+      "startCharOffset": 762,
+      "endCharOffset": 765
+    },
+    {
+      "form": "कोई",
+      "startCharOffset": 766,
+      "endCharOffset": 769
+    },
+    {
+      "form": "कार्य",
+      "startCharOffset": 770,
+      "endCharOffset": 775
+    },
+    {
+      "form": "नहीं",
+      "startCharOffset": 776,
+      "endCharOffset": 780
+    },
+    {
+      "form": "किया",
+      "startCharOffset": 781,
+      "endCharOffset": 785
+    },
+    {
+      "form": "गया",
+      "startCharOffset": 786,
+      "endCharOffset": 789
+    },
+    {
+      "form": "है",
+      "startCharOffset": 790,
+      "endCharOffset": 792
+    },
+    {
+      "form": ".",
+      "startCharOffset": 792,
+      "endCharOffset": 793
+    },
+    {
+      "form": "डीडीटी",
+      "startCharOffset": 794,
+      "endCharOffset": 800
+    },
+    {
+      "form": "का",
+      "startCharOffset": 801,
+      "endCharOffset": 803
+    },
+    {
+      "form": "छिड़काव",
+      "startCharOffset": 804,
+      "endCharOffset": 810
+    },
+    {
+      "form": "भी",
+      "startCharOffset": 811,
+      "endCharOffset": 813
+    },
+    {
+      "form": "नहीं",
+      "startCharOffset": 814,
+      "endCharOffset": 818
+    },
+    {
+      "form": "किया",
+      "startCharOffset": 819,
+      "endCharOffset": 823
+    },
+    {
+      "form": "गया",
+      "startCharOffset": 824,
+      "endCharOffset": 827
+    },
+    {
+      "form": "है",
+      "startCharOffset": 828,
+      "endCharOffset": 830
+    },
+    {
+      "form": ".",
+      "startCharOffset": 830,
+      "endCharOffset": 831
+    },
+    {
+      "form": "इस",
+      "startCharOffset": 832,
+      "endCharOffset": 834
+    },
+    {
+      "form": "मामले",
+      "startCharOffset": 835,
+      "endCharOffset": 840
+    },
+    {
+      "form": "में",
+      "startCharOffset": 841,
+      "endCharOffset": 844
+    },
+    {
+      "form": "सामुदायिक",
+      "startCharOffset": 845,
+      "endCharOffset": 854
+    },
+    {
+      "form": "स्वास्थ्य",
+      "startCharOffset": 855,
+      "endCharOffset": 864
+    },
+    {
+      "form": "केंद्र",
+      "startCharOffset": 865,
+      "endCharOffset": 871
+    },
+    {
+      "form": "के",
+      "startCharOffset": 872,
+      "endCharOffset": 874
+    },
+    {
+      "form": "चिकित्सा",
+      "startCharOffset": 875,
+      "endCharOffset": 883
+    },
+    {
+      "form": "पदाधिकारी",
+      "startCharOffset": 884,
+      "endCharOffset": 893
+    },
+    {
+      "form": "ने",
+      "startCharOffset": 894,
+      "endCharOffset": 896
+    },
+    {
+      "form": "कहा",
+      "startCharOffset": 897,
+      "endCharOffset": 900
+    },
+    {
+      "form": "कि",
+      "startCharOffset": 901,
+      "endCharOffset": 903
+    },
+    {
+      "form": "मलेरिया",
+      "startCharOffset": 904,
+      "endCharOffset": 911
+    },
+    {
+      "form": "से",
+      "startCharOffset": 912,
+      "endCharOffset": 914
+    },
+    {
+      "form": "प्रभावित",
+      "startCharOffset": 915,
+      "endCharOffset": 923
+    },
+    {
+      "form": "क्षेत्रों",
+      "startCharOffset": 924,
+      "endCharOffset": 933
+    },
+    {
+      "form": "में",
+      "startCharOffset": 934,
+      "endCharOffset": 937
+    },
+    {
+      "form": "शिविर",
+      "startCharOffset": 938,
+      "endCharOffset": 943
+    },
+    {
+      "form": "लगाया",
+      "startCharOffset": 944,
+      "endCharOffset": 949
+    },
+    {
+      "form": "जायेगा",
+      "startCharOffset": 950,
+      "endCharOffset": 956
+    },
+    {
+      "form": ".",
+      "startCharOffset": 956,
+      "endCharOffset": 957
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      8,
+      76,
+      122,
+      188
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 1,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 14
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 101,
+              "end": 103
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 104,
+              "end": 106
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 107,
+              "end": 109
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 110,
+              "end": 112
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 126,
+              "end": 128
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 170,
+              "end": 173
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 30,
+              "end": 32
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 76,
+              "end": 78
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 89,
+              "end": 91
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 122,
+              "end": 124
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

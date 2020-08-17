@@ -1,0 +1,454 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170301_H0T10EUZI",
+  "text": "RT @AT_AbdillahToha: Investasi Saudi di Indonesia baru rencana sedangkan yang sudah nyata spti janji santunan korban crane dan perlindungan…",
+  "tokens": [
+    "RT",
+    "@AT_AbdillahToha:",
+    "Investasi",
+    "Saudi",
+    "di",
+    "Indonesia",
+    "baru",
+    "rencana",
+    "sedangkan",
+    "yang",
+    "sudah",
+    "nyata",
+    "spti",
+    "janji",
+    "santunan",
+    "korban",
+    "crane",
+    "dan",
+    "perlindungan",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@AT_AbdillahToha:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Investasi",
+      "startCharOffset": 21,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Saudi",
+      "startCharOffset": 31,
+      "endCharOffset": 36
+    },
+    {
+      "form": "di",
+      "startCharOffset": 37,
+      "endCharOffset": 39
+    },
+    {
+      "form": "Indonesia",
+      "startCharOffset": 40,
+      "endCharOffset": 49
+    },
+    {
+      "form": "baru",
+      "startCharOffset": 50,
+      "endCharOffset": 54
+    },
+    {
+      "form": "rencana",
+      "startCharOffset": 55,
+      "endCharOffset": 62
+    },
+    {
+      "form": "sedangkan",
+      "startCharOffset": 63,
+      "endCharOffset": 72
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 73,
+      "endCharOffset": 77
+    },
+    {
+      "form": "sudah",
+      "startCharOffset": 78,
+      "endCharOffset": 83
+    },
+    {
+      "form": "nyata",
+      "startCharOffset": 84,
+      "endCharOffset": 89
+    },
+    {
+      "form": "spti",
+      "startCharOffset": 90,
+      "endCharOffset": 94
+    },
+    {
+      "form": "janji",
+      "startCharOffset": 95,
+      "endCharOffset": 100
+    },
+    {
+      "form": "santunan",
+      "startCharOffset": 101,
+      "endCharOffset": 109
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 110,
+      "endCharOffset": 116
+    },
+    {
+      "form": "crane",
+      "startCharOffset": 117,
+      "endCharOffset": 122
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 123,
+      "endCharOffset": 126
+    },
+    {
+      "form": "perlindungan",
+      "startCharOffset": 127,
+      "endCharOffset": 139
+    },
+    {
+      "form": "…",
+      "startCharOffset": 139,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      20
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@AT_AbdillahToha:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Investasi",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Saudi",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Indonesia",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "baru",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "rencana",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "sedangkan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "sudah",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "nyata",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "spti",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "janji",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "santunan",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "crane",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "perlindungan",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

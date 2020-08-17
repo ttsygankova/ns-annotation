@@ -1,0 +1,136 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170215_H0T10EUBI",
+  "text": "Rashid penyelamat https://t.co/7aUxGjddZY",
+  "tokens": [
+    "Rashid",
+    "penyelamat",
+    "https://t.co/7aUxGjddZY"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Rashid",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "penyelamat",
+      "startCharOffset": 7,
+      "endCharOffset": 17
+    },
+    {
+      "form": "https://t.co/7aUxGjddZY",
+      "startCharOffset": 18,
+      "endCharOffset": 41
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      3
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Rashid",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "penyelamat",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "https://t.co/7aUxGjddZY",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

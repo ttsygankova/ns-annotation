@@ -1,0 +1,176 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160317_G0T100FM3",
+  "text": "Терроризм как прикрытие: Сноуден рассказал о слежке АНБ https://t.co/LXygg1OxNf",
+  "tokens": [
+    "Терроризм",
+    "как",
+    "прикрытие",
+    ":",
+    "Сноуден",
+    "рассказал",
+    "о",
+    "слежке",
+    "АНБ",
+    "https://t.co/LXygg1OxNf"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Терроризм",
+      "startCharOffset": 0,
+      "endCharOffset": 9
+    },
+    {
+      "form": "как",
+      "startCharOffset": 10,
+      "endCharOffset": 13
+    },
+    {
+      "form": "прикрытие",
+      "startCharOffset": 14,
+      "endCharOffset": 23
+    },
+    {
+      "form": ":",
+      "startCharOffset": 23,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Сноуден",
+      "startCharOffset": 25,
+      "endCharOffset": 32
+    },
+    {
+      "form": "рассказал",
+      "startCharOffset": 33,
+      "endCharOffset": 42
+    },
+    {
+      "form": "о",
+      "startCharOffset": 43,
+      "endCharOffset": 44
+    },
+    {
+      "form": "слежке",
+      "startCharOffset": 45,
+      "endCharOffset": 51
+    },
+    {
+      "form": "АНБ",
+      "startCharOffset": 52,
+      "endCharOffset": 55
+    },
+    {
+      "form": "https://t.co/LXygg1OxNf",
+      "startCharOffset": 56,
+      "endCharOffset": 79
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      10
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

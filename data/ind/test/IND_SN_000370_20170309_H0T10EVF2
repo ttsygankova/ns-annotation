@@ -1,0 +1,232 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170309_H0T10EVF2",
+  "text": "RT @VakehElfa: Abis balik tawuran di manggarai https://t.co/fQMVqgu8Uz",
+  "tokens": [
+    "RT",
+    "@VakehElfa:",
+    "Abis",
+    "balik",
+    "tawuran",
+    "di",
+    "manggarai",
+    "https://t.co/fQMVqgu8Uz"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@VakehElfa:",
+      "startCharOffset": 3,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Abis",
+      "startCharOffset": 15,
+      "endCharOffset": 19
+    },
+    {
+      "form": "balik",
+      "startCharOffset": 20,
+      "endCharOffset": 25
+    },
+    {
+      "form": "tawuran",
+      "startCharOffset": 26,
+      "endCharOffset": 33
+    },
+    {
+      "form": "di",
+      "startCharOffset": 34,
+      "endCharOffset": 36
+    },
+    {
+      "form": "manggarai",
+      "startCharOffset": 37,
+      "endCharOffset": 46
+    },
+    {
+      "form": "https://t.co/fQMVqgu8Uz",
+      "startCharOffset": 47,
+      "endCharOffset": 70
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      8
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@VakehElfa:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Abis",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "balik",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "tawuran",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "manggarai",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "https://t.co/fQMVqgu8Uz",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

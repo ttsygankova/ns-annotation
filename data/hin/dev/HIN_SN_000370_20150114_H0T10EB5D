@@ -1,0 +1,152 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150114_H0T10EB5D",
+  "text": "RT @SushilModi: सरकार ने ट्रांसपोर्टेशन घोटाला किया-हिन्दुस्तान http://t.co/9FnU0Zu6Na",
+  "tokens": [
+    "RT",
+    "@SushilModi:",
+    "सरकार",
+    "ने",
+    "ट्रांसपोर्टेशन",
+    "घोटाला",
+    "किया-हिन्दुस्तान",
+    "http://t.co/9FnU0Zu6Na"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@SushilModi:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "सरकार",
+      "startCharOffset": 16,
+      "endCharOffset": 21
+    },
+    {
+      "form": "ने",
+      "startCharOffset": 22,
+      "endCharOffset": 24
+    },
+    {
+      "form": "ट्रांसपोर्टेशन",
+      "startCharOffset": 25,
+      "endCharOffset": 39
+    },
+    {
+      "form": "घोटाला",
+      "startCharOffset": 40,
+      "endCharOffset": 46
+    },
+    {
+      "form": "किया-हिन्दुस्तान",
+      "startCharOffset": 47,
+      "endCharOffset": 63
+    },
+    {
+      "form": "http://t.co/9FnU0Zu6Na",
+      "startCharOffset": 64,
+      "endCharOffset": 86
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      8
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

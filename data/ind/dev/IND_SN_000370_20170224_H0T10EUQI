@@ -1,0 +1,286 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170224_H0T10EUQI",
+  "text": "#BPNews Semakin Mudah Pantau Banjir Dengan jakarta Smart City https://t.co/K6JwZQ6yMK https://t.co/YlVOaiJJtd",
+  "tokens": [
+    "#BPNews",
+    "Semakin",
+    "Mudah",
+    "Pantau",
+    "Banjir",
+    "Dengan",
+    "jakarta",
+    "Smart",
+    "City",
+    "https://t.co/K6JwZQ6yMK",
+    "https://t.co/YlVOaiJJtd"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#BPNews",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "Semakin",
+      "startCharOffset": 8,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Mudah",
+      "startCharOffset": 16,
+      "endCharOffset": 21
+    },
+    {
+      "form": "Pantau",
+      "startCharOffset": 22,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 29,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Dengan",
+      "startCharOffset": 36,
+      "endCharOffset": 42
+    },
+    {
+      "form": "jakarta",
+      "startCharOffset": 43,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Smart",
+      "startCharOffset": 51,
+      "endCharOffset": 56
+    },
+    {
+      "form": "City",
+      "startCharOffset": 57,
+      "endCharOffset": 61
+    },
+    {
+      "form": "https://t.co/K6JwZQ6yMK",
+      "startCharOffset": 62,
+      "endCharOffset": 85
+    },
+    {
+      "form": "https://t.co/YlVOaiJJtd",
+      "startCharOffset": 86,
+      "endCharOffset": 109
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 6,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "#BPNews",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Semakin",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Mudah",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Pantau",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Dengan",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "jakarta",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Smart",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "City",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "https://t.co/K6JwZQ6yMK",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/YlVOaiJJtd",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

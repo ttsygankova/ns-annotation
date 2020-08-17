@@ -1,0 +1,376 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170218_H0T10EUH9",
+  "text": "Dinkes Tangerang Kesulitan Obati Penderita Kusta https://t.co/HB43XVi7ej, TANGERANG -- Aparat Dinas Kesehatan (Di… https://t.co/k35mHjx2xg",
+  "tokens": [
+    "Dinkes",
+    "Tangerang",
+    "Kesulitan",
+    "Obati",
+    "Penderita",
+    "Kusta",
+    "https://t.co/HB43XVi7ej,",
+    "TANGERANG",
+    "--",
+    "Aparat",
+    "Dinas",
+    "Kesehatan",
+    "(",
+    "Di",
+    "…",
+    "https://t.co/k35mHjx2xg"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Dinkes",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Tangerang",
+      "startCharOffset": 7,
+      "endCharOffset": 16
+    },
+    {
+      "form": "Kesulitan",
+      "startCharOffset": 17,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Obati",
+      "startCharOffset": 27,
+      "endCharOffset": 32
+    },
+    {
+      "form": "Penderita",
+      "startCharOffset": 33,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Kusta",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "https://t.co/HB43XVi7ej,",
+      "startCharOffset": 49,
+      "endCharOffset": 73
+    },
+    {
+      "form": "TANGERANG",
+      "startCharOffset": 74,
+      "endCharOffset": 83
+    },
+    {
+      "form": "--",
+      "startCharOffset": 84,
+      "endCharOffset": 86
+    },
+    {
+      "form": "Aparat",
+      "startCharOffset": 87,
+      "endCharOffset": 93
+    },
+    {
+      "form": "Dinas",
+      "startCharOffset": 94,
+      "endCharOffset": 99
+    },
+    {
+      "form": "Kesehatan",
+      "startCharOffset": 100,
+      "endCharOffset": 109
+    },
+    {
+      "form": "(",
+      "startCharOffset": 110,
+      "endCharOffset": 111
+    },
+    {
+      "form": "Di",
+      "startCharOffset": 111,
+      "endCharOffset": 113
+    },
+    {
+      "form": "…",
+      "startCharOffset": 113,
+      "endCharOffset": 114
+    },
+    {
+      "form": "https://t.co/k35mHjx2xg",
+      "startCharOffset": 115,
+      "endCharOffset": 138
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Dinkes",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Tangerang",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Kesulitan",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Obati",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Penderita",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Kusta",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "https://t.co/HB43XVi7ej,",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "TANGERANG",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "--",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Aparat",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Dinas",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Kesehatan",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "(",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "Di",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "https://t.co/k35mHjx2xg",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

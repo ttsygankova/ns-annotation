@@ -1,0 +1,358 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20161110_H0T10G20O",
+  "text": "Soal Penistaan Agama, ARB: Golkar Harus Punya Sikap. Baca: https://t.co/zyBQNFbaQb https://t.co/RNZZKm3qxF",
+  "tokens": [
+    "Soal",
+    "Penistaan",
+    "Agama",
+    ",",
+    "ARB",
+    ":",
+    "Golkar",
+    "Harus",
+    "Punya",
+    "Sikap",
+    ".",
+    "Baca",
+    ":",
+    "https://t.co/zyBQNFbaQb",
+    "https://t.co/RNZZKm3qxF"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Soal",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "Penistaan",
+      "startCharOffset": 5,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Agama",
+      "startCharOffset": 15,
+      "endCharOffset": 20
+    },
+    {
+      "form": ",",
+      "startCharOffset": 20,
+      "endCharOffset": 21
+    },
+    {
+      "form": "ARB",
+      "startCharOffset": 22,
+      "endCharOffset": 25
+    },
+    {
+      "form": ":",
+      "startCharOffset": 25,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Golkar",
+      "startCharOffset": 27,
+      "endCharOffset": 33
+    },
+    {
+      "form": "Harus",
+      "startCharOffset": 34,
+      "endCharOffset": 39
+    },
+    {
+      "form": "Punya",
+      "startCharOffset": 40,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Sikap",
+      "startCharOffset": 46,
+      "endCharOffset": 51
+    },
+    {
+      "form": ".",
+      "startCharOffset": 51,
+      "endCharOffset": 52
+    },
+    {
+      "form": "Baca",
+      "startCharOffset": 53,
+      "endCharOffset": 57
+    },
+    {
+      "form": ":",
+      "startCharOffset": 57,
+      "endCharOffset": 58
+    },
+    {
+      "form": "https://t.co/zyBQNFbaQb",
+      "startCharOffset": 59,
+      "endCharOffset": 82
+    },
+    {
+      "form": "https://t.co/RNZZKm3qxF",
+      "startCharOffset": 83,
+      "endCharOffset": 106
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Soal",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Penistaan",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Agama",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "ARB",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Golkar",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Harus",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Punya",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Sikap",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Baca",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "https://t.co/zyBQNFbaQb",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "https://t.co/RNZZKm3qxF",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

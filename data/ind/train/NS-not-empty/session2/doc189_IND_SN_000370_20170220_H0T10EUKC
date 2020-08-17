@@ -1,0 +1,351 @@
+{
+  "corpusId": "",
+  "id": "doc189_IND_SN_000370_20170220_H0T10EUKC",
+  "text": "#HEALTH Mengulas Fakta Racun Ikan Fugu yang Diduga Menewaskan Kim Jong-Nam https://t.co/4xcpjlsyOG #11n1 https://t.co/o6SLWM0Z9T",
+  "tokens": [
+    "#HEALTH",
+    "Mengulas",
+    "Fakta",
+    "Racun",
+    "Ikan",
+    "Fugu",
+    "yang",
+    "Diduga",
+    "Menewaskan",
+    "Kim",
+    "Jong-Nam",
+    "https://t.co/4xcpjlsyOG",
+    "#11n1",
+    "https://t.co/o6SLWM0Z9T"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#HEALTH",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "Mengulas",
+      "startCharOffset": 8,
+      "endCharOffset": 16
+    },
+    {
+      "form": "Fakta",
+      "startCharOffset": 17,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Racun",
+      "startCharOffset": 23,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Ikan",
+      "startCharOffset": 29,
+      "endCharOffset": 33
+    },
+    {
+      "form": "Fugu",
+      "startCharOffset": 34,
+      "endCharOffset": 38
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 39,
+      "endCharOffset": 43
+    },
+    {
+      "form": "Diduga",
+      "startCharOffset": 44,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Menewaskan",
+      "startCharOffset": 51,
+      "endCharOffset": 61
+    },
+    {
+      "form": "Kim",
+      "startCharOffset": 62,
+      "endCharOffset": 65
+    },
+    {
+      "form": "Jong-Nam",
+      "startCharOffset": 66,
+      "endCharOffset": 74
+    },
+    {
+      "form": "https://t.co/4xcpjlsyOG",
+      "startCharOffset": 75,
+      "endCharOffset": 98
+    },
+    {
+      "form": "#11n1",
+      "startCharOffset": 99,
+      "endCharOffset": 104
+    },
+    {
+      "form": "https://t.co/o6SLWM0Z9T",
+      "startCharOffset": 105,
+      "endCharOffset": 128
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 9,
+              "end": 11
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 9,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "#HEALTH",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Mengulas",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Fakta",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Racun",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Ikan",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Fugu",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Diduga",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Menewaskan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Kim",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Jong-Nam",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/4xcpjlsyOG",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "#11n1",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "https://t.co/o6SLWM0Z9T",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

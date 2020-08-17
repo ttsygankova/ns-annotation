@@ -1,0 +1,308 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170205_H0T10ENTS",
+  "text": "इस्लाम आतंकवाद को बढ़ावा देता है, ये पता करते-करते मैं खुद मुसलमान हो गया- अब्दुल्लाह सामौर https://t.co/xkIk4cu1jN via @MuslimWorld.in",
+  "tokens": [
+    "इस्लाम",
+    "आतंकवाद",
+    "को",
+    "बढ़ावा",
+    "देता",
+    "है",
+    ",",
+    "ये",
+    "पता",
+    "करते-करते",
+    "मैं",
+    "खुद",
+    "मुसलमान",
+    "हो",
+    "गया",
+    "-",
+    "अब्दुल्लाह",
+    "सामौर",
+    "https://t.co/xkIk4cu1jN",
+    "via",
+    "@MuslimWorld.in"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "इस्लाम",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "आतंकवाद",
+      "startCharOffset": 7,
+      "endCharOffset": 14
+    },
+    {
+      "form": "को",
+      "startCharOffset": 15,
+      "endCharOffset": 17
+    },
+    {
+      "form": "बढ़ावा",
+      "startCharOffset": 18,
+      "endCharOffset": 24
+    },
+    {
+      "form": "देता",
+      "startCharOffset": 25,
+      "endCharOffset": 29
+    },
+    {
+      "form": "है",
+      "startCharOffset": 30,
+      "endCharOffset": 32
+    },
+    {
+      "form": ",",
+      "startCharOffset": 32,
+      "endCharOffset": 33
+    },
+    {
+      "form": "ये",
+      "startCharOffset": 34,
+      "endCharOffset": 36
+    },
+    {
+      "form": "पता",
+      "startCharOffset": 37,
+      "endCharOffset": 40
+    },
+    {
+      "form": "करते-करते",
+      "startCharOffset": 41,
+      "endCharOffset": 50
+    },
+    {
+      "form": "मैं",
+      "startCharOffset": 51,
+      "endCharOffset": 54
+    },
+    {
+      "form": "खुद",
+      "startCharOffset": 55,
+      "endCharOffset": 58
+    },
+    {
+      "form": "मुसलमान",
+      "startCharOffset": 59,
+      "endCharOffset": 66
+    },
+    {
+      "form": "हो",
+      "startCharOffset": 67,
+      "endCharOffset": 69
+    },
+    {
+      "form": "गया",
+      "startCharOffset": 70,
+      "endCharOffset": 73
+    },
+    {
+      "form": "-",
+      "startCharOffset": 73,
+      "endCharOffset": 74
+    },
+    {
+      "form": "अब्दुल्लाह",
+      "startCharOffset": 75,
+      "endCharOffset": 85
+    },
+    {
+      "form": "सामौर",
+      "startCharOffset": 86,
+      "endCharOffset": 91
+    },
+    {
+      "form": "https://t.co/xkIk4cu1jN",
+      "startCharOffset": 92,
+      "endCharOffset": 115
+    },
+    {
+      "form": "via",
+      "startCharOffset": 116,
+      "endCharOffset": 119
+    },
+    {
+      "form": "@MuslimWorld.in",
+      "startCharOffset": 120,
+      "endCharOffset": 135
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 18
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

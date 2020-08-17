@@ -1,0 +1,260 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100F57",
+  "text": "RT @ElvisMikle: Via @SvobodaRadio Генерал КГБ Александр Сахаровский: Терроризм должен стать нашим главным оружием https://t.co/k4zOfmPok8…",
+  "tokens": [
+    "RT",
+    "@ElvisMikle:",
+    "Via",
+    "@SvobodaRadio",
+    "Генерал",
+    "КГБ",
+    "Александр",
+    "Сахаровский",
+    ":",
+    "Терроризм",
+    "должен",
+    "стать",
+    "нашим",
+    "главным",
+    "оружием",
+    "https://t.co/k4zOfmPok8…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@ElvisMikle:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Via",
+      "startCharOffset": 16,
+      "endCharOffset": 19
+    },
+    {
+      "form": "@SvobodaRadio",
+      "startCharOffset": 20,
+      "endCharOffset": 33
+    },
+    {
+      "form": "Генерал",
+      "startCharOffset": 34,
+      "endCharOffset": 41
+    },
+    {
+      "form": "КГБ",
+      "startCharOffset": 42,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Александр",
+      "startCharOffset": 46,
+      "endCharOffset": 55
+    },
+    {
+      "form": "Сахаровский",
+      "startCharOffset": 56,
+      "endCharOffset": 67
+    },
+    {
+      "form": ":",
+      "startCharOffset": 67,
+      "endCharOffset": 68
+    },
+    {
+      "form": "Терроризм",
+      "startCharOffset": 69,
+      "endCharOffset": 78
+    },
+    {
+      "form": "должен",
+      "startCharOffset": 79,
+      "endCharOffset": 85
+    },
+    {
+      "form": "стать",
+      "startCharOffset": 86,
+      "endCharOffset": 91
+    },
+    {
+      "form": "нашим",
+      "startCharOffset": 92,
+      "endCharOffset": 97
+    },
+    {
+      "form": "главным",
+      "startCharOffset": 98,
+      "endCharOffset": 105
+    },
+    {
+      "form": "оружием",
+      "startCharOffset": 106,
+      "endCharOffset": 113
+    },
+    {
+      "form": "https://t.co/k4zOfmPok8…",
+      "startCharOffset": 114,
+      "endCharOffset": 138
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 6,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

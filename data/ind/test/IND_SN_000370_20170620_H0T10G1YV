@@ -1,0 +1,304 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170620_H0T10G1YV",
+  "text": "Jelang Lebaran, Bulog Pastikan Harga Sembako di Aceh Stabil https://t.co/u5XynIe8rG https://t.co/uXOyHHRArO",
+  "tokens": [
+    "Jelang",
+    "Lebaran",
+    ",",
+    "Bulog",
+    "Pastikan",
+    "Harga",
+    "Sembako",
+    "di",
+    "Aceh",
+    "Stabil",
+    "https://t.co/u5XynIe8rG",
+    "https://t.co/uXOyHHRArO"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Jelang",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Lebaran",
+      "startCharOffset": 7,
+      "endCharOffset": 14
+    },
+    {
+      "form": ",",
+      "startCharOffset": 14,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Bulog",
+      "startCharOffset": 16,
+      "endCharOffset": 21
+    },
+    {
+      "form": "Pastikan",
+      "startCharOffset": 22,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Harga",
+      "startCharOffset": 31,
+      "endCharOffset": 36
+    },
+    {
+      "form": "Sembako",
+      "startCharOffset": 37,
+      "endCharOffset": 44
+    },
+    {
+      "form": "di",
+      "startCharOffset": 45,
+      "endCharOffset": 47
+    },
+    {
+      "form": "Aceh",
+      "startCharOffset": 48,
+      "endCharOffset": 52
+    },
+    {
+      "form": "Stabil",
+      "startCharOffset": 53,
+      "endCharOffset": 59
+    },
+    {
+      "form": "https://t.co/u5XynIe8rG",
+      "startCharOffset": 60,
+      "endCharOffset": 83
+    },
+    {
+      "form": "https://t.co/uXOyHHRArO",
+      "startCharOffset": 84,
+      "endCharOffset": 107
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Jelang",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Lebaran",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Bulog",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Pastikan",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Harga",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Sembako",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Aceh",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Stabil",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/u5XynIe8rG",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/uXOyHHRArO",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

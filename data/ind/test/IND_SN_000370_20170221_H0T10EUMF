@@ -1,0 +1,358 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170221_H0T10EUMF",
+  "text": "RT @ZaraZettiraZZ: ((( beberapa ))) sementara data BNPB menyatakan BANJIR MERATA situ media? https://t.co/TZs3fjiBiK",
+  "tokens": [
+    "RT",
+    "@ZaraZettiraZZ:",
+    "(((",
+    "beberapa",
+    ")))",
+    "sementara",
+    "data",
+    "BNPB",
+    "menyatakan",
+    "BANJIR",
+    "MERATA",
+    "situ",
+    "media",
+    "?",
+    "https://t.co/TZs3fjiBiK"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@ZaraZettiraZZ:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "(((",
+      "startCharOffset": 19,
+      "endCharOffset": 22
+    },
+    {
+      "form": "beberapa",
+      "startCharOffset": 23,
+      "endCharOffset": 31
+    },
+    {
+      "form": ")))",
+      "startCharOffset": 32,
+      "endCharOffset": 35
+    },
+    {
+      "form": "sementara",
+      "startCharOffset": 36,
+      "endCharOffset": 45
+    },
+    {
+      "form": "data",
+      "startCharOffset": 46,
+      "endCharOffset": 50
+    },
+    {
+      "form": "BNPB",
+      "startCharOffset": 51,
+      "endCharOffset": 55
+    },
+    {
+      "form": "menyatakan",
+      "startCharOffset": 56,
+      "endCharOffset": 66
+    },
+    {
+      "form": "BANJIR",
+      "startCharOffset": 67,
+      "endCharOffset": 73
+    },
+    {
+      "form": "MERATA",
+      "startCharOffset": 74,
+      "endCharOffset": 80
+    },
+    {
+      "form": "situ",
+      "startCharOffset": 81,
+      "endCharOffset": 85
+    },
+    {
+      "form": "media",
+      "startCharOffset": 86,
+      "endCharOffset": 91
+    },
+    {
+      "form": "?",
+      "startCharOffset": 91,
+      "endCharOffset": 92
+    },
+    {
+      "form": "https://t.co/TZs3fjiBiK",
+      "startCharOffset": 93,
+      "endCharOffset": 116
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@ZaraZettiraZZ:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "(((",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "beberapa",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": ")))",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "sementara",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "data",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "BNPB",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "menyatakan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "BANJIR",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "MERATA",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "situ",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "media",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "?",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "https://t.co/TZs3fjiBiK",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

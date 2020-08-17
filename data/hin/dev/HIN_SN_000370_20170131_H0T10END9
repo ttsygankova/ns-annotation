@@ -1,0 +1,278 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170131_H0T10END9",
+  "text": "कत्लेआम करने वाला इस्लामी आतंक नहीं दिखता पर \"हिन्दू आतंक\" दिख जाता है : रोहित सरदाना https://t.co/BKVS03caoD",
+  "tokens": [
+    "कत्लेआम",
+    "करने",
+    "वाला",
+    "इस्लामी",
+    "आतंक",
+    "नहीं",
+    "दिखता",
+    "पर",
+    "\"",
+    "हिन्दू",
+    "आतंक",
+    "\"",
+    "दिख",
+    "जाता",
+    "है",
+    ":",
+    "रोहित",
+    "सरदाना",
+    "https://t.co/BKVS03caoD"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "कत्लेआम",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "करने",
+      "startCharOffset": 8,
+      "endCharOffset": 12
+    },
+    {
+      "form": "वाला",
+      "startCharOffset": 13,
+      "endCharOffset": 17
+    },
+    {
+      "form": "इस्लामी",
+      "startCharOffset": 18,
+      "endCharOffset": 25
+    },
+    {
+      "form": "आतंक",
+      "startCharOffset": 26,
+      "endCharOffset": 30
+    },
+    {
+      "form": "नहीं",
+      "startCharOffset": 31,
+      "endCharOffset": 35
+    },
+    {
+      "form": "दिखता",
+      "startCharOffset": 36,
+      "endCharOffset": 41
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 42,
+      "endCharOffset": 44
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 45,
+      "endCharOffset": 46
+    },
+    {
+      "form": "हिन्दू",
+      "startCharOffset": 46,
+      "endCharOffset": 52
+    },
+    {
+      "form": "आतंक",
+      "startCharOffset": 53,
+      "endCharOffset": 57
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 57,
+      "endCharOffset": 58
+    },
+    {
+      "form": "दिख",
+      "startCharOffset": 59,
+      "endCharOffset": 62
+    },
+    {
+      "form": "जाता",
+      "startCharOffset": 63,
+      "endCharOffset": 67
+    },
+    {
+      "form": "है",
+      "startCharOffset": 68,
+      "endCharOffset": 70
+    },
+    {
+      "form": ":",
+      "startCharOffset": 71,
+      "endCharOffset": 72
+    },
+    {
+      "form": "रोहित",
+      "startCharOffset": 73,
+      "endCharOffset": 78
+    },
+    {
+      "form": "सरदाना",
+      "startCharOffset": 79,
+      "endCharOffset": 85
+    },
+    {
+      "form": "https://t.co/BKVS03caoD",
+      "startCharOffset": 86,
+      "endCharOffset": 109
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

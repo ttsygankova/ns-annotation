@@ -1,0 +1,645 @@
+{
+  "corpusId": "",
+  "id": "doc129_HIN_SN_000370_20170221_H0T10EOZT",
+  "text": "RT @RNRA9262514: ऐड्स कैंसर जैसी भयानक बीमारियों का इलाज मुमकिन हे पर एक बार इंसान \"मोदी फोबिया\" से ग्रस्त हो गया तो जीते जी पागलो की जिंद…",
+  "tokens": [
+    "RT",
+    "@RNRA9262514:",
+    "ऐड्स",
+    "कैंसर",
+    "जैसी",
+    "भयानक",
+    "बीमारियों",
+    "का",
+    "इलाज",
+    "मुमकिन",
+    "हे",
+    "पर",
+    "एक",
+    "बार",
+    "इंसान",
+    "\"",
+    "मोदी",
+    "फोबिया",
+    "\"",
+    "से",
+    "ग्रस्त",
+    "हो",
+    "गया",
+    "तो",
+    "जीते",
+    "जी",
+    "पागलो",
+    "की",
+    "जिंद",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@RNRA9262514:",
+      "startCharOffset": 3,
+      "endCharOffset": 16
+    },
+    {
+      "form": "ऐड्स",
+      "startCharOffset": 17,
+      "endCharOffset": 21
+    },
+    {
+      "form": "कैंसर",
+      "startCharOffset": 22,
+      "endCharOffset": 27
+    },
+    {
+      "form": "जैसी",
+      "startCharOffset": 28,
+      "endCharOffset": 32
+    },
+    {
+      "form": "भयानक",
+      "startCharOffset": 33,
+      "endCharOffset": 38
+    },
+    {
+      "form": "बीमारियों",
+      "startCharOffset": 39,
+      "endCharOffset": 48
+    },
+    {
+      "form": "का",
+      "startCharOffset": 49,
+      "endCharOffset": 51
+    },
+    {
+      "form": "इलाज",
+      "startCharOffset": 52,
+      "endCharOffset": 56
+    },
+    {
+      "form": "मुमकिन",
+      "startCharOffset": 57,
+      "endCharOffset": 63
+    },
+    {
+      "form": "हे",
+      "startCharOffset": 64,
+      "endCharOffset": 66
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 67,
+      "endCharOffset": 69
+    },
+    {
+      "form": "एक",
+      "startCharOffset": 70,
+      "endCharOffset": 72
+    },
+    {
+      "form": "बार",
+      "startCharOffset": 73,
+      "endCharOffset": 76
+    },
+    {
+      "form": "इंसान",
+      "startCharOffset": 77,
+      "endCharOffset": 82
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 83,
+      "endCharOffset": 84
+    },
+    {
+      "form": "मोदी",
+      "startCharOffset": 84,
+      "endCharOffset": 88
+    },
+    {
+      "form": "फोबिया",
+      "startCharOffset": 89,
+      "endCharOffset": 95
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 95,
+      "endCharOffset": 96
+    },
+    {
+      "form": "से",
+      "startCharOffset": 97,
+      "endCharOffset": 99
+    },
+    {
+      "form": "ग्रस्त",
+      "startCharOffset": 100,
+      "endCharOffset": 106
+    },
+    {
+      "form": "हो",
+      "startCharOffset": 107,
+      "endCharOffset": 109
+    },
+    {
+      "form": "गया",
+      "startCharOffset": 110,
+      "endCharOffset": 113
+    },
+    {
+      "form": "तो",
+      "startCharOffset": 114,
+      "endCharOffset": 116
+    },
+    {
+      "form": "जीते",
+      "startCharOffset": 117,
+      "endCharOffset": 121
+    },
+    {
+      "form": "जी",
+      "startCharOffset": 122,
+      "endCharOffset": 124
+    },
+    {
+      "form": "पागलो",
+      "startCharOffset": 125,
+      "endCharOffset": 130
+    },
+    {
+      "form": "की",
+      "startCharOffset": 131,
+      "endCharOffset": 133
+    },
+    {
+      "form": "जिंद",
+      "startCharOffset": 134,
+      "endCharOffset": 138
+    },
+    {
+      "form": "…",
+      "startCharOffset": 138,
+      "endCharOffset": 139
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      30
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@RNRA9262514:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "aiddsa",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "kaimsar",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "jaisii",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "bhayaanak",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "biimaariyom",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "kaa",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "ilaaj",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "mumakin",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "he",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "par",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "ek",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "baar",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "imsaan",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "\"",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "modii",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "phobiyaa",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "\"",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "se",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "grasta",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "ho",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "gayaa",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "to",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "jiite",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "jii",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "paagalo",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "kii",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "jimda",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

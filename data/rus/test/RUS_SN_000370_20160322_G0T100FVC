@@ -1,0 +1,290 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160322_G0T100FVC",
+  "text": "Два взрыва произошло в 8 часов утра сегодня в аэропорту #Zaventem в Брюсселе - Видео https://t.co/0tiamGb4QM #аэропорт #Брюссель #теракт",
+  "tokens": [
+    "Два",
+    "взрыва",
+    "произошло",
+    "в",
+    "8",
+    "часов",
+    "утра",
+    "сегодня",
+    "в",
+    "аэропорту",
+    "#Zaventem",
+    "в",
+    "Брюсселе",
+    "-",
+    "Видео",
+    "https://t.co/0tiamGb4QM",
+    "#аэропорт",
+    "#Брюссель",
+    "#теракт"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Два",
+      "startCharOffset": 0,
+      "endCharOffset": 3
+    },
+    {
+      "form": "взрыва",
+      "startCharOffset": 4,
+      "endCharOffset": 10
+    },
+    {
+      "form": "произошло",
+      "startCharOffset": 11,
+      "endCharOffset": 20
+    },
+    {
+      "form": "в",
+      "startCharOffset": 21,
+      "endCharOffset": 22
+    },
+    {
+      "form": "8",
+      "startCharOffset": 23,
+      "endCharOffset": 24
+    },
+    {
+      "form": "часов",
+      "startCharOffset": 25,
+      "endCharOffset": 30
+    },
+    {
+      "form": "утра",
+      "startCharOffset": 31,
+      "endCharOffset": 35
+    },
+    {
+      "form": "сегодня",
+      "startCharOffset": 36,
+      "endCharOffset": 43
+    },
+    {
+      "form": "в",
+      "startCharOffset": 44,
+      "endCharOffset": 45
+    },
+    {
+      "form": "аэропорту",
+      "startCharOffset": 46,
+      "endCharOffset": 55
+    },
+    {
+      "form": "#Zaventem",
+      "startCharOffset": 56,
+      "endCharOffset": 65
+    },
+    {
+      "form": "в",
+      "startCharOffset": 66,
+      "endCharOffset": 67
+    },
+    {
+      "form": "Брюсселе",
+      "startCharOffset": 68,
+      "endCharOffset": 76
+    },
+    {
+      "form": "-",
+      "startCharOffset": 77,
+      "endCharOffset": 78
+    },
+    {
+      "form": "Видео",
+      "startCharOffset": 79,
+      "endCharOffset": 84
+    },
+    {
+      "form": "https://t.co/0tiamGb4QM",
+      "startCharOffset": 85,
+      "endCharOffset": 108
+    },
+    {
+      "form": "#аэропорт",
+      "startCharOffset": 109,
+      "endCharOffset": 118
+    },
+    {
+      "form": "#Брюссель",
+      "startCharOffset": 119,
+      "endCharOffset": 128
+    },
+    {
+      "form": "#теракт",
+      "startCharOffset": 129,
+      "endCharOffset": 136
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 9,
+              "end": 11
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

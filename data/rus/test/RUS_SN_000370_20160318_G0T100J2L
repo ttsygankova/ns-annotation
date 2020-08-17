@@ -1,0 +1,206 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160318_G0T100J2L",
+  "text": "#InterLabService #Интерлабсервис Вакцина против лихорадки денге показала 100% эффективность Интерлабсервис https://t.co/1lfRSvLOMp",
+  "tokens": [
+    "#InterLabService",
+    "#Интерлабсервис",
+    "Вакцина",
+    "против",
+    "лихорадки",
+    "денге",
+    "показала",
+    "100",
+    "%",
+    "эффективность",
+    "Интерлабсервис",
+    "https://t.co/1lfRSvLOMp"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#InterLabService",
+      "startCharOffset": 0,
+      "endCharOffset": 16
+    },
+    {
+      "form": "#Интерлабсервис",
+      "startCharOffset": 17,
+      "endCharOffset": 32
+    },
+    {
+      "form": "Вакцина",
+      "startCharOffset": 33,
+      "endCharOffset": 40
+    },
+    {
+      "form": "против",
+      "startCharOffset": 41,
+      "endCharOffset": 47
+    },
+    {
+      "form": "лихорадки",
+      "startCharOffset": 48,
+      "endCharOffset": 57
+    },
+    {
+      "form": "денге",
+      "startCharOffset": 58,
+      "endCharOffset": 63
+    },
+    {
+      "form": "показала",
+      "startCharOffset": 64,
+      "endCharOffset": 72
+    },
+    {
+      "form": "100",
+      "startCharOffset": 73,
+      "endCharOffset": 76
+    },
+    {
+      "form": "%",
+      "startCharOffset": 76,
+      "endCharOffset": 77
+    },
+    {
+      "form": "эффективность",
+      "startCharOffset": 78,
+      "endCharOffset": 91
+    },
+    {
+      "form": "Интерлабсервис",
+      "startCharOffset": 92,
+      "endCharOffset": 106
+    },
+    {
+      "form": "https://t.co/1lfRSvLOMp",
+      "startCharOffset": 107,
+      "endCharOffset": 130
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

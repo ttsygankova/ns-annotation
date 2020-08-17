@@ -1,0 +1,278 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150115_H0T10EB66",
+  "text": "बहुत हो गया केज़रू पे अंडे टमाटर का वार अबकी बार तो पक्का भाजापा की सरकार! #BaggaVsKejriwal",
+  "tokens": [
+    "बहुत",
+    "हो",
+    "गया",
+    "केज़रू",
+    "पे",
+    "अंडे",
+    "टमाटर",
+    "का",
+    "वार",
+    "अबकी",
+    "बार",
+    "तो",
+    "पक्का",
+    "भाजापा",
+    "की",
+    "सरकार",
+    "!",
+    "#BaggaVsKejriwal"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "बहुत",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "हो",
+      "startCharOffset": 5,
+      "endCharOffset": 7
+    },
+    {
+      "form": "गया",
+      "startCharOffset": 8,
+      "endCharOffset": 11
+    },
+    {
+      "form": "केज़रू",
+      "startCharOffset": 12,
+      "endCharOffset": 18
+    },
+    {
+      "form": "पे",
+      "startCharOffset": 19,
+      "endCharOffset": 21
+    },
+    {
+      "form": "अंडे",
+      "startCharOffset": 22,
+      "endCharOffset": 26
+    },
+    {
+      "form": "टमाटर",
+      "startCharOffset": 27,
+      "endCharOffset": 32
+    },
+    {
+      "form": "का",
+      "startCharOffset": 33,
+      "endCharOffset": 35
+    },
+    {
+      "form": "वार",
+      "startCharOffset": 36,
+      "endCharOffset": 39
+    },
+    {
+      "form": "अबकी",
+      "startCharOffset": 40,
+      "endCharOffset": 44
+    },
+    {
+      "form": "बार",
+      "startCharOffset": 45,
+      "endCharOffset": 48
+    },
+    {
+      "form": "तो",
+      "startCharOffset": 49,
+      "endCharOffset": 51
+    },
+    {
+      "form": "पक्का",
+      "startCharOffset": 52,
+      "endCharOffset": 57
+    },
+    {
+      "form": "भाजापा",
+      "startCharOffset": 58,
+      "endCharOffset": 64
+    },
+    {
+      "form": "की",
+      "startCharOffset": 65,
+      "endCharOffset": 67
+    },
+    {
+      "form": "सरकार",
+      "startCharOffset": 68,
+      "endCharOffset": 73
+    },
+    {
+      "form": "!",
+      "startCharOffset": 73,
+      "endCharOffset": 74
+    },
+    {
+      "form": "#BaggaVsKejriwal",
+      "startCharOffset": 75,
+      "endCharOffset": 91
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

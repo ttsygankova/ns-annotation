@@ -1,0 +1,122 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150225_H0T10EBI7",
+  "text": "# HPSSSB हमीरपुर भर्ती अधिसूचना http://t.co/CZDx5SpLME",
+  "tokens": [
+    "#",
+    "HPSSSB",
+    "हमीरपुर",
+    "भर्ती",
+    "अधिसूचना",
+    "http://t.co/CZDx5SpLME"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#",
+      "startCharOffset": 0,
+      "endCharOffset": 1
+    },
+    {
+      "form": "HPSSSB",
+      "startCharOffset": 2,
+      "endCharOffset": 8
+    },
+    {
+      "form": "हमीरपुर",
+      "startCharOffset": 9,
+      "endCharOffset": 16
+    },
+    {
+      "form": "भर्ती",
+      "startCharOffset": 17,
+      "endCharOffset": 22
+    },
+    {
+      "form": "अधिसूचना",
+      "startCharOffset": 23,
+      "endCharOffset": 31
+    },
+    {
+      "form": "http://t.co/CZDx5SpLME",
+      "startCharOffset": 32,
+      "endCharOffset": 54
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      6
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

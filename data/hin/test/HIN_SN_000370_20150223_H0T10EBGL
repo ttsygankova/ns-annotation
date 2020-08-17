@@ -1,0 +1,404 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150223_H0T10EBGL",
+  "text": "RT @MjayUvach: प्यार बढने पर पेला जाता है और पेलने पर प्यार बढ़ता है ! #देसी @anil_artani प्रेम वासना का आगाज है। और वासना प्रेम का प्…",
+  "tokens": [
+    "RT",
+    "@MjayUvach:",
+    "प्यार",
+    "बढने",
+    "पर",
+    "पेला",
+    "जाता",
+    "है",
+    "और",
+    "पेलने",
+    "पर",
+    "प्यार",
+    "बढ़ता",
+    "है",
+    "!",
+    "#देसी",
+    "@anil_artani",
+    "प्रेम",
+    "वासना",
+    "का",
+    "आगाज",
+    "है",
+    "।",
+    "और",
+    "वासना",
+    "प्रेम",
+    "का",
+    "प्",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@MjayUvach:",
+      "startCharOffset": 3,
+      "endCharOffset": 14
+    },
+    {
+      "form": "प्यार",
+      "startCharOffset": 15,
+      "endCharOffset": 20
+    },
+    {
+      "form": "बढने",
+      "startCharOffset": 21,
+      "endCharOffset": 25
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 26,
+      "endCharOffset": 28
+    },
+    {
+      "form": "पेला",
+      "startCharOffset": 29,
+      "endCharOffset": 33
+    },
+    {
+      "form": "जाता",
+      "startCharOffset": 34,
+      "endCharOffset": 38
+    },
+    {
+      "form": "है",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    },
+    {
+      "form": "और",
+      "startCharOffset": 42,
+      "endCharOffset": 44
+    },
+    {
+      "form": "पेलने",
+      "startCharOffset": 45,
+      "endCharOffset": 50
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": "प्यार",
+      "startCharOffset": 54,
+      "endCharOffset": 59
+    },
+    {
+      "form": "बढ़ता",
+      "startCharOffset": 60,
+      "endCharOffset": 65
+    },
+    {
+      "form": "है",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "!",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "#देसी",
+      "startCharOffset": 71,
+      "endCharOffset": 76
+    },
+    {
+      "form": "@anil_artani",
+      "startCharOffset": 77,
+      "endCharOffset": 89
+    },
+    {
+      "form": "प्रेम",
+      "startCharOffset": 90,
+      "endCharOffset": 95
+    },
+    {
+      "form": "वासना",
+      "startCharOffset": 96,
+      "endCharOffset": 101
+    },
+    {
+      "form": "का",
+      "startCharOffset": 102,
+      "endCharOffset": 104
+    },
+    {
+      "form": "आगाज",
+      "startCharOffset": 105,
+      "endCharOffset": 109
+    },
+    {
+      "form": "है",
+      "startCharOffset": 110,
+      "endCharOffset": 112
+    },
+    {
+      "form": "।",
+      "startCharOffset": 112,
+      "endCharOffset": 113
+    },
+    {
+      "form": "और",
+      "startCharOffset": 114,
+      "endCharOffset": 116
+    },
+    {
+      "form": "वासना",
+      "startCharOffset": 117,
+      "endCharOffset": 122
+    },
+    {
+      "form": "प्रेम",
+      "startCharOffset": 123,
+      "endCharOffset": 128
+    },
+    {
+      "form": "का",
+      "startCharOffset": 129,
+      "endCharOffset": 131
+    },
+    {
+      "form": "प्",
+      "startCharOffset": 132,
+      "endCharOffset": 134
+    },
+    {
+      "form": "…",
+      "startCharOffset": 134,
+      "endCharOffset": 135
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      29
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

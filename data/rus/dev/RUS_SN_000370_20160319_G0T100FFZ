@@ -1,0 +1,302 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160319_G0T100FFZ",
+  "text": "@andysingingbird в таком случае это уже теракт получается, потому что даже пьяный пилот легко может посадить эту груду металла.",
+  "tokens": [
+    "@andysingingbird",
+    "в",
+    "таком",
+    "случае",
+    "это",
+    "уже",
+    "теракт",
+    "получается",
+    ",",
+    "потому",
+    "что",
+    "даже",
+    "пьяный",
+    "пилот",
+    "легко",
+    "может",
+    "посадить",
+    "эту",
+    "груду",
+    "металла",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@andysingingbird",
+      "startCharOffset": 0,
+      "endCharOffset": 16
+    },
+    {
+      "form": "в",
+      "startCharOffset": 17,
+      "endCharOffset": 18
+    },
+    {
+      "form": "таком",
+      "startCharOffset": 19,
+      "endCharOffset": 24
+    },
+    {
+      "form": "случае",
+      "startCharOffset": 25,
+      "endCharOffset": 31
+    },
+    {
+      "form": "это",
+      "startCharOffset": 32,
+      "endCharOffset": 35
+    },
+    {
+      "form": "уже",
+      "startCharOffset": 36,
+      "endCharOffset": 39
+    },
+    {
+      "form": "теракт",
+      "startCharOffset": 40,
+      "endCharOffset": 46
+    },
+    {
+      "form": "получается",
+      "startCharOffset": 47,
+      "endCharOffset": 57
+    },
+    {
+      "form": ",",
+      "startCharOffset": 57,
+      "endCharOffset": 58
+    },
+    {
+      "form": "потому",
+      "startCharOffset": 59,
+      "endCharOffset": 65
+    },
+    {
+      "form": "что",
+      "startCharOffset": 66,
+      "endCharOffset": 69
+    },
+    {
+      "form": "даже",
+      "startCharOffset": 70,
+      "endCharOffset": 74
+    },
+    {
+      "form": "пьяный",
+      "startCharOffset": 75,
+      "endCharOffset": 81
+    },
+    {
+      "form": "пилот",
+      "startCharOffset": 82,
+      "endCharOffset": 87
+    },
+    {
+      "form": "легко",
+      "startCharOffset": 88,
+      "endCharOffset": 93
+    },
+    {
+      "form": "может",
+      "startCharOffset": 94,
+      "endCharOffset": 99
+    },
+    {
+      "form": "посадить",
+      "startCharOffset": 100,
+      "endCharOffset": 108
+    },
+    {
+      "form": "эту",
+      "startCharOffset": 109,
+      "endCharOffset": 112
+    },
+    {
+      "form": "груду",
+      "startCharOffset": 113,
+      "endCharOffset": 118
+    },
+    {
+      "form": "металла",
+      "startCharOffset": 119,
+      "endCharOffset": 126
+    },
+    {
+      "form": ".",
+      "startCharOffset": 126,
+      "endCharOffset": 127
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

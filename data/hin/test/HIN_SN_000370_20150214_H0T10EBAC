@@ -1,0 +1,386 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150214_H0T10EBAC",
+  "text": "RT @nirmpandey: Asaram Bapu Ji: \u0027ऐसा प्रेम दिवस मनाएँ जिसमें सच्चा विकास हो काम बदले राम में और मंगल स्नेह की बरसात हो \u0027 #HappyParen…",
+  "tokens": [
+    "RT",
+    "@nirmpandey:",
+    "Asaram",
+    "Bapu",
+    "Ji",
+    ":",
+    "\u0027",
+    "ऐसा",
+    "प्रेम",
+    "दिवस",
+    "मनाएँ",
+    "जिसमें",
+    "सच्चा",
+    "विकास",
+    "हो",
+    "काम",
+    "बदले",
+    "राम",
+    "में",
+    "और",
+    "मंगल",
+    "स्नेह",
+    "की",
+    "बरसात",
+    "हो",
+    "\u0027",
+    "#HappyParen…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@nirmpandey:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Asaram",
+      "startCharOffset": 16,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Bapu",
+      "startCharOffset": 23,
+      "endCharOffset": 27
+    },
+    {
+      "form": "Ji",
+      "startCharOffset": 28,
+      "endCharOffset": 30
+    },
+    {
+      "form": ":",
+      "startCharOffset": 30,
+      "endCharOffset": 31
+    },
+    {
+      "form": "\u0027",
+      "startCharOffset": 32,
+      "endCharOffset": 33
+    },
+    {
+      "form": "ऐसा",
+      "startCharOffset": 33,
+      "endCharOffset": 36
+    },
+    {
+      "form": "प्रेम",
+      "startCharOffset": 37,
+      "endCharOffset": 42
+    },
+    {
+      "form": "दिवस",
+      "startCharOffset": 43,
+      "endCharOffset": 47
+    },
+    {
+      "form": "मनाएँ",
+      "startCharOffset": 48,
+      "endCharOffset": 53
+    },
+    {
+      "form": "जिसमें",
+      "startCharOffset": 54,
+      "endCharOffset": 60
+    },
+    {
+      "form": "सच्चा",
+      "startCharOffset": 61,
+      "endCharOffset": 66
+    },
+    {
+      "form": "विकास",
+      "startCharOffset": 67,
+      "endCharOffset": 72
+    },
+    {
+      "form": "हो",
+      "startCharOffset": 73,
+      "endCharOffset": 75
+    },
+    {
+      "form": "काम",
+      "startCharOffset": 76,
+      "endCharOffset": 79
+    },
+    {
+      "form": "बदले",
+      "startCharOffset": 80,
+      "endCharOffset": 84
+    },
+    {
+      "form": "राम",
+      "startCharOffset": 85,
+      "endCharOffset": 88
+    },
+    {
+      "form": "में",
+      "startCharOffset": 89,
+      "endCharOffset": 92
+    },
+    {
+      "form": "और",
+      "startCharOffset": 93,
+      "endCharOffset": 95
+    },
+    {
+      "form": "मंगल",
+      "startCharOffset": 96,
+      "endCharOffset": 100
+    },
+    {
+      "form": "स्नेह",
+      "startCharOffset": 101,
+      "endCharOffset": 106
+    },
+    {
+      "form": "की",
+      "startCharOffset": 107,
+      "endCharOffset": 109
+    },
+    {
+      "form": "बरसात",
+      "startCharOffset": 110,
+      "endCharOffset": 115
+    },
+    {
+      "form": "हो",
+      "startCharOffset": 116,
+      "endCharOffset": 118
+    },
+    {
+      "form": "\u0027",
+      "startCharOffset": 119,
+      "endCharOffset": 120
+    },
+    {
+      "form": "#HappyParen…",
+      "startCharOffset": 121,
+      "endCharOffset": 133
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      27
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 5
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

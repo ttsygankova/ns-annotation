@@ -1,0 +1,224 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150216_H0T10EBCB",
+  "text": "RT @AAPforINDIA: मोदी जी आप गरीबों से इतनी नफरत क्यों करतें है..?? http://t.co/up3jdr1uuP",
+  "tokens": [
+    "RT",
+    "@AAPforINDIA:",
+    "मोदी",
+    "जी",
+    "आप",
+    "गरीबों",
+    "से",
+    "इतनी",
+    "नफरत",
+    "क्यों",
+    "करतें",
+    "है",
+    "..??",
+    "http://t.co/up3jdr1uuP"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@AAPforINDIA:",
+      "startCharOffset": 3,
+      "endCharOffset": 16
+    },
+    {
+      "form": "मोदी",
+      "startCharOffset": 17,
+      "endCharOffset": 21
+    },
+    {
+      "form": "जी",
+      "startCharOffset": 22,
+      "endCharOffset": 24
+    },
+    {
+      "form": "आप",
+      "startCharOffset": 25,
+      "endCharOffset": 27
+    },
+    {
+      "form": "गरीबों",
+      "startCharOffset": 28,
+      "endCharOffset": 34
+    },
+    {
+      "form": "से",
+      "startCharOffset": 35,
+      "endCharOffset": 37
+    },
+    {
+      "form": "इतनी",
+      "startCharOffset": 38,
+      "endCharOffset": 42
+    },
+    {
+      "form": "नफरत",
+      "startCharOffset": 43,
+      "endCharOffset": 47
+    },
+    {
+      "form": "क्यों",
+      "startCharOffset": 48,
+      "endCharOffset": 53
+    },
+    {
+      "form": "करतें",
+      "startCharOffset": 54,
+      "endCharOffset": 59
+    },
+    {
+      "form": "है",
+      "startCharOffset": 60,
+      "endCharOffset": 62
+    },
+    {
+      "form": "..??",
+      "startCharOffset": 62,
+      "endCharOffset": 66
+    },
+    {
+      "form": "http://t.co/up3jdr1uuP",
+      "startCharOffset": 67,
+      "endCharOffset": 89
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

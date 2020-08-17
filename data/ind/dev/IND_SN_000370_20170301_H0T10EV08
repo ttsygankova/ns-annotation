@@ -1,0 +1,304 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170301_H0T10EV08",
+  "text": "1. Jokowi dan Raja Salman Perlu Bahas Isu Terorisme #MariBerbenah https://t.co/EqjzIHpBCQ",
+  "tokens": [
+    "1",
+    ".",
+    "Jokowi",
+    "dan",
+    "Raja",
+    "Salman",
+    "Perlu",
+    "Bahas",
+    "Isu",
+    "Terorisme",
+    "#MariBerbenah",
+    "https://t.co/EqjzIHpBCQ"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "1",
+      "startCharOffset": 0,
+      "endCharOffset": 1
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1,
+      "endCharOffset": 2
+    },
+    {
+      "form": "Jokowi",
+      "startCharOffset": 3,
+      "endCharOffset": 9
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 10,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Raja",
+      "startCharOffset": 14,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Salman",
+      "startCharOffset": 19,
+      "endCharOffset": 25
+    },
+    {
+      "form": "Perlu",
+      "startCharOffset": 26,
+      "endCharOffset": 31
+    },
+    {
+      "form": "Bahas",
+      "startCharOffset": 32,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Isu",
+      "startCharOffset": 38,
+      "endCharOffset": 41
+    },
+    {
+      "form": "Terorisme",
+      "startCharOffset": 42,
+      "endCharOffset": 51
+    },
+    {
+      "form": "#MariBerbenah",
+      "startCharOffset": 52,
+      "endCharOffset": 65
+    },
+    {
+      "form": "https://t.co/EqjzIHpBCQ",
+      "startCharOffset": 66,
+      "endCharOffset": 89
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "1",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Jokowi",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Raja",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Salman",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Perlu",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Bahas",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Isu",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Terorisme",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "#MariBerbenah",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/EqjzIHpBCQ",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

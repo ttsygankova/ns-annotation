@@ -1,0 +1,320 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150221_H0T10EBG9",
+  "text": "RT @Nk3010Neha: वतन की आबरू और इजत सचमुच है खतरे में नेताअों के सूट करोडों के,वर्दीयां शहीदों की कचरे में-@bhagwantmann Surat http://t.co/B…",
+  "tokens": [
+    "RT",
+    "@Nk3010Neha:",
+    "वतन",
+    "की",
+    "आबरू",
+    "और",
+    "इजत",
+    "सचमुच",
+    "है",
+    "खतरे",
+    "में",
+    "नेताअों",
+    "के",
+    "सूट",
+    "करोडों",
+    "के,वर्दीयां",
+    "शहीदों",
+    "की",
+    "कचरे",
+    "में-@bhagwantmann",
+    "Surat",
+    "http://t.co/B…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@Nk3010Neha:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "वतन",
+      "startCharOffset": 16,
+      "endCharOffset": 19
+    },
+    {
+      "form": "की",
+      "startCharOffset": 20,
+      "endCharOffset": 22
+    },
+    {
+      "form": "आबरू",
+      "startCharOffset": 23,
+      "endCharOffset": 27
+    },
+    {
+      "form": "और",
+      "startCharOffset": 28,
+      "endCharOffset": 30
+    },
+    {
+      "form": "इजत",
+      "startCharOffset": 31,
+      "endCharOffset": 34
+    },
+    {
+      "form": "सचमुच",
+      "startCharOffset": 35,
+      "endCharOffset": 40
+    },
+    {
+      "form": "है",
+      "startCharOffset": 41,
+      "endCharOffset": 43
+    },
+    {
+      "form": "खतरे",
+      "startCharOffset": 44,
+      "endCharOffset": 48
+    },
+    {
+      "form": "में",
+      "startCharOffset": 49,
+      "endCharOffset": 52
+    },
+    {
+      "form": "नेताअों",
+      "startCharOffset": 53,
+      "endCharOffset": 60
+    },
+    {
+      "form": "के",
+      "startCharOffset": 61,
+      "endCharOffset": 63
+    },
+    {
+      "form": "सूट",
+      "startCharOffset": 64,
+      "endCharOffset": 67
+    },
+    {
+      "form": "करोडों",
+      "startCharOffset": 68,
+      "endCharOffset": 74
+    },
+    {
+      "form": "के,वर्दीयां",
+      "startCharOffset": 75,
+      "endCharOffset": 86
+    },
+    {
+      "form": "शहीदों",
+      "startCharOffset": 87,
+      "endCharOffset": 93
+    },
+    {
+      "form": "की",
+      "startCharOffset": 94,
+      "endCharOffset": 96
+    },
+    {
+      "form": "कचरे",
+      "startCharOffset": 97,
+      "endCharOffset": 101
+    },
+    {
+      "form": "में-@bhagwantmann",
+      "startCharOffset": 102,
+      "endCharOffset": 119
+    },
+    {
+      "form": "Surat",
+      "startCharOffset": 120,
+      "endCharOffset": 125
+    },
+    {
+      "form": "http://t.co/B…",
+      "startCharOffset": 126,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      22
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 19,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

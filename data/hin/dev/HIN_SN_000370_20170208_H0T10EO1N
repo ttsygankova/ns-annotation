@@ -1,0 +1,320 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170208_H0T10EO1N",
+  "text": "@harishrawatcmuk @digvijaya_28 उत्तराखंड में आये भूकंप का मज़ाक नही उड़ाया, उन्होंने राहुल जी वाला भूकंप का मज़ाक उड़ाया है,",
+  "tokens": [
+    "@harishrawatcmuk",
+    "@digvijaya_28",
+    "उत्तराखंड",
+    "में",
+    "आये",
+    "भूकंप",
+    "का",
+    "मज़ाक",
+    "नही",
+    "उड़ाया",
+    ",",
+    "उन्होंने",
+    "राहुल",
+    "जी",
+    "वाला",
+    "भूकंप",
+    "का",
+    "मज़ाक",
+    "उड़ाया",
+    "है",
+    ","
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@harishrawatcmuk",
+      "startCharOffset": 0,
+      "endCharOffset": 16
+    },
+    {
+      "form": "@digvijaya_28",
+      "startCharOffset": 17,
+      "endCharOffset": 30
+    },
+    {
+      "form": "उत्तराखंड",
+      "startCharOffset": 31,
+      "endCharOffset": 40
+    },
+    {
+      "form": "में",
+      "startCharOffset": 41,
+      "endCharOffset": 44
+    },
+    {
+      "form": "आये",
+      "startCharOffset": 45,
+      "endCharOffset": 48
+    },
+    {
+      "form": "भूकंप",
+      "startCharOffset": 49,
+      "endCharOffset": 54
+    },
+    {
+      "form": "का",
+      "startCharOffset": 55,
+      "endCharOffset": 57
+    },
+    {
+      "form": "मज़ाक",
+      "startCharOffset": 58,
+      "endCharOffset": 63
+    },
+    {
+      "form": "नही",
+      "startCharOffset": 64,
+      "endCharOffset": 67
+    },
+    {
+      "form": "उड़ाया",
+      "startCharOffset": 68,
+      "endCharOffset": 74
+    },
+    {
+      "form": ",",
+      "startCharOffset": 74,
+      "endCharOffset": 75
+    },
+    {
+      "form": "उन्होंने",
+      "startCharOffset": 76,
+      "endCharOffset": 84
+    },
+    {
+      "form": "राहुल",
+      "startCharOffset": 85,
+      "endCharOffset": 90
+    },
+    {
+      "form": "जी",
+      "startCharOffset": 91,
+      "endCharOffset": 93
+    },
+    {
+      "form": "वाला",
+      "startCharOffset": 94,
+      "endCharOffset": 98
+    },
+    {
+      "form": "भूकंप",
+      "startCharOffset": 99,
+      "endCharOffset": 104
+    },
+    {
+      "form": "का",
+      "startCharOffset": 105,
+      "endCharOffset": 107
+    },
+    {
+      "form": "मज़ाक",
+      "startCharOffset": 108,
+      "endCharOffset": 113
+    },
+    {
+      "form": "उड़ाया",
+      "startCharOffset": 114,
+      "endCharOffset": 120
+    },
+    {
+      "form": "है",
+      "startCharOffset": 121,
+      "endCharOffset": 123
+    },
+    {
+      "form": ",",
+      "startCharOffset": 123,
+      "endCharOffset": 124
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

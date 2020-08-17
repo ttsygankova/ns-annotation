@@ -1,0 +1,392 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170203_H0T10ENMO",
+  "text": "RT @imashu9: आतंकवाद के झूठे इल्जाम में 14 साल कैद के बाद 4 मुस्लिम नौजवान रिहा : न्युज साध्वी प्रज्ञा को हत्याकांड आरोप में रिहाई : न्युज…",
+  "tokens": [
+    "RT",
+    "@imashu9:",
+    "आतंकवाद",
+    "के",
+    "झूठे",
+    "इल्जाम",
+    "में",
+    "14",
+    "साल",
+    "कैद",
+    "के",
+    "बाद",
+    "4",
+    "मुस्लिम",
+    "नौजवान",
+    "रिहा",
+    ":",
+    "न्युज",
+    "साध्वी",
+    "प्रज्ञा",
+    "को",
+    "हत्याकांड",
+    "आरोप",
+    "में",
+    "रिहाई",
+    ":",
+    "न्युज",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@imashu9:",
+      "startCharOffset": 3,
+      "endCharOffset": 12
+    },
+    {
+      "form": "आतंकवाद",
+      "startCharOffset": 13,
+      "endCharOffset": 20
+    },
+    {
+      "form": "के",
+      "startCharOffset": 21,
+      "endCharOffset": 23
+    },
+    {
+      "form": "झूठे",
+      "startCharOffset": 24,
+      "endCharOffset": 28
+    },
+    {
+      "form": "इल्जाम",
+      "startCharOffset": 29,
+      "endCharOffset": 35
+    },
+    {
+      "form": "में",
+      "startCharOffset": 36,
+      "endCharOffset": 39
+    },
+    {
+      "form": "14",
+      "startCharOffset": 40,
+      "endCharOffset": 42
+    },
+    {
+      "form": "साल",
+      "startCharOffset": 43,
+      "endCharOffset": 46
+    },
+    {
+      "form": "कैद",
+      "startCharOffset": 47,
+      "endCharOffset": 50
+    },
+    {
+      "form": "के",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": "बाद",
+      "startCharOffset": 54,
+      "endCharOffset": 57
+    },
+    {
+      "form": "4",
+      "startCharOffset": 58,
+      "endCharOffset": 59
+    },
+    {
+      "form": "मुस्लिम",
+      "startCharOffset": 60,
+      "endCharOffset": 67
+    },
+    {
+      "form": "नौजवान",
+      "startCharOffset": 68,
+      "endCharOffset": 74
+    },
+    {
+      "form": "रिहा",
+      "startCharOffset": 75,
+      "endCharOffset": 79
+    },
+    {
+      "form": ":",
+      "startCharOffset": 80,
+      "endCharOffset": 81
+    },
+    {
+      "form": "न्युज",
+      "startCharOffset": 82,
+      "endCharOffset": 87
+    },
+    {
+      "form": "साध्वी",
+      "startCharOffset": 88,
+      "endCharOffset": 94
+    },
+    {
+      "form": "प्रज्ञा",
+      "startCharOffset": 95,
+      "endCharOffset": 102
+    },
+    {
+      "form": "को",
+      "startCharOffset": 103,
+      "endCharOffset": 105
+    },
+    {
+      "form": "हत्याकांड",
+      "startCharOffset": 106,
+      "endCharOffset": 115
+    },
+    {
+      "form": "आरोप",
+      "startCharOffset": 116,
+      "endCharOffset": 120
+    },
+    {
+      "form": "में",
+      "startCharOffset": 121,
+      "endCharOffset": 124
+    },
+    {
+      "form": "रिहाई",
+      "startCharOffset": 125,
+      "endCharOffset": 130
+    },
+    {
+      "form": ":",
+      "startCharOffset": 131,
+      "endCharOffset": 132
+    },
+    {
+      "form": "न्युज",
+      "startCharOffset": 133,
+      "endCharOffset": 138
+    },
+    {
+      "form": "…",
+      "startCharOffset": 138,
+      "endCharOffset": 139
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      28
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 18,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170223_H0T10EUPT",
+  "text": "RT @c0rnshare: Habib Rizieq \u0026 GNPF-MUI kunjungi korban Banjir Jakarta. #Spirit212 https://t.co/3p2yauaGxj",
+  "tokens": [
+    "RT",
+    "@c0rnshare:",
+    "Habib",
+    "Rizieq",
+    "\u0026",
+    "GNPF-MUI",
+    "kunjungi",
+    "korban",
+    "Banjir",
+    "Jakarta",
+    ".",
+    "#Spirit212",
+    "https://t.co/3p2yauaGxj"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@c0rnshare:",
+      "startCharOffset": 3,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Habib",
+      "startCharOffset": 15,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Rizieq",
+      "startCharOffset": 21,
+      "endCharOffset": 27
+    },
+    {
+      "form": "\u0026",
+      "startCharOffset": 28,
+      "endCharOffset": 29
+    },
+    {
+      "form": "GNPF-MUI",
+      "startCharOffset": 30,
+      "endCharOffset": 38
+    },
+    {
+      "form": "kunjungi",
+      "startCharOffset": 39,
+      "endCharOffset": 47
+    },
+    {
+      "form": "korban",
+      "startCharOffset": 48,
+      "endCharOffset": 54
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 55,
+      "endCharOffset": 61
+    },
+    {
+      "form": "Jakarta",
+      "startCharOffset": 62,
+      "endCharOffset": 69
+    },
+    {
+      "form": ".",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "#Spirit212",
+      "startCharOffset": 71,
+      "endCharOffset": 81
+    },
+    {
+      "form": "https://t.co/3p2yauaGxj",
+      "startCharOffset": 82,
+      "endCharOffset": 105
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 4
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@c0rnshare:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Habib",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Rizieq",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "\u0026",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "GNPF-MUI",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "kunjungi",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "korban",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Jakarta",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "#Spirit212",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "https://t.co/3p2yauaGxj",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

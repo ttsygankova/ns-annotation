@@ -1,0 +1,242 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150210_H0T10EB7C",
+  "text": "WAH @ShaileshTewarie @Swamy39 RT @varanasilive: अभी तो शपथ भी नही ली (cont) http://t.co/QHuuAL2zk6",
+  "tokens": [
+    "WAH",
+    "@ShaileshTewarie",
+    "@Swamy39",
+    "RT",
+    "@varanasilive:",
+    "अभी",
+    "तो",
+    "शपथ",
+    "भी",
+    "नही",
+    "ली",
+    "(",
+    "cont",
+    ")",
+    "http://t.co/QHuuAL2zk6"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "WAH",
+      "startCharOffset": 0,
+      "endCharOffset": 3
+    },
+    {
+      "form": "@ShaileshTewarie",
+      "startCharOffset": 4,
+      "endCharOffset": 20
+    },
+    {
+      "form": "@Swamy39",
+      "startCharOffset": 21,
+      "endCharOffset": 29
+    },
+    {
+      "form": "RT",
+      "startCharOffset": 30,
+      "endCharOffset": 32
+    },
+    {
+      "form": "@varanasilive:",
+      "startCharOffset": 33,
+      "endCharOffset": 47
+    },
+    {
+      "form": "अभी",
+      "startCharOffset": 48,
+      "endCharOffset": 51
+    },
+    {
+      "form": "तो",
+      "startCharOffset": 52,
+      "endCharOffset": 54
+    },
+    {
+      "form": "शपथ",
+      "startCharOffset": 55,
+      "endCharOffset": 58
+    },
+    {
+      "form": "भी",
+      "startCharOffset": 59,
+      "endCharOffset": 61
+    },
+    {
+      "form": "नही",
+      "startCharOffset": 62,
+      "endCharOffset": 65
+    },
+    {
+      "form": "ली",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "(",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "cont",
+      "startCharOffset": 70,
+      "endCharOffset": 74
+    },
+    {
+      "form": ")",
+      "startCharOffset": 74,
+      "endCharOffset": 75
+    },
+    {
+      "form": "http://t.co/QHuuAL2zk6",
+      "startCharOffset": 76,
+      "endCharOffset": 98
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

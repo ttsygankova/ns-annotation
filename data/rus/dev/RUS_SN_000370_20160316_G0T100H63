@@ -1,0 +1,230 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100H63",
+  "text": "Безвизовый режим откладывается: Порошенко не смог повлиять на голосование по избранию членов… https://t.co/NtXY6C5z8K",
+  "tokens": [
+    "Безвизовый",
+    "режим",
+    "откладывается",
+    ":",
+    "Порошенко",
+    "не",
+    "смог",
+    "повлиять",
+    "на",
+    "голосование",
+    "по",
+    "избранию",
+    "членов",
+    "…",
+    "https://t.co/NtXY6C5z8K"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Безвизовый",
+      "startCharOffset": 0,
+      "endCharOffset": 10
+    },
+    {
+      "form": "режим",
+      "startCharOffset": 11,
+      "endCharOffset": 16
+    },
+    {
+      "form": "откладывается",
+      "startCharOffset": 17,
+      "endCharOffset": 30
+    },
+    {
+      "form": ":",
+      "startCharOffset": 30,
+      "endCharOffset": 31
+    },
+    {
+      "form": "Порошенко",
+      "startCharOffset": 32,
+      "endCharOffset": 41
+    },
+    {
+      "form": "не",
+      "startCharOffset": 42,
+      "endCharOffset": 44
+    },
+    {
+      "form": "смог",
+      "startCharOffset": 45,
+      "endCharOffset": 49
+    },
+    {
+      "form": "повлиять",
+      "startCharOffset": 50,
+      "endCharOffset": 58
+    },
+    {
+      "form": "на",
+      "startCharOffset": 59,
+      "endCharOffset": 61
+    },
+    {
+      "form": "голосование",
+      "startCharOffset": 62,
+      "endCharOffset": 73
+    },
+    {
+      "form": "по",
+      "startCharOffset": 74,
+      "endCharOffset": 76
+    },
+    {
+      "form": "избранию",
+      "startCharOffset": 77,
+      "endCharOffset": 85
+    },
+    {
+      "form": "членов",
+      "startCharOffset": 86,
+      "endCharOffset": 92
+    },
+    {
+      "form": "…",
+      "startCharOffset": 92,
+      "endCharOffset": 93
+    },
+    {
+      "form": "https://t.co/NtXY6C5z8K",
+      "startCharOffset": 94,
+      "endCharOffset": 117
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

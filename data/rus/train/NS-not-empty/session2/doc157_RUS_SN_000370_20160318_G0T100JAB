@@ -1,0 +1,278 @@
+{
+  "corpusId": "",
+  "id": "doc157_RUS_SN_000370_20160318_G0T100JAB",
+  "text": "#Пожарные подразделения #МЧС России ликвидировали #пожар Александровский район (уточ. инф) https://t.co/MC10WD7Xc1 https://t.co/AKn7FZIw9D",
+  "tokens": [
+    "#Пожарные",
+    "подразделения",
+    "#МЧС",
+    "России",
+    "ликвидировали",
+    "#пожар",
+    "Александровский",
+    "район",
+    "(",
+    "уточ",
+    ".",
+    "инф",
+    ")",
+    "https://t.co/MC10WD7Xc1",
+    "https://t.co/AKn7FZIw9D"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#Пожарные",
+      "startCharOffset": 0,
+      "endCharOffset": 9
+    },
+    {
+      "form": "подразделения",
+      "startCharOffset": 10,
+      "endCharOffset": 23
+    },
+    {
+      "form": "#МЧС",
+      "startCharOffset": 24,
+      "endCharOffset": 28
+    },
+    {
+      "form": "России",
+      "startCharOffset": 29,
+      "endCharOffset": 35
+    },
+    {
+      "form": "ликвидировали",
+      "startCharOffset": 36,
+      "endCharOffset": 49
+    },
+    {
+      "form": "#пожар",
+      "startCharOffset": 50,
+      "endCharOffset": 56
+    },
+    {
+      "form": "Александровский",
+      "startCharOffset": 57,
+      "endCharOffset": 72
+    },
+    {
+      "form": "район",
+      "startCharOffset": 73,
+      "endCharOffset": 78
+    },
+    {
+      "form": "(",
+      "startCharOffset": 79,
+      "endCharOffset": 80
+    },
+    {
+      "form": "уточ",
+      "startCharOffset": 80,
+      "endCharOffset": 84
+    },
+    {
+      "form": ".",
+      "startCharOffset": 84,
+      "endCharOffset": 85
+    },
+    {
+      "form": "инф",
+      "startCharOffset": 86,
+      "endCharOffset": 89
+    },
+    {
+      "form": ")",
+      "startCharOffset": 89,
+      "endCharOffset": 90
+    },
+    {
+      "form": "https://t.co/MC10WD7Xc1",
+      "startCharOffset": 91,
+      "endCharOffset": 114
+    },
+    {
+      "form": "https://t.co/AKn7FZIw9D",
+      "startCharOffset": 115,
+      "endCharOffset": 138
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 5
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

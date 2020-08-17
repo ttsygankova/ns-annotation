@@ -1,0 +1,328 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170213_H0T10EU6J",
+  "text": "RT @triwul82: Djarot Sebut Tak Ada Lagi Warga Jakarta Mengungsi karena Banjir https://t.co/1CbhfKaUmE",
+  "tokens": [
+    "RT",
+    "@triwul82:",
+    "Djarot",
+    "Sebut",
+    "Tak",
+    "Ada",
+    "Lagi",
+    "Warga",
+    "Jakarta",
+    "Mengungsi",
+    "karena",
+    "Banjir",
+    "https://t.co/1CbhfKaUmE"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@triwul82:",
+      "startCharOffset": 3,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Djarot",
+      "startCharOffset": 14,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Sebut",
+      "startCharOffset": 21,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Tak",
+      "startCharOffset": 27,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Ada",
+      "startCharOffset": 31,
+      "endCharOffset": 34
+    },
+    {
+      "form": "Lagi",
+      "startCharOffset": 35,
+      "endCharOffset": 39
+    },
+    {
+      "form": "Warga",
+      "startCharOffset": 40,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Jakarta",
+      "startCharOffset": 46,
+      "endCharOffset": 53
+    },
+    {
+      "form": "Mengungsi",
+      "startCharOffset": 54,
+      "endCharOffset": 63
+    },
+    {
+      "form": "karena",
+      "startCharOffset": 64,
+      "endCharOffset": 70
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 71,
+      "endCharOffset": 77
+    },
+    {
+      "form": "https://t.co/1CbhfKaUmE",
+      "startCharOffset": 78,
+      "endCharOffset": 101
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@triwul82:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Djarot",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Sebut",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Tak",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Ada",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Lagi",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Warga",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Jakarta",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Mengungsi",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "karena",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "https://t.co/1CbhfKaUmE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

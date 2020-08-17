@@ -1,0 +1,340 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170223_H0T10EUP3",
+  "text": "Bendera Partai Berkibar Di Kantor KPU Nias Barat Dalam Kondisi Rusak https://t.co/t2cI0jCzQB lewat @@akuratnews",
+  "tokens": [
+    "Bendera",
+    "Partai",
+    "Berkibar",
+    "Di",
+    "Kantor",
+    "KPU",
+    "Nias",
+    "Barat",
+    "Dalam",
+    "Kondisi",
+    "Rusak",
+    "https://t.co/t2cI0jCzQB",
+    "lewat",
+    "@@akuratnews"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Bendera",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "Partai",
+      "startCharOffset": 8,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Berkibar",
+      "startCharOffset": 15,
+      "endCharOffset": 23
+    },
+    {
+      "form": "Di",
+      "startCharOffset": 24,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Kantor",
+      "startCharOffset": 27,
+      "endCharOffset": 33
+    },
+    {
+      "form": "KPU",
+      "startCharOffset": 34,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Nias",
+      "startCharOffset": 38,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Barat",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "Dalam",
+      "startCharOffset": 49,
+      "endCharOffset": 54
+    },
+    {
+      "form": "Kondisi",
+      "startCharOffset": 55,
+      "endCharOffset": 62
+    },
+    {
+      "form": "Rusak",
+      "startCharOffset": 63,
+      "endCharOffset": 68
+    },
+    {
+      "form": "https://t.co/t2cI0jCzQB",
+      "startCharOffset": 69,
+      "endCharOffset": 92
+    },
+    {
+      "form": "lewat",
+      "startCharOffset": 93,
+      "endCharOffset": 98
+    },
+    {
+      "form": "@@akuratnews",
+      "startCharOffset": 99,
+      "endCharOffset": 111
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Bendera",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Partai",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Berkibar",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Di",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Kantor",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "KPU",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Nias",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Barat",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Dalam",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Kondisi",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Rusak",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/t2cI0jCzQB",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "lewat",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "@@akuratnews",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

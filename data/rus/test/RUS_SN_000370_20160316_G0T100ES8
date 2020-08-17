@@ -1,0 +1,290 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160316_G0T100ES8",
+  "text": "RT @UkrainNEWS: Retweeted Дядя Петя (@patriot_petya): Данные СБУ: Потери ВДВ РФ на Донбассе https://t.co/CpbAB9Vs6W https://t.co/VH8kL3vAp5",
+  "tokens": [
+    "RT",
+    "@UkrainNEWS:",
+    "Retweeted",
+    "Дядя",
+    "Петя",
+    "(@",
+    "patriot_petya",
+    "):",
+    "Данные",
+    "СБУ",
+    ":",
+    "Потери",
+    "ВДВ",
+    "РФ",
+    "на",
+    "Донбассе",
+    "https://t.co/CpbAB9Vs6W",
+    "https://t.co/VH8kL3vAp5"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@UkrainNEWS:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Retweeted",
+      "startCharOffset": 16,
+      "endCharOffset": 25
+    },
+    {
+      "form": "Дядя",
+      "startCharOffset": 26,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Петя",
+      "startCharOffset": 31,
+      "endCharOffset": 35
+    },
+    {
+      "form": "(@",
+      "startCharOffset": 36,
+      "endCharOffset": 38
+    },
+    {
+      "form": "patriot_petya",
+      "startCharOffset": 38,
+      "endCharOffset": 51
+    },
+    {
+      "form": "):",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": "Данные",
+      "startCharOffset": 54,
+      "endCharOffset": 60
+    },
+    {
+      "form": "СБУ",
+      "startCharOffset": 61,
+      "endCharOffset": 64
+    },
+    {
+      "form": ":",
+      "startCharOffset": 64,
+      "endCharOffset": 65
+    },
+    {
+      "form": "Потери",
+      "startCharOffset": 66,
+      "endCharOffset": 72
+    },
+    {
+      "form": "ВДВ",
+      "startCharOffset": 73,
+      "endCharOffset": 76
+    },
+    {
+      "form": "РФ",
+      "startCharOffset": 77,
+      "endCharOffset": 79
+    },
+    {
+      "form": "на",
+      "startCharOffset": 80,
+      "endCharOffset": 82
+    },
+    {
+      "form": "Донбассе",
+      "startCharOffset": 83,
+      "endCharOffset": 91
+    },
+    {
+      "form": "https://t.co/CpbAB9Vs6W",
+      "startCharOffset": 92,
+      "endCharOffset": 115
+    },
+    {
+      "form": "https://t.co/VH8kL3vAp5",
+      "startCharOffset": 116,
+      "endCharOffset": 139
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 5
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 12,
+              "end": 14
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

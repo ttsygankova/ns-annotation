@@ -1,0 +1,320 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150227_H0T10EBJV",
+  "text": "RT @prasarbharati: #PhilatelyWorld: चन्द्रशेखर आज़ाद की पुण्यतिथि पर 1988 में भारतीय डाक की जारी की गयी स्मारक टिकट #ChandraShekharAzad htt…",
+  "tokens": [
+    "RT",
+    "@prasarbharati:",
+    "#PhilatelyWorld:",
+    "चन्द्रशेखर",
+    "आज़ाद",
+    "की",
+    "पुण्यतिथि",
+    "पर",
+    "1988",
+    "में",
+    "भारतीय",
+    "डाक",
+    "की",
+    "जारी",
+    "की",
+    "गयी",
+    "स्मारक",
+    "टिकट",
+    "#ChandraShekharAzad",
+    "htt",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@prasarbharati:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "#PhilatelyWorld:",
+      "startCharOffset": 19,
+      "endCharOffset": 35
+    },
+    {
+      "form": "चन्द्रशेखर",
+      "startCharOffset": 36,
+      "endCharOffset": 46
+    },
+    {
+      "form": "आज़ाद",
+      "startCharOffset": 47,
+      "endCharOffset": 52
+    },
+    {
+      "form": "की",
+      "startCharOffset": 53,
+      "endCharOffset": 55
+    },
+    {
+      "form": "पुण्यतिथि",
+      "startCharOffset": 56,
+      "endCharOffset": 65
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "1988",
+      "startCharOffset": 69,
+      "endCharOffset": 73
+    },
+    {
+      "form": "में",
+      "startCharOffset": 74,
+      "endCharOffset": 77
+    },
+    {
+      "form": "भारतीय",
+      "startCharOffset": 78,
+      "endCharOffset": 84
+    },
+    {
+      "form": "डाक",
+      "startCharOffset": 85,
+      "endCharOffset": 88
+    },
+    {
+      "form": "की",
+      "startCharOffset": 89,
+      "endCharOffset": 91
+    },
+    {
+      "form": "जारी",
+      "startCharOffset": 92,
+      "endCharOffset": 96
+    },
+    {
+      "form": "की",
+      "startCharOffset": 97,
+      "endCharOffset": 99
+    },
+    {
+      "form": "गयी",
+      "startCharOffset": 100,
+      "endCharOffset": 103
+    },
+    {
+      "form": "स्मारक",
+      "startCharOffset": 104,
+      "endCharOffset": 110
+    },
+    {
+      "form": "टिकट",
+      "startCharOffset": 111,
+      "endCharOffset": 115
+    },
+    {
+      "form": "#ChandraShekharAzad",
+      "startCharOffset": 116,
+      "endCharOffset": 135
+    },
+    {
+      "form": "htt",
+      "startCharOffset": 136,
+      "endCharOffset": 139
+    },
+    {
+      "form": "…",
+      "startCharOffset": 139,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 5
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

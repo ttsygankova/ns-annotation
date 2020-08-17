@@ -1,0 +1,194 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160321_G0T100JOZ",
+  "text": "@httpace2002 у меня недостаток кальция в организме, можно без этого?",
+  "tokens": [
+    "@httpace2002",
+    "у",
+    "меня",
+    "недостаток",
+    "кальция",
+    "в",
+    "организме",
+    ",",
+    "можно",
+    "без",
+    "этого",
+    "?"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@httpace2002",
+      "startCharOffset": 0,
+      "endCharOffset": 12
+    },
+    {
+      "form": "у",
+      "startCharOffset": 13,
+      "endCharOffset": 14
+    },
+    {
+      "form": "меня",
+      "startCharOffset": 15,
+      "endCharOffset": 19
+    },
+    {
+      "form": "недостаток",
+      "startCharOffset": 20,
+      "endCharOffset": 30
+    },
+    {
+      "form": "кальция",
+      "startCharOffset": 31,
+      "endCharOffset": 38
+    },
+    {
+      "form": "в",
+      "startCharOffset": 39,
+      "endCharOffset": 40
+    },
+    {
+      "form": "организме",
+      "startCharOffset": 41,
+      "endCharOffset": 50
+    },
+    {
+      "form": ",",
+      "startCharOffset": 50,
+      "endCharOffset": 51
+    },
+    {
+      "form": "можно",
+      "startCharOffset": 52,
+      "endCharOffset": 57
+    },
+    {
+      "form": "без",
+      "startCharOffset": 58,
+      "endCharOffset": 61
+    },
+    {
+      "form": "этого",
+      "startCharOffset": 62,
+      "endCharOffset": 67
+    },
+    {
+      "form": "?",
+      "startCharOffset": 67,
+      "endCharOffset": 68
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

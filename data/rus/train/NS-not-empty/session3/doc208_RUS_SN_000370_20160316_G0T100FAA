@@ -1,0 +1,278 @@
+{
+  "corpusId": "",
+  "id": "doc208_RUS_SN_000370_20160316_G0T100FAA",
+  "text": "@SmykValentin @narodprotiv Конечно,не поняли.В телеке ж пурга про вЯликую победу х*йла в Сирии,про летунов(убийц-бомбистов)вернувш-ся героев",
+  "tokens": [
+    "@SmykValentin",
+    "@narodprotiv",
+    "Конечно,не",
+    "поняли.В",
+    "телеке",
+    "ж",
+    "пурга",
+    "про",
+    "вЯликую",
+    "победу",
+    "х*йла",
+    "в",
+    "Сирии,про",
+    "летунов(убийц-бомбистов)вернувш-ся",
+    "героев"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@SmykValentin",
+      "startCharOffset": 0,
+      "endCharOffset": 13
+    },
+    {
+      "form": "@narodprotiv",
+      "startCharOffset": 14,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Конечно,не",
+      "startCharOffset": 27,
+      "endCharOffset": 37
+    },
+    {
+      "form": "поняли.В",
+      "startCharOffset": 38,
+      "endCharOffset": 46
+    },
+    {
+      "form": "телеке",
+      "startCharOffset": 47,
+      "endCharOffset": 53
+    },
+    {
+      "form": "ж",
+      "startCharOffset": 54,
+      "endCharOffset": 55
+    },
+    {
+      "form": "пурга",
+      "startCharOffset": 56,
+      "endCharOffset": 61
+    },
+    {
+      "form": "про",
+      "startCharOffset": 62,
+      "endCharOffset": 65
+    },
+    {
+      "form": "вЯликую",
+      "startCharOffset": 66,
+      "endCharOffset": 73
+    },
+    {
+      "form": "победу",
+      "startCharOffset": 74,
+      "endCharOffset": 80
+    },
+    {
+      "form": "х*йла",
+      "startCharOffset": 81,
+      "endCharOffset": 86
+    },
+    {
+      "form": "в",
+      "startCharOffset": 87,
+      "endCharOffset": 88
+    },
+    {
+      "form": "Сирии,про",
+      "startCharOffset": 89,
+      "endCharOffset": 98
+    },
+    {
+      "form": "летунов(убийц-бомбистов)вернувш-ся",
+      "startCharOffset": 99,
+      "endCharOffset": 133
+    },
+    {
+      "form": "героев",
+      "startCharOffset": 134,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

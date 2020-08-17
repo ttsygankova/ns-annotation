@@ -1,0 +1,224 @@
+{
+  "corpusId": "",
+  "id": "RUS_SN_000370_20160320_G0T100FLQ",
+  "text": "«Смертник, исполнивший этот подлый #теракт, причастен к деятельности #ДАЕШ» https://t.co/8xJb5aw3sK #Турция https://t.co/w2oDT6x3Ep",
+  "tokens": [
+    "«",
+    "Смертник",
+    ",",
+    "исполнивший",
+    "этот",
+    "подлый",
+    "#теракт,",
+    "причастен",
+    "к",
+    "деятельности",
+    "#ДАЕШ»",
+    "https://t.co/8xJb5aw3sK",
+    "#Турция",
+    "https://t.co/w2oDT6x3Ep"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "«",
+      "startCharOffset": 0,
+      "endCharOffset": 1
+    },
+    {
+      "form": "Смертник",
+      "startCharOffset": 1,
+      "endCharOffset": 9
+    },
+    {
+      "form": ",",
+      "startCharOffset": 9,
+      "endCharOffset": 10
+    },
+    {
+      "form": "исполнивший",
+      "startCharOffset": 11,
+      "endCharOffset": 22
+    },
+    {
+      "form": "этот",
+      "startCharOffset": 23,
+      "endCharOffset": 27
+    },
+    {
+      "form": "подлый",
+      "startCharOffset": 28,
+      "endCharOffset": 34
+    },
+    {
+      "form": "#теракт,",
+      "startCharOffset": 35,
+      "endCharOffset": 43
+    },
+    {
+      "form": "причастен",
+      "startCharOffset": 44,
+      "endCharOffset": 53
+    },
+    {
+      "form": "к",
+      "startCharOffset": 54,
+      "endCharOffset": 55
+    },
+    {
+      "form": "деятельности",
+      "startCharOffset": 56,
+      "endCharOffset": 68
+    },
+    {
+      "form": "#ДАЕШ»",
+      "startCharOffset": 69,
+      "endCharOffset": 75
+    },
+    {
+      "form": "https://t.co/8xJb5aw3sK",
+      "startCharOffset": 76,
+      "endCharOffset": 99
+    },
+    {
+      "form": "#Турция",
+      "startCharOffset": 100,
+      "endCharOffset": 107
+    },
+    {
+      "form": "https://t.co/w2oDT6x3Ep",
+      "startCharOffset": 108,
+      "endCharOffset": 131
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

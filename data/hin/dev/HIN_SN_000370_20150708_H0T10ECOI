@@ -1,0 +1,134 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20150708_H0T10ECOI",
+  "text": "@abpmajhatv मालाड वेस्टला बाटा शोरूमला आग",
+  "tokens": [
+    "@abpmajhatv",
+    "मालाड",
+    "वेस्टला",
+    "बाटा",
+    "शोरूमला",
+    "आग"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@abpmajhatv",
+      "startCharOffset": 0,
+      "endCharOffset": 11
+    },
+    {
+      "form": "मालाड",
+      "startCharOffset": 12,
+      "endCharOffset": 17
+    },
+    {
+      "form": "वेस्टला",
+      "startCharOffset": 18,
+      "endCharOffset": 25
+    },
+    {
+      "form": "बाटा",
+      "startCharOffset": 26,
+      "endCharOffset": 30
+    },
+    {
+      "form": "शोरूमला",
+      "startCharOffset": 31,
+      "endCharOffset": 38
+    },
+    {
+      "form": "आग",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      6
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 1,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

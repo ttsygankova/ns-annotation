@@ -1,0 +1,316 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170304_H0T10EV3O",
+  "text": "Polisi Ganteng Dorong Mobil Mogok Terjebak Banjir Rob Jadi Viral https://t.co/kvR4MnDIvy via TribunJateng",
+  "tokens": [
+    "Polisi",
+    "Ganteng",
+    "Dorong",
+    "Mobil",
+    "Mogok",
+    "Terjebak",
+    "Banjir",
+    "Rob",
+    "Jadi",
+    "Viral",
+    "https://t.co/kvR4MnDIvy",
+    "via",
+    "TribunJateng"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Polisi",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Ganteng",
+      "startCharOffset": 7,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Dorong",
+      "startCharOffset": 15,
+      "endCharOffset": 21
+    },
+    {
+      "form": "Mobil",
+      "startCharOffset": 22,
+      "endCharOffset": 27
+    },
+    {
+      "form": "Mogok",
+      "startCharOffset": 28,
+      "endCharOffset": 33
+    },
+    {
+      "form": "Terjebak",
+      "startCharOffset": 34,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 43,
+      "endCharOffset": 49
+    },
+    {
+      "form": "Rob",
+      "startCharOffset": 50,
+      "endCharOffset": 53
+    },
+    {
+      "form": "Jadi",
+      "startCharOffset": 54,
+      "endCharOffset": 58
+    },
+    {
+      "form": "Viral",
+      "startCharOffset": 59,
+      "endCharOffset": 64
+    },
+    {
+      "form": "https://t.co/kvR4MnDIvy",
+      "startCharOffset": 65,
+      "endCharOffset": 88
+    },
+    {
+      "form": "via",
+      "startCharOffset": 89,
+      "endCharOffset": 92
+    },
+    {
+      "form": "TribunJateng",
+      "startCharOffset": 93,
+      "endCharOffset": 105
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      13
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Polisi",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Ganteng",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Dorong",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Mobil",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Mogok",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Terjebak",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Rob",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Jadi",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Viral",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "https://t.co/kvR4MnDIvy",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "via",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "TribunJateng",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

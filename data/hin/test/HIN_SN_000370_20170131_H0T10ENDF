@@ -1,0 +1,254 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170131_H0T10ENDF",
+  "text": "बॉलीवुड जिसे \"हिन्दू आतंक\" दिख गया, पर इस्लामिक आतंकवाद आजतक दिखाई नहीं पड़ा https://t.co/KfoLrSHTNC",
+  "tokens": [
+    "बॉलीवुड",
+    "जिसे",
+    "\"",
+    "हिन्दू",
+    "आतंक",
+    "\"",
+    "दिख",
+    "गया",
+    ",",
+    "पर",
+    "इस्लामिक",
+    "आतंकवाद",
+    "आजतक",
+    "दिखाई",
+    "नहीं",
+    "पड़ा",
+    "https://t.co/KfoLrSHTNC"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "बॉलीवुड",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "जिसे",
+      "startCharOffset": 8,
+      "endCharOffset": 12
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 13,
+      "endCharOffset": 14
+    },
+    {
+      "form": "हिन्दू",
+      "startCharOffset": 14,
+      "endCharOffset": 20
+    },
+    {
+      "form": "आतंक",
+      "startCharOffset": 21,
+      "endCharOffset": 25
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 25,
+      "endCharOffset": 26
+    },
+    {
+      "form": "दिख",
+      "startCharOffset": 27,
+      "endCharOffset": 30
+    },
+    {
+      "form": "गया",
+      "startCharOffset": 31,
+      "endCharOffset": 34
+    },
+    {
+      "form": ",",
+      "startCharOffset": 34,
+      "endCharOffset": 35
+    },
+    {
+      "form": "पर",
+      "startCharOffset": 36,
+      "endCharOffset": 38
+    },
+    {
+      "form": "इस्लामिक",
+      "startCharOffset": 39,
+      "endCharOffset": 47
+    },
+    {
+      "form": "आतंकवाद",
+      "startCharOffset": 48,
+      "endCharOffset": 55
+    },
+    {
+      "form": "आजतक",
+      "startCharOffset": 56,
+      "endCharOffset": 60
+    },
+    {
+      "form": "दिखाई",
+      "startCharOffset": 61,
+      "endCharOffset": 66
+    },
+    {
+      "form": "नहीं",
+      "startCharOffset": 67,
+      "endCharOffset": 71
+    },
+    {
+      "form": "पड़ा",
+      "startCharOffset": 72,
+      "endCharOffset": 76
+    },
+    {
+      "form": "https://t.co/KfoLrSHTNC",
+      "startCharOffset": 77,
+      "endCharOffset": 100
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

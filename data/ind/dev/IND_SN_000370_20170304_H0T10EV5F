@@ -1,0 +1,358 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170304_H0T10EV5F",
+  "text": "RT Dahsyat: Vebby Palwinta Bikin Hati Anwar Hancur, Ini Penyebabnya https://t.co/XxRe3lyiUh #followMe #follback",
+  "tokens": [
+    "RT",
+    "Dahsyat",
+    ":",
+    "Vebby",
+    "Palwinta",
+    "Bikin",
+    "Hati",
+    "Anwar",
+    "Hancur",
+    ",",
+    "Ini",
+    "Penyebabnya",
+    "https://t.co/XxRe3lyiUh",
+    "#followMe",
+    "#follback"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "Dahsyat",
+      "startCharOffset": 3,
+      "endCharOffset": 10
+    },
+    {
+      "form": ":",
+      "startCharOffset": 10,
+      "endCharOffset": 11
+    },
+    {
+      "form": "Vebby",
+      "startCharOffset": 12,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Palwinta",
+      "startCharOffset": 18,
+      "endCharOffset": 26
+    },
+    {
+      "form": "Bikin",
+      "startCharOffset": 27,
+      "endCharOffset": 32
+    },
+    {
+      "form": "Hati",
+      "startCharOffset": 33,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Anwar",
+      "startCharOffset": 38,
+      "endCharOffset": 43
+    },
+    {
+      "form": "Hancur",
+      "startCharOffset": 44,
+      "endCharOffset": 50
+    },
+    {
+      "form": ",",
+      "startCharOffset": 50,
+      "endCharOffset": 51
+    },
+    {
+      "form": "Ini",
+      "startCharOffset": 52,
+      "endCharOffset": 55
+    },
+    {
+      "form": "Penyebabnya",
+      "startCharOffset": 56,
+      "endCharOffset": 67
+    },
+    {
+      "form": "https://t.co/XxRe3lyiUh",
+      "startCharOffset": 68,
+      "endCharOffset": 91
+    },
+    {
+      "form": "#followMe",
+      "startCharOffset": 92,
+      "endCharOffset": 101
+    },
+    {
+      "form": "#follback",
+      "startCharOffset": 102,
+      "endCharOffset": 111
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 5
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Dahsyat",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Vebby",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Palwinta",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Bikin",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Hati",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Anwar",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Hancur",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Ini",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Penyebabnya",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "https://t.co/XxRe3lyiUh",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "#followMe",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "#follback",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "corpusId": "",
+  "id": "doc127_IND_SN_000370_20170408_H0T10G1ZM",
+  "text": "Irwandi Yusuf dan Mualem Tak Hadiri Sidang Putusan MK: Banda Aceh, – Calon gubernur Irwandi Yusuf dan Muzakir Manaf… https://t.co/mzt8VEmJ5Q",
+  "tokens": [
+    "Irwandi",
+    "Yusuf",
+    "dan",
+    "Mualem",
+    "Tak",
+    "Hadiri",
+    "Sidang",
+    "Putusan",
+    "MK",
+    ":",
+    "Banda",
+    "Aceh",
+    ",",
+    "–",
+    "Calon",
+    "gubernur",
+    "Irwandi",
+    "Yusuf",
+    "dan",
+    "Muzakir",
+    "Manaf",
+    "…",
+    "https://t.co/mzt8VEmJ5Q"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Irwandi",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "Yusuf",
+      "startCharOffset": 8,
+      "endCharOffset": 13
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 14,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Mualem",
+      "startCharOffset": 18,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Tak",
+      "startCharOffset": 25,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Hadiri",
+      "startCharOffset": 29,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Sidang",
+      "startCharOffset": 36,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Putusan",
+      "startCharOffset": 43,
+      "endCharOffset": 50
+    },
+    {
+      "form": "MK",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": ":",
+      "startCharOffset": 53,
+      "endCharOffset": 54
+    },
+    {
+      "form": "Banda",
+      "startCharOffset": 55,
+      "endCharOffset": 60
+    },
+    {
+      "form": "Aceh",
+      "startCharOffset": 61,
+      "endCharOffset": 65
+    },
+    {
+      "form": ",",
+      "startCharOffset": 65,
+      "endCharOffset": 66
+    },
+    {
+      "form": "–",
+      "startCharOffset": 67,
+      "endCharOffset": 68
+    },
+    {
+      "form": "Calon",
+      "startCharOffset": 69,
+      "endCharOffset": 74
+    },
+    {
+      "form": "gubernur",
+      "startCharOffset": 75,
+      "endCharOffset": 83
+    },
+    {
+      "form": "Irwandi",
+      "startCharOffset": 84,
+      "endCharOffset": 91
+    },
+    {
+      "form": "Yusuf",
+      "startCharOffset": 92,
+      "endCharOffset": 97
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 98,
+      "endCharOffset": 101
+    },
+    {
+      "form": "Muzakir",
+      "startCharOffset": 102,
+      "endCharOffset": 109
+    },
+    {
+      "form": "Manaf",
+      "startCharOffset": 110,
+      "endCharOffset": 115
+    },
+    {
+      "form": "…",
+      "startCharOffset": 115,
+      "endCharOffset": 116
+    },
+    {
+      "form": "https://t.co/mzt8VEmJ5Q",
+      "startCharOffset": 117,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      23
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 18
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 12
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 19,
+              "end": 21
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 12
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 18
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 19,
+              "end": 21
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Irwandi",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Yusuf",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Mualem",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Tak",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Hadiri",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Sidang",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Putusan",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "MK",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Banda",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Aceh",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "-",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "Calon",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "gubernur",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "Irwandi",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "Yusuf",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "Muzakir",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "Manaf",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "https://t.co/mzt8VEmJ5Q",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

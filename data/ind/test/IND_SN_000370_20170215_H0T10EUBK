@@ -1,0 +1,424 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170215_H0T10EUBK",
+  "text": "RT @hendrawarmanr: @motulz 2 thn beresin banjir Jakarta, 5 thn, daerah sekeliling Jakarta udh ngga banjir",
+  "tokens": [
+    "RT",
+    "@hendrawarmanr:",
+    "@motulz",
+    "2",
+    "thn",
+    "beresin",
+    "banjir",
+    "Jakarta",
+    ",",
+    "5",
+    "thn",
+    ",",
+    "daerah",
+    "sekeliling",
+    "Jakarta",
+    "udh",
+    "ngga",
+    "banjir"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@hendrawarmanr:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "@motulz",
+      "startCharOffset": 19,
+      "endCharOffset": 26
+    },
+    {
+      "form": "2",
+      "startCharOffset": 27,
+      "endCharOffset": 28
+    },
+    {
+      "form": "thn",
+      "startCharOffset": 29,
+      "endCharOffset": 32
+    },
+    {
+      "form": "beresin",
+      "startCharOffset": 33,
+      "endCharOffset": 40
+    },
+    {
+      "form": "banjir",
+      "startCharOffset": 41,
+      "endCharOffset": 47
+    },
+    {
+      "form": "Jakarta",
+      "startCharOffset": 48,
+      "endCharOffset": 55
+    },
+    {
+      "form": ",",
+      "startCharOffset": 55,
+      "endCharOffset": 56
+    },
+    {
+      "form": "5",
+      "startCharOffset": 57,
+      "endCharOffset": 58
+    },
+    {
+      "form": "thn",
+      "startCharOffset": 59,
+      "endCharOffset": 62
+    },
+    {
+      "form": ",",
+      "startCharOffset": 62,
+      "endCharOffset": 63
+    },
+    {
+      "form": "daerah",
+      "startCharOffset": 64,
+      "endCharOffset": 70
+    },
+    {
+      "form": "sekeliling",
+      "startCharOffset": 71,
+      "endCharOffset": 81
+    },
+    {
+      "form": "Jakarta",
+      "startCharOffset": 82,
+      "endCharOffset": 89
+    },
+    {
+      "form": "udh",
+      "startCharOffset": 90,
+      "endCharOffset": 93
+    },
+    {
+      "form": "ngga",
+      "startCharOffset": 94,
+      "endCharOffset": 98
+    },
+    {
+      "form": "banjir",
+      "startCharOffset": 99,
+      "endCharOffset": 105
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@hendrawarmanr:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "@motulz",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "2",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "thn",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "beresin",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "banjir",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Jakarta",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "5",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "thn",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "daerah",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "sekeliling",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "Jakarta",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "udh",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "ngga",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "banjir",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

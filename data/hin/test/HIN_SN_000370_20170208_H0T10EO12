@@ -1,0 +1,290 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170208_H0T10EO12",
+  "text": "RT @aajtak: #HallaBol भूकंप उत्तराखंड में आया और आवाज संसद में सुनाई दी देखें पूरा कार्यक्रम- https://t.co/nN9ccYoxRm https://t.co/J1Om2rp9…",
+  "tokens": [
+    "RT",
+    "@aajtak:",
+    "#HallaBol",
+    "भूकंप",
+    "उत्तराखंड",
+    "में",
+    "आया",
+    "और",
+    "आवाज",
+    "संसद",
+    "में",
+    "सुनाई",
+    "दी",
+    "देखें",
+    "पूरा",
+    "कार्यक्रम",
+    "-",
+    "https://t.co/nN9ccYoxRm",
+    "https://t.co/J1Om2rp9…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@aajtak:",
+      "startCharOffset": 3,
+      "endCharOffset": 11
+    },
+    {
+      "form": "#HallaBol",
+      "startCharOffset": 12,
+      "endCharOffset": 21
+    },
+    {
+      "form": "भूकंप",
+      "startCharOffset": 22,
+      "endCharOffset": 27
+    },
+    {
+      "form": "उत्तराखंड",
+      "startCharOffset": 28,
+      "endCharOffset": 37
+    },
+    {
+      "form": "में",
+      "startCharOffset": 38,
+      "endCharOffset": 41
+    },
+    {
+      "form": "आया",
+      "startCharOffset": 42,
+      "endCharOffset": 45
+    },
+    {
+      "form": "और",
+      "startCharOffset": 46,
+      "endCharOffset": 48
+    },
+    {
+      "form": "आवाज",
+      "startCharOffset": 49,
+      "endCharOffset": 53
+    },
+    {
+      "form": "संसद",
+      "startCharOffset": 54,
+      "endCharOffset": 58
+    },
+    {
+      "form": "में",
+      "startCharOffset": 59,
+      "endCharOffset": 62
+    },
+    {
+      "form": "सुनाई",
+      "startCharOffset": 63,
+      "endCharOffset": 68
+    },
+    {
+      "form": "दी",
+      "startCharOffset": 69,
+      "endCharOffset": 71
+    },
+    {
+      "form": "देखें",
+      "startCharOffset": 72,
+      "endCharOffset": 77
+    },
+    {
+      "form": "पूरा",
+      "startCharOffset": 78,
+      "endCharOffset": 82
+    },
+    {
+      "form": "कार्यक्रम",
+      "startCharOffset": 83,
+      "endCharOffset": 92
+    },
+    {
+      "form": "-",
+      "startCharOffset": 92,
+      "endCharOffset": 93
+    },
+    {
+      "form": "https://t.co/nN9ccYoxRm",
+      "startCharOffset": 94,
+      "endCharOffset": 117
+    },
+    {
+      "form": "https://t.co/J1Om2rp9…",
+      "startCharOffset": 118,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "corpusId": "",
+  "id": "doc105_IND_SN_000370_20170303_H0T10EV2G",
+  "text": "Saat ini Jalan Raya Pangkalan Kapur IX dan jalan yang mengkoneksikan Sumbar-Riau terputus di beberapa titik akibat… https://t.co/K3XkdjVpaB",
+  "tokens": [
+    "Saat",
+    "ini",
+    "Jalan",
+    "Raya",
+    "Pangkalan",
+    "Kapur",
+    "IX",
+    "dan",
+    "jalan",
+    "yang",
+    "mengkoneksikan",
+    "Sumbar-Riau",
+    "terputus",
+    "di",
+    "beberapa",
+    "titik",
+    "akibat",
+    "…",
+    "https://t.co/K3XkdjVpaB"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Saat",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "ini",
+      "startCharOffset": 5,
+      "endCharOffset": 8
+    },
+    {
+      "form": "Jalan",
+      "startCharOffset": 9,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Raya",
+      "startCharOffset": 15,
+      "endCharOffset": 19
+    },
+    {
+      "form": "Pangkalan",
+      "startCharOffset": 20,
+      "endCharOffset": 29
+    },
+    {
+      "form": "Kapur",
+      "startCharOffset": 30,
+      "endCharOffset": 35
+    },
+    {
+      "form": "IX",
+      "startCharOffset": 36,
+      "endCharOffset": 38
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 39,
+      "endCharOffset": 42
+    },
+    {
+      "form": "jalan",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 49,
+      "endCharOffset": 53
+    },
+    {
+      "form": "mengkoneksikan",
+      "startCharOffset": 54,
+      "endCharOffset": 68
+    },
+    {
+      "form": "Sumbar-Riau",
+      "startCharOffset": 69,
+      "endCharOffset": 80
+    },
+    {
+      "form": "terputus",
+      "startCharOffset": 81,
+      "endCharOffset": 89
+    },
+    {
+      "form": "di",
+      "startCharOffset": 90,
+      "endCharOffset": 92
+    },
+    {
+      "form": "beberapa",
+      "startCharOffset": 93,
+      "endCharOffset": 101
+    },
+    {
+      "form": "titik",
+      "startCharOffset": 102,
+      "endCharOffset": 107
+    },
+    {
+      "form": "akibat",
+      "startCharOffset": 108,
+      "endCharOffset": 114
+    },
+    {
+      "form": "…",
+      "startCharOffset": 114,
+      "endCharOffset": 115
+    },
+    {
+      "form": "https://t.co/K3XkdjVpaB",
+      "startCharOffset": 116,
+      "endCharOffset": 139
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 2,
+              "end": 5
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 5,
+              "end": 7
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 2,
+              "end": 7
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Saat",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "ini",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Jalan",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Raya",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Pangkalan",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Kapur",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "IX",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "jalan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "mengkoneksikan",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Sumbar-Riau",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "terputus",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "beberapa",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "titik",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "akibat",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "https://t.co/K3XkdjVpaB",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

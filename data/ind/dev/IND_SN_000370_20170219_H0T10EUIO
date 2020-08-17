@@ -1,0 +1,370 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170219_H0T10EUIO",
+  "text": "RT @gung_1: Jangan sampai ALLAH SWT murka gara-gara hujan dan banjir dikait-kaitkan dengan suara Pilkada.",
+  "tokens": [
+    "RT",
+    "@gung_1:",
+    "Jangan",
+    "sampai",
+    "ALLAH",
+    "SWT",
+    "murka",
+    "gara-gara",
+    "hujan",
+    "dan",
+    "banjir",
+    "dikait-kaitkan",
+    "dengan",
+    "suara",
+    "Pilkada",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@gung_1:",
+      "startCharOffset": 3,
+      "endCharOffset": 11
+    },
+    {
+      "form": "Jangan",
+      "startCharOffset": 12,
+      "endCharOffset": 18
+    },
+    {
+      "form": "sampai",
+      "startCharOffset": 19,
+      "endCharOffset": 25
+    },
+    {
+      "form": "ALLAH",
+      "startCharOffset": 26,
+      "endCharOffset": 31
+    },
+    {
+      "form": "SWT",
+      "startCharOffset": 32,
+      "endCharOffset": 35
+    },
+    {
+      "form": "murka",
+      "startCharOffset": 36,
+      "endCharOffset": 41
+    },
+    {
+      "form": "gara-gara",
+      "startCharOffset": 42,
+      "endCharOffset": 51
+    },
+    {
+      "form": "hujan",
+      "startCharOffset": 52,
+      "endCharOffset": 57
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 58,
+      "endCharOffset": 61
+    },
+    {
+      "form": "banjir",
+      "startCharOffset": 62,
+      "endCharOffset": 68
+    },
+    {
+      "form": "dikait-kaitkan",
+      "startCharOffset": 69,
+      "endCharOffset": 83
+    },
+    {
+      "form": "dengan",
+      "startCharOffset": 84,
+      "endCharOffset": 90
+    },
+    {
+      "form": "suara",
+      "startCharOffset": 91,
+      "endCharOffset": 96
+    },
+    {
+      "form": "Pilkada",
+      "startCharOffset": 97,
+      "endCharOffset": 104
+    },
+    {
+      "form": ".",
+      "startCharOffset": 104,
+      "endCharOffset": 105
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@gung_1:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Jangan",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "sampai",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "ALLAH",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "SWT",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "murka",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "gara-gara",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "hujan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "banjir",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "dikait-kaitkan",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "dengan",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "suara",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "Pilkada",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

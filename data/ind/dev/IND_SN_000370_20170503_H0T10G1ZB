@@ -1,0 +1,280 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170503_H0T10G1ZB",
+  "text": "KAMMI Sesalkan Aksi Coret Baju Pasca Pengumuman UN https://t.co/FLyunmIcRp lewat @Mercinews",
+  "tokens": [
+    "KAMMI",
+    "Sesalkan",
+    "Aksi",
+    "Coret",
+    "Baju",
+    "Pasca",
+    "Pengumuman",
+    "UN",
+    "https://t.co/FLyunmIcRp",
+    "lewat",
+    "@Mercinews"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "KAMMI",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "Sesalkan",
+      "startCharOffset": 6,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Aksi",
+      "startCharOffset": 15,
+      "endCharOffset": 19
+    },
+    {
+      "form": "Coret",
+      "startCharOffset": 20,
+      "endCharOffset": 25
+    },
+    {
+      "form": "Baju",
+      "startCharOffset": 26,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Pasca",
+      "startCharOffset": 31,
+      "endCharOffset": 36
+    },
+    {
+      "form": "Pengumuman",
+      "startCharOffset": 37,
+      "endCharOffset": 47
+    },
+    {
+      "form": "UN",
+      "startCharOffset": 48,
+      "endCharOffset": 50
+    },
+    {
+      "form": "https://t.co/FLyunmIcRp",
+      "startCharOffset": 51,
+      "endCharOffset": 74
+    },
+    {
+      "form": "lewat",
+      "startCharOffset": 75,
+      "endCharOffset": 80
+    },
+    {
+      "form": "@Mercinews",
+      "startCharOffset": 81,
+      "endCharOffset": 91
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "KAMMI",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Sesalkan",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Aksi",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Coret",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Baju",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Pasca",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "Pengumuman",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "UN",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "https://t.co/FLyunmIcRp",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "lewat",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "@Mercinews",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

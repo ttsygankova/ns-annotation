@@ -1,0 +1,357 @@
+{
+  "corpusId": "",
+  "id": "doc16_HIN_SN_000370_20170209_H0T10EO3V",
+  "text": "RT @AmarUjalaNews: परमाणु आतंकवाद दुनिया के लिए सबसे बड़ा खतरा: भारत @MEAIndia https://t.co/hdhxBLdRDM",
+  "tokens": [
+    "RT",
+    "@AmarUjalaNews:",
+    "परमाणु",
+    "आतंकवाद",
+    "दुनिया",
+    "के",
+    "लिए",
+    "सबसे",
+    "बड़ा",
+    "खतरा",
+    ":",
+    "भारत",
+    "@MEAIndia",
+    "https://t.co/hdhxBLdRDM"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@AmarUjalaNews:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "परमाणु",
+      "startCharOffset": 19,
+      "endCharOffset": 25
+    },
+    {
+      "form": "आतंकवाद",
+      "startCharOffset": 26,
+      "endCharOffset": 33
+    },
+    {
+      "form": "दुनिया",
+      "startCharOffset": 34,
+      "endCharOffset": 40
+    },
+    {
+      "form": "के",
+      "startCharOffset": 41,
+      "endCharOffset": 43
+    },
+    {
+      "form": "लिए",
+      "startCharOffset": 44,
+      "endCharOffset": 47
+    },
+    {
+      "form": "सबसे",
+      "startCharOffset": 48,
+      "endCharOffset": 52
+    },
+    {
+      "form": "बड़ा",
+      "startCharOffset": 53,
+      "endCharOffset": 57
+    },
+    {
+      "form": "खतरा",
+      "startCharOffset": 58,
+      "endCharOffset": 62
+    },
+    {
+      "form": ":",
+      "startCharOffset": 62,
+      "endCharOffset": 63
+    },
+    {
+      "form": "भारत",
+      "startCharOffset": 64,
+      "endCharOffset": 68
+    },
+    {
+      "form": "@MEAIndia",
+      "startCharOffset": 69,
+      "endCharOffset": 78
+    },
+    {
+      "form": "https://t.co/hdhxBLdRDM",
+      "startCharOffset": 79,
+      "endCharOffset": 102
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@AmarUjalaNews:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "paramaannu",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "aatamkavaad",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "duniyaa",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "lie",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "sabase",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "baddaa",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "khataraa",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "bhaarat",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "@MEAIndia",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "https://t.co/hdhxBLdRDM",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

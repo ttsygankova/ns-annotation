@@ -1,0 +1,447 @@
+{
+  "corpusId": "",
+  "id": "doc159_IND_SN_000370_20161208_H0T10G21G",
+  "text": "17.50 | @van_munir: info #KEBAKARAN objek mobil VW, lokasi SPBU Jemursari. 1 unit Damkar dilokasi. https://t.co/0aLLIM5X99",
+  "tokens": [
+    "17.50",
+    "|",
+    "@van_munir:",
+    "info",
+    "#KEBAKARAN",
+    "objek",
+    "mobil",
+    "VW",
+    ",",
+    "lokasi",
+    "SPBU",
+    "Jemursari",
+    ".",
+    "1",
+    "unit",
+    "Damkar",
+    "dilokasi",
+    ".",
+    "https://t.co/0aLLIM5X99"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "17.50",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "|",
+      "startCharOffset": 6,
+      "endCharOffset": 7
+    },
+    {
+      "form": "@van_munir:",
+      "startCharOffset": 8,
+      "endCharOffset": 19
+    },
+    {
+      "form": "info",
+      "startCharOffset": 20,
+      "endCharOffset": 24
+    },
+    {
+      "form": "#KEBAKARAN",
+      "startCharOffset": 25,
+      "endCharOffset": 35
+    },
+    {
+      "form": "objek",
+      "startCharOffset": 36,
+      "endCharOffset": 41
+    },
+    {
+      "form": "mobil",
+      "startCharOffset": 42,
+      "endCharOffset": 47
+    },
+    {
+      "form": "VW",
+      "startCharOffset": 48,
+      "endCharOffset": 50
+    },
+    {
+      "form": ",",
+      "startCharOffset": 50,
+      "endCharOffset": 51
+    },
+    {
+      "form": "lokasi",
+      "startCharOffset": 52,
+      "endCharOffset": 58
+    },
+    {
+      "form": "SPBU",
+      "startCharOffset": 59,
+      "endCharOffset": 63
+    },
+    {
+      "form": "Jemursari",
+      "startCharOffset": 64,
+      "endCharOffset": 73
+    },
+    {
+      "form": ".",
+      "startCharOffset": 73,
+      "endCharOffset": 74
+    },
+    {
+      "form": "1",
+      "startCharOffset": 75,
+      "endCharOffset": 76
+    },
+    {
+      "form": "unit",
+      "startCharOffset": 77,
+      "endCharOffset": 81
+    },
+    {
+      "form": "Damkar",
+      "startCharOffset": 82,
+      "endCharOffset": 88
+    },
+    {
+      "form": "dilokasi",
+      "startCharOffset": 89,
+      "endCharOffset": 97
+    },
+    {
+      "form": ".",
+      "startCharOffset": 97,
+      "endCharOffset": 98
+    },
+    {
+      "form": "https://t.co/0aLLIM5X99",
+      "startCharOffset": 99,
+      "endCharOffset": 122
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      19
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 10,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 10,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "17.50",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "|",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "@van_munir:",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "info",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "#KEBAKARAN",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "objek",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "mobil",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "VW",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "lokasi",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "SPBU",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Jemursari",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "1",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "unit",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "Damkar",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "dilokasi",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "https://t.co/0aLLIM5X99",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7276 @@
+{
+  "corpusId": "",
+  "id": "IND_NW_002937_20170426_H00245UTJ",
+  "text": " Cina luncurkan kapal induk pertama buatan dalam negeri   Image caption Media pemerintah Cina merilis foto peluncuran kapal induk. Cina mengatakan telah meluncurkan kapal induk pertama buatan dalam negeri yang dinilai sebagai sinyal terbaru tentang peningkatan kekuatan militernya di tengah ketegangan di kawasan Asia.  Kapal induk yang namanya tidak disebutkan itu diluncurkan di Dalian, pelabuhan di Cina timur laut yang menjadi tempat pembuatan kapal. Laporan-laporan sebelumnya menyebutkan kapal induk baru ini akan mulai dioperikan pada 2020.  Kapal induk Cina pertama ikuti latihan militer, seperti apa penampakannya? Pertama kali, Taiwan berencana buat kapal selam untuk pertahanan Patroli Cina \u0027tak tampak\u0027 di kawasan Scarborough Shoal Selama ini Cina hanya mempunyai satu kapal induk yang beroperasi, Liaoning, yang dibeli dari Ukraina dan telah dimodifikasi.  Kapal baru buatan dalam negeri Cina akan membawa pesawat tempur Shenyang J-15. Namun menurut para pengamat, sebagaimana dilaporkan oleh wartawan BBC di Cina Stephen McDonell, kapal induk ini secara teknologi masih berada di bawah 10 kapal induk milik Angkatan Laut Amerika Serikat.  Image caption Kapal induk pertama buatan dalam negeri Cina dirancang di Dalian. Bagaimanapun, lapor McDonell, kapal induk baru disebut-sebut jauh lebih baik dibandingkan Liaoning, yang dibuat lebih dari 25 tahun lalu, sebuah kapal bekas Soviet yang dibeli Cina dari Ukraina.  Berita tentang peluncuran kapal induk Cina muncul di tengah retorika panas antara Korea Utara dan Amerika Serikat selama hari-hari terakhir terkait dengan program nuklir Korea Utara.  Korea Utara semakin sering melakukan uji coba rudal dan nuklir selama beberapa tahun belakangan, meskipun dikritik dan bahkan dikenai sanksi oleh PBB.  Image caption Kapal induk Liaoning diikutkan dalam latihan militer di Pasifik Barat pada Desember 2016. Presiden Amerika Serikat Donald Trump menyatakan Korea Utara sebagai ancaman, tidak hanya bagi AS tetapi juga negara-negara tetangga di kawasan Asia.  Belakangan Amerika Serikat mengerahkan kapal perang dan kapal selam ke Semenanjung Korea. Langkah ini semakin membuat Korea Utara marah. Adapun Cina sebagai sekutu terdekat telah meminta agar semua pihak menahan diri.  Cina juga terlibat sengketa beberapa wilayah di Laut Cina Selatan. Negara itu terus meningkatkan aktivitas militer di wilayah yang diperebutkan sejumlah negara tersebut dan telah memicu kekhawatiran di kawasan.",
+  "tokens": [
+    "Cina",
+    "luncurkan",
+    "kapal",
+    "induk",
+    "pertama",
+    "buatan",
+    "dalam",
+    "negeri",
+    "Image",
+    "caption",
+    "Media",
+    "pemerintah",
+    "Cina",
+    "merilis",
+    "foto",
+    "peluncuran",
+    "kapal",
+    "induk",
+    ".",
+    "Cina",
+    "mengatakan",
+    "telah",
+    "meluncurkan",
+    "kapal",
+    "induk",
+    "pertama",
+    "buatan",
+    "dalam",
+    "negeri",
+    "yang",
+    "dinilai",
+    "sebagai",
+    "sinyal",
+    "terbaru",
+    "tentang",
+    "peningkatan",
+    "kekuatan",
+    "militernya",
+    "di",
+    "tengah",
+    "ketegangan",
+    "di",
+    "kawasan",
+    "Asia",
+    ".",
+    "Kapal",
+    "induk",
+    "yang",
+    "namanya",
+    "tidak",
+    "disebutkan",
+    "itu",
+    "diluncurkan",
+    "di",
+    "Dalian",
+    ",",
+    "pelabuhan",
+    "di",
+    "Cina",
+    "timur",
+    "laut",
+    "yang",
+    "menjadi",
+    "tempat",
+    "pembuatan",
+    "kapal",
+    ".",
+    "Laporan-laporan",
+    "sebelumnya",
+    "menyebutkan",
+    "kapal",
+    "induk",
+    "baru",
+    "ini",
+    "akan",
+    "mulai",
+    "dioperikan",
+    "pada",
+    "2020",
+    ".",
+    "Kapal",
+    "induk",
+    "Cina",
+    "pertama",
+    "ikuti",
+    "latihan",
+    "militer",
+    ",",
+    "seperti",
+    "apa",
+    "penampakannya",
+    "?",
+    "Pertama",
+    "kali",
+    ",",
+    "Taiwan",
+    "berencana",
+    "buat",
+    "kapal",
+    "selam",
+    "untuk",
+    "pertahanan",
+    "Patroli",
+    "Cina",
+    "\u0027",
+    "tak",
+    "tampak",
+    "\u0027",
+    "di",
+    "kawasan",
+    "Scarborough",
+    "Shoal",
+    "Selama",
+    "ini",
+    "Cina",
+    "hanya",
+    "mempunyai",
+    "satu",
+    "kapal",
+    "induk",
+    "yang",
+    "beroperasi",
+    ",",
+    "Liaoning",
+    ",",
+    "yang",
+    "dibeli",
+    "dari",
+    "Ukraina",
+    "dan",
+    "telah",
+    "dimodifikasi",
+    ".",
+    "Kapal",
+    "baru",
+    "buatan",
+    "dalam",
+    "negeri",
+    "Cina",
+    "akan",
+    "membawa",
+    "pesawat",
+    "tempur",
+    "Shenyang",
+    "J-15",
+    ".",
+    "Namun",
+    "menurut",
+    "para",
+    "pengamat",
+    ",",
+    "sebagaimana",
+    "dilaporkan",
+    "oleh",
+    "wartawan",
+    "BBC",
+    "di",
+    "Cina",
+    "Stephen",
+    "McDonell",
+    ",",
+    "kapal",
+    "induk",
+    "ini",
+    "secara",
+    "teknologi",
+    "masih",
+    "berada",
+    "di",
+    "bawah",
+    "10",
+    "kapal",
+    "induk",
+    "milik",
+    "Angkatan",
+    "Laut",
+    "Amerika",
+    "Serikat",
+    ".",
+    "Image",
+    "caption",
+    "Kapal",
+    "induk",
+    "pertama",
+    "buatan",
+    "dalam",
+    "negeri",
+    "Cina",
+    "dirancang",
+    "di",
+    "Dalian",
+    ".",
+    "Bagaimanapun",
+    ",",
+    "lapor",
+    "McDonell",
+    ",",
+    "kapal",
+    "induk",
+    "baru",
+    "disebut-sebut",
+    "jauh",
+    "lebih",
+    "baik",
+    "dibandingkan",
+    "Liaoning",
+    ",",
+    "yang",
+    "dibuat",
+    "lebih",
+    "dari",
+    "25",
+    "tahun",
+    "lalu",
+    ",",
+    "sebuah",
+    "kapal",
+    "bekas",
+    "Soviet",
+    "yang",
+    "dibeli",
+    "Cina",
+    "dari",
+    "Ukraina",
+    ".",
+    "Berita",
+    "tentang",
+    "peluncuran",
+    "kapal",
+    "induk",
+    "Cina",
+    "muncul",
+    "di",
+    "tengah",
+    "retorika",
+    "panas",
+    "antara",
+    "Korea",
+    "Utara",
+    "dan",
+    "Amerika",
+    "Serikat",
+    "selama",
+    "hari-hari",
+    "terakhir",
+    "terkait",
+    "dengan",
+    "program",
+    "nuklir",
+    "Korea",
+    "Utara",
+    ".",
+    "Korea",
+    "Utara",
+    "semakin",
+    "sering",
+    "melakukan",
+    "uji",
+    "coba",
+    "rudal",
+    "dan",
+    "nuklir",
+    "selama",
+    "beberapa",
+    "tahun",
+    "belakangan",
+    ",",
+    "meskipun",
+    "dikritik",
+    "dan",
+    "bahkan",
+    "dikenai",
+    "sanksi",
+    "oleh",
+    "PBB",
+    ".",
+    "Image",
+    "caption",
+    "Kapal",
+    "induk",
+    "Liaoning",
+    "diikutkan",
+    "dalam",
+    "latihan",
+    "militer",
+    "di",
+    "Pasifik",
+    "Barat",
+    "pada",
+    "Desember",
+    "2016",
+    ".",
+    "Presiden",
+    "Amerika",
+    "Serikat",
+    "Donald",
+    "Trump",
+    "menyatakan",
+    "Korea",
+    "Utara",
+    "sebagai",
+    "ancaman",
+    ",",
+    "tidak",
+    "hanya",
+    "bagi",
+    "AS",
+    "tetapi",
+    "juga",
+    "negara-negara",
+    "tetangga",
+    "di",
+    "kawasan",
+    "Asia",
+    ".",
+    "Belakangan",
+    "Amerika",
+    "Serikat",
+    "mengerahkan",
+    "kapal",
+    "perang",
+    "dan",
+    "kapal",
+    "selam",
+    "ke",
+    "Semenanjung",
+    "Korea",
+    ".",
+    "Langkah",
+    "ini",
+    "semakin",
+    "membuat",
+    "Korea",
+    "Utara",
+    "marah",
+    ".",
+    "Adapun",
+    "Cina",
+    "sebagai",
+    "sekutu",
+    "terdekat",
+    "telah",
+    "meminta",
+    "agar",
+    "semua",
+    "pihak",
+    "menahan",
+    "diri",
+    ".",
+    "Cina",
+    "juga",
+    "terlibat",
+    "sengketa",
+    "beberapa",
+    "wilayah",
+    "di",
+    "Laut",
+    "Cina",
+    "Selatan",
+    ".",
+    "Negara",
+    "itu",
+    "terus",
+    "meningkatkan",
+    "aktivitas",
+    "militer",
+    "di",
+    "wilayah",
+    "yang",
+    "diperebutkan",
+    "sejumlah",
+    "negara",
+    "tersebut",
+    "dan",
+    "telah",
+    "memicu",
+    "kekhawatiran",
+    "di",
+    "kawasan",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Cina",
+      "startCharOffset": 1,
+      "endCharOffset": 5
+    },
+    {
+      "form": "luncurkan",
+      "startCharOffset": 6,
+      "endCharOffset": 15
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 16,
+      "endCharOffset": 21
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 22,
+      "endCharOffset": 27
+    },
+    {
+      "form": "pertama",
+      "startCharOffset": 28,
+      "endCharOffset": 35
+    },
+    {
+      "form": "buatan",
+      "startCharOffset": 36,
+      "endCharOffset": 42
+    },
+    {
+      "form": "dalam",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "negeri",
+      "startCharOffset": 49,
+      "endCharOffset": 55
+    },
+    {
+      "form": "Image",
+      "startCharOffset": 58,
+      "endCharOffset": 63
+    },
+    {
+      "form": "caption",
+      "startCharOffset": 64,
+      "endCharOffset": 71
+    },
+    {
+      "form": "Media",
+      "startCharOffset": 72,
+      "endCharOffset": 77
+    },
+    {
+      "form": "pemerintah",
+      "startCharOffset": 78,
+      "endCharOffset": 88
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 89,
+      "endCharOffset": 93
+    },
+    {
+      "form": "merilis",
+      "startCharOffset": 94,
+      "endCharOffset": 101
+    },
+    {
+      "form": "foto",
+      "startCharOffset": 102,
+      "endCharOffset": 106
+    },
+    {
+      "form": "peluncuran",
+      "startCharOffset": 107,
+      "endCharOffset": 117
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 118,
+      "endCharOffset": 123
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 124,
+      "endCharOffset": 129
+    },
+    {
+      "form": ".",
+      "startCharOffset": 129,
+      "endCharOffset": 130
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 131,
+      "endCharOffset": 135
+    },
+    {
+      "form": "mengatakan",
+      "startCharOffset": 136,
+      "endCharOffset": 146
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 147,
+      "endCharOffset": 152
+    },
+    {
+      "form": "meluncurkan",
+      "startCharOffset": 153,
+      "endCharOffset": 164
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 165,
+      "endCharOffset": 170
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 171,
+      "endCharOffset": 176
+    },
+    {
+      "form": "pertama",
+      "startCharOffset": 177,
+      "endCharOffset": 184
+    },
+    {
+      "form": "buatan",
+      "startCharOffset": 185,
+      "endCharOffset": 191
+    },
+    {
+      "form": "dalam",
+      "startCharOffset": 192,
+      "endCharOffset": 197
+    },
+    {
+      "form": "negeri",
+      "startCharOffset": 198,
+      "endCharOffset": 204
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 205,
+      "endCharOffset": 209
+    },
+    {
+      "form": "dinilai",
+      "startCharOffset": 210,
+      "endCharOffset": 217
+    },
+    {
+      "form": "sebagai",
+      "startCharOffset": 218,
+      "endCharOffset": 225
+    },
+    {
+      "form": "sinyal",
+      "startCharOffset": 226,
+      "endCharOffset": 232
+    },
+    {
+      "form": "terbaru",
+      "startCharOffset": 233,
+      "endCharOffset": 240
+    },
+    {
+      "form": "tentang",
+      "startCharOffset": 241,
+      "endCharOffset": 248
+    },
+    {
+      "form": "peningkatan",
+      "startCharOffset": 249,
+      "endCharOffset": 260
+    },
+    {
+      "form": "kekuatan",
+      "startCharOffset": 261,
+      "endCharOffset": 269
+    },
+    {
+      "form": "militernya",
+      "startCharOffset": 270,
+      "endCharOffset": 280
+    },
+    {
+      "form": "di",
+      "startCharOffset": 281,
+      "endCharOffset": 283
+    },
+    {
+      "form": "tengah",
+      "startCharOffset": 284,
+      "endCharOffset": 290
+    },
+    {
+      "form": "ketegangan",
+      "startCharOffset": 291,
+      "endCharOffset": 301
+    },
+    {
+      "form": "di",
+      "startCharOffset": 302,
+      "endCharOffset": 304
+    },
+    {
+      "form": "kawasan",
+      "startCharOffset": 305,
+      "endCharOffset": 312
+    },
+    {
+      "form": "Asia",
+      "startCharOffset": 313,
+      "endCharOffset": 317
+    },
+    {
+      "form": ".",
+      "startCharOffset": 317,
+      "endCharOffset": 318
+    },
+    {
+      "form": "Kapal",
+      "startCharOffset": 320,
+      "endCharOffset": 325
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 326,
+      "endCharOffset": 331
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 332,
+      "endCharOffset": 336
+    },
+    {
+      "form": "namanya",
+      "startCharOffset": 337,
+      "endCharOffset": 344
+    },
+    {
+      "form": "tidak",
+      "startCharOffset": 345,
+      "endCharOffset": 350
+    },
+    {
+      "form": "disebutkan",
+      "startCharOffset": 351,
+      "endCharOffset": 361
+    },
+    {
+      "form": "itu",
+      "startCharOffset": 362,
+      "endCharOffset": 365
+    },
+    {
+      "form": "diluncurkan",
+      "startCharOffset": 366,
+      "endCharOffset": 377
+    },
+    {
+      "form": "di",
+      "startCharOffset": 378,
+      "endCharOffset": 380
+    },
+    {
+      "form": "Dalian",
+      "startCharOffset": 381,
+      "endCharOffset": 387
+    },
+    {
+      "form": ",",
+      "startCharOffset": 387,
+      "endCharOffset": 388
+    },
+    {
+      "form": "pelabuhan",
+      "startCharOffset": 389,
+      "endCharOffset": 398
+    },
+    {
+      "form": "di",
+      "startCharOffset": 399,
+      "endCharOffset": 401
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 402,
+      "endCharOffset": 406
+    },
+    {
+      "form": "timur",
+      "startCharOffset": 407,
+      "endCharOffset": 412
+    },
+    {
+      "form": "laut",
+      "startCharOffset": 413,
+      "endCharOffset": 417
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 418,
+      "endCharOffset": 422
+    },
+    {
+      "form": "menjadi",
+      "startCharOffset": 423,
+      "endCharOffset": 430
+    },
+    {
+      "form": "tempat",
+      "startCharOffset": 431,
+      "endCharOffset": 437
+    },
+    {
+      "form": "pembuatan",
+      "startCharOffset": 438,
+      "endCharOffset": 447
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 448,
+      "endCharOffset": 453
+    },
+    {
+      "form": ".",
+      "startCharOffset": 453,
+      "endCharOffset": 454
+    },
+    {
+      "form": "Laporan-laporan",
+      "startCharOffset": 455,
+      "endCharOffset": 470
+    },
+    {
+      "form": "sebelumnya",
+      "startCharOffset": 471,
+      "endCharOffset": 481
+    },
+    {
+      "form": "menyebutkan",
+      "startCharOffset": 482,
+      "endCharOffset": 493
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 494,
+      "endCharOffset": 499
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 500,
+      "endCharOffset": 505
+    },
+    {
+      "form": "baru",
+      "startCharOffset": 506,
+      "endCharOffset": 510
+    },
+    {
+      "form": "ini",
+      "startCharOffset": 511,
+      "endCharOffset": 514
+    },
+    {
+      "form": "akan",
+      "startCharOffset": 515,
+      "endCharOffset": 519
+    },
+    {
+      "form": "mulai",
+      "startCharOffset": 520,
+      "endCharOffset": 525
+    },
+    {
+      "form": "dioperikan",
+      "startCharOffset": 526,
+      "endCharOffset": 536
+    },
+    {
+      "form": "pada",
+      "startCharOffset": 537,
+      "endCharOffset": 541
+    },
+    {
+      "form": "2020",
+      "startCharOffset": 542,
+      "endCharOffset": 546
+    },
+    {
+      "form": ".",
+      "startCharOffset": 546,
+      "endCharOffset": 547
+    },
+    {
+      "form": "Kapal",
+      "startCharOffset": 549,
+      "endCharOffset": 554
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 555,
+      "endCharOffset": 560
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 561,
+      "endCharOffset": 565
+    },
+    {
+      "form": "pertama",
+      "startCharOffset": 566,
+      "endCharOffset": 573
+    },
+    {
+      "form": "ikuti",
+      "startCharOffset": 574,
+      "endCharOffset": 579
+    },
+    {
+      "form": "latihan",
+      "startCharOffset": 580,
+      "endCharOffset": 587
+    },
+    {
+      "form": "militer",
+      "startCharOffset": 588,
+      "endCharOffset": 595
+    },
+    {
+      "form": ",",
+      "startCharOffset": 595,
+      "endCharOffset": 596
+    },
+    {
+      "form": "seperti",
+      "startCharOffset": 597,
+      "endCharOffset": 604
+    },
+    {
+      "form": "apa",
+      "startCharOffset": 605,
+      "endCharOffset": 608
+    },
+    {
+      "form": "penampakannya",
+      "startCharOffset": 609,
+      "endCharOffset": 622
+    },
+    {
+      "form": "?",
+      "startCharOffset": 622,
+      "endCharOffset": 623
+    },
+    {
+      "form": "Pertama",
+      "startCharOffset": 624,
+      "endCharOffset": 631
+    },
+    {
+      "form": "kali",
+      "startCharOffset": 632,
+      "endCharOffset": 636
+    },
+    {
+      "form": ",",
+      "startCharOffset": 636,
+      "endCharOffset": 637
+    },
+    {
+      "form": "Taiwan",
+      "startCharOffset": 638,
+      "endCharOffset": 644
+    },
+    {
+      "form": "berencana",
+      "startCharOffset": 645,
+      "endCharOffset": 654
+    },
+    {
+      "form": "buat",
+      "startCharOffset": 655,
+      "endCharOffset": 659
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 660,
+      "endCharOffset": 665
+    },
+    {
+      "form": "selam",
+      "startCharOffset": 666,
+      "endCharOffset": 671
+    },
+    {
+      "form": "untuk",
+      "startCharOffset": 672,
+      "endCharOffset": 677
+    },
+    {
+      "form": "pertahanan",
+      "startCharOffset": 678,
+      "endCharOffset": 688
+    },
+    {
+      "form": "Patroli",
+      "startCharOffset": 689,
+      "endCharOffset": 696
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 697,
+      "endCharOffset": 701
+    },
+    {
+      "form": "\u0027",
+      "startCharOffset": 702,
+      "endCharOffset": 703
+    },
+    {
+      "form": "tak",
+      "startCharOffset": 703,
+      "endCharOffset": 706
+    },
+    {
+      "form": "tampak",
+      "startCharOffset": 707,
+      "endCharOffset": 713
+    },
+    {
+      "form": "\u0027",
+      "startCharOffset": 713,
+      "endCharOffset": 714
+    },
+    {
+      "form": "di",
+      "startCharOffset": 715,
+      "endCharOffset": 717
+    },
+    {
+      "form": "kawasan",
+      "startCharOffset": 718,
+      "endCharOffset": 725
+    },
+    {
+      "form": "Scarborough",
+      "startCharOffset": 726,
+      "endCharOffset": 737
+    },
+    {
+      "form": "Shoal",
+      "startCharOffset": 738,
+      "endCharOffset": 743
+    },
+    {
+      "form": "Selama",
+      "startCharOffset": 744,
+      "endCharOffset": 750
+    },
+    {
+      "form": "ini",
+      "startCharOffset": 751,
+      "endCharOffset": 754
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 755,
+      "endCharOffset": 759
+    },
+    {
+      "form": "hanya",
+      "startCharOffset": 760,
+      "endCharOffset": 765
+    },
+    {
+      "form": "mempunyai",
+      "startCharOffset": 766,
+      "endCharOffset": 775
+    },
+    {
+      "form": "satu",
+      "startCharOffset": 776,
+      "endCharOffset": 780
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 781,
+      "endCharOffset": 786
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 787,
+      "endCharOffset": 792
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 793,
+      "endCharOffset": 797
+    },
+    {
+      "form": "beroperasi",
+      "startCharOffset": 798,
+      "endCharOffset": 808
+    },
+    {
+      "form": ",",
+      "startCharOffset": 808,
+      "endCharOffset": 809
+    },
+    {
+      "form": "Liaoning",
+      "startCharOffset": 810,
+      "endCharOffset": 818
+    },
+    {
+      "form": ",",
+      "startCharOffset": 818,
+      "endCharOffset": 819
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 820,
+      "endCharOffset": 824
+    },
+    {
+      "form": "dibeli",
+      "startCharOffset": 825,
+      "endCharOffset": 831
+    },
+    {
+      "form": "dari",
+      "startCharOffset": 832,
+      "endCharOffset": 836
+    },
+    {
+      "form": "Ukraina",
+      "startCharOffset": 837,
+      "endCharOffset": 844
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 845,
+      "endCharOffset": 848
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 849,
+      "endCharOffset": 854
+    },
+    {
+      "form": "dimodifikasi",
+      "startCharOffset": 855,
+      "endCharOffset": 867
+    },
+    {
+      "form": ".",
+      "startCharOffset": 867,
+      "endCharOffset": 868
+    },
+    {
+      "form": "Kapal",
+      "startCharOffset": 870,
+      "endCharOffset": 875
+    },
+    {
+      "form": "baru",
+      "startCharOffset": 876,
+      "endCharOffset": 880
+    },
+    {
+      "form": "buatan",
+      "startCharOffset": 881,
+      "endCharOffset": 887
+    },
+    {
+      "form": "dalam",
+      "startCharOffset": 888,
+      "endCharOffset": 893
+    },
+    {
+      "form": "negeri",
+      "startCharOffset": 894,
+      "endCharOffset": 900
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 901,
+      "endCharOffset": 905
+    },
+    {
+      "form": "akan",
+      "startCharOffset": 906,
+      "endCharOffset": 910
+    },
+    {
+      "form": "membawa",
+      "startCharOffset": 911,
+      "endCharOffset": 918
+    },
+    {
+      "form": "pesawat",
+      "startCharOffset": 919,
+      "endCharOffset": 926
+    },
+    {
+      "form": "tempur",
+      "startCharOffset": 927,
+      "endCharOffset": 933
+    },
+    {
+      "form": "Shenyang",
+      "startCharOffset": 934,
+      "endCharOffset": 942
+    },
+    {
+      "form": "J-15",
+      "startCharOffset": 943,
+      "endCharOffset": 947
+    },
+    {
+      "form": ".",
+      "startCharOffset": 947,
+      "endCharOffset": 948
+    },
+    {
+      "form": "Namun",
+      "startCharOffset": 949,
+      "endCharOffset": 954
+    },
+    {
+      "form": "menurut",
+      "startCharOffset": 955,
+      "endCharOffset": 962
+    },
+    {
+      "form": "para",
+      "startCharOffset": 963,
+      "endCharOffset": 967
+    },
+    {
+      "form": "pengamat",
+      "startCharOffset": 968,
+      "endCharOffset": 976
+    },
+    {
+      "form": ",",
+      "startCharOffset": 976,
+      "endCharOffset": 977
+    },
+    {
+      "form": "sebagaimana",
+      "startCharOffset": 978,
+      "endCharOffset": 989
+    },
+    {
+      "form": "dilaporkan",
+      "startCharOffset": 990,
+      "endCharOffset": 1000
+    },
+    {
+      "form": "oleh",
+      "startCharOffset": 1001,
+      "endCharOffset": 1005
+    },
+    {
+      "form": "wartawan",
+      "startCharOffset": 1006,
+      "endCharOffset": 1014
+    },
+    {
+      "form": "BBC",
+      "startCharOffset": 1015,
+      "endCharOffset": 1018
+    },
+    {
+      "form": "di",
+      "startCharOffset": 1019,
+      "endCharOffset": 1021
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 1022,
+      "endCharOffset": 1026
+    },
+    {
+      "form": "Stephen",
+      "startCharOffset": 1027,
+      "endCharOffset": 1034
+    },
+    {
+      "form": "McDonell",
+      "startCharOffset": 1035,
+      "endCharOffset": 1043
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1043,
+      "endCharOffset": 1044
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 1045,
+      "endCharOffset": 1050
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 1051,
+      "endCharOffset": 1056
+    },
+    {
+      "form": "ini",
+      "startCharOffset": 1057,
+      "endCharOffset": 1060
+    },
+    {
+      "form": "secara",
+      "startCharOffset": 1061,
+      "endCharOffset": 1067
+    },
+    {
+      "form": "teknologi",
+      "startCharOffset": 1068,
+      "endCharOffset": 1077
+    },
+    {
+      "form": "masih",
+      "startCharOffset": 1078,
+      "endCharOffset": 1083
+    },
+    {
+      "form": "berada",
+      "startCharOffset": 1084,
+      "endCharOffset": 1090
+    },
+    {
+      "form": "di",
+      "startCharOffset": 1091,
+      "endCharOffset": 1093
+    },
+    {
+      "form": "bawah",
+      "startCharOffset": 1094,
+      "endCharOffset": 1099
+    },
+    {
+      "form": "10",
+      "startCharOffset": 1100,
+      "endCharOffset": 1102
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 1103,
+      "endCharOffset": 1108
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 1109,
+      "endCharOffset": 1114
+    },
+    {
+      "form": "milik",
+      "startCharOffset": 1115,
+      "endCharOffset": 1120
+    },
+    {
+      "form": "Angkatan",
+      "startCharOffset": 1121,
+      "endCharOffset": 1129
+    },
+    {
+      "form": "Laut",
+      "startCharOffset": 1130,
+      "endCharOffset": 1134
+    },
+    {
+      "form": "Amerika",
+      "startCharOffset": 1135,
+      "endCharOffset": 1142
+    },
+    {
+      "form": "Serikat",
+      "startCharOffset": 1143,
+      "endCharOffset": 1150
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1150,
+      "endCharOffset": 1151
+    },
+    {
+      "form": "Image",
+      "startCharOffset": 1153,
+      "endCharOffset": 1158
+    },
+    {
+      "form": "caption",
+      "startCharOffset": 1159,
+      "endCharOffset": 1166
+    },
+    {
+      "form": "Kapal",
+      "startCharOffset": 1167,
+      "endCharOffset": 1172
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 1173,
+      "endCharOffset": 1178
+    },
+    {
+      "form": "pertama",
+      "startCharOffset": 1179,
+      "endCharOffset": 1186
+    },
+    {
+      "form": "buatan",
+      "startCharOffset": 1187,
+      "endCharOffset": 1193
+    },
+    {
+      "form": "dalam",
+      "startCharOffset": 1194,
+      "endCharOffset": 1199
+    },
+    {
+      "form": "negeri",
+      "startCharOffset": 1200,
+      "endCharOffset": 1206
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 1207,
+      "endCharOffset": 1211
+    },
+    {
+      "form": "dirancang",
+      "startCharOffset": 1212,
+      "endCharOffset": 1221
+    },
+    {
+      "form": "di",
+      "startCharOffset": 1222,
+      "endCharOffset": 1224
+    },
+    {
+      "form": "Dalian",
+      "startCharOffset": 1225,
+      "endCharOffset": 1231
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1231,
+      "endCharOffset": 1232
+    },
+    {
+      "form": "Bagaimanapun",
+      "startCharOffset": 1233,
+      "endCharOffset": 1245
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1245,
+      "endCharOffset": 1246
+    },
+    {
+      "form": "lapor",
+      "startCharOffset": 1247,
+      "endCharOffset": 1252
+    },
+    {
+      "form": "McDonell",
+      "startCharOffset": 1253,
+      "endCharOffset": 1261
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1261,
+      "endCharOffset": 1262
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 1263,
+      "endCharOffset": 1268
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 1269,
+      "endCharOffset": 1274
+    },
+    {
+      "form": "baru",
+      "startCharOffset": 1275,
+      "endCharOffset": 1279
+    },
+    {
+      "form": "disebut-sebut",
+      "startCharOffset": 1280,
+      "endCharOffset": 1293
+    },
+    {
+      "form": "jauh",
+      "startCharOffset": 1294,
+      "endCharOffset": 1298
+    },
+    {
+      "form": "lebih",
+      "startCharOffset": 1299,
+      "endCharOffset": 1304
+    },
+    {
+      "form": "baik",
+      "startCharOffset": 1305,
+      "endCharOffset": 1309
+    },
+    {
+      "form": "dibandingkan",
+      "startCharOffset": 1310,
+      "endCharOffset": 1322
+    },
+    {
+      "form": "Liaoning",
+      "startCharOffset": 1323,
+      "endCharOffset": 1331
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1331,
+      "endCharOffset": 1332
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 1333,
+      "endCharOffset": 1337
+    },
+    {
+      "form": "dibuat",
+      "startCharOffset": 1338,
+      "endCharOffset": 1344
+    },
+    {
+      "form": "lebih",
+      "startCharOffset": 1345,
+      "endCharOffset": 1350
+    },
+    {
+      "form": "dari",
+      "startCharOffset": 1351,
+      "endCharOffset": 1355
+    },
+    {
+      "form": "25",
+      "startCharOffset": 1356,
+      "endCharOffset": 1358
+    },
+    {
+      "form": "tahun",
+      "startCharOffset": 1359,
+      "endCharOffset": 1364
+    },
+    {
+      "form": "lalu",
+      "startCharOffset": 1365,
+      "endCharOffset": 1369
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1369,
+      "endCharOffset": 1370
+    },
+    {
+      "form": "sebuah",
+      "startCharOffset": 1371,
+      "endCharOffset": 1377
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 1378,
+      "endCharOffset": 1383
+    },
+    {
+      "form": "bekas",
+      "startCharOffset": 1384,
+      "endCharOffset": 1389
+    },
+    {
+      "form": "Soviet",
+      "startCharOffset": 1390,
+      "endCharOffset": 1396
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 1397,
+      "endCharOffset": 1401
+    },
+    {
+      "form": "dibeli",
+      "startCharOffset": 1402,
+      "endCharOffset": 1408
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 1409,
+      "endCharOffset": 1413
+    },
+    {
+      "form": "dari",
+      "startCharOffset": 1414,
+      "endCharOffset": 1418
+    },
+    {
+      "form": "Ukraina",
+      "startCharOffset": 1419,
+      "endCharOffset": 1426
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1426,
+      "endCharOffset": 1427
+    },
+    {
+      "form": "Berita",
+      "startCharOffset": 1429,
+      "endCharOffset": 1435
+    },
+    {
+      "form": "tentang",
+      "startCharOffset": 1436,
+      "endCharOffset": 1443
+    },
+    {
+      "form": "peluncuran",
+      "startCharOffset": 1444,
+      "endCharOffset": 1454
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 1455,
+      "endCharOffset": 1460
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 1461,
+      "endCharOffset": 1466
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 1467,
+      "endCharOffset": 1471
+    },
+    {
+      "form": "muncul",
+      "startCharOffset": 1472,
+      "endCharOffset": 1478
+    },
+    {
+      "form": "di",
+      "startCharOffset": 1479,
+      "endCharOffset": 1481
+    },
+    {
+      "form": "tengah",
+      "startCharOffset": 1482,
+      "endCharOffset": 1488
+    },
+    {
+      "form": "retorika",
+      "startCharOffset": 1489,
+      "endCharOffset": 1497
+    },
+    {
+      "form": "panas",
+      "startCharOffset": 1498,
+      "endCharOffset": 1503
+    },
+    {
+      "form": "antara",
+      "startCharOffset": 1504,
+      "endCharOffset": 1510
+    },
+    {
+      "form": "Korea",
+      "startCharOffset": 1511,
+      "endCharOffset": 1516
+    },
+    {
+      "form": "Utara",
+      "startCharOffset": 1517,
+      "endCharOffset": 1522
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1523,
+      "endCharOffset": 1526
+    },
+    {
+      "form": "Amerika",
+      "startCharOffset": 1527,
+      "endCharOffset": 1534
+    },
+    {
+      "form": "Serikat",
+      "startCharOffset": 1535,
+      "endCharOffset": 1542
+    },
+    {
+      "form": "selama",
+      "startCharOffset": 1543,
+      "endCharOffset": 1549
+    },
+    {
+      "form": "hari-hari",
+      "startCharOffset": 1550,
+      "endCharOffset": 1559
+    },
+    {
+      "form": "terakhir",
+      "startCharOffset": 1560,
+      "endCharOffset": 1568
+    },
+    {
+      "form": "terkait",
+      "startCharOffset": 1569,
+      "endCharOffset": 1576
+    },
+    {
+      "form": "dengan",
+      "startCharOffset": 1577,
+      "endCharOffset": 1583
+    },
+    {
+      "form": "program",
+      "startCharOffset": 1584,
+      "endCharOffset": 1591
+    },
+    {
+      "form": "nuklir",
+      "startCharOffset": 1592,
+      "endCharOffset": 1598
+    },
+    {
+      "form": "Korea",
+      "startCharOffset": 1599,
+      "endCharOffset": 1604
+    },
+    {
+      "form": "Utara",
+      "startCharOffset": 1605,
+      "endCharOffset": 1610
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1610,
+      "endCharOffset": 1611
+    },
+    {
+      "form": "Korea",
+      "startCharOffset": 1613,
+      "endCharOffset": 1618
+    },
+    {
+      "form": "Utara",
+      "startCharOffset": 1619,
+      "endCharOffset": 1624
+    },
+    {
+      "form": "semakin",
+      "startCharOffset": 1625,
+      "endCharOffset": 1632
+    },
+    {
+      "form": "sering",
+      "startCharOffset": 1633,
+      "endCharOffset": 1639
+    },
+    {
+      "form": "melakukan",
+      "startCharOffset": 1640,
+      "endCharOffset": 1649
+    },
+    {
+      "form": "uji",
+      "startCharOffset": 1650,
+      "endCharOffset": 1653
+    },
+    {
+      "form": "coba",
+      "startCharOffset": 1654,
+      "endCharOffset": 1658
+    },
+    {
+      "form": "rudal",
+      "startCharOffset": 1659,
+      "endCharOffset": 1664
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1665,
+      "endCharOffset": 1668
+    },
+    {
+      "form": "nuklir",
+      "startCharOffset": 1669,
+      "endCharOffset": 1675
+    },
+    {
+      "form": "selama",
+      "startCharOffset": 1676,
+      "endCharOffset": 1682
+    },
+    {
+      "form": "beberapa",
+      "startCharOffset": 1683,
+      "endCharOffset": 1691
+    },
+    {
+      "form": "tahun",
+      "startCharOffset": 1692,
+      "endCharOffset": 1697
+    },
+    {
+      "form": "belakangan",
+      "startCharOffset": 1698,
+      "endCharOffset": 1708
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1708,
+      "endCharOffset": 1709
+    },
+    {
+      "form": "meskipun",
+      "startCharOffset": 1710,
+      "endCharOffset": 1718
+    },
+    {
+      "form": "dikritik",
+      "startCharOffset": 1719,
+      "endCharOffset": 1727
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 1728,
+      "endCharOffset": 1731
+    },
+    {
+      "form": "bahkan",
+      "startCharOffset": 1732,
+      "endCharOffset": 1738
+    },
+    {
+      "form": "dikenai",
+      "startCharOffset": 1739,
+      "endCharOffset": 1746
+    },
+    {
+      "form": "sanksi",
+      "startCharOffset": 1747,
+      "endCharOffset": 1753
+    },
+    {
+      "form": "oleh",
+      "startCharOffset": 1754,
+      "endCharOffset": 1758
+    },
+    {
+      "form": "PBB",
+      "startCharOffset": 1759,
+      "endCharOffset": 1762
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1762,
+      "endCharOffset": 1763
+    },
+    {
+      "form": "Image",
+      "startCharOffset": 1765,
+      "endCharOffset": 1770
+    },
+    {
+      "form": "caption",
+      "startCharOffset": 1771,
+      "endCharOffset": 1778
+    },
+    {
+      "form": "Kapal",
+      "startCharOffset": 1779,
+      "endCharOffset": 1784
+    },
+    {
+      "form": "induk",
+      "startCharOffset": 1785,
+      "endCharOffset": 1790
+    },
+    {
+      "form": "Liaoning",
+      "startCharOffset": 1791,
+      "endCharOffset": 1799
+    },
+    {
+      "form": "diikutkan",
+      "startCharOffset": 1800,
+      "endCharOffset": 1809
+    },
+    {
+      "form": "dalam",
+      "startCharOffset": 1810,
+      "endCharOffset": 1815
+    },
+    {
+      "form": "latihan",
+      "startCharOffset": 1816,
+      "endCharOffset": 1823
+    },
+    {
+      "form": "militer",
+      "startCharOffset": 1824,
+      "endCharOffset": 1831
+    },
+    {
+      "form": "di",
+      "startCharOffset": 1832,
+      "endCharOffset": 1834
+    },
+    {
+      "form": "Pasifik",
+      "startCharOffset": 1835,
+      "endCharOffset": 1842
+    },
+    {
+      "form": "Barat",
+      "startCharOffset": 1843,
+      "endCharOffset": 1848
+    },
+    {
+      "form": "pada",
+      "startCharOffset": 1849,
+      "endCharOffset": 1853
+    },
+    {
+      "form": "Desember",
+      "startCharOffset": 1854,
+      "endCharOffset": 1862
+    },
+    {
+      "form": "2016",
+      "startCharOffset": 1863,
+      "endCharOffset": 1867
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1867,
+      "endCharOffset": 1868
+    },
+    {
+      "form": "Presiden",
+      "startCharOffset": 1869,
+      "endCharOffset": 1877
+    },
+    {
+      "form": "Amerika",
+      "startCharOffset": 1878,
+      "endCharOffset": 1885
+    },
+    {
+      "form": "Serikat",
+      "startCharOffset": 1886,
+      "endCharOffset": 1893
+    },
+    {
+      "form": "Donald",
+      "startCharOffset": 1894,
+      "endCharOffset": 1900
+    },
+    {
+      "form": "Trump",
+      "startCharOffset": 1901,
+      "endCharOffset": 1906
+    },
+    {
+      "form": "menyatakan",
+      "startCharOffset": 1907,
+      "endCharOffset": 1917
+    },
+    {
+      "form": "Korea",
+      "startCharOffset": 1918,
+      "endCharOffset": 1923
+    },
+    {
+      "form": "Utara",
+      "startCharOffset": 1924,
+      "endCharOffset": 1929
+    },
+    {
+      "form": "sebagai",
+      "startCharOffset": 1930,
+      "endCharOffset": 1937
+    },
+    {
+      "form": "ancaman",
+      "startCharOffset": 1938,
+      "endCharOffset": 1945
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1945,
+      "endCharOffset": 1946
+    },
+    {
+      "form": "tidak",
+      "startCharOffset": 1947,
+      "endCharOffset": 1952
+    },
+    {
+      "form": "hanya",
+      "startCharOffset": 1953,
+      "endCharOffset": 1958
+    },
+    {
+      "form": "bagi",
+      "startCharOffset": 1959,
+      "endCharOffset": 1963
+    },
+    {
+      "form": "AS",
+      "startCharOffset": 1964,
+      "endCharOffset": 1966
+    },
+    {
+      "form": "tetapi",
+      "startCharOffset": 1967,
+      "endCharOffset": 1973
+    },
+    {
+      "form": "juga",
+      "startCharOffset": 1974,
+      "endCharOffset": 1978
+    },
+    {
+      "form": "negara-negara",
+      "startCharOffset": 1979,
+      "endCharOffset": 1992
+    },
+    {
+      "form": "tetangga",
+      "startCharOffset": 1993,
+      "endCharOffset": 2001
+    },
+    {
+      "form": "di",
+      "startCharOffset": 2002,
+      "endCharOffset": 2004
+    },
+    {
+      "form": "kawasan",
+      "startCharOffset": 2005,
+      "endCharOffset": 2012
+    },
+    {
+      "form": "Asia",
+      "startCharOffset": 2013,
+      "endCharOffset": 2017
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2017,
+      "endCharOffset": 2018
+    },
+    {
+      "form": "Belakangan",
+      "startCharOffset": 2020,
+      "endCharOffset": 2030
+    },
+    {
+      "form": "Amerika",
+      "startCharOffset": 2031,
+      "endCharOffset": 2038
+    },
+    {
+      "form": "Serikat",
+      "startCharOffset": 2039,
+      "endCharOffset": 2046
+    },
+    {
+      "form": "mengerahkan",
+      "startCharOffset": 2047,
+      "endCharOffset": 2058
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 2059,
+      "endCharOffset": 2064
+    },
+    {
+      "form": "perang",
+      "startCharOffset": 2065,
+      "endCharOffset": 2071
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 2072,
+      "endCharOffset": 2075
+    },
+    {
+      "form": "kapal",
+      "startCharOffset": 2076,
+      "endCharOffset": 2081
+    },
+    {
+      "form": "selam",
+      "startCharOffset": 2082,
+      "endCharOffset": 2087
+    },
+    {
+      "form": "ke",
+      "startCharOffset": 2088,
+      "endCharOffset": 2090
+    },
+    {
+      "form": "Semenanjung",
+      "startCharOffset": 2091,
+      "endCharOffset": 2102
+    },
+    {
+      "form": "Korea",
+      "startCharOffset": 2103,
+      "endCharOffset": 2108
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2108,
+      "endCharOffset": 2109
+    },
+    {
+      "form": "Langkah",
+      "startCharOffset": 2110,
+      "endCharOffset": 2117
+    },
+    {
+      "form": "ini",
+      "startCharOffset": 2118,
+      "endCharOffset": 2121
+    },
+    {
+      "form": "semakin",
+      "startCharOffset": 2122,
+      "endCharOffset": 2129
+    },
+    {
+      "form": "membuat",
+      "startCharOffset": 2130,
+      "endCharOffset": 2137
+    },
+    {
+      "form": "Korea",
+      "startCharOffset": 2138,
+      "endCharOffset": 2143
+    },
+    {
+      "form": "Utara",
+      "startCharOffset": 2144,
+      "endCharOffset": 2149
+    },
+    {
+      "form": "marah",
+      "startCharOffset": 2150,
+      "endCharOffset": 2155
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2155,
+      "endCharOffset": 2156
+    },
+    {
+      "form": "Adapun",
+      "startCharOffset": 2157,
+      "endCharOffset": 2163
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 2164,
+      "endCharOffset": 2168
+    },
+    {
+      "form": "sebagai",
+      "startCharOffset": 2169,
+      "endCharOffset": 2176
+    },
+    {
+      "form": "sekutu",
+      "startCharOffset": 2177,
+      "endCharOffset": 2183
+    },
+    {
+      "form": "terdekat",
+      "startCharOffset": 2184,
+      "endCharOffset": 2192
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 2193,
+      "endCharOffset": 2198
+    },
+    {
+      "form": "meminta",
+      "startCharOffset": 2199,
+      "endCharOffset": 2206
+    },
+    {
+      "form": "agar",
+      "startCharOffset": 2207,
+      "endCharOffset": 2211
+    },
+    {
+      "form": "semua",
+      "startCharOffset": 2212,
+      "endCharOffset": 2217
+    },
+    {
+      "form": "pihak",
+      "startCharOffset": 2218,
+      "endCharOffset": 2223
+    },
+    {
+      "form": "menahan",
+      "startCharOffset": 2224,
+      "endCharOffset": 2231
+    },
+    {
+      "form": "diri",
+      "startCharOffset": 2232,
+      "endCharOffset": 2236
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2236,
+      "endCharOffset": 2237
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 2239,
+      "endCharOffset": 2243
+    },
+    {
+      "form": "juga",
+      "startCharOffset": 2244,
+      "endCharOffset": 2248
+    },
+    {
+      "form": "terlibat",
+      "startCharOffset": 2249,
+      "endCharOffset": 2257
+    },
+    {
+      "form": "sengketa",
+      "startCharOffset": 2258,
+      "endCharOffset": 2266
+    },
+    {
+      "form": "beberapa",
+      "startCharOffset": 2267,
+      "endCharOffset": 2275
+    },
+    {
+      "form": "wilayah",
+      "startCharOffset": 2276,
+      "endCharOffset": 2283
+    },
+    {
+      "form": "di",
+      "startCharOffset": 2284,
+      "endCharOffset": 2286
+    },
+    {
+      "form": "Laut",
+      "startCharOffset": 2287,
+      "endCharOffset": 2291
+    },
+    {
+      "form": "Cina",
+      "startCharOffset": 2292,
+      "endCharOffset": 2296
+    },
+    {
+      "form": "Selatan",
+      "startCharOffset": 2297,
+      "endCharOffset": 2304
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2304,
+      "endCharOffset": 2305
+    },
+    {
+      "form": "Negara",
+      "startCharOffset": 2306,
+      "endCharOffset": 2312
+    },
+    {
+      "form": "itu",
+      "startCharOffset": 2313,
+      "endCharOffset": 2316
+    },
+    {
+      "form": "terus",
+      "startCharOffset": 2317,
+      "endCharOffset": 2322
+    },
+    {
+      "form": "meningkatkan",
+      "startCharOffset": 2323,
+      "endCharOffset": 2335
+    },
+    {
+      "form": "aktivitas",
+      "startCharOffset": 2336,
+      "endCharOffset": 2345
+    },
+    {
+      "form": "militer",
+      "startCharOffset": 2346,
+      "endCharOffset": 2353
+    },
+    {
+      "form": "di",
+      "startCharOffset": 2354,
+      "endCharOffset": 2356
+    },
+    {
+      "form": "wilayah",
+      "startCharOffset": 2357,
+      "endCharOffset": 2364
+    },
+    {
+      "form": "yang",
+      "startCharOffset": 2365,
+      "endCharOffset": 2369
+    },
+    {
+      "form": "diperebutkan",
+      "startCharOffset": 2370,
+      "endCharOffset": 2382
+    },
+    {
+      "form": "sejumlah",
+      "startCharOffset": 2383,
+      "endCharOffset": 2391
+    },
+    {
+      "form": "negara",
+      "startCharOffset": 2392,
+      "endCharOffset": 2398
+    },
+    {
+      "form": "tersebut",
+      "startCharOffset": 2399,
+      "endCharOffset": 2407
+    },
+    {
+      "form": "dan",
+      "startCharOffset": 2408,
+      "endCharOffset": 2411
+    },
+    {
+      "form": "telah",
+      "startCharOffset": 2412,
+      "endCharOffset": 2417
+    },
+    {
+      "form": "memicu",
+      "startCharOffset": 2418,
+      "endCharOffset": 2424
+    },
+    {
+      "form": "kekhawatiran",
+      "startCharOffset": 2425,
+      "endCharOffset": 2437
+    },
+    {
+      "form": "di",
+      "startCharOffset": 2438,
+      "endCharOffset": 2440
+    },
+    {
+      "form": "kawasan",
+      "startCharOffset": 2441,
+      "endCharOffset": 2448
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2448,
+      "endCharOffset": 2449
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      8,
+      19,
+      45,
+      67,
+      80,
+      92,
+      133,
+      146,
+      179,
+      192,
+      225,
+      252,
+      276,
+      315,
+      328,
+      336,
+      349,
+      360,
+      380
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 58,
+              "end": 61
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 110,
+              "end": 112
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 158,
+              "end": 160
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 174,
+              "end": 178
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 237,
+              "end": 239
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 240,
+              "end": 242
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 249,
+              "end": 251
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 252,
+              "end": 254
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 286,
+              "end": 288
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 293,
+              "end": 295
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 295,
+              "end": 297
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 298,
+              "end": 300
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 316,
+              "end": 318
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 325,
+              "end": 327
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 337,
+              "end": 338
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 349,
+              "end": 350
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 356,
+              "end": 359
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "luncurkan",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "pertama",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "buatan",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "dalam",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "negeri",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Image",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "caption",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Media",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "pemerintah",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "merilis",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "foto",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "peluncuran",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "mengatakan",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "meluncurkan",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "pertama",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "buatan",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "dalam",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "negeri",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "dinilai",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "sebagai",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "sinyal",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "terbaru",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "tentang",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "peningkatan",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "kekuatan",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "militernya",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "tengah",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "ketegangan",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "kawasan",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "Asia",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "Kapal",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "namanya",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "tidak",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "disebutkan",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "itu",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "diluncurkan",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "Dalian",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "pelabuhan",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "timur",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "laut",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "menjadi",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "tempat",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "pembuatan",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "Laporan-laporan",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "sebelumnya",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "menyebutkan",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "baru",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "ini",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "akan",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "mulai",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "dioperikan",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "pada",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "2020",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "Kapal",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "pertama",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "ikuti",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "latihan",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "militer",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "seperti",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "apa",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "penampakannya",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "?",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "Pertama",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "kali",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "Taiwan",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "berencana",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "buat",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "selam",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "untuk",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "pertahanan",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "Patroli",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "\u0027",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "tak",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "tampak",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "\u0027",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "kawasan",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "Scarborough",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "Shoal",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "Selama",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "ini",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "hanya",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "mempunyai",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "satu",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "beroperasi",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "Liaoning",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "dibeli",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "dari",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "Ukraina",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "dimodifikasi",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "Kapal",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "baru",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "buatan",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "dalam",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "negeri",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "akan",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "membawa",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "pesawat",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "tempur",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "Shenyang",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "J-15",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "Namun",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "menurut",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "para",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "pengamat",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "sebagaimana",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "dilaporkan",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "oleh",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "wartawan",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "BBC",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "Stephen",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "McDonell",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "ini",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "secara",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "teknologi",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "masih",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "berada",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "bawah",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "10",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "milik",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "Angkatan",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "Laut",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "Amerika",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "Serikat",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "Image",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "caption",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "Kapal",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "pertama",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "buatan",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "dalam",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "negeri",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "dirancang",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "Dalian",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "Bagaimanapun",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "lapor",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "McDonell",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "baru",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "disebut-sebut",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "jauh",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "lebih",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "baik",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "dibandingkan",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "Liaoning",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "dibuat",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "lebih",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "dari",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "25",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "tahun",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "lalu",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "sebuah",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "bekas",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "Soviet",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "dibeli",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "dari",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "Ukraina",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "Berita",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "tentang",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "peluncuran",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "muncul",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "tengah",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "retorika",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "panas",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": "antara",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "Korea",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "Utara",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "Amerika",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": "Serikat",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "selama",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "hari-hari",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "terakhir",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": "terkait",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "dengan",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "program",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "nuklir",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "Korea",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "Utara",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "Korea",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "Utara",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "semakin",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "sering",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "melakukan",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "uji",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "coba",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "rudal",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "nuklir",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": "selama",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "beberapa",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "tahun",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": "belakangan",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "meskipun",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "dikritik",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "bahkan",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "dikenai",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "sanksi",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "oleh",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "PBB",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "Image",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "caption",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "Kapal",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "induk",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "Liaoning",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "diikutkan",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "dalam",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "latihan",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "militer",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "Pasifik",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "Barat",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "pada",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "Desember",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "2016",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "Presiden",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": "Amerika",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "Serikat",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "Donald",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "Trump",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "menyatakan",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "Korea",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "Utara",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "sebagai",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "ancaman",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "tidak",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "hanya",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "bagi",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "AS",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "tetapi",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "juga",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "negara-negara",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "tetangga",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "kawasan",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "Asia",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "Belakangan",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "Amerika",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "Serikat",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "mengerahkan",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "perang",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "kapal",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "selam",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "ke",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "Semenanjung",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "Korea",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "Langkah",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "ini",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": "semakin",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "membuat",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "Korea",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "Utara",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": "marah",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 335,
+              "end": 336
+            },
+            {
+              "label": "Adapun",
+              "score": 1.0,
+              "start": 336,
+              "end": 337
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 337,
+              "end": 338
+            },
+            {
+              "label": "sebagai",
+              "score": 1.0,
+              "start": 338,
+              "end": 339
+            },
+            {
+              "label": "sekutu",
+              "score": 1.0,
+              "start": 339,
+              "end": 340
+            },
+            {
+              "label": "terdekat",
+              "score": 1.0,
+              "start": 340,
+              "end": 341
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 341,
+              "end": 342
+            },
+            {
+              "label": "meminta",
+              "score": 1.0,
+              "start": 342,
+              "end": 343
+            },
+            {
+              "label": "agar",
+              "score": 1.0,
+              "start": 343,
+              "end": 344
+            },
+            {
+              "label": "semua",
+              "score": 1.0,
+              "start": 344,
+              "end": 345
+            },
+            {
+              "label": "pihak",
+              "score": 1.0,
+              "start": 345,
+              "end": 346
+            },
+            {
+              "label": "menahan",
+              "score": 1.0,
+              "start": 346,
+              "end": 347
+            },
+            {
+              "label": "diri",
+              "score": 1.0,
+              "start": 347,
+              "end": 348
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 348,
+              "end": 349
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 349,
+              "end": 350
+            },
+            {
+              "label": "juga",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "terlibat",
+              "score": 1.0,
+              "start": 351,
+              "end": 352
+            },
+            {
+              "label": "sengketa",
+              "score": 1.0,
+              "start": 352,
+              "end": 353
+            },
+            {
+              "label": "beberapa",
+              "score": 1.0,
+              "start": 353,
+              "end": 354
+            },
+            {
+              "label": "wilayah",
+              "score": 1.0,
+              "start": 354,
+              "end": 355
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 355,
+              "end": 356
+            },
+            {
+              "label": "Laut",
+              "score": 1.0,
+              "start": 356,
+              "end": 357
+            },
+            {
+              "label": "Cina",
+              "score": 1.0,
+              "start": 357,
+              "end": 358
+            },
+            {
+              "label": "Selatan",
+              "score": 1.0,
+              "start": 358,
+              "end": 359
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 359,
+              "end": 360
+            },
+            {
+              "label": "Negara",
+              "score": 1.0,
+              "start": 360,
+              "end": 361
+            },
+            {
+              "label": "itu",
+              "score": 1.0,
+              "start": 361,
+              "end": 362
+            },
+            {
+              "label": "terus",
+              "score": 1.0,
+              "start": 362,
+              "end": 363
+            },
+            {
+              "label": "meningkatkan",
+              "score": 1.0,
+              "start": 363,
+              "end": 364
+            },
+            {
+              "label": "aktivitas",
+              "score": 1.0,
+              "start": 364,
+              "end": 365
+            },
+            {
+              "label": "militer",
+              "score": 1.0,
+              "start": 365,
+              "end": 366
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 366,
+              "end": 367
+            },
+            {
+              "label": "wilayah",
+              "score": 1.0,
+              "start": 367,
+              "end": 368
+            },
+            {
+              "label": "yang",
+              "score": 1.0,
+              "start": 368,
+              "end": 369
+            },
+            {
+              "label": "diperebutkan",
+              "score": 1.0,
+              "start": 369,
+              "end": 370
+            },
+            {
+              "label": "sejumlah",
+              "score": 1.0,
+              "start": 370,
+              "end": 371
+            },
+            {
+              "label": "negara",
+              "score": 1.0,
+              "start": 371,
+              "end": 372
+            },
+            {
+              "label": "tersebut",
+              "score": 1.0,
+              "start": 372,
+              "end": 373
+            },
+            {
+              "label": "dan",
+              "score": 1.0,
+              "start": 373,
+              "end": 374
+            },
+            {
+              "label": "telah",
+              "score": 1.0,
+              "start": 374,
+              "end": 375
+            },
+            {
+              "label": "memicu",
+              "score": 1.0,
+              "start": 375,
+              "end": 376
+            },
+            {
+              "label": "kekhawatiran",
+              "score": 1.0,
+              "start": 376,
+              "end": 377
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 377,
+              "end": 378
+            },
+            {
+              "label": "kawasan",
+              "score": 1.0,
+              "start": 378,
+              "end": 379
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 379,
+              "end": 380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 8
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 8,
+              "end": 19
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 19,
+              "end": 45
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 45,
+              "end": 67
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 67,
+              "end": 80
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 80,
+              "end": 92
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 92,
+              "end": 133
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 133,
+              "end": 146
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 146,
+              "end": 179
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 179,
+              "end": 192
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 192,
+              "end": 225
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 225,
+              "end": 252
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 252,
+              "end": 276
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 276,
+              "end": 315
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 315,
+              "end": 328
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 328,
+              "end": 336
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 336,
+              "end": 349
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 349,
+              "end": 360
+            },
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 360,
+              "end": 380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 335,
+              "end": 336
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 336,
+              "end": 337
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 337,
+              "end": 338
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 338,
+              "end": 339
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 339,
+              "end": 340
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 340,
+              "end": 341
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 341,
+              "end": 342
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 342,
+              "end": 343
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 343,
+              "end": 344
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 344,
+              "end": 345
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 345,
+              "end": 346
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 346,
+              "end": 347
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 347,
+              "end": 348
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 348,
+              "end": 349
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 349,
+              "end": 350
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 351,
+              "end": 352
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 352,
+              "end": 353
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 353,
+              "end": 354
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 354,
+              "end": 355
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 355,
+              "end": 356
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 356,
+              "end": 357
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 357,
+              "end": 358
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 358,
+              "end": 359
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 359,
+              "end": 360
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 360,
+              "end": 361
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 361,
+              "end": 362
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 362,
+              "end": 363
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 363,
+              "end": 364
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 364,
+              "end": 365
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 365,
+              "end": 366
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 366,
+              "end": 367
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 367,
+              "end": 368
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 368,
+              "end": 369
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 369,
+              "end": 370
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 370,
+              "end": 371
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 371,
+              "end": 372
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 372,
+              "end": 373
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 373,
+              "end": 374
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 374,
+              "end": 375
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 375,
+              "end": 376
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 376,
+              "end": 377
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 377,
+              "end": 378
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 378,
+              "end": 379
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 379,
+              "end": 380
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

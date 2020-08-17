@@ -1,0 +1,304 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170212_H0T10EWLP",
+  "text": "RT @jituofficial: Stasiun Gambir penuuuuh, masya Allah! #Aksi112 #AksiBelaIslam112 https://t.co/XrR04lxI3h",
+  "tokens": [
+    "RT",
+    "@jituofficial:",
+    "Stasiun",
+    "Gambir",
+    "penuuuuh",
+    ",",
+    "masya",
+    "Allah",
+    "!",
+    "#Aksi112",
+    "#AksiBelaIslam112",
+    "https://t.co/XrR04lxI3h"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@jituofficial:",
+      "startCharOffset": 3,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Stasiun",
+      "startCharOffset": 18,
+      "endCharOffset": 25
+    },
+    {
+      "form": "Gambir",
+      "startCharOffset": 26,
+      "endCharOffset": 32
+    },
+    {
+      "form": "penuuuuh",
+      "startCharOffset": 33,
+      "endCharOffset": 41
+    },
+    {
+      "form": ",",
+      "startCharOffset": 41,
+      "endCharOffset": 42
+    },
+    {
+      "form": "masya",
+      "startCharOffset": 43,
+      "endCharOffset": 48
+    },
+    {
+      "form": "Allah",
+      "startCharOffset": 49,
+      "endCharOffset": 54
+    },
+    {
+      "form": "!",
+      "startCharOffset": 54,
+      "endCharOffset": 55
+    },
+    {
+      "form": "#Aksi112",
+      "startCharOffset": 56,
+      "endCharOffset": 64
+    },
+    {
+      "form": "#AksiBelaIslam112",
+      "startCharOffset": 65,
+      "endCharOffset": 82
+    },
+    {
+      "form": "https://t.co/XrR04lxI3h",
+      "startCharOffset": 83,
+      "endCharOffset": 106
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 2,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@jituofficial:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Stasiun",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Gambir",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "penuuuuh",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "masya",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Allah",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "!",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "#Aksi112",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "#AksiBelaIslam112",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "https://t.co/XrR04lxI3h",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

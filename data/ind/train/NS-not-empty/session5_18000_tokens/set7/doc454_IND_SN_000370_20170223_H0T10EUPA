@@ -1,0 +1,507 @@
+{
+  "corpusId": "",
+  "id": "doc454_IND_SN_000370_20170223_H0T10EUPA",
+  "text": "RT @AndaTahu: Menonton video porno, memungkinkan terkena pendarahan otak. Bret Michaels sorg Rocker AS trkena pendarahan otak akibat sering…",
+  "tokens": [
+    "RT",
+    "@AndaTahu:",
+    "Menonton",
+    "video",
+    "porno",
+    ",",
+    "memungkinkan",
+    "terkena",
+    "pendarahan",
+    "otak",
+    ".",
+    "Bret",
+    "Michaels",
+    "sorg",
+    "Rocker",
+    "AS",
+    "trkena",
+    "pendarahan",
+    "otak",
+    "akibat",
+    "sering",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@AndaTahu:",
+      "startCharOffset": 3,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Menonton",
+      "startCharOffset": 14,
+      "endCharOffset": 22
+    },
+    {
+      "form": "video",
+      "startCharOffset": 23,
+      "endCharOffset": 28
+    },
+    {
+      "form": "porno",
+      "startCharOffset": 29,
+      "endCharOffset": 34
+    },
+    {
+      "form": ",",
+      "startCharOffset": 34,
+      "endCharOffset": 35
+    },
+    {
+      "form": "memungkinkan",
+      "startCharOffset": 36,
+      "endCharOffset": 48
+    },
+    {
+      "form": "terkena",
+      "startCharOffset": 49,
+      "endCharOffset": 56
+    },
+    {
+      "form": "pendarahan",
+      "startCharOffset": 57,
+      "endCharOffset": 67
+    },
+    {
+      "form": "otak",
+      "startCharOffset": 68,
+      "endCharOffset": 72
+    },
+    {
+      "form": ".",
+      "startCharOffset": 72,
+      "endCharOffset": 73
+    },
+    {
+      "form": "Bret",
+      "startCharOffset": 74,
+      "endCharOffset": 78
+    },
+    {
+      "form": "Michaels",
+      "startCharOffset": 79,
+      "endCharOffset": 87
+    },
+    {
+      "form": "sorg",
+      "startCharOffset": 88,
+      "endCharOffset": 92
+    },
+    {
+      "form": "Rocker",
+      "startCharOffset": 93,
+      "endCharOffset": 99
+    },
+    {
+      "form": "AS",
+      "startCharOffset": 100,
+      "endCharOffset": 102
+    },
+    {
+      "form": "trkena",
+      "startCharOffset": 103,
+      "endCharOffset": 109
+    },
+    {
+      "form": "pendarahan",
+      "startCharOffset": 110,
+      "endCharOffset": 120
+    },
+    {
+      "form": "otak",
+      "startCharOffset": 121,
+      "endCharOffset": 125
+    },
+    {
+      "form": "akibat",
+      "startCharOffset": 126,
+      "endCharOffset": 132
+    },
+    {
+      "form": "sering",
+      "startCharOffset": 133,
+      "endCharOffset": 139
+    },
+    {
+      "form": "…",
+      "startCharOffset": 139,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      22
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 11,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 11,
+              "end": 13
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@AndaTahu:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Menonton",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "video",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "porno",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "memungkinkan",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "terkena",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "pendarahan",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "otak",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Bret",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "Michaels",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "sorg",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "Rocker",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "AS",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "trkena",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "pendarahan",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "otak",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "akibat",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "sering",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "...",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

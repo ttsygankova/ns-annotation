@@ -1,0 +1,36 @@
+CONFIG_FILE=configs/ner-bert.jsonnet
+LORELEI_DIR=/mnt/castor/seas_home/t/ttasya/lorelei-2019
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/
+export NER_TEST_A_PATH=$LORELEI_DIR/il9-dev/
+export NER_TEST_B_PATH=$LORELEI_DIR/lorelei2017/allennlp/il/kin/
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp1-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp2-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/,$LORELEI_DIR/lrlp/eng
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp3-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/,$LORELEI_DIR/lrlp/vie
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp4-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/,$LORELEI_DIR/lrlp/tur
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp5-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/,$LORELEI_DIR/lrlp/ara
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp6-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/,$LORELEI_DIR/lrlp/ara,$LORELEI_DIR/lrlp/som
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp7-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/,$LORELEI_DIR/lrlp/aka,$LORELEI_DIR/lrlp/yor
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp8-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/,$LORELEI_DIR/lrlp/aka,$LORELEI_DIR/lrlp/yor,$LORELEI_DIR/lrlp/wol,$LORELEI_DIR/lrlp/zul
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp9-drop0.6 --include-package ccg
+
+export NER_TRAIN_DATA_PATH=$LORELEI_DIR/il9-train/,$LORELEI_DIR/lrlp/swa/,$LORELEI_DIR/lrlp/ind
+allennlp train $CONFIG_FILE --serialization-dir /scratch/ttasya/models/il9bert-exp10-drop0.6 --include-package ccg
+
+

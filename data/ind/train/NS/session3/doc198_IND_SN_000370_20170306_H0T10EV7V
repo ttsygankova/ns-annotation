@@ -1,0 +1,447 @@
+{
+  "corpusId": "",
+  "id": "doc198_IND_SN_000370_20170306_H0T10EV7V",
+  "text": "639 views \"Seputar Kisruhnya Acara KPU-DKI Akibat WO-nya Ahok-Djarot Dari Ruangan\" by Elfizal from M4ngU5il https://t.co/OnfAdPnP9X",
+  "tokens": [
+    "639",
+    "views",
+    "\"",
+    "Seputar",
+    "Kisruhnya",
+    "Acara",
+    "KPU-DKI",
+    "Akibat",
+    "WO-nya",
+    "Ahok-Djarot",
+    "Dari",
+    "Ruangan",
+    "\"",
+    "by",
+    "Elfizal",
+    "from",
+    "M4ngU5il",
+    "https://t.co/OnfAdPnP9X"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "639",
+      "startCharOffset": 0,
+      "endCharOffset": 3
+    },
+    {
+      "form": "views",
+      "startCharOffset": 4,
+      "endCharOffset": 9
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 10,
+      "endCharOffset": 11
+    },
+    {
+      "form": "Seputar",
+      "startCharOffset": 11,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Kisruhnya",
+      "startCharOffset": 19,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Acara",
+      "startCharOffset": 29,
+      "endCharOffset": 34
+    },
+    {
+      "form": "KPU-DKI",
+      "startCharOffset": 35,
+      "endCharOffset": 42
+    },
+    {
+      "form": "Akibat",
+      "startCharOffset": 43,
+      "endCharOffset": 49
+    },
+    {
+      "form": "WO-nya",
+      "startCharOffset": 50,
+      "endCharOffset": 56
+    },
+    {
+      "form": "Ahok-Djarot",
+      "startCharOffset": 57,
+      "endCharOffset": 68
+    },
+    {
+      "form": "Dari",
+      "startCharOffset": 69,
+      "endCharOffset": 73
+    },
+    {
+      "form": "Ruangan",
+      "startCharOffset": 74,
+      "endCharOffset": 81
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 81,
+      "endCharOffset": 82
+    },
+    {
+      "form": "by",
+      "startCharOffset": 83,
+      "endCharOffset": 85
+    },
+    {
+      "form": "Elfizal",
+      "startCharOffset": 86,
+      "endCharOffset": 93
+    },
+    {
+      "form": "from",
+      "startCharOffset": 94,
+      "endCharOffset": 98
+    },
+    {
+      "form": "M4ngU5il",
+      "startCharOffset": 99,
+      "endCharOffset": 107
+    },
+    {
+      "form": "https://t.co/OnfAdPnP9X",
+      "startCharOffset": 108,
+      "endCharOffset": 131
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "639",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "views",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "\"",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "Seputar",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Kisruhnya",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Acara",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "KPU-DKI",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "Akibat",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "WO-nya",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "Ahok-Djarot",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Dari",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Ruangan",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "\"",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "by",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "Elfizal",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "from",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "M4ngU5il",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "https://t.co/OnfAdPnP9X",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

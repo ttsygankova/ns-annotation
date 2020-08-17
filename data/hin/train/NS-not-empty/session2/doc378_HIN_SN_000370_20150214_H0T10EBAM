@@ -1,0 +1,525 @@
+{
+  "corpusId": "",
+  "id": "doc378_HIN_SN_000370_20150214_H0T10EBAM",
+  "text": "Asaram Bapu Ji: सब कुछ मिल जाएगा मगर माता-पिता दुबारा नही मिलेंगे. उनका सम्मान करो तभी तुम्हे भी सम्मान मिलेगा! #HappyParentsWorshipDay",
+  "tokens": [
+    "Asaram",
+    "Bapu",
+    "Ji",
+    ":",
+    "सब",
+    "कुछ",
+    "मिल",
+    "जाएगा",
+    "मगर",
+    "माता-पिता",
+    "दुबारा",
+    "नही",
+    "मिलेंगे",
+    ".",
+    "उनका",
+    "सम्मान",
+    "करो",
+    "तभी",
+    "तुम्हे",
+    "भी",
+    "सम्मान",
+    "मिलेगा",
+    "!",
+    "#HappyParentsWorshipDay"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Asaram",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Bapu",
+      "startCharOffset": 7,
+      "endCharOffset": 11
+    },
+    {
+      "form": "Ji",
+      "startCharOffset": 12,
+      "endCharOffset": 14
+    },
+    {
+      "form": ":",
+      "startCharOffset": 14,
+      "endCharOffset": 15
+    },
+    {
+      "form": "सब",
+      "startCharOffset": 16,
+      "endCharOffset": 18
+    },
+    {
+      "form": "कुछ",
+      "startCharOffset": 19,
+      "endCharOffset": 22
+    },
+    {
+      "form": "मिल",
+      "startCharOffset": 23,
+      "endCharOffset": 26
+    },
+    {
+      "form": "जाएगा",
+      "startCharOffset": 27,
+      "endCharOffset": 32
+    },
+    {
+      "form": "मगर",
+      "startCharOffset": 33,
+      "endCharOffset": 36
+    },
+    {
+      "form": "माता-पिता",
+      "startCharOffset": 37,
+      "endCharOffset": 46
+    },
+    {
+      "form": "दुबारा",
+      "startCharOffset": 47,
+      "endCharOffset": 53
+    },
+    {
+      "form": "नही",
+      "startCharOffset": 54,
+      "endCharOffset": 57
+    },
+    {
+      "form": "मिलेंगे",
+      "startCharOffset": 58,
+      "endCharOffset": 65
+    },
+    {
+      "form": ".",
+      "startCharOffset": 65,
+      "endCharOffset": 66
+    },
+    {
+      "form": "उनका",
+      "startCharOffset": 67,
+      "endCharOffset": 71
+    },
+    {
+      "form": "सम्मान",
+      "startCharOffset": 72,
+      "endCharOffset": 78
+    },
+    {
+      "form": "करो",
+      "startCharOffset": 79,
+      "endCharOffset": 82
+    },
+    {
+      "form": "तभी",
+      "startCharOffset": 83,
+      "endCharOffset": 86
+    },
+    {
+      "form": "तुम्हे",
+      "startCharOffset": 87,
+      "endCharOffset": 93
+    },
+    {
+      "form": "भी",
+      "startCharOffset": 94,
+      "endCharOffset": 96
+    },
+    {
+      "form": "सम्मान",
+      "startCharOffset": 97,
+      "endCharOffset": 103
+    },
+    {
+      "form": "मिलेगा",
+      "startCharOffset": 104,
+      "endCharOffset": 110
+    },
+    {
+      "form": "!",
+      "startCharOffset": 110,
+      "endCharOffset": 111
+    },
+    {
+      "form": "#HappyParentsWorshipDay",
+      "startCharOffset": 112,
+      "endCharOffset": 135
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      24
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_CONLL_GOLD",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL_GOLD",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "NER_SUGGESTION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_SUGGESTION",
+          "generator": "NER_SUGGESTION-annotator",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "AddTranslit",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Asaram",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Bapu",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Ji",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": ":",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "sab",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "kuch",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "mil",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "jaaegaa",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "magar",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "maataa-pitaa",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "dubaaraa",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "nahii",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "milemge",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "unakaa",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "sammaan",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "karo",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "tabhii",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "tumhe",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "bhii",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "sammaan",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "milegaa",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "!",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "#HappyParentsWorshipDay",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

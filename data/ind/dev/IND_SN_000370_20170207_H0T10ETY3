@@ -1,0 +1,268 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170207_H0T10ETY3",
+  "text": "Puluhan Pengungsi Demo di Depan Kantor UNHCR di Jakarta https://t.co/i7w0hHeGim",
+  "tokens": [
+    "Puluhan",
+    "Pengungsi",
+    "Demo",
+    "di",
+    "Depan",
+    "Kantor",
+    "UNHCR",
+    "di",
+    "Jakarta",
+    "https://t.co/i7w0hHeGim"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Puluhan",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "Pengungsi",
+      "startCharOffset": 8,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Demo",
+      "startCharOffset": 18,
+      "endCharOffset": 22
+    },
+    {
+      "form": "di",
+      "startCharOffset": 23,
+      "endCharOffset": 25
+    },
+    {
+      "form": "Depan",
+      "startCharOffset": 26,
+      "endCharOffset": 31
+    },
+    {
+      "form": "Kantor",
+      "startCharOffset": 32,
+      "endCharOffset": 38
+    },
+    {
+      "form": "UNHCR",
+      "startCharOffset": 39,
+      "endCharOffset": 44
+    },
+    {
+      "form": "di",
+      "startCharOffset": 45,
+      "endCharOffset": 47
+    },
+    {
+      "form": "Jakarta",
+      "startCharOffset": 48,
+      "endCharOffset": 55
+    },
+    {
+      "form": "https://t.co/i7w0hHeGim",
+      "startCharOffset": 56,
+      "endCharOffset": 79
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      10
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 5,
+              "end": 7
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "Puluhan",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "Pengungsi",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Demo",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "Depan",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "Kantor",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "UNHCR",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Jakarta",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "https://t.co/i7w0hHeGim",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

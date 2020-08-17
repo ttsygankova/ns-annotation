@@ -1,0 +1,272 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170206_H0T10ENVO",
+  "text": "बड़ी खबर : यूएन ने आतंकवाद विरोधी पैनल के लिए भारत से मांगे सदस्य !! | Hindutva https://t.co/oujP6Kx4K6",
+  "tokens": [
+    "बड़ी",
+    "खबर",
+    ":",
+    "यूएन",
+    "ने",
+    "आतंकवाद",
+    "विरोधी",
+    "पैनल",
+    "के",
+    "लिए",
+    "भारत",
+    "से",
+    "मांगे",
+    "सदस्य",
+    "!!",
+    "|",
+    "Hindutva",
+    "https://t.co/oujP6Kx4K6"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "बड़ी",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "खबर",
+      "startCharOffset": 5,
+      "endCharOffset": 8
+    },
+    {
+      "form": ":",
+      "startCharOffset": 9,
+      "endCharOffset": 10
+    },
+    {
+      "form": "यूएन",
+      "startCharOffset": 11,
+      "endCharOffset": 15
+    },
+    {
+      "form": "ने",
+      "startCharOffset": 16,
+      "endCharOffset": 18
+    },
+    {
+      "form": "आतंकवाद",
+      "startCharOffset": 19,
+      "endCharOffset": 26
+    },
+    {
+      "form": "विरोधी",
+      "startCharOffset": 27,
+      "endCharOffset": 33
+    },
+    {
+      "form": "पैनल",
+      "startCharOffset": 34,
+      "endCharOffset": 38
+    },
+    {
+      "form": "के",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    },
+    {
+      "form": "लिए",
+      "startCharOffset": 42,
+      "endCharOffset": 45
+    },
+    {
+      "form": "भारत",
+      "startCharOffset": 46,
+      "endCharOffset": 50
+    },
+    {
+      "form": "से",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": "मांगे",
+      "startCharOffset": 54,
+      "endCharOffset": 59
+    },
+    {
+      "form": "सदस्य",
+      "startCharOffset": 60,
+      "endCharOffset": 65
+    },
+    {
+      "form": "!!",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "|",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "Hindutva",
+      "startCharOffset": 71,
+      "endCharOffset": 79
+    },
+    {
+      "form": "https://t.co/oujP6Kx4K6",
+      "startCharOffset": 80,
+      "endCharOffset": 103
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

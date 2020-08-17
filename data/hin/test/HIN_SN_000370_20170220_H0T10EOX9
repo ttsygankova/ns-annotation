@@ -1,0 +1,404 @@
+{
+  "corpusId": "",
+  "id": "HIN_SN_000370_20170220_H0T10EOX9",
+  "text": "RT @subhashchandrak: @ajitanjum मोदी और अमित शाह दोनों आतंकवादी हैं , आतंक पैदा कर रहे हैं लोकतंत्र में, राजेंद्र चौधरी, सपा, चुनाव आयोग…",
+  "tokens": [
+    "RT",
+    "@subhashchandrak:",
+    "@ajitanjum",
+    "मोदी",
+    "और",
+    "अमित",
+    "शाह",
+    "दोनों",
+    "आतंकवादी",
+    "हैं",
+    ",",
+    "आतंक",
+    "पैदा",
+    "कर",
+    "रहे",
+    "हैं",
+    "लोकतंत्र",
+    "में",
+    ",",
+    "राजेंद्र",
+    "चौधरी",
+    ",",
+    "सपा",
+    ",",
+    "चुनाव",
+    "आयोग",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@subhashchandrak:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "@ajitanjum",
+      "startCharOffset": 21,
+      "endCharOffset": 31
+    },
+    {
+      "form": "मोदी",
+      "startCharOffset": 32,
+      "endCharOffset": 36
+    },
+    {
+      "form": "और",
+      "startCharOffset": 37,
+      "endCharOffset": 39
+    },
+    {
+      "form": "अमित",
+      "startCharOffset": 40,
+      "endCharOffset": 44
+    },
+    {
+      "form": "शाह",
+      "startCharOffset": 45,
+      "endCharOffset": 48
+    },
+    {
+      "form": "दोनों",
+      "startCharOffset": 49,
+      "endCharOffset": 54
+    },
+    {
+      "form": "आतंकवादी",
+      "startCharOffset": 55,
+      "endCharOffset": 63
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 64,
+      "endCharOffset": 67
+    },
+    {
+      "form": ",",
+      "startCharOffset": 68,
+      "endCharOffset": 69
+    },
+    {
+      "form": "आतंक",
+      "startCharOffset": 70,
+      "endCharOffset": 74
+    },
+    {
+      "form": "पैदा",
+      "startCharOffset": 75,
+      "endCharOffset": 79
+    },
+    {
+      "form": "कर",
+      "startCharOffset": 80,
+      "endCharOffset": 82
+    },
+    {
+      "form": "रहे",
+      "startCharOffset": 83,
+      "endCharOffset": 86
+    },
+    {
+      "form": "हैं",
+      "startCharOffset": 87,
+      "endCharOffset": 90
+    },
+    {
+      "form": "लोकतंत्र",
+      "startCharOffset": 91,
+      "endCharOffset": 99
+    },
+    {
+      "form": "में",
+      "startCharOffset": 100,
+      "endCharOffset": 103
+    },
+    {
+      "form": ",",
+      "startCharOffset": 103,
+      "endCharOffset": 104
+    },
+    {
+      "form": "राजेंद्र",
+      "startCharOffset": 105,
+      "endCharOffset": 113
+    },
+    {
+      "form": "चौधरी",
+      "startCharOffset": 114,
+      "endCharOffset": 119
+    },
+    {
+      "form": ",",
+      "startCharOffset": 119,
+      "endCharOffset": 120
+    },
+    {
+      "form": "सपा",
+      "startCharOffset": 121,
+      "endCharOffset": 124
+    },
+    {
+      "form": ",",
+      "startCharOffset": 124,
+      "endCharOffset": 125
+    },
+    {
+      "form": "चुनाव",
+      "startCharOffset": 126,
+      "endCharOffset": 131
+    },
+    {
+      "form": "आयोग",
+      "startCharOffset": 132,
+      "endCharOffset": 136
+    },
+    {
+      "form": "…",
+      "startCharOffset": 136,
+      "endCharOffset": 137
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      27
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 5,
+              "end": 7
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 19,
+              "end": 21
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

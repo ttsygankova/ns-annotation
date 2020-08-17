@@ -1,0 +1,394 @@
+{
+  "corpusId": "",
+  "id": "IND_SN_000370_20170220_H0T10EUIY",
+  "text": "RT @SindoRCTI: Banjir bandang, 8 rumah di Temanggung, Jawa Tengah, hanyut. #SindoSiang https://t.co/nEoKiUo2M4",
+  "tokens": [
+    "RT",
+    "@SindoRCTI:",
+    "Banjir",
+    "bandang",
+    ",",
+    "8",
+    "rumah",
+    "di",
+    "Temanggung",
+    ",",
+    "Jawa",
+    "Tengah",
+    ",",
+    "hanyut",
+    ".",
+    "#SindoSiang",
+    "https://t.co/nEoKiUo2M4"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@SindoRCTI:",
+      "startCharOffset": 3,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Banjir",
+      "startCharOffset": 15,
+      "endCharOffset": 21
+    },
+    {
+      "form": "bandang",
+      "startCharOffset": 22,
+      "endCharOffset": 29
+    },
+    {
+      "form": ",",
+      "startCharOffset": 29,
+      "endCharOffset": 30
+    },
+    {
+      "form": "8",
+      "startCharOffset": 31,
+      "endCharOffset": 32
+    },
+    {
+      "form": "rumah",
+      "startCharOffset": 33,
+      "endCharOffset": 38
+    },
+    {
+      "form": "di",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    },
+    {
+      "form": "Temanggung",
+      "startCharOffset": 42,
+      "endCharOffset": 52
+    },
+    {
+      "form": ",",
+      "startCharOffset": 52,
+      "endCharOffset": 53
+    },
+    {
+      "form": "Jawa",
+      "startCharOffset": 54,
+      "endCharOffset": 58
+    },
+    {
+      "form": "Tengah",
+      "startCharOffset": 59,
+      "endCharOffset": 65
+    },
+    {
+      "form": ",",
+      "startCharOffset": 65,
+      "endCharOffset": 66
+    },
+    {
+      "form": "hanyut",
+      "startCharOffset": 67,
+      "endCharOffset": 73
+    },
+    {
+      "form": ".",
+      "startCharOffset": 73,
+      "endCharOffset": 74
+    },
+    {
+      "form": "#SindoSiang",
+      "startCharOffset": 75,
+      "endCharOffset": 86
+    },
+    {
+      "form": "https://t.co/nEoKiUo2M4",
+      "startCharOffset": 87,
+      "endCharOffset": 110
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "ROMANIZATION",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "ROMANIZATION",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "RT",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "@SindoRCTI:",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "Banjir",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "bandang",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "8",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "rumah",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "di",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "Temanggung",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "Jawa",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "Tengah",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": ",",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "hanyut",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": ".",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "#SindoSiang",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "https://t.co/nEoKiUo2M4",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "SENTENCE",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "SENTENCE",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "SENTENCE",
+              "score": 1.0,
+              "start": 0,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
