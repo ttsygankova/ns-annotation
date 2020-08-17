@@ -11,7 +11,8 @@ In low-resource natural language processing (NLP), the key problem is a lack of 
 * Python 3.7
 * numpy
 * [CogComp-NLPy](https://github.com/CogComp/cogcomp-nlpy)
-* [AllenNLP](https://github.com/allenai/allennlp)
+* [AllenNLP](https://github.com/allenai/allennlp) 0.8.4
+* [scikit-learn](https://scikit-learn.org/stable/) 0.22.2 
 
 ### Data
 Non-speaker (NS) and fluent speaker (FS) manual annotations are provided in the `data/` folder, for each of the three languages used (Indonesian, Russian, Hindi). The `NS-not-empty` directory only contains pre-processed documents that have annotations in them, while the `NS` and `FS` directories may contain documents that annotators were unable to find any annotations in, and hence, are more representitive of the experimental results. 
@@ -25,7 +26,7 @@ pip install ccg_nlpy
 The `dev` and `test` sets for each use annotated data from [LORELEI Language Packs](https://www.aclweb.org/anthology/L16-1521/), based on a manual split by the authors. 
 
 ### Training NER models using [AllenNLP](https://github.com/allenai/allennlp)
-We train NER models using the AllenNLP library, and datareaders from the CogComp `ccg` package to be compatible with the Text Annotation data format. Installation instructions for the allennlp virtual environment, library and dependencies are provided in their github repository above. 
+We train NER models using the AllenNLP library, and datareaders from the CogComp `ccg` package to be compatible with the Text Annotation data format. Installation instructions for the allennlp virtual environment, library and dependencies are provided in their github repository above. Note that this code has been tested using allennlp version 0.8.4, so you can install this version directly should any errors with the `ccg` package occur.
 
 In order to run the sample script for model training, navigate to the `allennlp` folder and run:
 ```
